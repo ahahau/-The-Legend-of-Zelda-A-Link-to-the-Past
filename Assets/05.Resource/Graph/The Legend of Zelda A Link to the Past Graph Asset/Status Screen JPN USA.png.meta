@@ -1,0 +1,6123 @@
+fileFormatVersion: 2
+guid: 68d1dbdeaa94eda469b9c6479c34355e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5185552743495916119
+    second: Status Screen JPN USA_0
+  - first:
+      213: 8698533461149405747
+    second: Status Screen JPN USA_1
+  - first:
+      213: 8633521111534139859
+    second: Status Screen JPN USA_2
+  - first:
+      213: 4236078304288557185
+    second: Status Screen JPN USA_3
+  - first:
+      213: 582615550300154192
+    second: Status Screen JPN USA_4
+  - first:
+      213: -1925230636410113613
+    second: Status Screen JPN USA_5
+  - first:
+      213: -5881240681203510360
+    second: Status Screen JPN USA_6
+  - first:
+      213: -4241215135581548865
+    second: Status Screen JPN USA_7
+  - first:
+      213: -7981795241651081788
+    second: Status Screen JPN USA_8
+  - first:
+      213: 5872616515320208137
+    second: Status Screen JPN USA_9
+  - first:
+      213: 4548353381538312790
+    second: Status Screen JPN USA_10
+  - first:
+      213: 3873203321114568027
+    second: Status Screen JPN USA_11
+  - first:
+      213: 377996029279849456
+    second: Status Screen JPN USA_12
+  - first:
+      213: 8855799243389378550
+    second: Status Screen JPN USA_13
+  - first:
+      213: -4280319000624901547
+    second: Status Screen JPN USA_14
+  - first:
+      213: -6860278444195074381
+    second: Status Screen JPN USA_15
+  - first:
+      213: 8798371176775860458
+    second: Status Screen JPN USA_16
+  - first:
+      213: -9207461215240499308
+    second: Status Screen JPN USA_17
+  - first:
+      213: -2631769467979248125
+    second: Status Screen JPN USA_18
+  - first:
+      213: -8853399761675824261
+    second: Status Screen JPN USA_19
+  - first:
+      213: -1725643305937886622
+    second: Status Screen JPN USA_20
+  - first:
+      213: 6064175293463685838
+    second: Status Screen JPN USA_21
+  - first:
+      213: -2977315826433753601
+    second: Status Screen JPN USA_22
+  - first:
+      213: 5106295501792053045
+    second: Status Screen JPN USA_23
+  - first:
+      213: -3563997678456148876
+    second: Status Screen JPN USA_24
+  - first:
+      213: 1897169352025229896
+    second: Status Screen JPN USA_25
+  - first:
+      213: -4792480570931007378
+    second: Status Screen JPN USA_26
+  - first:
+      213: -2748546026328299845
+    second: Status Screen JPN USA_27
+  - first:
+      213: 948575999121912466
+    second: Status Screen JPN USA_28
+  - first:
+      213: 5052201664354363171
+    second: Status Screen JPN USA_29
+  - first:
+      213: 2717482637002997989
+    second: Status Screen JPN USA_30
+  - first:
+      213: -682063466746409528
+    second: Status Screen JPN USA_31
+  - first:
+      213: -3017116675527724902
+    second: Status Screen JPN USA_32
+  - first:
+      213: -7081510912693813318
+    second: Status Screen JPN USA_33
+  - first:
+      213: 5782371722532643191
+    second: Status Screen JPN USA_34
+  - first:
+      213: -5835804669528314826
+    second: Status Screen JPN USA_35
+  - first:
+      213: 7584926642603342758
+    second: Status Screen JPN USA_36
+  - first:
+      213: -4294595534714773358
+    second: Status Screen JPN USA_37
+  - first:
+      213: 3762529385595643680
+    second: Status Screen JPN USA_38
+  - first:
+      213: -756522235396586558
+    second: Status Screen JPN USA_39
+  - first:
+      213: -6635580491651825626
+    second: Status Screen JPN USA_40
+  - first:
+      213: 2992611622574646695
+    second: Status Screen JPN USA_41
+  - first:
+      213: -2910260101547081633
+    second: Status Screen JPN USA_42
+  - first:
+      213: 2708068702855984124
+    second: Status Screen JPN USA_43
+  - first:
+      213: 8428495261526284088
+    second: Status Screen JPN USA_44
+  - first:
+      213: 1312846031190267549
+    second: Status Screen JPN USA_45
+  - first:
+      213: -627609379659447603
+    second: Status Screen JPN USA_46
+  - first:
+      213: 5498885016984039222
+    second: Status Screen JPN USA_47
+  - first:
+      213: 8540619813190899228
+    second: Status Screen JPN USA_48
+  - first:
+      213: 3797780756506030430
+    second: Status Screen JPN USA_49
+  - first:
+      213: -8985830990432914129
+    second: Status Screen JPN USA_50
+  - first:
+      213: 2303809828616521533
+    second: Status Screen JPN USA_51
+  - first:
+      213: 3022664373407666700
+    second: Status Screen JPN USA_52
+  - first:
+      213: 7261322786050900974
+    second: Status Screen JPN USA_53
+  - first:
+      213: -5815350231758856678
+    second: Status Screen JPN USA_54
+  - first:
+      213: -8470705206893913933
+    second: Status Screen JPN USA_55
+  - first:
+      213: -2051751560925234493
+    second: Status Screen JPN USA_56
+  - first:
+      213: 641613328625025497
+    second: Status Screen JPN USA_57
+  - first:
+      213: -4504016712999010383
+    second: Status Screen JPN USA_58
+  - first:
+      213: -3569657937974184312
+    second: Status Screen JPN USA_59
+  - first:
+      213: -7154641777719426210
+    second: Status Screen JPN USA_60
+  - first:
+      213: 6943188164747504106
+    second: Status Screen JPN USA_61
+  - first:
+      213: 7453993314384704622
+    second: Status Screen JPN USA_62
+  - first:
+      213: 4325466951259707843
+    second: Status Screen JPN USA_63
+  - first:
+      213: -3785863072682089417
+    second: Status Screen JPN USA_64
+  - first:
+      213: 8161941599170476394
+    second: Status Screen JPN USA_65
+  - first:
+      213: 3694964331658993552
+    second: Status Screen JPN USA_66
+  - first:
+      213: 7003947882965563914
+    second: Status Screen JPN USA_67
+  - first:
+      213: -7900241136330264425
+    second: Status Screen JPN USA_68
+  - first:
+      213: -2849770933454076050
+    second: Status Screen JPN USA_69
+  - first:
+      213: -5557199123623789176
+    second: Status Screen JPN USA_70
+  - first:
+      213: -6121857102259673508
+    second: Status Screen JPN USA_71
+  - first:
+      213: 227131402593040274
+    second: Status Screen JPN USA_72
+  - first:
+      213: 2307428205524215378
+    second: Status Screen JPN USA_73
+  - first:
+      213: 3553732197578169155
+    second: Status Screen JPN USA_74
+  - first:
+      213: 1429037839280576558
+    second: Status Screen JPN USA_75
+  - first:
+      213: 7461574982417403231
+    second: Status Screen JPN USA_76
+  - first:
+      213: -884117889446803779
+    second: Status Screen JPN USA_77
+  - first:
+      213: 8216003093344385272
+    second: Status Screen JPN USA_78
+  - first:
+      213: -2159300151891953481
+    second: Status Screen JPN USA_79
+  - first:
+      213: -428444478207558809
+    second: Status Screen JPN USA_80
+  - first:
+      213: -7200673796887738634
+    second: Status Screen JPN USA_81
+  - first:
+      213: -5760866105092780921
+    second: Status Screen JPN USA_82
+  - first:
+      213: 3866313661278946579
+    second: Status Screen JPN USA_83
+  - first:
+      213: -7463531066022788386
+    second: Status Screen JPN USA_84
+  - first:
+      213: -6519680920618602034
+    second: Status Screen JPN USA_85
+  - first:
+      213: -7820473611351714329
+    second: Status Screen JPN USA_86
+  - first:
+      213: 2963835416916549797
+    second: Status Screen JPN USA_87
+  - first:
+      213: -125333568002165961
+    second: Status Screen JPN USA_88
+  - first:
+      213: -3173755383811521329
+    second: Status Screen JPN USA_89
+  - first:
+      213: -981030752487187724
+    second: Status Screen JPN USA_90
+  - first:
+      213: 5434276233632475804
+    second: Status Screen JPN USA_91
+  - first:
+      213: -4099386000160088312
+    second: Status Screen JPN USA_92
+  - first:
+      213: -1074099768414387352
+    second: Status Screen JPN USA_93
+  - first:
+      213: -1692891715339253736
+    second: Status Screen JPN USA_94
+  - first:
+      213: 5829673484919733210
+    second: Status Screen JPN USA_95
+  - first:
+      213: 6910681762753795716
+    second: Status Screen JPN USA_96
+  - first:
+      213: 5434482532727851534
+    second: Status Screen JPN USA_97
+  - first:
+      213: -8952059994583186610
+    second: Status Screen JPN USA_98
+  - first:
+      213: 1089631038592759916
+    second: Status Screen JPN USA_99
+  - first:
+      213: 797652195209463581
+    second: Status Screen JPN USA_100
+  - first:
+      213: -6775925491549810040
+    second: Status Screen JPN USA_101
+  - first:
+      213: -1350724212841090943
+    second: Status Screen JPN USA_102
+  - first:
+      213: -1983227894297550442
+    second: Status Screen JPN USA_103
+  - first:
+      213: -3697107446611758064
+    second: Status Screen JPN USA_104
+  - first:
+      213: 7005535135820979820
+    second: Status Screen JPN USA_105
+  - first:
+      213: 1416044164436108813
+    second: Status Screen JPN USA_106
+  - first:
+      213: -7378348581824038278
+    second: Status Screen JPN USA_107
+  - first:
+      213: 322381889437981181
+    second: Status Screen JPN USA_108
+  - first:
+      213: 4493223287881082454
+    second: Status Screen JPN USA_109
+  - first:
+      213: -908616993230606203
+    second: Status Screen JPN USA_110
+  - first:
+      213: -3451372403536366300
+    second: Status Screen JPN USA_111
+  - first:
+      213: 8021352511961391098
+    second: Status Screen JPN USA_112
+  - first:
+      213: -8064699425058788964
+    second: Status Screen JPN USA_113
+  - first:
+      213: 4385084603845056111
+    second: Status Screen JPN USA_114
+  - first:
+      213: 7441282744004236712
+    second: Status Screen JPN USA_115
+  - first:
+      213: -787895626803647779
+    second: Status Screen JPN USA_116
+  - first:
+      213: 1295446634133225754
+    second: Status Screen JPN USA_117
+  - first:
+      213: -2812900999074997686
+    second: Status Screen JPN USA_118
+  - first:
+      213: -7324268216246130294
+    second: Status Screen JPN USA_119
+  - first:
+      213: 4442437750125264298
+    second: Status Screen JPN USA_120
+  - first:
+      213: -7191267137915026128
+    second: Status Screen JPN USA_121
+  - first:
+      213: 1895794512489608554
+    second: Status Screen JPN USA_122
+  - first:
+      213: -7478221330278472695
+    second: Status Screen JPN USA_123
+  - first:
+      213: -6224428929186630039
+    second: Status Screen JPN USA_124
+  - first:
+      213: -3011545721833156049
+    second: Status Screen JPN USA_125
+  - first:
+      213: -8245252902292155302
+    second: Status Screen JPN USA_126
+  - first:
+      213: -3869420536012033921
+    second: Status Screen JPN USA_127
+  - first:
+      213: -263768190367516789
+    second: Status Screen JPN USA_128
+  - first:
+      213: 6302123010305795894
+    second: Status Screen JPN USA_129
+  - first:
+      213: 5331402221288961423
+    second: Status Screen JPN USA_130
+  - first:
+      213: 9039616197881914928
+    second: Status Screen JPN USA_131
+  - first:
+      213: -2085569567947893080
+    second: Status Screen JPN USA_132
+  - first:
+      213: -1061484306426474468
+    second: Status Screen JPN USA_133
+  - first:
+      213: -8785363662227603050
+    second: Status Screen JPN USA_134
+  - first:
+      213: -8595823551283319683
+    second: Status Screen JPN USA_135
+  - first:
+      213: 2567853246775991668
+    second: Status Screen JPN USA_136
+  - first:
+      213: 7927316562377534603
+    second: Status Screen JPN USA_137
+  - first:
+      213: -4337562855649057731
+    second: Status Screen JPN USA_138
+  - first:
+      213: -4237705799315793582
+    second: Status Screen JPN USA_139
+  - first:
+      213: -4523049616613591397
+    second: Status Screen JPN USA_140
+  - first:
+      213: -5492642333852756691
+    second: Status Screen JPN USA_141
+  - first:
+      213: -771086338183998832
+    second: Status Screen JPN USA_142
+  - first:
+      213: -4095689738952027734
+    second: Status Screen JPN USA_143
+  - first:
+      213: -541625045645790067
+    second: Status Screen JPN USA_144
+  - first:
+      213: 7302552098754693518
+    second: Status Screen JPN USA_145
+  - first:
+      213: 5895091990736120242
+    second: Status Screen JPN USA_146
+  - first:
+      213: -2236111109056314359
+    second: Status Screen JPN USA_147
+  - first:
+      213: -7852731761488899788
+    second: Status Screen JPN USA_148
+  - first:
+      213: 3873879365181795773
+    second: Status Screen JPN USA_149
+  - first:
+      213: 2607679179854082238
+    second: Status Screen JPN USA_150
+  - first:
+      213: 4530375149727288512
+    second: Status Screen JPN USA_151
+  - first:
+      213: 2560235735321400556
+    second: Status Screen JPN USA_152
+  - first:
+      213: 319521354796251566
+    second: Status Screen JPN USA_153
+  - first:
+      213: -7092057404269872962
+    second: Status Screen JPN USA_154
+  - first:
+      213: -2601102664036657950
+    second: Status Screen JPN USA_155
+  - first:
+      213: 6194764157564632745
+    second: Status Screen JPN USA_156
+  - first:
+      213: -8585510320823707748
+    second: Status Screen JPN USA_157
+  - first:
+      213: 3462214385971007512
+    second: Status Screen JPN USA_158
+  - first:
+      213: -3180769718075252772
+    second: Status Screen JPN USA_159
+  - first:
+      213: 8536151909153267696
+    second: Status Screen JPN USA_160
+  - first:
+      213: 2070596176729407371
+    second: Status Screen JPN USA_161
+  - first:
+      213: 2368693651893384976
+    second: Status Screen JPN USA_162
+  - first:
+      213: -1566892906238586928
+    second: Status Screen JPN USA_163
+  - first:
+      213: 1605678491882331733
+    second: Status Screen JPN USA_164
+  - first:
+      213: 4960184984090800736
+    second: Status Screen JPN USA_165
+  - first:
+      213: 6441395667058077995
+    second: Status Screen JPN USA_166
+  - first:
+      213: -5560755511216249374
+    second: Status Screen JPN USA_167
+  - first:
+      213: 1660491119259174560
+    second: Status Screen JPN USA_168
+  - first:
+      213: 6564053745282861040
+    second: Status Screen JPN USA_169
+  - first:
+      213: 7963712470327593855
+    second: Status Screen JPN USA_170
+  - first:
+      213: 5489091329999530857
+    second: Status Screen JPN USA_171
+  - first:
+      213: 8265510764856296871
+    second: Status Screen JPN USA_172
+  - first:
+      213: 1215414846855259813
+    second: Status Screen JPN USA_173
+  - first:
+      213: 5611998465712834145
+    second: Status Screen JPN USA_174
+  - first:
+      213: -8611849090756888322
+    second: Status Screen JPN USA_175
+  - first:
+      213: 6324844970129140378
+    second: Status Screen JPN USA_176
+  - first:
+      213: -4306084723615601801
+    second: Status Screen JPN USA_177
+  - first:
+      213: 5676435903887457047
+    second: Status Screen JPN USA_178
+  - first:
+      213: -9168796117316781955
+    second: Status Screen JPN USA_179
+  - first:
+      213: -2081158923702817073
+    second: Status Screen JPN USA_180
+  - first:
+      213: 7606824792085985045
+    second: Status Screen JPN USA_181
+  - first:
+      213: -3809454016401039241
+    second: Status Screen JPN USA_182
+  - first:
+      213: -1821144428101188755
+    second: Status Screen JPN USA_183
+  - first:
+      213: -4882013016108581140
+    second: Status Screen JPN USA_184
+  - first:
+      213: 958760869875920361
+    second: Status Screen JPN USA_185
+  - first:
+      213: -1491325185987466778
+    second: Status Screen JPN USA_186
+  - first:
+      213: 3613232873249321562
+    second: Status Screen JPN USA_187
+  - first:
+      213: 7413110228307436272
+    second: Status Screen JPN USA_188
+  - first:
+      213: 2578775500279674914
+    second: Status Screen JPN USA_189
+  - first:
+      213: 1821158456997701354
+    second: Status Screen JPN USA_190
+  - first:
+      213: 1324721080704114100
+    second: Status Screen JPN USA_191
+  - first:
+      213: -4723300960381612275
+    second: Status Screen JPN USA_192
+  - first:
+      213: 4667918058713814866
+    second: Status Screen JPN USA_193
+  - first:
+      213: 993319571332881165
+    second: Status Screen JPN USA_194
+  - first:
+      213: -178496694589964582
+    second: Status Screen JPN USA_195
+  - first:
+      213: -8117681967176363555
+    second: Status Screen JPN USA_196
+  - first:
+      213: -6935510166445237754
+    second: Status Screen JPN USA_197
+  - first:
+      213: -2592760157225627692
+    second: Status Screen JPN USA_198
+  - first:
+      213: -7865450404138040282
+    second: Status Screen JPN USA_199
+  - first:
+      213: 8239801413792898922
+    second: Status Screen JPN USA_200
+  - first:
+      213: 5549688635463298038
+    second: Status Screen JPN USA_201
+  - first:
+      213: 3669645429119420470
+    second: Status Screen JPN USA_202
+  - first:
+      213: 3852991055418294654
+    second: Status Screen JPN USA_203
+  - first:
+      213: 7520346788035696922
+    second: Status Screen JPN USA_204
+  - first:
+      213: 6961791869683250548
+    second: Status Screen JPN USA_205
+  - first:
+      213: 5245237890761024060
+    second: Status Screen JPN USA_206
+  - first:
+      213: 4362569325405846497
+    second: Status Screen JPN USA_207
+  - first:
+      213: -1286248777775579146
+    second: Status Screen JPN USA_208
+  - first:
+      213: 4175822328243214952
+    second: Status Screen JPN USA_209
+  - first:
+      213: 1739635294408294348
+    second: Status Screen JPN USA_210
+  - first:
+      213: -2501885160274473432
+    second: Status Screen JPN USA_211
+  - first:
+      213: 2127413853276528352
+    second: Status Screen JPN USA_212
+  - first:
+      213: 1524566249111453810
+    second: Status Screen JPN USA_213
+  - first:
+      213: -5436896164948959985
+    second: Status Screen JPN USA_214
+  - first:
+      213: -8375732575522620049
+    second: Status Screen JPN USA_215
+  - first:
+      213: 1903897791010813475
+    second: Status Screen JPN USA_216
+  - first:
+      213: -3542174027895902630
+    second: Status Screen JPN USA_217
+  - first:
+      213: 8770151541461606017
+    second: Status Screen JPN USA_218
+  - first:
+      213: 1939304031336686992
+    second: Status Screen JPN USA_219
+  - first:
+      213: 1727231255940727934
+    second: Status Screen JPN USA_220
+  - first:
+      213: -5339676973646712353
+    second: Status Screen JPN USA_221
+  - first:
+      213: 8167907250330855857
+    second: Status Screen JPN USA_222
+  - first:
+      213: 2678846195849598667
+    second: Status Screen JPN USA_223
+  - first:
+      213: 3253125309274549884
+    second: Status Screen JPN USA_224
+  - first:
+      213: -8181242588224198007
+    second: Status Screen JPN USA_225
+  - first:
+      213: -985896234017409856
+    second: Status Screen JPN USA_226
+  - first:
+      213: 3851493528330321248
+    second: Status Screen JPN USA_227
+  - first:
+      213: 1793308880027416616
+    second: Status Screen JPN USA_228
+  - first:
+      213: 535534172338816583
+    second: Status Screen JPN USA_229
+  - first:
+      213: -4676097460097936432
+    second: Status Screen JPN USA_230
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Status Screen JPN USA_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 799
+        width: 258
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5afd701473908b0800000000000000
+      internalID: -5185552743495916119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_1
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 799
+        width: 258
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332d8aa981667b870800000000000000
+      internalID: 8698533461149405747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_2
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 655
+        width: 154
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9f3d565bd60d770800000000000000
+      internalID: 8633521111534139859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_3
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 639
+        width: 82
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188cbd726c299ca30800000000000000
+      internalID: 4236078304288557185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 719
+        width: 154
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059624491cdd51800800000000000000
+      internalID: 582615550300154192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_5
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 711
+        width: 82
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1731ebfe43845e0800000000000000
+      internalID: -1925230636410113613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_6
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 639
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3d946b2c2a16ea0800000000000000
+      internalID: -5881240681203510360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_7
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 639
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbec6ab1e4d2425c0800000000000000
+      internalID: -4241215135581548865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_8
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 671
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cdeb7f5487fa3190800000000000000
+      internalID: -7981795241651081788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_9
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 559
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90bd0c13b99bf7150800000000000000
+      internalID: 5872616515320208137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_10
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 559
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652b9836d4ffe1f30800000000000000
+      internalID: 4548353381538312790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_11
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 607
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55a5e146e160c530800000000000000
+      internalID: 3873203321114568027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_12
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 607
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fbcbbbc269ee3500800000000000000
+      internalID: 377996029279849456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_13
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 607
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff9568ed7e16ea70800000000000000
+      internalID: 8855799243389378550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_14
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 607
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552d56a0c804994c0800000000000000
+      internalID: -4280319000624901547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_15
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 607
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3beab713a156bc0a0800000000000000
+      internalID: -6860278444195074381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_16
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 607
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0c2c138f71a1a70800000000000000
+      internalID: 8798371176775860458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_17
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 607
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f4766dec6883080800000000000000
+      internalID: -9207461215240499308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_18
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 607
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ec062dc931a7bd0800000000000000
+      internalID: -2631769467979248125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_19
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 583
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b73d8c6f2d7622580800000000000000
+      internalID: -8853399761675824261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_20
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 583
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262aa8c5e884d08e0800000000000000
+      internalID: -1725643305937886622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_21
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 583
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca6a9ecc47482450800000000000000
+      internalID: 6064175293463685838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_22
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 584
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd7445c7037ea6d0800000000000000
+      internalID: -2977315826433753601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_23
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 583
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5378d7e54b43dd640800000000000000
+      internalID: 5106295501792053045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_24
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 583
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ced4b8ef22a8ec0800000000000000
+      internalID: -3563997678456148876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_25
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 583
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ac83a5979145a10800000000000000
+      internalID: 1897169352025229896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_26
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 583
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6032b8ff40bd7db0800000000000000
+      internalID: -4792480570931007378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_27
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 559
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6e3e393f33bd9d0800000000000000
+      internalID: -2748546026328299845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_28
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 559
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2927f1e68d40a2d00800000000000000
+      internalID: 948575999121912466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_29
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 559
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327aa7165a60d1640800000000000000
+      internalID: 5052201664354363171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_30
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 559
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e00bdd7f0076b520800000000000000
+      internalID: 2717482637002997989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_31
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 559
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd0f4604e2d886f0800000000000000
+      internalID: -682063466746409528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_32
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 559
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9033457e5c0126d0800000000000000
+      internalID: -3017116675527724902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_33
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 559
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf35d7285b69bd90800000000000000
+      internalID: -7081510912693813318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_34
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 559
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77162d0027c1f3050800000000000000
+      internalID: 5782371722532643191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_35
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 479
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ce23e829e030fa0800000000000000
+      internalID: -5835804669528314826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_36
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 479
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6abb4c34892134960800000000000000
+      internalID: 7584926642603342758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_37
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 535
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290e85b6d188664c0800000000000000
+      internalID: -4294595534714773358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_38
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 535
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027a56d9a80373430800000000000000
+      internalID: 3762529385595643680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_39
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 535
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3808ef80b4085f0800000000000000
+      internalID: -756522235396586558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_40
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 535
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620c49c13bea9e3a0800000000000000
+      internalID: -6635580491651825626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_41
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 535
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5644a4a64e78920800000000000000
+      internalID: 2992611622574646695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_42
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 535
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f504b4b5bddac97d0800000000000000
+      internalID: -2910260101547081633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_43
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 535
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf37515232ef49520800000000000000
+      internalID: 2708068702855984124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_44
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 535
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8375656c8c708f470800000000000000
+      internalID: 8428495261526284088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_45
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 511
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9690e5728a283210800000000000000
+      internalID: 1312846031190267549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_46
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 511
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc202bb28984a47f0800000000000000
+      internalID: -627609379659447603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_47
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 511
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f2d02e9c6ff4c40800000000000000
+      internalID: 5498885016984039222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_48
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 511
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1618ee4870668670800000000000000
+      internalID: 8540619813190899228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_49
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 511
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e513b5ef97d64b430800000000000000
+      internalID: 3797780756506030430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_50
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 511
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25bc8bb25aeb4380800000000000000
+      internalID: -8985830990432914129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_51
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 511
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37cdb045d6c8ff10800000000000000
+      internalID: 2303809828616521533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_52
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 511
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c02513c9b39a2f920800000000000000
+      internalID: 3022664373407666700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_53
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 487
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3830e0a9665c460800000000000000
+      internalID: 7261322786050900974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_54
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 487
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e178776c9bb4fa0800000000000000
+      internalID: -5815350231758856678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_55
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 487
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8590a7e72027a80800000000000000
+      internalID: -8470705206893913933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_56
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 487
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cab2b373d6b683e0800000000000000
+      internalID: -2051751560925234493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_57
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 487
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1c9d74ce777e800800000000000000
+      internalID: 641613328625025497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_58
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 487
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf754fa9a48e71c0800000000000000
+      internalID: -4504016712999010383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_59
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 487
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886356da407067ec0800000000000000
+      internalID: -3569657937974184312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_60
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 455
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e534dd7c53b95bc90800000000000000
+      internalID: -7154641777719426210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_61
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 455
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9a87869d82b5060800000000000000
+      internalID: 6943188164747504106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_62
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 455
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64790e2d67e17760800000000000000
+      internalID: 7453993314384704622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_63
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 455
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9d68d5645270c30800000000000000
+      internalID: 4325466951259707843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_64
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 455
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734e3800899e57bc0800000000000000
+      internalID: -3785863072682089417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_65
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 431
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a693a0004aa054170800000000000000
+      internalID: 8161941599170476394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_66
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 431
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09fd54e9b76274330800000000000000
+      internalID: 3694964331658993552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_67
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 431
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0af285bd75033160800000000000000
+      internalID: 7003947882965563914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_68
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 431
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7903b153b84bc5290800000000000000
+      internalID: -7900241136330264425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_69
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 431
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e678c3c4f649378d0800000000000000
+      internalID: -2849770933454076050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_70
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 407
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88dba4227dcd0e2b0800000000000000
+      internalID: -5557199123623789176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_71
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 407
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c562c16866bca0ba0800000000000000
+      internalID: -6121857102259673508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_72
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 407
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297f4e8aecee62300800000000000000
+      internalID: 227131402593040274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_73
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 407
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256ecf64ab1a50020800000000000000
+      internalID: 2307428205524215378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_74
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 407
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34bd38fea94615130800000000000000
+      internalID: 3553732197578169155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_75
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 383
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2819ece756f4d310800000000000000
+      internalID: 1429037839280576558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_76
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 383
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d4ee3d9e6dc8760800000000000000
+      internalID: 7461574982417403231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_77
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 383
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db684fbb67bfab3f0800000000000000
+      internalID: -884117889446803779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_78
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 383
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f87d4c784b150270800000000000000
+      internalID: 8216003093344385272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_79
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 383
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8780bc3ff9802e0800000000000000
+      internalID: -2159300151891953481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_80
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 359
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76bf57e540cdd0af0800000000000000
+      internalID: -428444478207558809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_81
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 359
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f60b012551121c90800000000000000
+      internalID: -7200673796887738634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_82
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 359
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c4b5fbcca4d00b0800000000000000
+      internalID: -5760866105092780921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_83
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 359
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31585c25ac7e7a530800000000000000
+      internalID: 3866313661278946579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_84
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 359
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed28e97f9063c6890800000000000000
+      internalID: -7463531066022788386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_85
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 335
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1f2a5deb07585a0800000000000000
+      internalID: -6519680920618602034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_86
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 335
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e590146fa8187390800000000000000
+      internalID: -7820473611351714329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_87
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 335
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0680ecb98a12920800000000000000
+      internalID: 2963835416916549797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_88
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 335
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7337cc0b8c9b24ef0800000000000000
+      internalID: -125333568002165961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_89
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 335
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc44eef2b4e84f3d0800000000000000
+      internalID: -3173755383811521329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_90
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 311
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa54447abda262f0800000000000000
+      internalID: -981030752487187724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_91
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 311
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ae205417d6a6b40800000000000000
+      internalID: 5434276233632475804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_92
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 311
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f9f3ff62e0c17c0800000000000000
+      internalID: -4099386000160088312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_93
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 311
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863c45293f70811f0800000000000000
+      internalID: -1074099768414387352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_94
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 311
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818800844f3a188e0800000000000000
+      internalID: -1692891715339253736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_95
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 287
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb7729c52927e050800000000000000
+      internalID: 5829673484919733210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_96
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 287
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486d5b8e27ca7ef50800000000000000
+      internalID: 6910681762753795716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_97
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 287
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a0f4502192b6b40800000000000000
+      internalID: 5434482532727851534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_98
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 287
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4342ee6dd4e3c380800000000000000
+      internalID: -8952059994583186610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_99
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 287
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68bf8f08a52f1f00800000000000000
+      internalID: 1089631038592759916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_100
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 263
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1745c50274d11b00800000000000000
+      internalID: 797652195209463581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_101
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 263
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882d8a37aa317f1a0800000000000000
+      internalID: -6775925491549810040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_102
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 263
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18076102c73414de0800000000000000
+      internalID: -1350724212841090943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_103
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 263
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691afbbdcb82a74e0800000000000000
+      internalID: -1983227894297550442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_104
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 263
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014314c8d5c31bcc0800000000000000
+      internalID: -3697107446611758064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_105
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 239
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e9020d619a83160800000000000000
+      internalID: 7005535135820979820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_106
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 239
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06aa7f3aacc6a310800000000000000
+      internalID: 1416044164436108813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_107
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 239
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7afe579e07da9990800000000000000
+      internalID: -7378348581824038278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_108
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 239
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df958f1de94597400800000000000000
+      internalID: 322381889437981181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_109
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 239
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6562aa236c22b5e30800000000000000
+      internalID: 4493223287881082454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_110
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 215
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5803b91a8a1f363f0800000000000000
+      internalID: -908616993230606203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_111
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 215
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425f0abc5134a10d0800000000000000
+      internalID: -3451372403536366300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_112
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 215
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff55a55c91915f60800000000000000
+      internalID: 8021352511961391098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_113
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 215
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99e21df99e641090800000000000000
+      internalID: -8064699425058788964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_114
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 215
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66183ac633fadc30800000000000000
+      internalID: 4385084603845056111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_115
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 191
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5dd95ea3fb44760800000000000000
+      internalID: 7441282744004236712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_116
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 191
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddae8441a15d015f0800000000000000
+      internalID: -787895626803647779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_117
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 191
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a118cf4a9d95af110800000000000000
+      internalID: 1295446634133225754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_118
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 191
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a1bc9d17196f8d0800000000000000
+      internalID: -2812900999074997686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_119
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 191
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8927faecd8fa5a90800000000000000
+      internalID: -7324268216246130294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_120
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 167
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad7001c895b6ad30800000000000000
+      internalID: 4442437750125264298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_121
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 167
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03582a793ac733c90800000000000000
+      internalID: -7191267137915026128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_122
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 167
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65f31490173f4a10800000000000000
+      internalID: 1895794512489608554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_123
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 167
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904a0094255083890800000000000000
+      internalID: -7478221330278472695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_124
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 167
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9667a2a0ed26e99a0800000000000000
+      internalID: -6224428929186630039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_125
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 143
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2299413f17d436d0800000000000000
+      internalID: -3011545721833156049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_126
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 143
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a541e9bab2af29d80800000000000000
+      internalID: -8245252902292155302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_127
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 143
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70b668068e0d4ac0800000000000000
+      internalID: -3869420536012033921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_128
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 143
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87b8167a38e65cf0800000000000000
+      internalID: -263768190367516789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_129
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 143
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637a710ec73a57750800000000000000
+      internalID: 6302123010305795894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_130
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 119
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8538a2c212fcf940800000000000000
+      internalID: 5331402221288961423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_131
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 119
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0366e9cb90b237d70800000000000000
+      internalID: 9039616197881914928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_132
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 119
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6d91c17819e03e0800000000000000
+      internalID: -2085569567947893080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_133
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 119
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c105cc4b5a9d441f0800000000000000
+      internalID: -1061484306426474468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_134
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 119
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6918c4acb4e141680800000000000000
+      internalID: -8785363662227603050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_135
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 95
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c22d1d50085b880800000000000000
+      internalID: -8595823551283319683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_136
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 95
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d9a614ce8d2a320800000000000000
+      internalID: 2567853246775991668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_137
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 95
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c659aa96c730e60800000000000000
+      internalID: 7927316562377534603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_138
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 95
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34eb1e6091edc3c0800000000000000
+      internalID: -4337562855649057731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_139
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 95
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2595b212705a035c0800000000000000
+      internalID: -4237705799315793582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_140
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 95
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b96b74c7656ea31c0800000000000000
+      internalID: -4523049616613591397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_141
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 71
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d251f6c06e636c3b0800000000000000
+      internalID: -5492642333852756691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_142
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 71
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092d2619f0d8c45f0800000000000000
+      internalID: -771086338183998832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_143
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 71
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa15d8fd1ef2927c0800000000000000
+      internalID: -4095689738952027734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_144
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 71
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84f3d004e2cb78f0800000000000000
+      internalID: -541625045645790067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_145
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 71
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e898e087170e75560800000000000000
+      internalID: 7302552098754693518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_146
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 71
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9a31a9ee29fc150800000000000000
+      internalID: 5895091990736120242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_147
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 47
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904c4623bccb7f0e0800000000000000
+      internalID: -2236111109056314359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_148
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 47
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431d608811e750390800000000000000
+      internalID: -7852731761488899788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_149
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 47
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd606802c8c2c530800000000000000
+      internalID: 3873879365181795773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_150
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 47
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb07263e566503420800000000000000
+      internalID: 2607679179854082238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_151
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 47
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc80ca12302fde30800000000000000
+      internalID: 4530375149727288512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_152
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 47
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4d71926d8c78320800000000000000
+      internalID: 2560235735321400556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_153
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea938c2bafa2f6400800000000000000
+      internalID: 319521354796251566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_154
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8b0dbbd53f39d90800000000000000
+      internalID: -7092057404269872962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_155
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4d5c588e607ebd0800000000000000
+      internalID: -2601102664036657950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_156
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae36f61e2938f550800000000000000
+      internalID: 6194764157564632745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_157
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c975ad7e9d32ad880800000000000000
+      internalID: -8585510320823707748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_158
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8109c04f3a14c0030800000000000000
+      internalID: 3462214385971007512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_159
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf1ec93bc2abd3d0800000000000000
+      internalID: -3180769718075252772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_160
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff5ad55fe0867670800000000000000
+      internalID: 8536151909153267696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_161
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ffc33904c3cbc10800000000000000
+      internalID: 2070596176729407371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_162
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017f3d6935a4fd020800000000000000
+      internalID: 2368693651893384976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_163
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dfc19a1437414ae0800000000000000
+      internalID: -1566892906238586928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_164
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e9124c414884610800000000000000
+      internalID: 1605678491882331733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_165
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06275fc76fd16d440800000000000000
+      internalID: 4960184984090800736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_166
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21bcb03b3f646950800000000000000
+      internalID: 6441395667058077995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_167
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5e82f135a34d2b0800000000000000
+      internalID: -5560755511216249374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_168
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a6422410ef3b0710800000000000000
+      internalID: 1660491119259174560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_169
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7482e7a14381b50800000000000000
+      internalID: 6564053745282861040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_170
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b89375c4ac48e60800000000000000
+      internalID: 7963712470327593855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_171
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b6c407b7b2d2c40800000000000000
+      internalID: 5489091329999530857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_172
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a54d628f3ef4b270800000000000000
+      internalID: 8265510764856296871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_173
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a62b891d550ed010800000000000000
+      internalID: 1215414846855259813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_174
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166c9d4fed2d1ed40800000000000000
+      internalID: 5611998465712834145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_175
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef83a2621e09c7880800000000000000
+      internalID: -8611849090756888322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_176
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9aa6f76dfc56c750800000000000000
+      internalID: 6324844970129140378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_177
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 31
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77be72c22c6bd34c0800000000000000
+      internalID: -4306084723615601801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_178
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b3c792160c6ce40800000000000000
+      internalID: 5676435903887457047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_179
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d783a597284e1c080800000000000000
+      internalID: -9168796117316781955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_180
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce2f8f3cfc3e13e0800000000000000
+      internalID: -2081158923702817073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_181
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5177be088ded09960800000000000000
+      internalID: 7606824792085985045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_182
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7702b3461c9122bc0800000000000000
+      internalID: -3809454016401039241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_183
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63c85e9acef9b6e0800000000000000
+      internalID: -1821144428101188755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_184
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 23
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceeb302270b9f3cb0800000000000000
+      internalID: -4882013016108581140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_185
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9edaf717ee33e4d00800000000000000
+      internalID: 958760869875920361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_186
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9af9c05afbd4be0800000000000000
+      internalID: -1491325185987466778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_187
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 31
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a523acc8728c42230800000000000000
+      internalID: 3613232873249321562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_188
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2641fe978a0e660800000000000000
+      internalID: 7413110228307436272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_189
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22876a197a6a9c320800000000000000
+      internalID: 2578775500279674914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_190
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6eb0db7fd064910800000000000000
+      internalID: 1821158456997701354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_191
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd17d1edca526210800000000000000
+      internalID: 1324721080704114100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_192
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f41393dc6737eb0800000000000000
+      internalID: -4723300960381612275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_193
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25794422eb6c7c040800000000000000
+      internalID: 4667918058713814866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_194
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b5db523eaf8cd00800000000000000
+      internalID: 993319571332881165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_195
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade3265b33ad58df0800000000000000
+      internalID: -178496694589964582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_196
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1dbda9243385f80800000000000000
+      internalID: -8117681967176363555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_197
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60adbe0ef3e10cf90800000000000000
+      internalID: -6935510166445237754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_198
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dfc7c0cf5aa40cd0800000000000000
+      internalID: -2592760157225627692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_199
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62446e6c78e48d290800000000000000
+      internalID: -7865450404138040282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_200
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f13e0cab7a95270800000000000000
+      internalID: 8239801413792898922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_201
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fbefc21964740d40800000000000000
+      internalID: 5549688635463298038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_202
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 15
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6388c4e33133de230800000000000000
+      internalID: 3669645429119420470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_203
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7107fc63f2987530800000000000000
+      internalID: 3852991055418294654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_204
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 15
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a191e982f83ad5860800000000000000
+      internalID: 7520346788035696922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_205
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4753ca002d04d9060800000000000000
+      internalID: 6961791869683250548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_206
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 15
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32ea393214dac840800000000000000
+      internalID: 5245237890761024060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_207
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ebb4d400b5fa8c30800000000000000
+      internalID: 4362569325405846497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_208
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 15
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fff7eb2d83562ee0800000000000000
+      internalID: -1286248777775579146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_209
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ad418784083f930800000000000000
+      internalID: 4175822328243214952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_210
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 15
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf30f1551d642810800000000000000
+      internalID: 1739635294408294348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_211
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ec409c3b4874dd0800000000000000
+      internalID: -2501885160274473432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_212
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 15
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eedac6c0a7168d10800000000000000
+      internalID: 2127413853276528352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_213
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27086d21de8582510800000000000000
+      internalID: 1524566249111453810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_214
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 15
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d988f6eb34c84b0800000000000000
+      internalID: -5436896164948959985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_215
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d7e4e599b63cb80800000000000000
+      internalID: -8375732575522620049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_216
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 15
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326b9d124f00c6a10800000000000000
+      internalID: 1903897791010813475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_217
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e66a62d7ba7dec0800000000000000
+      internalID: -3542174027895902630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_218
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 15
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ed9275c56d5b970800000000000000
+      internalID: 8770151541461606017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_219
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0956e4bddbac9ea10800000000000000
+      internalID: 1939304031336686992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_220
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e748c4f0dab58f710800000000000000
+      internalID: 1727231255940727934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_221
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd174725518a5e5b0800000000000000
+      internalID: -5339676973646712353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_222
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9ee466e5c3a5170800000000000000
+      internalID: 8167907250330855857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_223
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc695870c6c2d2520800000000000000
+      internalID: 2678846195849598667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_224
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e6425ab3c652d20800000000000000
+      internalID: 3253125309274549884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_225
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a699b4633667e80800000000000000
+      internalID: -8181242588224198007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_226
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c43ff149946152f0800000000000000
+      internalID: -985896234017409856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_227
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d38da35f0437530800000000000000
+      internalID: 3851493528330321248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_228
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828769eccec13e810800000000000000
+      internalID: 1793308880027416616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_229
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746865b0e799e6700800000000000000
+      internalID: 535534172338816583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen JPN USA_230
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d391c3922a2b1fb0800000000000000
+      internalID: -4676097460097936432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Status Screen JPN USA_0: -5185552743495916119
+      Status Screen JPN USA_1: 8698533461149405747
+      Status Screen JPN USA_10: 4548353381538312790
+      Status Screen JPN USA_100: 797652195209463581
+      Status Screen JPN USA_101: -6775925491549810040
+      Status Screen JPN USA_102: -1350724212841090943
+      Status Screen JPN USA_103: -1983227894297550442
+      Status Screen JPN USA_104: -3697107446611758064
+      Status Screen JPN USA_105: 7005535135820979820
+      Status Screen JPN USA_106: 1416044164436108813
+      Status Screen JPN USA_107: -7378348581824038278
+      Status Screen JPN USA_108: 322381889437981181
+      Status Screen JPN USA_109: 4493223287881082454
+      Status Screen JPN USA_11: 3873203321114568027
+      Status Screen JPN USA_110: -908616993230606203
+      Status Screen JPN USA_111: -3451372403536366300
+      Status Screen JPN USA_112: 8021352511961391098
+      Status Screen JPN USA_113: -8064699425058788964
+      Status Screen JPN USA_114: 4385084603845056111
+      Status Screen JPN USA_115: 7441282744004236712
+      Status Screen JPN USA_116: -787895626803647779
+      Status Screen JPN USA_117: 1295446634133225754
+      Status Screen JPN USA_118: -2812900999074997686
+      Status Screen JPN USA_119: -7324268216246130294
+      Status Screen JPN USA_12: 377996029279849456
+      Status Screen JPN USA_120: 4442437750125264298
+      Status Screen JPN USA_121: -7191267137915026128
+      Status Screen JPN USA_122: 1895794512489608554
+      Status Screen JPN USA_123: -7478221330278472695
+      Status Screen JPN USA_124: -6224428929186630039
+      Status Screen JPN USA_125: -3011545721833156049
+      Status Screen JPN USA_126: -8245252902292155302
+      Status Screen JPN USA_127: -3869420536012033921
+      Status Screen JPN USA_128: -263768190367516789
+      Status Screen JPN USA_129: 6302123010305795894
+      Status Screen JPN USA_13: 8855799243389378550
+      Status Screen JPN USA_130: 5331402221288961423
+      Status Screen JPN USA_131: 9039616197881914928
+      Status Screen JPN USA_132: -2085569567947893080
+      Status Screen JPN USA_133: -1061484306426474468
+      Status Screen JPN USA_134: -8785363662227603050
+      Status Screen JPN USA_135: -8595823551283319683
+      Status Screen JPN USA_136: 2567853246775991668
+      Status Screen JPN USA_137: 7927316562377534603
+      Status Screen JPN USA_138: -4337562855649057731
+      Status Screen JPN USA_139: -4237705799315793582
+      Status Screen JPN USA_14: -4280319000624901547
+      Status Screen JPN USA_140: -4523049616613591397
+      Status Screen JPN USA_141: -5492642333852756691
+      Status Screen JPN USA_142: -771086338183998832
+      Status Screen JPN USA_143: -4095689738952027734
+      Status Screen JPN USA_144: -541625045645790067
+      Status Screen JPN USA_145: 7302552098754693518
+      Status Screen JPN USA_146: 5895091990736120242
+      Status Screen JPN USA_147: -2236111109056314359
+      Status Screen JPN USA_148: -7852731761488899788
+      Status Screen JPN USA_149: 3873879365181795773
+      Status Screen JPN USA_15: -6860278444195074381
+      Status Screen JPN USA_150: 2607679179854082238
+      Status Screen JPN USA_151: 4530375149727288512
+      Status Screen JPN USA_152: 2560235735321400556
+      Status Screen JPN USA_153: 319521354796251566
+      Status Screen JPN USA_154: -7092057404269872962
+      Status Screen JPN USA_155: -2601102664036657950
+      Status Screen JPN USA_156: 6194764157564632745
+      Status Screen JPN USA_157: -8585510320823707748
+      Status Screen JPN USA_158: 3462214385971007512
+      Status Screen JPN USA_159: -3180769718075252772
+      Status Screen JPN USA_16: 8798371176775860458
+      Status Screen JPN USA_160: 8536151909153267696
+      Status Screen JPN USA_161: 2070596176729407371
+      Status Screen JPN USA_162: 2368693651893384976
+      Status Screen JPN USA_163: -1566892906238586928
+      Status Screen JPN USA_164: 1605678491882331733
+      Status Screen JPN USA_165: 4960184984090800736
+      Status Screen JPN USA_166: 6441395667058077995
+      Status Screen JPN USA_167: -5560755511216249374
+      Status Screen JPN USA_168: 1660491119259174560
+      Status Screen JPN USA_169: 6564053745282861040
+      Status Screen JPN USA_17: -9207461215240499308
+      Status Screen JPN USA_170: 7963712470327593855
+      Status Screen JPN USA_171: 5489091329999530857
+      Status Screen JPN USA_172: 8265510764856296871
+      Status Screen JPN USA_173: 1215414846855259813
+      Status Screen JPN USA_174: 5611998465712834145
+      Status Screen JPN USA_175: -8611849090756888322
+      Status Screen JPN USA_176: 6324844970129140378
+      Status Screen JPN USA_177: -4306084723615601801
+      Status Screen JPN USA_178: 5676435903887457047
+      Status Screen JPN USA_179: -9168796117316781955
+      Status Screen JPN USA_18: -2631769467979248125
+      Status Screen JPN USA_180: -2081158923702817073
+      Status Screen JPN USA_181: 7606824792085985045
+      Status Screen JPN USA_182: -3809454016401039241
+      Status Screen JPN USA_183: -1821144428101188755
+      Status Screen JPN USA_184: -4882013016108581140
+      Status Screen JPN USA_185: 958760869875920361
+      Status Screen JPN USA_186: -1491325185987466778
+      Status Screen JPN USA_187: 3613232873249321562
+      Status Screen JPN USA_188: 7413110228307436272
+      Status Screen JPN USA_189: 2578775500279674914
+      Status Screen JPN USA_19: -8853399761675824261
+      Status Screen JPN USA_190: 1821158456997701354
+      Status Screen JPN USA_191: 1324721080704114100
+      Status Screen JPN USA_192: -4723300960381612275
+      Status Screen JPN USA_193: 4667918058713814866
+      Status Screen JPN USA_194: 993319571332881165
+      Status Screen JPN USA_195: -178496694589964582
+      Status Screen JPN USA_196: -8117681967176363555
+      Status Screen JPN USA_197: -6935510166445237754
+      Status Screen JPN USA_198: -2592760157225627692
+      Status Screen JPN USA_199: -7865450404138040282
+      Status Screen JPN USA_2: 8633521111534139859
+      Status Screen JPN USA_20: -1725643305937886622
+      Status Screen JPN USA_200: 8239801413792898922
+      Status Screen JPN USA_201: 5549688635463298038
+      Status Screen JPN USA_202: 3669645429119420470
+      Status Screen JPN USA_203: 3852991055418294654
+      Status Screen JPN USA_204: 7520346788035696922
+      Status Screen JPN USA_205: 6961791869683250548
+      Status Screen JPN USA_206: 5245237890761024060
+      Status Screen JPN USA_207: 4362569325405846497
+      Status Screen JPN USA_208: -1286248777775579146
+      Status Screen JPN USA_209: 4175822328243214952
+      Status Screen JPN USA_21: 6064175293463685838
+      Status Screen JPN USA_210: 1739635294408294348
+      Status Screen JPN USA_211: -2501885160274473432
+      Status Screen JPN USA_212: 2127413853276528352
+      Status Screen JPN USA_213: 1524566249111453810
+      Status Screen JPN USA_214: -5436896164948959985
+      Status Screen JPN USA_215: -8375732575522620049
+      Status Screen JPN USA_216: 1903897791010813475
+      Status Screen JPN USA_217: -3542174027895902630
+      Status Screen JPN USA_218: 8770151541461606017
+      Status Screen JPN USA_219: 1939304031336686992
+      Status Screen JPN USA_22: -2977315826433753601
+      Status Screen JPN USA_220: 1727231255940727934
+      Status Screen JPN USA_221: -5339676973646712353
+      Status Screen JPN USA_222: 8167907250330855857
+      Status Screen JPN USA_223: 2678846195849598667
+      Status Screen JPN USA_224: 3253125309274549884
+      Status Screen JPN USA_225: -8181242588224198007
+      Status Screen JPN USA_226: -985896234017409856
+      Status Screen JPN USA_227: 3851493528330321248
+      Status Screen JPN USA_228: 1793308880027416616
+      Status Screen JPN USA_229: 535534172338816583
+      Status Screen JPN USA_23: 5106295501792053045
+      Status Screen JPN USA_230: -4676097460097936432
+      Status Screen JPN USA_24: -3563997678456148876
+      Status Screen JPN USA_25: 1897169352025229896
+      Status Screen JPN USA_26: -4792480570931007378
+      Status Screen JPN USA_27: -2748546026328299845
+      Status Screen JPN USA_28: 948575999121912466
+      Status Screen JPN USA_29: 5052201664354363171
+      Status Screen JPN USA_3: 4236078304288557185
+      Status Screen JPN USA_30: 2717482637002997989
+      Status Screen JPN USA_31: -682063466746409528
+      Status Screen JPN USA_32: -3017116675527724902
+      Status Screen JPN USA_33: -7081510912693813318
+      Status Screen JPN USA_34: 5782371722532643191
+      Status Screen JPN USA_35: -5835804669528314826
+      Status Screen JPN USA_36: 7584926642603342758
+      Status Screen JPN USA_37: -4294595534714773358
+      Status Screen JPN USA_38: 3762529385595643680
+      Status Screen JPN USA_39: -756522235396586558
+      Status Screen JPN USA_4: 582615550300154192
+      Status Screen JPN USA_40: -6635580491651825626
+      Status Screen JPN USA_41: 2992611622574646695
+      Status Screen JPN USA_42: -2910260101547081633
+      Status Screen JPN USA_43: 2708068702855984124
+      Status Screen JPN USA_44: 8428495261526284088
+      Status Screen JPN USA_45: 1312846031190267549
+      Status Screen JPN USA_46: -627609379659447603
+      Status Screen JPN USA_47: 5498885016984039222
+      Status Screen JPN USA_48: 8540619813190899228
+      Status Screen JPN USA_49: 3797780756506030430
+      Status Screen JPN USA_5: -1925230636410113613
+      Status Screen JPN USA_50: -8985830990432914129
+      Status Screen JPN USA_51: 2303809828616521533
+      Status Screen JPN USA_52: 3022664373407666700
+      Status Screen JPN USA_53: 7261322786050900974
+      Status Screen JPN USA_54: -5815350231758856678
+      Status Screen JPN USA_55: -8470705206893913933
+      Status Screen JPN USA_56: -2051751560925234493
+      Status Screen JPN USA_57: 641613328625025497
+      Status Screen JPN USA_58: -4504016712999010383
+      Status Screen JPN USA_59: -3569657937974184312
+      Status Screen JPN USA_6: -5881240681203510360
+      Status Screen JPN USA_60: -7154641777719426210
+      Status Screen JPN USA_61: 6943188164747504106
+      Status Screen JPN USA_62: 7453993314384704622
+      Status Screen JPN USA_63: 4325466951259707843
+      Status Screen JPN USA_64: -3785863072682089417
+      Status Screen JPN USA_65: 8161941599170476394
+      Status Screen JPN USA_66: 3694964331658993552
+      Status Screen JPN USA_67: 7003947882965563914
+      Status Screen JPN USA_68: -7900241136330264425
+      Status Screen JPN USA_69: -2849770933454076050
+      Status Screen JPN USA_7: -4241215135581548865
+      Status Screen JPN USA_70: -5557199123623789176
+      Status Screen JPN USA_71: -6121857102259673508
+      Status Screen JPN USA_72: 227131402593040274
+      Status Screen JPN USA_73: 2307428205524215378
+      Status Screen JPN USA_74: 3553732197578169155
+      Status Screen JPN USA_75: 1429037839280576558
+      Status Screen JPN USA_76: 7461574982417403231
+      Status Screen JPN USA_77: -884117889446803779
+      Status Screen JPN USA_78: 8216003093344385272
+      Status Screen JPN USA_79: -2159300151891953481
+      Status Screen JPN USA_8: -7981795241651081788
+      Status Screen JPN USA_80: -428444478207558809
+      Status Screen JPN USA_81: -7200673796887738634
+      Status Screen JPN USA_82: -5760866105092780921
+      Status Screen JPN USA_83: 3866313661278946579
+      Status Screen JPN USA_84: -7463531066022788386
+      Status Screen JPN USA_85: -6519680920618602034
+      Status Screen JPN USA_86: -7820473611351714329
+      Status Screen JPN USA_87: 2963835416916549797
+      Status Screen JPN USA_88: -125333568002165961
+      Status Screen JPN USA_89: -3173755383811521329
+      Status Screen JPN USA_9: 5872616515320208137
+      Status Screen JPN USA_90: -981030752487187724
+      Status Screen JPN USA_91: 5434276233632475804
+      Status Screen JPN USA_92: -4099386000160088312
+      Status Screen JPN USA_93: -1074099768414387352
+      Status Screen JPN USA_94: -1692891715339253736
+      Status Screen JPN USA_95: 5829673484919733210
+      Status Screen JPN USA_96: 6910681762753795716
+      Status Screen JPN USA_97: 5434482532727851534
+      Status Screen JPN USA_98: -8952059994583186610
+      Status Screen JPN USA_99: 1089631038592759916
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

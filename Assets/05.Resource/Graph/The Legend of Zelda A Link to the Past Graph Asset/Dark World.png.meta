@@ -1,0 +1,6253 @@
+fileFormatVersion: 2
+guid: 89624ff2707626646aa2c12fa1e70a67
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8089159373277816399
+    second: Dark World_0
+  - first:
+      213: -8485572502830479328
+    second: Dark World_1
+  - first:
+      213: 6720485365143600882
+    second: Dark World_2
+  - first:
+      213: 2404101977510192321
+    second: Dark World_3
+  - first:
+      213: -886554983414377952
+    second: Dark World_4
+  - first:
+      213: -8922019069978416355
+    second: Dark World_5
+  - first:
+      213: 6391870073943452243
+    second: Dark World_6
+  - first:
+      213: -4289429614557461767
+    second: Dark World_7
+  - first:
+      213: 7115392668225382479
+    second: Dark World_8
+  - first:
+      213: -3633555408405787143
+    second: Dark World_9
+  - first:
+      213: 3764276009615612502
+    second: Dark World_10
+  - first:
+      213: -7946771749689011492
+    second: Dark World_11
+  - first:
+      213: -7854626513459250364
+    second: Dark World_12
+  - first:
+      213: 5183017768940485283
+    second: Dark World_13
+  - first:
+      213: 4641229494237070980
+    second: Dark World_14
+  - first:
+      213: -6431286452507968227
+    second: Dark World_15
+  - first:
+      213: -8368066809439167874
+    second: Dark World_16
+  - first:
+      213: 8089679320791727956
+    second: Dark World_17
+  - first:
+      213: 19780220453514049
+    second: Dark World_18
+  - first:
+      213: 2235868455229719315
+    second: Dark World_19
+  - first:
+      213: -1101190368709393991
+    second: Dark World_20
+  - first:
+      213: -2054784966645094966
+    second: Dark World_21
+  - first:
+      213: -2579219876057580838
+    second: Dark World_22
+  - first:
+      213: -4337089872374918682
+    second: Dark World_23
+  - first:
+      213: -5171896710243132048
+    second: Dark World_24
+  - first:
+      213: 2649030814780140213
+    second: Dark World_25
+  - first:
+      213: -3995933839743129219
+    second: Dark World_26
+  - first:
+      213: -4107802045447545586
+    second: Dark World_27
+  - first:
+      213: 1200098421180610076
+    second: Dark World_28
+  - first:
+      213: -526850189636485233
+    second: Dark World_29
+  - first:
+      213: -2112048892472329675
+    second: Dark World_30
+  - first:
+      213: -2375239602580906737
+    second: Dark World_31
+  - first:
+      213: -1422643556184511149
+    second: Dark World_32
+  - first:
+      213: -1239316146903051690
+    second: Dark World_33
+  - first:
+      213: -6169433260668124334
+    second: Dark World_34
+  - first:
+      213: -3177826028766086679
+    second: Dark World_35
+  - first:
+      213: -7303750508697558999
+    second: Dark World_36
+  - first:
+      213: -417579025298115515
+    second: Dark World_37
+  - first:
+      213: 3330175404715642517
+    second: Dark World_38
+  - first:
+      213: -1176633743082454978
+    second: Dark World_39
+  - first:
+      213: -714637885274526406
+    second: Dark World_40
+  - first:
+      213: -6826429072581497852
+    second: Dark World_41
+  - first:
+      213: -7863507822645573436
+    second: Dark World_42
+  - first:
+      213: -4614224304531048183
+    second: Dark World_43
+  - first:
+      213: -6784971932375082633
+    second: Dark World_44
+  - first:
+      213: -8404831850856685068
+    second: Dark World_45
+  - first:
+      213: 6039210901773476865
+    second: Dark World_46
+  - first:
+      213: 3152694046023481930
+    second: Dark World_47
+  - first:
+      213: -9009477016566432917
+    second: Dark World_48
+  - first:
+      213: 4283030173981849614
+    second: Dark World_49
+  - first:
+      213: -3985290412081153249
+    second: Dark World_50
+  - first:
+      213: 547380529781026204
+    second: Dark World_51
+  - first:
+      213: 1764402360169359409
+    second: Dark World_52
+  - first:
+      213: -3408139184867072082
+    second: Dark World_53
+  - first:
+      213: 4958254362675630780
+    second: Dark World_54
+  - first:
+      213: 4340978841240676084
+    second: Dark World_55
+  - first:
+      213: 5343810464185557303
+    second: Dark World_56
+  - first:
+      213: -5462833135916326849
+    second: Dark World_57
+  - first:
+      213: 2344322485475653843
+    second: Dark World_58
+  - first:
+      213: 6321912933934768940
+    second: Dark World_59
+  - first:
+      213: 2137047634357291004
+    second: Dark World_60
+  - first:
+      213: -1214922054467224511
+    second: Dark World_61
+  - first:
+      213: -7277412631768066539
+    second: Dark World_62
+  - first:
+      213: 8681301227308485430
+    second: Dark World_63
+  - first:
+      213: -8549559163343420050
+    second: Dark World_64
+  - first:
+      213: -7047556197085491590
+    second: Dark World_65
+  - first:
+      213: 218499641451811934
+    second: Dark World_66
+  - first:
+      213: -8408812838287592854
+    second: Dark World_67
+  - first:
+      213: 7204281916539380684
+    second: Dark World_68
+  - first:
+      213: -8027133960439181096
+    second: Dark World_69
+  - first:
+      213: 2468521839812084655
+    second: Dark World_70
+  - first:
+      213: 4760242246792059236
+    second: Dark World_71
+  - first:
+      213: 5079008573318137210
+    second: Dark World_72
+  - first:
+      213: 6228269750040941740
+    second: Dark World_73
+  - first:
+      213: -8999035961864695933
+    second: Dark World_74
+  - first:
+      213: -2628999711759134098
+    second: Dark World_75
+  - first:
+      213: -45856780563026260
+    second: Dark World_76
+  - first:
+      213: -5919983540926248156
+    second: Dark World_77
+  - first:
+      213: -4944684335465997021
+    second: Dark World_78
+  - first:
+      213: -2482688032582805851
+    second: Dark World_79
+  - first:
+      213: 8210687260156500570
+    second: Dark World_80
+  - first:
+      213: -1975550311081707570
+    second: Dark World_81
+  - first:
+      213: 2763514960625995874
+    second: Dark World_82
+  - first:
+      213: -6394383879142202688
+    second: Dark World_83
+  - first:
+      213: -7708906610288204678
+    second: Dark World_84
+  - first:
+      213: -385017021393207593
+    second: Dark World_85
+  - first:
+      213: -964879682835668408
+    second: Dark World_86
+  - first:
+      213: 6261502438944852098
+    second: Dark World_87
+  - first:
+      213: -3453281263989169662
+    second: Dark World_88
+  - first:
+      213: -3004483316295525037
+    second: Dark World_89
+  - first:
+      213: 2642568000250251000
+    second: Dark World_90
+  - first:
+      213: -1650002697375042670
+    second: Dark World_91
+  - first:
+      213: 349903324484778467
+    second: Dark World_92
+  - first:
+      213: -9160715131942498246
+    second: Dark World_93
+  - first:
+      213: -1207941895482800364
+    second: Dark World_94
+  - first:
+      213: -3504700886208757769
+    second: Dark World_95
+  - first:
+      213: -3628942051721774842
+    second: Dark World_96
+  - first:
+      213: -1485067814490178674
+    second: Dark World_97
+  - first:
+      213: 6110878420173260047
+    second: Dark World_98
+  - first:
+      213: 5562247934334236228
+    second: Dark World_99
+  - first:
+      213: 722733029134377014
+    second: Dark World_100
+  - first:
+      213: -453524598505760826
+    second: Dark World_101
+  - first:
+      213: -7160211679098148503
+    second: Dark World_102
+  - first:
+      213: 1664992152581200167
+    second: Dark World_103
+  - first:
+      213: -3492703374826883971
+    second: Dark World_104
+  - first:
+      213: -689565574971587730
+    second: Dark World_105
+  - first:
+      213: 4832653337608977548
+    second: Dark World_106
+  - first:
+      213: 6161055278638214947
+    second: Dark World_107
+  - first:
+      213: 6938145224595478439
+    second: Dark World_108
+  - first:
+      213: -2983584892956072868
+    second: Dark World_109
+  - first:
+      213: -3951213696117434454
+    second: Dark World_110
+  - first:
+      213: -8620022184136251536
+    second: Dark World_111
+  - first:
+      213: -3291261919507607791
+    second: Dark World_112
+  - first:
+      213: -2129445569693200217
+    second: Dark World_113
+  - first:
+      213: 4304221090764047435
+    second: Dark World_114
+  - first:
+      213: -8425675188656395051
+    second: Dark World_115
+  - first:
+      213: -5919215897939936988
+    second: Dark World_116
+  - first:
+      213: -7883171269094844204
+    second: Dark World_117
+  - first:
+      213: -1775580797585662766
+    second: Dark World_118
+  - first:
+      213: 8679499002776347839
+    second: Dark World_119
+  - first:
+      213: 7731656807246927579
+    second: Dark World_120
+  - first:
+      213: 5928392710001586059
+    second: Dark World_121
+  - first:
+      213: -1124862230225645554
+    second: Dark World_122
+  - first:
+      213: 6437764571204394251
+    second: Dark World_123
+  - first:
+      213: -8346444286201570868
+    second: Dark World_124
+  - first:
+      213: 7171505501550625019
+    second: Dark World_125
+  - first:
+      213: 5352283298497706265
+    second: Dark World_126
+  - first:
+      213: 3622016407515765253
+    second: Dark World_127
+  - first:
+      213: 6174303135436711143
+    second: Dark World_128
+  - first:
+      213: -5937870032652897418
+    second: Dark World_129
+  - first:
+      213: 5626497013231565982
+    second: Dark World_130
+  - first:
+      213: -1338699910949233424
+    second: Dark World_131
+  - first:
+      213: 4441033849533400069
+    second: Dark World_132
+  - first:
+      213: -990006075205015513
+    second: Dark World_133
+  - first:
+      213: -1078114148316688258
+    second: Dark World_134
+  - first:
+      213: -5196658578967845094
+    second: Dark World_135
+  - first:
+      213: 481953629482733473
+    second: Dark World_136
+  - first:
+      213: 2198100397445267413
+    second: Dark World_137
+  - first:
+      213: -3041900178644597847
+    second: Dark World_138
+  - first:
+      213: 4411799654024741308
+    second: Dark World_139
+  - first:
+      213: -2820851316558228273
+    second: Dark World_140
+  - first:
+      213: 5160670453382214498
+    second: Dark World_141
+  - first:
+      213: 913926147625514148
+    second: Dark World_142
+  - first:
+      213: 5050766051463711934
+    second: Dark World_143
+  - first:
+      213: -3938201797665095383
+    second: Dark World_144
+  - first:
+      213: -617156344166827293
+    second: Dark World_145
+  - first:
+      213: 5678221315715595243
+    second: Dark World_146
+  - first:
+      213: -6773182488523986026
+    second: Dark World_147
+  - first:
+      213: -1832390850667706435
+    second: Dark World_148
+  - first:
+      213: 3680607947219294668
+    second: Dark World_149
+  - first:
+      213: 341849685908183032
+    second: Dark World_150
+  - first:
+      213: 3498355224496302246
+    second: Dark World_151
+  - first:
+      213: 1404362811198874532
+    second: Dark World_152
+  - first:
+      213: -3859649097381470917
+    second: Dark World_153
+  - first:
+      213: 7906845106410499698
+    second: Dark World_154
+  - first:
+      213: 4831453518997357979
+    second: Dark World_155
+  - first:
+      213: 2078564574912954935
+    second: Dark World_156
+  - first:
+      213: 2962910066714269310
+    second: Dark World_157
+  - first:
+      213: 3294088508234707937
+    second: Dark World_158
+  - first:
+      213: 3149184430714056872
+    second: Dark World_159
+  - first:
+      213: -7646442202526391585
+    second: Dark World_160
+  - first:
+      213: -4733793350233774457
+    second: Dark World_161
+  - first:
+      213: 8484790733572232106
+    second: Dark World_162
+  - first:
+      213: 7204332142941521230
+    second: Dark World_163
+  - first:
+      213: -5420233232894233424
+    second: Dark World_164
+  - first:
+      213: -7059341318823916082
+    second: Dark World_165
+  - first:
+      213: -6868825327045024311
+    second: Dark World_166
+  - first:
+      213: 2784327824888510262
+    second: Dark World_167
+  - first:
+      213: -8246550229277973348
+    second: Dark World_168
+  - first:
+      213: -4671962989047884925
+    second: Dark World_169
+  - first:
+      213: 2772188829381541325
+    second: Dark World_170
+  - first:
+      213: -1478930407847298290
+    second: Dark World_171
+  - first:
+      213: 6292883322041828164
+    second: Dark World_172
+  - first:
+      213: 2345504602159822930
+    second: Dark World_173
+  - first:
+      213: 5186345633978813902
+    second: Dark World_174
+  - first:
+      213: -1778121570081987184
+    second: Dark World_175
+  - first:
+      213: -4121984317619551765
+    second: Dark World_176
+  - first:
+      213: -5948364084539989515
+    second: Dark World_177
+  - first:
+      213: 5590543910248136494
+    second: Dark World_178
+  - first:
+      213: -426657832263235422
+    second: Dark World_179
+  - first:
+      213: 5072857871993405191
+    second: Dark World_180
+  - first:
+      213: 6705032114212698052
+    second: Dark World_181
+  - first:
+      213: -7042758081380882411
+    second: Dark World_182
+  - first:
+      213: 9202361158246524613
+    second: Dark World_183
+  - first:
+      213: 4409495038262730256
+    second: Dark World_184
+  - first:
+      213: 5043933825547802074
+    second: Dark World_185
+  - first:
+      213: -6223263930000731801
+    second: Dark World_186
+  - first:
+      213: -2576243463906959137
+    second: Dark World_187
+  - first:
+      213: -1535310978413551176
+    second: Dark World_188
+  - first:
+      213: 4400664109283964092
+    second: Dark World_189
+  - first:
+      213: -4272903710780948903
+    second: Dark World_190
+  - first:
+      213: -3806456827889539499
+    second: Dark World_191
+  - first:
+      213: -7645312651562406311
+    second: Dark World_192
+  - first:
+      213: 9068202869504605314
+    second: Dark World_193
+  - first:
+      213: -7818297604382455087
+    second: Dark World_194
+  - first:
+      213: -1595982827873908889
+    second: Dark World_195
+  - first:
+      213: -2197071201560917917
+    second: Dark World_196
+  - first:
+      213: 1613762308720547051
+    second: Dark World_197
+  - first:
+      213: 8483045345320448519
+    second: Dark World_198
+  - first:
+      213: 3626097579219292219
+    second: Dark World_199
+  - first:
+      213: 7800575885478123470
+    second: Dark World_200
+  - first:
+      213: -585520271492964059
+    second: Dark World_201
+  - first:
+      213: 3546642200958630882
+    second: Dark World_202
+  - first:
+      213: 9008671072687363787
+    second: Dark World_203
+  - first:
+      213: 1890714290900233971
+    second: Dark World_204
+  - first:
+      213: 847588844885760954
+    second: Dark World_205
+  - first:
+      213: -189080887694984970
+    second: Dark World_206
+  - first:
+      213: 1642813848171592918
+    second: Dark World_207
+  - first:
+      213: 7682160280222018919
+    second: Dark World_208
+  - first:
+      213: 1623310021049396470
+    second: Dark World_209
+  - first:
+      213: -7470309685157970086
+    second: Dark World_210
+  - first:
+      213: -2954933125900845817
+    second: Dark World_211
+  - first:
+      213: 4579697758860293587
+    second: Dark World_212
+  - first:
+      213: -203085263699487198
+    second: Dark World_213
+  - first:
+      213: -3219942450321809435
+    second: Dark World_214
+  - first:
+      213: -3152973763169929207
+    second: Dark World_215
+  - first:
+      213: -4901561611263848042
+    second: Dark World_216
+  - first:
+      213: 5524526012285332294
+    second: Dark World_217
+  - first:
+      213: 614984467936628820
+    second: Dark World_218
+  - first:
+      213: -7098907159123636970
+    second: Dark World_219
+  - first:
+      213: 1820145467012169546
+    second: Dark World_220
+  - first:
+      213: -8732217429198297729
+    second: Dark World_221
+  - first:
+      213: 3126629822809455971
+    second: Dark World_222
+  - first:
+      213: 731388300822166787
+    second: Dark World_223
+  - first:
+      213: -5700135976702698029
+    second: Dark World_224
+  - first:
+      213: -841306576118283317
+    second: Dark World_225
+  - first:
+      213: -1071237664758283873
+    second: Dark World_226
+  - first:
+      213: 7915543234614360780
+    second: Dark World_227
+  - first:
+      213: 5373694530309175006
+    second: Dark World_228
+  - first:
+      213: -1379997825853900159
+    second: Dark World_229
+  - first:
+      213: -9200423335024273036
+    second: Dark World_230
+  - first:
+      213: -8614422670510557901
+    second: Dark World_231
+  - first:
+      213: -6241637010616037742
+    second: Dark World_232
+  - first:
+      213: -1348641502621691550
+    second: Dark World_233
+  - first:
+      213: -2177746676743067222
+    second: Dark World_234
+  - first:
+      213: 3597706701574529996
+    second: Dark World_235
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dark World_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 3183
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46eebf7797724070800000000000000
+      internalID: 8089159373277816399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_1
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 3711
+        width: 514
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02887f464c03d3a80800000000000000
+      internalID: -8485572502830479328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_2
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 3199
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe789b35d5f34d50800000000000000
+      internalID: 6720485365143600882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_3
+      rect:
+        serializedVersion: 2
+        x: 2671
+        y: 3199
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c42f45d2061d5120800000000000000
+      internalID: 2404101977510192321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_4
+      rect:
+        serializedVersion: 2
+        x: 3711
+        y: 3711
+        width: 514
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022dbb390f252b3f0800000000000000
+      internalID: -886554983414377952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_5
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 3183
+        width: 514
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1becae3dee9e2480800000000000000
+      internalID: -8922019069978416355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_6
+      rect:
+        serializedVersion: 2
+        x: 3711
+        y: 3183
+        width: 514
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a69d777fb74b850800000000000000
+      internalID: 6391870073943452243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_7
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2655
+        width: 514
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2034fed72e874c0800000000000000
+      internalID: -4289429614557461767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_8
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 2655
+        width: 514
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f482efacee3feb260800000000000000
+      internalID: 7115392668225382479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_9
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 2655
+        width: 514
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd06428b94039dc0800000000000000
+      internalID: -3633555408405787143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_10
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 2655
+        width: 514
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ad9a536156d3430800000000000000
+      internalID: 3764276009615612502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_11
+      rect:
+        serializedVersion: 2
+        x: 2127
+        y: 2655
+        width: 514
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd25dac823567b190800000000000000
+      internalID: -7946771749689011492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_12
+      rect:
+        serializedVersion: 2
+        x: 2655
+        y: 2655
+        width: 514
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b75e53dc2cef290800000000000000
+      internalID: -7854626513459250364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_13
+      rect:
+        serializedVersion: 2
+        x: 3183
+        y: 2655
+        width: 514
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa3c363337cde740800000000000000
+      internalID: 5183017768940485283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_14
+      rect:
+        serializedVersion: 2
+        x: 3711
+        y: 2655
+        width: 514
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486011d72a5f86040800000000000000
+      internalID: 4641229494237070980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_15
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1615
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1dfa7dbb0b7fb6a0800000000000000
+      internalID: -6431286452507968227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_16
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 2127
+        width: 514
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a54ae9297aedb80800000000000000
+      internalID: -8368066809439167874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_17
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 1599
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f3d963b70544070800000000000000
+      internalID: 8089679320791727956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_18
+      rect:
+        serializedVersion: 2
+        x: 2655
+        y: 2127
+        width: 514
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14be5b57106464000800000000000000
+      internalID: 19780220453514049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_19
+      rect:
+        serializedVersion: 2
+        x: 3183
+        y: 1599
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313087e8386670f10800000000000000
+      internalID: 2235868455229719315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_20
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1087
+        width: 514
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1cefaa139c7b0f0800000000000000
+      internalID: -1101190368709393991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_21
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1087
+        width: 514
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac56e45a5ffeb73e0800000000000000
+      internalID: -2054784966645094966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_22
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1599
+        width: 514
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adaf5f12035c43cd0800000000000000
+      internalID: -2579219876057580838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_23
+      rect:
+        serializedVersion: 2
+        x: 2655
+        y: 1599
+        width: 514
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1162e6dbf8fc3c0800000000000000
+      internalID: -4337089872374918682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_24
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 47
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d52fa085bb938b0800000000000000
+      internalID: -5171896710243132048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_25
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1071
+        width: 514
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5baa80aad7f33c420800000000000000
+      internalID: 2649030814780140213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_26
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 1071
+        width: 514
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79e52818579b88c0800000000000000
+      internalID: -3995933839743129219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_27
+      rect:
+        serializedVersion: 2
+        x: 2127
+        y: 1071
+        width: 514
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0dd971cdc72ef6c0800000000000000
+      internalID: -4107802045447545586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_28
+      rect:
+        serializedVersion: 2
+        x: 2655
+        y: 1071
+        width: 514
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c163af9d72b97a010800000000000000
+      internalID: 1200098421180610076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_29
+      rect:
+        serializedVersion: 2
+        x: 3183
+        y: 1071
+        width: 514
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8fbedc3b8040b8f0800000000000000
+      internalID: -526850189636485233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_30
+      rect:
+        serializedVersion: 2
+        x: 3711
+        y: 1071
+        width: 514
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53afdefe8be70b2e0800000000000000
+      internalID: -2112048892472329675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_31
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 543
+        width: 514
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d99bf7a24790fd0800000000000000
+      internalID: -2375239602580906737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_32
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 543
+        width: 514
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35daf9f1931c14ce0800000000000000
+      internalID: -1422643556184511149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_33
+      rect:
+        serializedVersion: 2
+        x: 2127
+        y: 543
+        width: 514
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6521073d7801dcee0800000000000000
+      internalID: -1239316146903051690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_34
+      rect:
+        serializedVersion: 2
+        x: 2655
+        y: 15
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2538560f225c16aa0800000000000000
+      internalID: -6169433260668124334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_35
+      rect:
+        serializedVersion: 2
+        x: 3711
+        y: 543
+        width: 514
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9386d401816e3d0800000000000000
+      internalID: -3177826028766086679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_36
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 35
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920e009fb9dd3aa90800000000000000
+      internalID: -7303750508697558999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_37
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 35
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544b373c616743af0800000000000000
+      internalID: -417579025298115515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_38
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 35
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e81d5f2e8273e20800000000000000
+      internalID: 3330175404715642517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_39
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 35
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3005d048d1cbafe0800000000000000
+      internalID: -1176633743082454978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_40
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 35
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3dec2131a81516f0800000000000000
+      internalID: -714637885274526406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_41
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 35
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c616c2de6a341a0800000000000000
+      internalID: -6826429072581497852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_42
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 35
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c884b64c453fd290800000000000000
+      internalID: -7863507822645573436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_43
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 35
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909f376317bf6ffb0800000000000000
+      internalID: -4614224304531048183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_44
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 35
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77999cfc9ffe6d1a0800000000000000
+      internalID: -6784971932375082633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_45
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 35
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f16ccc56f90c5b80800000000000000
+      internalID: -8404831850856685068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_46
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 33
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104efdb61569fc350800000000000000
+      internalID: 6039210901773476865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_47
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 35
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4af7baf78e90cb20800000000000000
+      internalID: 3152694046023481930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_48
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 35
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6bf28f3368e7f280800000000000000
+      internalID: -9009477016566432917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_49
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 35
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08b7723041607b30800000000000000
+      internalID: 4283030173981849614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_50
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 35
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1bf1253c7761b8c0800000000000000
+      internalID: -3985290412081153249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_51
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 35
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d209211bfa89700800000000000000
+      internalID: 547380529781026204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_52
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 35
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13861ce299a6c7810800000000000000
+      internalID: 1764402360169359409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_53
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 35
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7a8ece77bd3b0d0800000000000000
+      internalID: -3408139184867072082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_54
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 33
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2df49a2124fc440800000000000000
+      internalID: 4958254362675630780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_55
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 35
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f623a1b1414e3c30800000000000000
+      internalID: 4340978841240676084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_56
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 33
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731abc0fd47092a40800000000000000
+      internalID: 5343810464185557303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_57
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 35
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30697ac43e1034b0800000000000000
+      internalID: -5462833135916326849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_58
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 35
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8bcb931e4b88020800000000000000
+      internalID: 2344322485475653843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_59
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 35
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2321288152fbb750800000000000000
+      internalID: 6321912933934768940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_60
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 35
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf784f9308158ad10800000000000000
+      internalID: 2137047634357291004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_61
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 35
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c71b114dab32fe0800000000000000
+      internalID: -1214922054467224511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_62
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 35
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516168fc4cf610b90800000000000000
+      internalID: -7277412631768066539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_63
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 35
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b82e1887d2a7870800000000000000
+      internalID: 8681301227308485430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_64
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 35
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65caba0d3dd95980800000000000000
+      internalID: -8549559163343420050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_65
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 33
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ecd127afc023e90800000000000000
+      internalID: -7047556197085491590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_66
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 35
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5419482444480300800000000000000
+      internalID: 218499641451811934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_67
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 35
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62bf1f7645ed4b80800000000000000
+      internalID: -8408812838287592854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_68
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 35
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3a911bb30caf360800000000000000
+      internalID: 7204281916539380684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_69
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 35
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d05c8b4134e99090800000000000000
+      internalID: -8027133960439181096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_70
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 35
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa30b46d883f14220800000000000000
+      internalID: 2468521839812084655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_71
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 33
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46919d44a17cf0240800000000000000
+      internalID: 4760242246792059236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_72
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 35
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a758acf33634c7640800000000000000
+      internalID: 5079008573318137210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_73
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 35
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca45080c6524f6650800000000000000
+      internalID: 6228269750040941740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_74
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 35
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38fc61cb8700d1380800000000000000
+      internalID: -8999035961864695933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_75
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 35
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e621ef1f0bae38bd0800000000000000
+      internalID: -2628999711759134098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_76
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 35
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae6ff340851d5ff0800000000000000
+      internalID: -45856780563026260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_77
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 35
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b8eeeb55ef7dda0800000000000000
+      internalID: -5919983540926248156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_78
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 35
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d5c128bc3f06bb0800000000000000
+      internalID: -4944684335465997021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_79
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 35
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6d9c16368bb8dd0800000000000000
+      internalID: -2482688032582805851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_80
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 24
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a147f9f8832f170800000000000000
+      internalID: 8210687260156500570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_81
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 15
+        width: 514
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7ff00857f6594e0800000000000000
+      internalID: -1975550311081707570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_82
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 15
+        width: 514
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2601797073af95620800000000000000
+      internalID: 2763514960625995874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_83
+      rect:
+        serializedVersion: 2
+        x: 2127
+        y: 15
+        width: 514
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2ae36adb59247a0800000000000000
+      internalID: -6394383879142202688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_84
+      rect:
+        serializedVersion: 2
+        x: 3711
+        y: 15
+        width: 514
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a746c1f0846740590800000000000000
+      internalID: -7708906610288204678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_85
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 24
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7def0671f0528aaf0800000000000000
+      internalID: -385017021393207593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_86
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842a6956a0f0c92f0800000000000000
+      internalID: -964879682835668408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_87
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 22
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288cc891b4355e650800000000000000
+      internalID: 6261502438944852098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_88
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 22
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202e9669cfa7310d0800000000000000
+      internalID: -3453281263989169662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_89
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d1e9e975eed46d0800000000000000
+      internalID: -3004483316295525037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_90
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 24
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f60bb568994ca420800000000000000
+      internalID: 2642568000250251000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_91
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 22
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2933680f9430a19e0800000000000000
+      internalID: -1650002697375042670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_92
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9b4a1483b1bd400800000000000000
+      internalID: 349903324484778467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_93
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3095008f1a9ed080800000000000000
+      internalID: -9160715131942498246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_94
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 24
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4178f6afe378c3fe0800000000000000
+      internalID: -1207941895482800364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_95
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ffb789dc1dcc5fc0800000000000000
+      internalID: -3504700886208757769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_96
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 22
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60975a05e6863adc0800000000000000
+      internalID: -3628942051721774842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_97
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b72f1e0baf36be0800000000000000
+      internalID: -1485067814490178674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_98
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 24
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05070cdb833ec450800000000000000
+      internalID: 6110878420173260047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_99
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44674a6b603113d40800000000000000
+      internalID: 5562247934334236228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_100
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6302ffc5cd9a70a00800000000000000
+      internalID: 722733029134377014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_101
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 24
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c79921d7c1c4b9f0800000000000000
+      internalID: -453524598505760826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_102
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 24
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96960ce0a61d1ac90800000000000000
+      internalID: -7160211679098148503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_103
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7295a609a8d3b1710800000000000000
+      internalID: 1664992152581200167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_104
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74b2a529cc678fc0800000000000000
+      internalID: -3492703374826883971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_105
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 24
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e630b7653cb2e66f0800000000000000
+      internalID: -689565574971587730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_106
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 24
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8cf9c62b98011340800000000000000
+      internalID: 4832653337608977548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_107
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32fa6cc1227708550800000000000000
+      internalID: 6161055278638214947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_108
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 22
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a71618625e394060800000000000000
+      internalID: 6938145224595478439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_109
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 24
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54a12af85d2896d0800000000000000
+      internalID: -2983584892956072868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_110
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 24
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7134be3187a29c0800000000000000
+      internalID: -3951213696117434454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_111
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 077629e8e778f5880800000000000000
+      internalID: -8620022184136251536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_112
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f8af8d8b61352d0800000000000000
+      internalID: -3291261919507607791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_113
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a058e16980b272e0800000000000000
+      internalID: -2129445569693200217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_114
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 24
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b444cbdf64aabbb30800000000000000
+      internalID: 4304221090764047435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_115
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc205b9e0df11b80800000000000000
+      internalID: -8425675188656395051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_116
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429f17e8088badda0800000000000000
+      internalID: -5919215897939936988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_117
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 13
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d859026f79599290800000000000000
+      internalID: -7883171269094844204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_118
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dcd6e90caedb57e0800000000000000
+      internalID: -1775580797585662766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_119
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 24
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb467d86b56c37870800000000000000
+      internalID: 8679499002776347839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_120
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 24
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd61f21f6ec5c4b60800000000000000
+      internalID: 7731656807246927579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_121
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8fe8a082c1e54250800000000000000
+      internalID: 5928392710001586059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_122
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00952ae2cfa360f0800000000000000
+      internalID: -1124862230225645554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_123
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d9b3ec4c8875950800000000000000
+      internalID: 6437764571204394251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_124
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 22
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9dd5f94297b2c80800000000000000
+      internalID: -8346444286201570868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_125
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf04fa4e14e468360800000000000000
+      internalID: 7171505501550625019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_126
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 24
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91936386d41274a40800000000000000
+      internalID: 5352283298497706265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_127
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a1d9c7bbcf34230800000000000000
+      internalID: 3622016407515765253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_128
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 24
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e429432df78fa550800000000000000
+      internalID: 6174303135436711143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_129
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 24
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673794d5aa2789da0800000000000000
+      internalID: -5937870032652897418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_130
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 5
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9cb67b1935551e40800000000000000
+      internalID: 5626497013231565982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_131
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 5
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc1603168bfb6de0800000000000000
+      internalID: -1338699910949233424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_132
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 5
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5048ceca1c8b1ad30800000000000000
+      internalID: 4441033849533400069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_133
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 5
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7282de948bac242f0800000000000000
+      internalID: -990006075205015513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_134
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 5
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70d24ae4e4c901f0800000000000000
+      internalID: -1078114148316688258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_135
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 3
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17a2a53e82c1e7b0800000000000000
+      internalID: -5196658578967845094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_136
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 5
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af4783c54e30b600800000000000000
+      internalID: 481953629482733473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_137
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 5
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dfbe5a5aa8318e10800000000000000
+      internalID: 2198100397445267413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_138
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 5
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a301b977eff8c5d0800000000000000
+      internalID: -3041900178644597847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_139
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 5
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1065e196cd93d30800000000000000
+      internalID: 4411799654024741308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_140
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 5
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc49a505ca25ad8d0800000000000000
+      internalID: -2820851316558228273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_141
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 5
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26373b85f626e9740800000000000000
+      internalID: 5160670453382214498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_142
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 5
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4f8243dfaeeac00800000000000000
+      internalID: 913926147625514148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_143
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 5
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebcc815b6fce71640800000000000000
+      internalID: 5050766051463711934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_144
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 5
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9210e5c9452b859c0800000000000000
+      internalID: -3938201797665095383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_145
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 5
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eabe07239b6f67f0800000000000000
+      internalID: -617156344166827293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_146
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 5
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb774fb3381dce40800000000000000
+      internalID: 5678221315715595243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_147
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 5
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ba1ac9962d002a0800000000000000
+      internalID: -6773182488523986026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_148
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 5
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db78640da3a0296e0800000000000000
+      internalID: -1832390850667706435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_149
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 5
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc95c736d65241330800000000000000
+      internalID: 3680607947219294668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_150
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 5
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7d2276a7e7eb400800000000000000
+      internalID: 341849685908183032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_151
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 5
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8eb36aa87ac8030800000000000000
+      internalID: 3498355224496302246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_152
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 5
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a32741498c4d7310800000000000000
+      internalID: 1404362811198874532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_153
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 5
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d9be06895cf6ac0800000000000000
+      internalID: -3859649097381470917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_154
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 5
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e22a56bb1cabd60800000000000000
+      internalID: 7906845106410499698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_155
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 5
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9506ac9065cc0340800000000000000
+      internalID: 4831453518997357979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_156
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 5
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732c56ad77b88dc10800000000000000
+      internalID: 2078564574912954935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_157
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 5
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76deebe10f5e1920800000000000000
+      internalID: 2962910066714269310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_158
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 5
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3b600ab04f6bd20800000000000000
+      internalID: 3294088508234707937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_159
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 5
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0f6ecfd8624bb20800000000000000
+      internalID: 3149184430714056872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_160
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 5
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd2ebd2545162e590800000000000000
+      internalID: -7646442202526391585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_161
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 5
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786a53757003e4eb0800000000000000
+      internalID: -4733793350233774457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_162
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 5
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa35914c73800c570800000000000000
+      internalID: 8484790733572232106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_163
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 5
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4545ffe9edeaf360800000000000000
+      internalID: 7204332142941521230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_164
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 5
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b47291a79677c4b0800000000000000
+      internalID: -5420233232894233424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_165
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd4347f87e280e90800000000000000
+      internalID: -7059341318823916082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_166
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 5
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c56645f1c70da0a0800000000000000
+      internalID: -6868825327045024311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_167
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 5
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63737bc976be3a620800000000000000
+      internalID: 2784327824888510262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_168
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 3
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c946871324e5e8d80800000000000000
+      internalID: -8246550229277973348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_169
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 5
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38357022a6ad92fb0800000000000000
+      internalID: -4671962989047884925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_170
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 5
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcdb7997d0bc87620800000000000000
+      internalID: 2772188829381541325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_171
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 5
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0bfcb831a8c97be0800000000000000
+      internalID: -1478930407847298290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_172
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 5
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443884f4a00d45750800000000000000
+      internalID: 6292883322041828164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_173
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 3
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258b7c63208ec8020800000000000000
+      internalID: 2345504602159822930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_174
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 5
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd84bb20e999f740800000000000000
+      internalID: 5186345633978813902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_175
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 5
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095adc75ad7d257e0800000000000000
+      internalID: -1778121570081987184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_176
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 3
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be14e823a15cbc6c0800000000000000
+      internalID: -4121984317619551765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_177
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 3
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f16d42816a237da0800000000000000
+      internalID: -5948364084539989515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_178
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 5
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f309ff01a959d40800000000000000
+      internalID: 5590543910248136494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_179
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 5
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8cf4b46f4341af0800000000000000
+      internalID: -426657832263235422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_180
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 3
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ff5308b59666640800000000000000
+      internalID: 5072857871993405191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_181
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 5
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7fb3fde2f0d0d50800000000000000
+      internalID: 6705032114212698052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_182
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 5
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518e740d6d8134e90800000000000000
+      internalID: -7042758081380882411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_183
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 5
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6e22c97ba55bf70800000000000000
+      internalID: 9202361158246524613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_184
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 5
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e5f72ff5ca13d30800000000000000
+      internalID: 4409495038262730256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_185
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 5
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad59a562717aff540800000000000000
+      internalID: 5043933825547802074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_186
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 5
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7611ecc8d6682a9a0800000000000000
+      internalID: -6223263930000731801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_187
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 5
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd067e618385f3cd0800000000000000
+      internalID: -2576243463906959137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_188
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 5
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b127efacca71bae0800000000000000
+      internalID: -1535310978413551176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_189
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 5
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb47ea111bc421d30800000000000000
+      internalID: 4400664109283964092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_190
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 5
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ef37fb6b893b4c0800000000000000
+      internalID: -4272903710780948903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_191
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 5
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556a8c8beafbc2bc0800000000000000
+      internalID: -3806456827889539499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_192
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 5
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ea2d666a466e590800000000000000
+      internalID: -7645312651562406311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_193
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 5
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28cfff3e67ab8dd70800000000000000
+      internalID: 9068202869504605314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_194
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 5
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da0f7e70c3df7390800000000000000
+      internalID: -7818297604382455087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_195
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 5
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767c3fce21ee9d9e0800000000000000
+      internalID: -1595982827873908889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_196
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 5
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36888bcf16f6281e0800000000000000
+      internalID: -2197071201560917917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_197
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 5
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4d33b054c356610800000000000000
+      internalID: 1613762308720547051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_198
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 13
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7023b55ebc4d9b570800000000000000
+      internalID: 8483045345320448519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_199
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 13
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b301542598c725230800000000000000
+      internalID: 3626097579219292219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_200
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 12
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7d6694076314c60800000000000000
+      internalID: 7800575885478123470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_201
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 13
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5212fd05a60dfd7f0800000000000000
+      internalID: -585520271492964059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_202
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 13
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb7c857a44383130800000000000000
+      internalID: 3546642200958630882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_203
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 13
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc61ed15c9a350d70800000000000000
+      internalID: 9008671072687363787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_204
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 11
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3feecd051aa2d3a10800000000000000
+      internalID: 1890714290900233971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_205
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 13
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abbdffe409d33cb00800000000000000
+      internalID: 847588844885760954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_206
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 13
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8ff173fef306df0800000000000000
+      internalID: -189080887694984970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_207
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 13
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc3c5cad727cc610800000000000000
+      internalID: 1642813848171592918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_208
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 13
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76daf32b2148c9a60800000000000000
+      internalID: 7682160280222018919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_209
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 13
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc2bfc0dd7278610800000000000000
+      internalID: 1623310021049396470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_210
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 13
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5fbff5bbe0245890800000000000000
+      internalID: -7470309685157970086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_211
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 13
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d35a75af7fdf6d0800000000000000
+      internalID: -2954933125900845817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_212
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 13
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5358fe8da5e8f30800000000000000
+      internalID: 4579697758860293587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_213
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 13
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2265316570f7e2df0800000000000000
+      internalID: -203085263699487198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_214
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 13
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef1e53c6677053d0800000000000000
+      internalID: -3219942450321809435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_215
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 13
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908312c41136e34d0800000000000000
+      internalID: -3152973763169929207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_216
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 13
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6915de32fa72afbb0800000000000000
+      internalID: -4901561611263848042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_217
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 13
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b2ca2532f0bac40800000000000000
+      internalID: 5524526012285332294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_218
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 13
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450deb18d1dd88800800000000000000
+      internalID: 614984467936628820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_219
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 13
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d45f6ec8d9b7d90800000000000000
+      internalID: -7098907159123636970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_220
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 13
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f3cc0a8a4724910800000000000000
+      internalID: 1820145467012169546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_221
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 13
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f75292f638ee0d680800000000000000
+      internalID: -8732217429198297729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_222
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 13
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d33bc1245046b20800000000000000
+      internalID: 3126629822809455971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_223
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 13
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30db167d8c9662a00800000000000000
+      internalID: 731388300822166787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_224
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 11
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd1631a78c05e0b0800000000000000
+      internalID: -5700135976702698029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_225
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 13
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3054f50241354f0800000000000000
+      internalID: -841306576118283317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_226
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 13
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91401205033221f0800000000000000
+      internalID: -1071237664758283873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_227
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 13
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca7f6f22a8a9dd60800000000000000
+      internalID: 7915543234614360780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_228
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 11
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6b98a44b2339a40800000000000000
+      internalID: 5373694530309175006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_229
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 11
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18aba27f94349dce0800000000000000
+      internalID: -1379997825853900159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_230
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 13
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 479d9a409b7815080800000000000000
+      internalID: -9200423335024273036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_231
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 13
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335752be83c637880800000000000000
+      internalID: -8614422670510557901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_232
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 13
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ecc4d55304169a0800000000000000
+      internalID: -6241637010616037742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_233
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 13
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26192e2e2b9a84de0800000000000000
+      internalID: -1348641502621691550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_234
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 11
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa921f98fe617c1e0800000000000000
+      internalID: -2177746676743067222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark World_235
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 11
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc364610f2f9de130800000000000000
+      internalID: 3597706701574529996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dark World_0: 8089159373277816399
+      Dark World_1: -8485572502830479328
+      Dark World_10: 3764276009615612502
+      Dark World_100: 722733029134377014
+      Dark World_101: -453524598505760826
+      Dark World_102: -7160211679098148503
+      Dark World_103: 1664992152581200167
+      Dark World_104: -3492703374826883971
+      Dark World_105: -689565574971587730
+      Dark World_106: 4832653337608977548
+      Dark World_107: 6161055278638214947
+      Dark World_108: 6938145224595478439
+      Dark World_109: -2983584892956072868
+      Dark World_11: -7946771749689011492
+      Dark World_110: -3951213696117434454
+      Dark World_111: -8620022184136251536
+      Dark World_112: -3291261919507607791
+      Dark World_113: -2129445569693200217
+      Dark World_114: 4304221090764047435
+      Dark World_115: -8425675188656395051
+      Dark World_116: -5919215897939936988
+      Dark World_117: -7883171269094844204
+      Dark World_118: -1775580797585662766
+      Dark World_119: 8679499002776347839
+      Dark World_12: -7854626513459250364
+      Dark World_120: 7731656807246927579
+      Dark World_121: 5928392710001586059
+      Dark World_122: -1124862230225645554
+      Dark World_123: 6437764571204394251
+      Dark World_124: -8346444286201570868
+      Dark World_125: 7171505501550625019
+      Dark World_126: 5352283298497706265
+      Dark World_127: 3622016407515765253
+      Dark World_128: 6174303135436711143
+      Dark World_129: -5937870032652897418
+      Dark World_13: 5183017768940485283
+      Dark World_130: 5626497013231565982
+      Dark World_131: -1338699910949233424
+      Dark World_132: 4441033849533400069
+      Dark World_133: -990006075205015513
+      Dark World_134: -1078114148316688258
+      Dark World_135: -5196658578967845094
+      Dark World_136: 481953629482733473
+      Dark World_137: 2198100397445267413
+      Dark World_138: -3041900178644597847
+      Dark World_139: 4411799654024741308
+      Dark World_14: 4641229494237070980
+      Dark World_140: -2820851316558228273
+      Dark World_141: 5160670453382214498
+      Dark World_142: 913926147625514148
+      Dark World_143: 5050766051463711934
+      Dark World_144: -3938201797665095383
+      Dark World_145: -617156344166827293
+      Dark World_146: 5678221315715595243
+      Dark World_147: -6773182488523986026
+      Dark World_148: -1832390850667706435
+      Dark World_149: 3680607947219294668
+      Dark World_15: -6431286452507968227
+      Dark World_150: 341849685908183032
+      Dark World_151: 3498355224496302246
+      Dark World_152: 1404362811198874532
+      Dark World_153: -3859649097381470917
+      Dark World_154: 7906845106410499698
+      Dark World_155: 4831453518997357979
+      Dark World_156: 2078564574912954935
+      Dark World_157: 2962910066714269310
+      Dark World_158: 3294088508234707937
+      Dark World_159: 3149184430714056872
+      Dark World_16: -8368066809439167874
+      Dark World_160: -7646442202526391585
+      Dark World_161: -4733793350233774457
+      Dark World_162: 8484790733572232106
+      Dark World_163: 7204332142941521230
+      Dark World_164: -5420233232894233424
+      Dark World_165: -7059341318823916082
+      Dark World_166: -6868825327045024311
+      Dark World_167: 2784327824888510262
+      Dark World_168: -8246550229277973348
+      Dark World_169: -4671962989047884925
+      Dark World_17: 8089679320791727956
+      Dark World_170: 2772188829381541325
+      Dark World_171: -1478930407847298290
+      Dark World_172: 6292883322041828164
+      Dark World_173: 2345504602159822930
+      Dark World_174: 5186345633978813902
+      Dark World_175: -1778121570081987184
+      Dark World_176: -4121984317619551765
+      Dark World_177: -5948364084539989515
+      Dark World_178: 5590543910248136494
+      Dark World_179: -426657832263235422
+      Dark World_18: 19780220453514049
+      Dark World_180: 5072857871993405191
+      Dark World_181: 6705032114212698052
+      Dark World_182: -7042758081380882411
+      Dark World_183: 9202361158246524613
+      Dark World_184: 4409495038262730256
+      Dark World_185: 5043933825547802074
+      Dark World_186: -6223263930000731801
+      Dark World_187: -2576243463906959137
+      Dark World_188: -1535310978413551176
+      Dark World_189: 4400664109283964092
+      Dark World_19: 2235868455229719315
+      Dark World_190: -4272903710780948903
+      Dark World_191: -3806456827889539499
+      Dark World_192: -7645312651562406311
+      Dark World_193: 9068202869504605314
+      Dark World_194: -7818297604382455087
+      Dark World_195: -1595982827873908889
+      Dark World_196: -2197071201560917917
+      Dark World_197: 1613762308720547051
+      Dark World_198: 8483045345320448519
+      Dark World_199: 3626097579219292219
+      Dark World_2: 6720485365143600882
+      Dark World_20: -1101190368709393991
+      Dark World_200: 7800575885478123470
+      Dark World_201: -585520271492964059
+      Dark World_202: 3546642200958630882
+      Dark World_203: 9008671072687363787
+      Dark World_204: 1890714290900233971
+      Dark World_205: 847588844885760954
+      Dark World_206: -189080887694984970
+      Dark World_207: 1642813848171592918
+      Dark World_208: 7682160280222018919
+      Dark World_209: 1623310021049396470
+      Dark World_21: -2054784966645094966
+      Dark World_210: -7470309685157970086
+      Dark World_211: -2954933125900845817
+      Dark World_212: 4579697758860293587
+      Dark World_213: -203085263699487198
+      Dark World_214: -3219942450321809435
+      Dark World_215: -3152973763169929207
+      Dark World_216: -4901561611263848042
+      Dark World_217: 5524526012285332294
+      Dark World_218: 614984467936628820
+      Dark World_219: -7098907159123636970
+      Dark World_22: -2579219876057580838
+      Dark World_220: 1820145467012169546
+      Dark World_221: -8732217429198297729
+      Dark World_222: 3126629822809455971
+      Dark World_223: 731388300822166787
+      Dark World_224: -5700135976702698029
+      Dark World_225: -841306576118283317
+      Dark World_226: -1071237664758283873
+      Dark World_227: 7915543234614360780
+      Dark World_228: 5373694530309175006
+      Dark World_229: -1379997825853900159
+      Dark World_23: -4337089872374918682
+      Dark World_230: -9200423335024273036
+      Dark World_231: -8614422670510557901
+      Dark World_232: -6241637010616037742
+      Dark World_233: -1348641502621691550
+      Dark World_234: -2177746676743067222
+      Dark World_235: 3597706701574529996
+      Dark World_24: -5171896710243132048
+      Dark World_25: 2649030814780140213
+      Dark World_26: -3995933839743129219
+      Dark World_27: -4107802045447545586
+      Dark World_28: 1200098421180610076
+      Dark World_29: -526850189636485233
+      Dark World_3: 2404101977510192321
+      Dark World_30: -2112048892472329675
+      Dark World_31: -2375239602580906737
+      Dark World_32: -1422643556184511149
+      Dark World_33: -1239316146903051690
+      Dark World_34: -6169433260668124334
+      Dark World_35: -3177826028766086679
+      Dark World_36: -7303750508697558999
+      Dark World_37: -417579025298115515
+      Dark World_38: 3330175404715642517
+      Dark World_39: -1176633743082454978
+      Dark World_4: -886554983414377952
+      Dark World_40: -714637885274526406
+      Dark World_41: -6826429072581497852
+      Dark World_42: -7863507822645573436
+      Dark World_43: -4614224304531048183
+      Dark World_44: -6784971932375082633
+      Dark World_45: -8404831850856685068
+      Dark World_46: 6039210901773476865
+      Dark World_47: 3152694046023481930
+      Dark World_48: -9009477016566432917
+      Dark World_49: 4283030173981849614
+      Dark World_5: -8922019069978416355
+      Dark World_50: -3985290412081153249
+      Dark World_51: 547380529781026204
+      Dark World_52: 1764402360169359409
+      Dark World_53: -3408139184867072082
+      Dark World_54: 4958254362675630780
+      Dark World_55: 4340978841240676084
+      Dark World_56: 5343810464185557303
+      Dark World_57: -5462833135916326849
+      Dark World_58: 2344322485475653843
+      Dark World_59: 6321912933934768940
+      Dark World_6: 6391870073943452243
+      Dark World_60: 2137047634357291004
+      Dark World_61: -1214922054467224511
+      Dark World_62: -7277412631768066539
+      Dark World_63: 8681301227308485430
+      Dark World_64: -8549559163343420050
+      Dark World_65: -7047556197085491590
+      Dark World_66: 218499641451811934
+      Dark World_67: -8408812838287592854
+      Dark World_68: 7204281916539380684
+      Dark World_69: -8027133960439181096
+      Dark World_7: -4289429614557461767
+      Dark World_70: 2468521839812084655
+      Dark World_71: 4760242246792059236
+      Dark World_72: 5079008573318137210
+      Dark World_73: 6228269750040941740
+      Dark World_74: -8999035961864695933
+      Dark World_75: -2628999711759134098
+      Dark World_76: -45856780563026260
+      Dark World_77: -5919983540926248156
+      Dark World_78: -4944684335465997021
+      Dark World_79: -2482688032582805851
+      Dark World_8: 7115392668225382479
+      Dark World_80: 8210687260156500570
+      Dark World_81: -1975550311081707570
+      Dark World_82: 2763514960625995874
+      Dark World_83: -6394383879142202688
+      Dark World_84: -7708906610288204678
+      Dark World_85: -385017021393207593
+      Dark World_86: -964879682835668408
+      Dark World_87: 6261502438944852098
+      Dark World_88: -3453281263989169662
+      Dark World_89: -3004483316295525037
+      Dark World_9: -3633555408405787143
+      Dark World_90: 2642568000250251000
+      Dark World_91: -1650002697375042670
+      Dark World_92: 349903324484778467
+      Dark World_93: -9160715131942498246
+      Dark World_94: -1207941895482800364
+      Dark World_95: -3504700886208757769
+      Dark World_96: -3628942051721774842
+      Dark World_97: -1485067814490178674
+      Dark World_98: 6110878420173260047
+      Dark World_99: 5562247934334236228
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

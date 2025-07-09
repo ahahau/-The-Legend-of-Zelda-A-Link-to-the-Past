@@ -1,0 +1,2743 @@
+fileFormatVersion: 2
+guid: 847fd9dc93a4f104b91c28c8eda45a88
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7686702885139713248
+    second: Mothula_0
+  - first:
+      213: -8951293595525711920
+    second: Mothula_1
+  - first:
+      213: 6640597358815015215
+    second: Mothula_2
+  - first:
+      213: -3102884971513584639
+    second: Mothula_3
+  - first:
+      213: 1909127062720246490
+    second: Mothula_4
+  - first:
+      213: -1592454834750815965
+    second: Mothula_5
+  - first:
+      213: 2498543607308512844
+    second: Mothula_6
+  - first:
+      213: 1581963579484790828
+    second: Mothula_7
+  - first:
+      213: 5999945790854062513
+    second: Mothula_8
+  - first:
+      213: 4939222354699647871
+    second: Mothula_9
+  - first:
+      213: -6956109724588701396
+    second: Mothula_10
+  - first:
+      213: -7686404762173699210
+    second: Mothula_11
+  - first:
+      213: 6548296450686900577
+    second: Mothula_12
+  - first:
+      213: 8552016435882189660
+    second: Mothula_13
+  - first:
+      213: 8912352294945143792
+    second: Mothula_14
+  - first:
+      213: 2155999267584163187
+    second: Mothula_15
+  - first:
+      213: 4067989962581036498
+    second: Mothula_16
+  - first:
+      213: -7720121414251627509
+    second: Mothula_17
+  - first:
+      213: -5258767414835025069
+    second: Mothula_18
+  - first:
+      213: -759389744283095312
+    second: Mothula_19
+  - first:
+      213: 7814212425517332991
+    second: Mothula_20
+  - first:
+      213: 627862833170563539
+    second: Mothula_21
+  - first:
+      213: -7449984169095823774
+    second: Mothula_22
+  - first:
+      213: 677222034525790194
+    second: Mothula_23
+  - first:
+      213: 8577384539928513875
+    second: Mothula_24
+  - first:
+      213: 3393966936392608186
+    second: Mothula_25
+  - first:
+      213: -4136688208822326493
+    second: Mothula_26
+  - first:
+      213: -4549285457283964109
+    second: Mothula_27
+  - first:
+      213: 5115473169648407916
+    second: Mothula_28
+  - first:
+      213: -2106148265341668309
+    second: Mothula_29
+  - first:
+      213: 9209724832243445270
+    second: Mothula_30
+  - first:
+      213: -535884754936105003
+    second: Mothula_31
+  - first:
+      213: -3512377534452366263
+    second: Mothula_32
+  - first:
+      213: 8176522635729085878
+    second: Mothula_33
+  - first:
+      213: -4390093290849817066
+    second: Mothula_34
+  - first:
+      213: 1042714181092658696
+    second: Mothula_35
+  - first:
+      213: 1085707608072296712
+    second: Mothula_36
+  - first:
+      213: -1095265038123355734
+    second: Mothula_37
+  - first:
+      213: 5792060583987930738
+    second: Mothula_38
+  - first:
+      213: -4740185490393898586
+    second: Mothula_39
+  - first:
+      213: -6233038176728375139
+    second: Mothula_40
+  - first:
+      213: 3873812862892229319
+    second: Mothula_41
+  - first:
+      213: 4506745040377973612
+    second: Mothula_42
+  - first:
+      213: 3223469842778830205
+    second: Mothula_43
+  - first:
+      213: -172736560286934046
+    second: Mothula_44
+  - first:
+      213: -8448705173144977519
+    second: Mothula_45
+  - first:
+      213: -1203426603861502101
+    second: Mothula_46
+  - first:
+      213: -1201737187152652781
+    second: Mothula_47
+  - first:
+      213: -8221268501714808798
+    second: Mothula_48
+  - first:
+      213: -4666855626076019433
+    second: Mothula_49
+  - first:
+      213: -577496266113338659
+    second: Mothula_50
+  - first:
+      213: -6801059263909936839
+    second: Mothula_51
+  - first:
+      213: 4193899145572768823
+    second: Mothula_52
+  - first:
+      213: 174033764870838066
+    second: Mothula_53
+  - first:
+      213: 4231157221320881010
+    second: Mothula_54
+  - first:
+      213: -7555606581637031481
+    second: Mothula_55
+  - first:
+      213: 945201046407610440
+    second: Mothula_56
+  - first:
+      213: 2175118575083588750
+    second: Mothula_57
+  - first:
+      213: 1294918614416174051
+    second: Mothula_58
+  - first:
+      213: -1275747282246799547
+    second: Mothula_59
+  - first:
+      213: -85270721193917071
+    second: Mothula_60
+  - first:
+      213: 6016406021789102073
+    second: Mothula_61
+  - first:
+      213: 6259018677852821156
+    second: Mothula_62
+  - first:
+      213: -1057098635121004435
+    second: Mothula_63
+  - first:
+      213: 4938990525231410446
+    second: Mothula_64
+  - first:
+      213: 9089211568890985387
+    second: Mothula_65
+  - first:
+      213: 7327674060040927919
+    second: Mothula_66
+  - first:
+      213: -8042080002455200481
+    second: Mothula_67
+  - first:
+      213: -8824054870939728472
+    second: Mothula_68
+  - first:
+      213: 8743862132063400340
+    second: Mothula_69
+  - first:
+      213: 8330638486042071542
+    second: Mothula_70
+  - first:
+      213: -3863416290108866930
+    second: Mothula_71
+  - first:
+      213: -5474907662129630357
+    second: Mothula_72
+  - first:
+      213: -2495528293564742168
+    second: Mothula_73
+  - first:
+      213: -3434480852789613885
+    second: Mothula_74
+  - first:
+      213: -5999896289152206876
+    second: Mothula_75
+  - first:
+      213: 6723058431323750555
+    second: Mothula_76
+  - first:
+      213: -6879594807425912073
+    second: Mothula_77
+  - first:
+      213: 1687010158303464904
+    second: Mothula_78
+  - first:
+      213: -2487695802154231147
+    second: Mothula_79
+  - first:
+      213: -2462852513980755391
+    second: Mothula_80
+  - first:
+      213: 7299188882989823662
+    second: Mothula_81
+  - first:
+      213: 51811044578604757
+    second: Mothula_82
+  - first:
+      213: -6346630845254934843
+    second: Mothula_83
+  - first:
+      213: -6224563780849593123
+    second: Mothula_84
+  - first:
+      213: -8052274838765081340
+    second: Mothula_85
+  - first:
+      213: -2886728567038647908
+    second: Mothula_86
+  - first:
+      213: -8756395302556663295
+    second: Mothula_87
+  - first:
+      213: 8744424825381304703
+    second: Mothula_88
+  - first:
+      213: -3896045561810462791
+    second: Mothula_89
+  - first:
+      213: -296759946881402864
+    second: Mothula_90
+  - first:
+      213: -4813801359272850972
+    second: Mothula_91
+  - first:
+      213: 6916476472290251998
+    second: Mothula_92
+  - first:
+      213: 7361344159777857546
+    second: Mothula_93
+  - first:
+      213: 773333909051546395
+    second: Mothula_94
+  - first:
+      213: -6207544650199091607
+    second: Mothula_95
+  - first:
+      213: -2728788613366577946
+    second: Mothula_96
+  - first:
+      213: -2923650068611428226
+    second: Mothula_97
+  - first:
+      213: -6565920616106146409
+    second: Mothula_98
+  - first:
+      213: 5138639956079299791
+    second: Mothula_99
+  - first:
+      213: -8921656356290543440
+    second: Mothula_100
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mothula_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 200
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023f64da378535590800000000000000
+      internalID: -7686702885139713248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 200
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7f57e96ed96c380800000000000000
+      internalID: -8951293595525711920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_2
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 200
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21f09c4d14282c50800000000000000
+      internalID: 6640597358815015215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_3
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 200
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104e806ee8650f4d0800000000000000
+      internalID: -3102884971513584639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_4
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 198
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad27684d2f49e7a10800000000000000
+      internalID: 1909127062720246490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_5
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 200
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32103d5d3c676e9e0800000000000000
+      internalID: -1592454834750815965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_6
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 200
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e62794c2c9ca220800000000000000
+      internalID: 2498543607308512844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_7
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 200
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c20ebc27e7344f510800000000000000
+      internalID: 1581963579484790828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_8
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 200
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1e47f58e6144350800000000000000
+      internalID: 5999945790854062513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_9
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 200
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b7a8eff84ab8440800000000000000
+      internalID: 4939222354699647871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_10
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 199
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29004f7f0fe67f90800000000000000
+      internalID: -6956109724588701396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_11
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 197
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b04c6d797645590800000000000000
+      internalID: -7686404762173699210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_12
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 199
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169d4237de830ea50800000000000000
+      internalID: 6548296450686900577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_13
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 199
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c536f0e43addea670800000000000000
+      internalID: 8552016435882189660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_14
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 199
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fbb75d41390fab70800000000000000
+      internalID: 8912352294945143792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_15
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 199
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d3b5039e5abed10800000000000000
+      internalID: 2155999267584163187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_16
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 199
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd4f7d5157647830800000000000000
+      internalID: 4067989962581036498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_17
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 199
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c35a80a7e9cd490800000000000000
+      internalID: -7720121414251627509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_18
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 197
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35beb5af5ea1507b0800000000000000
+      internalID: -5258767414835025069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_19
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 199
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe6eed0d0b1675f0800000000000000
+      internalID: -759389744283095312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_20
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 199
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9776eacc8a17c60800000000000000
+      internalID: 7814212425517332991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_21
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 199
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d14dc29bed96b800800000000000000
+      internalID: 627862833170563539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_22
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 199
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e72c2bed65c9890800000000000000
+      internalID: -7449984169095823774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_23
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 199
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff1af13ad9f56900800000000000000
+      internalID: 677222034525790194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_24
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 199
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35dcd5c4bcdf80770800000000000000
+      internalID: 8577384539928513875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_25
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 199
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab92a1752fac91f20800000000000000
+      internalID: 3393966936392608186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_26
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 199
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b299ebdf78796c0800000000000000
+      internalID: -4136688208822326493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_27
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 199
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3332db0daf0bdd0c0800000000000000
+      internalID: -4549285457283964109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_28
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 199
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c655feeaebfcdf640800000000000000
+      internalID: 5115473169648407916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_29
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 199
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b243100cf4575c2e0800000000000000
+      internalID: -2106148265341668309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_30
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 197
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ee6f090f38fcf70800000000000000
+      internalID: 9209724832243445270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_31
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 157
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d77c7597a72098f0800000000000000
+      internalID: -535884754936105003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_32
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 153
+        width: 62
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94487e5ed37814fc0800000000000000
+      internalID: -3512377534452366263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_33
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 155
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5a2902408d87170800000000000000
+      internalID: 8176522635729085878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_34
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 185
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e221469614313c0800000000000000
+      internalID: -4390093290849817066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_35
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 185
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e4a4ee507787e00800000000000000
+      internalID: 1042714181092658696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_36
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 183
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80996153155311f00800000000000000
+      internalID: 1085707608072296712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_37
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 183
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1b0c33046dcc0f0800000000000000
+      internalID: -1095265038123355734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_38
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 187
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276642ad968816050800000000000000
+      internalID: 5792060583987930738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_39
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 167
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a16c9b396a773eb0800000000000000
+      internalID: -4740185490393898586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_40
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 167
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9028a46dcccf79a0800000000000000
+      internalID: -6233038176728375139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_41
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 147
+        width: 104
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2c703464c82c530800000000000000
+      internalID: 3873812862892229319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_42
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 177
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b8bf88cbc2b8e30800000000000000
+      internalID: 4506745040377973612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_43
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 167
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75340b4eb01cbc20800000000000000
+      internalID: 3223469842778830205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_44
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 167
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ebdf5c73015a9df0800000000000000
+      internalID: -172736560286934046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_45
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 167
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f30be786b20ca80800000000000000
+      internalID: -8448705173144977519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_46
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 167
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67949b31e19c4fe0800000000000000
+      internalID: -1203426603861502101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_47
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 145
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31693663562925fe0800000000000000
+      internalID: -1201737187152652781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_48
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 145
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2205e281bdf28ed80800000000000000
+      internalID: -8221268501714808798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_49
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 151
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715a4bdb88ffb3fb0800000000000000
+      internalID: -4666855626076019433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_50
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 151
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd23337a4325cf7f0800000000000000
+      internalID: -577496266113338659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_51
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 151
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931c44e02a8cd91a0800000000000000
+      internalID: -6801059263909936839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_52
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 151
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73cddab7d09b33a30800000000000000
+      internalID: 4193899145572768823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_53
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 157
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237dc0e79ca4a6200800000000000000
+      internalID: 174033764870838066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_54
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 147
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273f8ad331718ba30800000000000000
+      internalID: 4231157221320881010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_55
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 137
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9dbe668d7152790800000000000000
+      internalID: -7555606581637031481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_56
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 125
+        width: 38
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840047408570e1d00800000000000000
+      internalID: 945201046407610440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_57
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 125
+        width: 30
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c063cd1d29f2e10800000000000000
+      internalID: 2175118575083588750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_58
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 125
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb21597e9978f110800000000000000
+      internalID: 1294918614416174051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_59
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 127
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f62822b92ab4ee0800000000000000
+      internalID: -1275747282246799547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_60
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 117
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175ce791bbe01def0800000000000000
+      internalID: -85270721193917071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_61
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 103
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ffa24986619e7350800000000000000
+      internalID: 6016406021789102073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_62
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 103
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a6d3f763508cd650800000000000000
+      internalID: 6259018677852821156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_63
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 103
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60ff01646e6451f0800000000000000
+      internalID: -1057098635121004435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_64
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 103
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d207df6b1da8440800000000000000
+      internalID: 4938990525231410446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_65
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 63
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab3e14e3cd532e70800000000000000
+      internalID: 9089211568890985387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_66
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 63
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa7592ebb021b560800000000000000
+      internalID: 7327674060040927919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_67
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 63
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d9266b8dac46090800000000000000
+      internalID: -8042080002455200481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_68
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 63
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a50513c8d8aa8580800000000000000
+      internalID: -8824054870939728472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_69
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 63
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491f0aa3840785970800000000000000
+      internalID: 8743862132063400340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_70
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 63
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f15cb0c09f5c9370800000000000000
+      internalID: 8330638486042071542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_71
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 63
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e7a987a53626ac0800000000000000
+      internalID: -3863416290108866930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_72
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 63
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63f2b41d783504b0800000000000000
+      internalID: -5474907662129630357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_73
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 63
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e503272d3a1e5dd0800000000000000
+      internalID: -2495528293564742168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_74
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 63
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca289d6cd54650d0800000000000000
+      internalID: -3434480852789613885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_75
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 63
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7f5e32d161cbca0800000000000000
+      internalID: -5999896289152206876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_76
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 63
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b904f33e50a1d4d50800000000000000
+      internalID: 6723058431323750555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_77
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 63
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2b1c8e8f4c680a0800000000000000
+      internalID: -6879594807425912073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_78
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 63
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd47220dc6796710800000000000000
+      internalID: 1687010158303464904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_79
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 63
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59add5b29dde97dd0800000000000000
+      internalID: -2487695802154231147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_80
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 63
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142dff1ffa032ddd0800000000000000
+      internalID: -2462852513980755391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_81
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 47
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6b617cd9deb4560800000000000000
+      internalID: 7299188882989823662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_82
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 47
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6bc8bded118b000800000000000000
+      internalID: 51811044578604757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_83
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 47
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ceda044fdc3ce7a0800000000000000
+      internalID: -6346630845254934843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_84
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 47
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd492b07838ed99a0800000000000000
+      internalID: -6224563780849593123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_85
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 7
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d679962b2904090800000000000000
+      internalID: -8052274838765081340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_86
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 7
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9160bea9a740f7d0800000000000000
+      internalID: -2886728567038647908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_87
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 7
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102063e9dd80b7680800000000000000
+      internalID: -8756395302556663295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_88
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 7
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79b5f97c007a5970800000000000000
+      internalID: 8744424825381304703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_89
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 7
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7dc8324377ee9c0800000000000000
+      internalID: -3896045561810462791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_90
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 7
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018f19e8662b1ebf0800000000000000
+      internalID: -296759946881402864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_91
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 7
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9cf391b21f13db0800000000000000
+      internalID: -4813801359272850972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_92
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 7
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4153cd4b24cff50800000000000000
+      internalID: 6916476472290251998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_93
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 7
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00a4f0e28fb82660800000000000000
+      internalID: 7361344159777857546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_94
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 7
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b18cdc71f6bba00800000000000000
+      internalID: 773333909051546395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_95
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 7
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966b185970f5ad9a0800000000000000
+      internalID: -6207544650199091607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_96
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 7
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e48721c635612ad0800000000000000
+      internalID: -2728788613366577946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_97
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 7
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e709ed4b0cb1d67d0800000000000000
+      internalID: -2923650068611428226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_98
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 7
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7954495ccf921e4a0800000000000000
+      internalID: -6565920616106146409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_99
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 7
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc4cba70dd105740800000000000000
+      internalID: 5138639956079299791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mothula_100
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 7
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0423b10d8ef2480800000000000000
+      internalID: -8921656356290543440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mothula_0: -7686702885139713248
+      Mothula_1: -8951293595525711920
+      Mothula_10: -6956109724588701396
+      Mothula_100: -8921656356290543440
+      Mothula_11: -7686404762173699210
+      Mothula_12: 6548296450686900577
+      Mothula_13: 8552016435882189660
+      Mothula_14: 8912352294945143792
+      Mothula_15: 2155999267584163187
+      Mothula_16: 4067989962581036498
+      Mothula_17: -7720121414251627509
+      Mothula_18: -5258767414835025069
+      Mothula_19: -759389744283095312
+      Mothula_2: 6640597358815015215
+      Mothula_20: 7814212425517332991
+      Mothula_21: 627862833170563539
+      Mothula_22: -7449984169095823774
+      Mothula_23: 677222034525790194
+      Mothula_24: 8577384539928513875
+      Mothula_25: 3393966936392608186
+      Mothula_26: -4136688208822326493
+      Mothula_27: -4549285457283964109
+      Mothula_28: 5115473169648407916
+      Mothula_29: -2106148265341668309
+      Mothula_3: -3102884971513584639
+      Mothula_30: 9209724832243445270
+      Mothula_31: -535884754936105003
+      Mothula_32: -3512377534452366263
+      Mothula_33: 8176522635729085878
+      Mothula_34: -4390093290849817066
+      Mothula_35: 1042714181092658696
+      Mothula_36: 1085707608072296712
+      Mothula_37: -1095265038123355734
+      Mothula_38: 5792060583987930738
+      Mothula_39: -4740185490393898586
+      Mothula_4: 1909127062720246490
+      Mothula_40: -6233038176728375139
+      Mothula_41: 3873812862892229319
+      Mothula_42: 4506745040377973612
+      Mothula_43: 3223469842778830205
+      Mothula_44: -172736560286934046
+      Mothula_45: -8448705173144977519
+      Mothula_46: -1203426603861502101
+      Mothula_47: -1201737187152652781
+      Mothula_48: -8221268501714808798
+      Mothula_49: -4666855626076019433
+      Mothula_5: -1592454834750815965
+      Mothula_50: -577496266113338659
+      Mothula_51: -6801059263909936839
+      Mothula_52: 4193899145572768823
+      Mothula_53: 174033764870838066
+      Mothula_54: 4231157221320881010
+      Mothula_55: -7555606581637031481
+      Mothula_56: 945201046407610440
+      Mothula_57: 2175118575083588750
+      Mothula_58: 1294918614416174051
+      Mothula_59: -1275747282246799547
+      Mothula_6: 2498543607308512844
+      Mothula_60: -85270721193917071
+      Mothula_61: 6016406021789102073
+      Mothula_62: 6259018677852821156
+      Mothula_63: -1057098635121004435
+      Mothula_64: 4938990525231410446
+      Mothula_65: 9089211568890985387
+      Mothula_66: 7327674060040927919
+      Mothula_67: -8042080002455200481
+      Mothula_68: -8824054870939728472
+      Mothula_69: 8743862132063400340
+      Mothula_7: 1581963579484790828
+      Mothula_70: 8330638486042071542
+      Mothula_71: -3863416290108866930
+      Mothula_72: -5474907662129630357
+      Mothula_73: -2495528293564742168
+      Mothula_74: -3434480852789613885
+      Mothula_75: -5999896289152206876
+      Mothula_76: 6723058431323750555
+      Mothula_77: -6879594807425912073
+      Mothula_78: 1687010158303464904
+      Mothula_79: -2487695802154231147
+      Mothula_8: 5999945790854062513
+      Mothula_80: -2462852513980755391
+      Mothula_81: 7299188882989823662
+      Mothula_82: 51811044578604757
+      Mothula_83: -6346630845254934843
+      Mothula_84: -6224563780849593123
+      Mothula_85: -8052274838765081340
+      Mothula_86: -2886728567038647908
+      Mothula_87: -8756395302556663295
+      Mothula_88: 8744424825381304703
+      Mothula_89: -3896045561810462791
+      Mothula_9: 4939222354699647871
+      Mothula_90: -296759946881402864
+      Mothula_91: -4813801359272850972
+      Mothula_92: 6916476472290251998
+      Mothula_93: 7361344159777857546
+      Mothula_94: 773333909051546395
+      Mothula_95: -6207544650199091607
+      Mothula_96: -2728788613366577946
+      Mothula_97: -2923650068611428226
+      Mothula_98: -6565920616106146409
+      Mothula_99: 5138639956079299791
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

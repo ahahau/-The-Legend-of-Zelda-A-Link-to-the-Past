@@ -1,0 +1,8125 @@
+fileFormatVersion: 2
+guid: 795da956ab0c9ee4cb061f96332bebdb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3030598978281079273
+    second: Moldorm_0
+  - first:
+      213: 5052112571347103976
+    second: Moldorm_1
+  - first:
+      213: -198626701093122399
+    second: Moldorm_2
+  - first:
+      213: 716164752719929404
+    second: Moldorm_3
+  - first:
+      213: 4327149316647137828
+    second: Moldorm_4
+  - first:
+      213: 7087382741596722373
+    second: Moldorm_5
+  - first:
+      213: -6975281320756320377
+    second: Moldorm_6
+  - first:
+      213: 1155216015539120628
+    second: Moldorm_7
+  - first:
+      213: -7086925128327058058
+    second: Moldorm_8
+  - first:
+      213: -2233147777176625407
+    second: Moldorm_9
+  - first:
+      213: 8935440793035114486
+    second: Moldorm_10
+  - first:
+      213: 8943291430270222109
+    second: Moldorm_11
+  - first:
+      213: 547497500945944170
+    second: Moldorm_12
+  - first:
+      213: 6559588301800228582
+    second: Moldorm_13
+  - first:
+      213: 5343336589566059934
+    second: Moldorm_14
+  - first:
+      213: -8378376802733453020
+    second: Moldorm_15
+  - first:
+      213: 867741738277534972
+    second: Moldorm_16
+  - first:
+      213: -2589033876935441208
+    second: Moldorm_17
+  - first:
+      213: 1420209212261895345
+    second: Moldorm_18
+  - first:
+      213: -4527989810273152709
+    second: Moldorm_19
+  - first:
+      213: 6907185598756081601
+    second: Moldorm_20
+  - first:
+      213: -7585718949730015366
+    second: Moldorm_21
+  - first:
+      213: -4256838862738934892
+    second: Moldorm_22
+  - first:
+      213: -5575731446017086336
+    second: Moldorm_23
+  - first:
+      213: -1086917995011504243
+    second: Moldorm_24
+  - first:
+      213: -4123395726136933526
+    second: Moldorm_25
+  - first:
+      213: 2600333930902719423
+    second: Moldorm_26
+  - first:
+      213: 7085078395464002617
+    second: Moldorm_27
+  - first:
+      213: 4931299458174367422
+    second: Moldorm_28
+  - first:
+      213: -4522245945415026921
+    second: Moldorm_29
+  - first:
+      213: -3223134623181366731
+    second: Moldorm_30
+  - first:
+      213: -5128813712592961268
+    second: Moldorm_31
+  - first:
+      213: 3496839629113230605
+    second: Moldorm_32
+  - first:
+      213: -2066165675132728903
+    second: Moldorm_33
+  - first:
+      213: -1885358796584983344
+    second: Moldorm_34
+  - first:
+      213: -6295735395455640923
+    second: Moldorm_35
+  - first:
+      213: -8475344499589049050
+    second: Moldorm_36
+  - first:
+      213: 3814962201802180987
+    second: Moldorm_37
+  - first:
+      213: 9102625481796471176
+    second: Moldorm_38
+  - first:
+      213: -473998978858850943
+    second: Moldorm_39
+  - first:
+      213: -6029900916023992629
+    second: Moldorm_40
+  - first:
+      213: 658282508573216526
+    second: Moldorm_41
+  - first:
+      213: 5166989527774399811
+    second: Moldorm_42
+  - first:
+      213: 1211996579353238632
+    second: Moldorm_43
+  - first:
+      213: -1642541386144805459
+    second: Moldorm_44
+  - first:
+      213: 6622622705155374800
+    second: Moldorm_45
+  - first:
+      213: -2053381906311005101
+    second: Moldorm_46
+  - first:
+      213: 2670908189872601224
+    second: Moldorm_47
+  - first:
+      213: 435700065981983496
+    second: Moldorm_48
+  - first:
+      213: 2442317457334052873
+    second: Moldorm_49
+  - first:
+      213: -6804615506797108507
+    second: Moldorm_50
+  - first:
+      213: 6826875111261753410
+    second: Moldorm_51
+  - first:
+      213: 3771414858195553946
+    second: Moldorm_52
+  - first:
+      213: -4773976372639879266
+    second: Moldorm_53
+  - first:
+      213: -2672376139795642549
+    second: Moldorm_54
+  - first:
+      213: 4388490724882323023
+    second: Moldorm_55
+  - first:
+      213: 354007297464701349
+    second: Moldorm_56
+  - first:
+      213: 2916103437973281428
+    second: Moldorm_57
+  - first:
+      213: -7631578915920483566
+    second: Moldorm_58
+  - first:
+      213: -7932390789880872521
+    second: Moldorm_59
+  - first:
+      213: 6859660548701666390
+    second: Moldorm_60
+  - first:
+      213: 5855988791153970775
+    second: Moldorm_61
+  - first:
+      213: 1234955195263227870
+    second: Moldorm_62
+  - first:
+      213: -6034170771443978532
+    second: Moldorm_63
+  - first:
+      213: -3882022302053033060
+    second: Moldorm_64
+  - first:
+      213: -7551183853261857271
+    second: Moldorm_65
+  - first:
+      213: 3275631285021659989
+    second: Moldorm_66
+  - first:
+      213: -1136996141790230208
+    second: Moldorm_67
+  - first:
+      213: -5325115062695457647
+    second: Moldorm_68
+  - first:
+      213: 3402971988999460074
+    second: Moldorm_69
+  - first:
+      213: 4051420817337011351
+    second: Moldorm_70
+  - first:
+      213: -5428284587623678733
+    second: Moldorm_71
+  - first:
+      213: 5145521747637995249
+    second: Moldorm_72
+  - first:
+      213: 5917967604488227620
+    second: Moldorm_73
+  - first:
+      213: -3211036400825644363
+    second: Moldorm_74
+  - first:
+      213: -269819053221866625
+    second: Moldorm_75
+  - first:
+      213: 888623849607752356
+    second: Moldorm_76
+  - first:
+      213: -1616505672927077834
+    second: Moldorm_77
+  - first:
+      213: 3149122482346633033
+    second: Moldorm_78
+  - first:
+      213: 6098014471916666670
+    second: Moldorm_79
+  - first:
+      213: 6990309514165660082
+    second: Moldorm_80
+  - first:
+      213: 4484261042999676851
+    second: Moldorm_81
+  - first:
+      213: 93119572293393746
+    second: Moldorm_82
+  - first:
+      213: 1155007389347454011
+    second: Moldorm_83
+  - first:
+      213: -2957590249383121637
+    second: Moldorm_84
+  - first:
+      213: 2281208314366608297
+    second: Moldorm_85
+  - first:
+      213: -2594848456313391271
+    second: Moldorm_86
+  - first:
+      213: -5965173476319995123
+    second: Moldorm_87
+  - first:
+      213: 8352474458914730441
+    second: Moldorm_88
+  - first:
+      213: -5728434415524999852
+    second: Moldorm_89
+  - first:
+      213: 823691429712215644
+    second: Moldorm_90
+  - first:
+      213: -876276409374350758
+    second: Moldorm_91
+  - first:
+      213: 396765897494562549
+    second: Moldorm_92
+  - first:
+      213: 7100035077069608664
+    second: Moldorm_93
+  - first:
+      213: -8496411248624121324
+    second: Moldorm_94
+  - first:
+      213: -4637701163098117346
+    second: Moldorm_95
+  - first:
+      213: -8825768497380822038
+    second: Moldorm_96
+  - first:
+      213: 3513963735841451324
+    second: Moldorm_97
+  - first:
+      213: 7634132481991162719
+    second: Moldorm_98
+  - first:
+      213: -1496402926227486643
+    second: Moldorm_99
+  - first:
+      213: -3991550364685444454
+    second: Moldorm_100
+  - first:
+      213: 4713971850413012367
+    second: Moldorm_101
+  - first:
+      213: -7588435266097897481
+    second: Moldorm_102
+  - first:
+      213: -3842818679370589712
+    second: Moldorm_103
+  - first:
+      213: 1910707102197253235
+    second: Moldorm_104
+  - first:
+      213: -7458922053403584605
+    second: Moldorm_105
+  - first:
+      213: -6642108219332844824
+    second: Moldorm_106
+  - first:
+      213: -1770667306992030256
+    second: Moldorm_107
+  - first:
+      213: -7937998400703633154
+    second: Moldorm_108
+  - first:
+      213: 5575245685971978059
+    second: Moldorm_109
+  - first:
+      213: 1055850571324433131
+    second: Moldorm_110
+  - first:
+      213: 6762470833558246922
+    second: Moldorm_111
+  - first:
+      213: -7070486129550542508
+    second: Moldorm_112
+  - first:
+      213: 5907658533926303672
+    second: Moldorm_113
+  - first:
+      213: 2615281111007593852
+    second: Moldorm_114
+  - first:
+      213: -135259304594812501
+    second: Moldorm_115
+  - first:
+      213: -1457271919493751295
+    second: Moldorm_116
+  - first:
+      213: 2054964436238416409
+    second: Moldorm_117
+  - first:
+      213: 2636931523064673163
+    second: Moldorm_118
+  - first:
+      213: -7819348920439815367
+    second: Moldorm_119
+  - first:
+      213: -1649507188617728223
+    second: Moldorm_120
+  - first:
+      213: -6242258356004448702
+    second: Moldorm_121
+  - first:
+      213: 483175191110479106
+    second: Moldorm_122
+  - first:
+      213: 1646633527980949971
+    second: Moldorm_123
+  - first:
+      213: -1088435166823879472
+    second: Moldorm_124
+  - first:
+      213: 4229593745672950066
+    second: Moldorm_125
+  - first:
+      213: 4578302876815217540
+    second: Moldorm_126
+  - first:
+      213: -3956832204196227629
+    second: Moldorm_127
+  - first:
+      213: 7177010289628584860
+    second: Moldorm_128
+  - first:
+      213: -8425575866940982343
+    second: Moldorm_129
+  - first:
+      213: -3056021643036055571
+    second: Moldorm_130
+  - first:
+      213: -5622975872075230901
+    second: Moldorm_131
+  - first:
+      213: 3031796622848398915
+    second: Moldorm_132
+  - first:
+      213: -1756481561483427071
+    second: Moldorm_133
+  - first:
+      213: -8131710547582795299
+    second: Moldorm_134
+  - first:
+      213: -8456857687912559901
+    second: Moldorm_135
+  - first:
+      213: 5882700249246661814
+    second: Moldorm_136
+  - first:
+      213: -7853985718158596932
+    second: Moldorm_137
+  - first:
+      213: -2681754723187890349
+    second: Moldorm_138
+  - first:
+      213: -7492334102141547822
+    second: Moldorm_139
+  - first:
+      213: -1423782934805418990
+    second: Moldorm_140
+  - first:
+      213: 645636494589845920
+    second: Moldorm_141
+  - first:
+      213: 6155983135382565593
+    second: Moldorm_142
+  - first:
+      213: 8537955461691779259
+    second: Moldorm_143
+  - first:
+      213: -3552673951279153229
+    second: Moldorm_144
+  - first:
+      213: -513254061047325966
+    second: Moldorm_145
+  - first:
+      213: -9194715543152973256
+    second: Moldorm_146
+  - first:
+      213: -555433960953749786
+    second: Moldorm_147
+  - first:
+      213: -2490012572692859718
+    second: Moldorm_148
+  - first:
+      213: -7851773466892052110
+    second: Moldorm_149
+  - first:
+      213: 6909617813213689441
+    second: Moldorm_150
+  - first:
+      213: 5391460309810556243
+    second: Moldorm_151
+  - first:
+      213: 6935511435320557475
+    second: Moldorm_152
+  - first:
+      213: 8320324588691213185
+    second: Moldorm_153
+  - first:
+      213: 3683238307224122310
+    second: Moldorm_154
+  - first:
+      213: -6233571774007608543
+    second: Moldorm_155
+  - first:
+      213: -2622706950670240531
+    second: Moldorm_156
+  - first:
+      213: -8738528752692245534
+    second: Moldorm_157
+  - first:
+      213: 2224078928865119747
+    second: Moldorm_158
+  - first:
+      213: -6869115582157447803
+    second: Moldorm_159
+  - first:
+      213: 3056049199723391110
+    second: Moldorm_160
+  - first:
+      213: 8865919200294812416
+    second: Moldorm_161
+  - first:
+      213: -4943916029132972211
+    second: Moldorm_162
+  - first:
+      213: -4497748671397839333
+    second: Moldorm_163
+  - first:
+      213: 8116731903848620421
+    second: Moldorm_164
+  - first:
+      213: 8609069232400991326
+    second: Moldorm_165
+  - first:
+      213: 3935628282660193190
+    second: Moldorm_166
+  - first:
+      213: 9071240058496014811
+    second: Moldorm_167
+  - first:
+      213: -7802278700109258762
+    second: Moldorm_168
+  - first:
+      213: -6522026260998365908
+    second: Moldorm_169
+  - first:
+      213: 236131496456524637
+    second: Moldorm_170
+  - first:
+      213: 3890079450637289978
+    second: Moldorm_171
+  - first:
+      213: -7289850846610841846
+    second: Moldorm_172
+  - first:
+      213: -5902933199935294510
+    second: Moldorm_173
+  - first:
+      213: -8851205648652164788
+    second: Moldorm_174
+  - first:
+      213: 6927899912632313870
+    second: Moldorm_175
+  - first:
+      213: 8485146879428446085
+    second: Moldorm_176
+  - first:
+      213: -6726052769747404707
+    second: Moldorm_177
+  - first:
+      213: 5436276040363435230
+    second: Moldorm_178
+  - first:
+      213: -6631784516042373992
+    second: Moldorm_179
+  - first:
+      213: -1852047203642290076
+    second: Moldorm_180
+  - first:
+      213: 5952470880441951165
+    second: Moldorm_181
+  - first:
+      213: 4781055905181954063
+    second: Moldorm_182
+  - first:
+      213: 8278805222677572718
+    second: Moldorm_183
+  - first:
+      213: -731425935146497543
+    second: Moldorm_184
+  - first:
+      213: 3425409779400761508
+    second: Moldorm_185
+  - first:
+      213: -5200623874703954674
+    second: Moldorm_186
+  - first:
+      213: 1813668085093475516
+    second: Moldorm_187
+  - first:
+      213: 5154238891939079399
+    second: Moldorm_188
+  - first:
+      213: -6554736087649793189
+    second: Moldorm_189
+  - first:
+      213: -310029337355623892
+    second: Moldorm_190
+  - first:
+      213: 2361678259245900261
+    second: Moldorm_191
+  - first:
+      213: 6499245174648046272
+    second: Moldorm_192
+  - first:
+      213: -447944672967842511
+    second: Moldorm_193
+  - first:
+      213: -7910825441522960636
+    second: Moldorm_194
+  - first:
+      213: 8109272268279388900
+    second: Moldorm_195
+  - first:
+      213: -7066728853896993433
+    second: Moldorm_196
+  - first:
+      213: 1017745548538509875
+    second: Moldorm_197
+  - first:
+      213: 3098848799632147982
+    second: Moldorm_198
+  - first:
+      213: 6999260078797411344
+    second: Moldorm_199
+  - first:
+      213: 1362920814996271354
+    second: Moldorm_200
+  - first:
+      213: 4385976663780571416
+    second: Moldorm_201
+  - first:
+      213: 5706363003008353093
+    second: Moldorm_202
+  - first:
+      213: -2000927839834671944
+    second: Moldorm_203
+  - first:
+      213: -1291453064153576177
+    second: Moldorm_204
+  - first:
+      213: -4922491921060138580
+    second: Moldorm_205
+  - first:
+      213: 1787334193495341584
+    second: Moldorm_206
+  - first:
+      213: 3622685198494992943
+    second: Moldorm_207
+  - first:
+      213: -8883518566718815923
+    second: Moldorm_208
+  - first:
+      213: -8430481279070765265
+    second: Moldorm_209
+  - first:
+      213: -4720277760491954518
+    second: Moldorm_210
+  - first:
+      213: -2338964884572882328
+    second: Moldorm_211
+  - first:
+      213: 4394993896583505714
+    second: Moldorm_212
+  - first:
+      213: -1315586623771162002
+    second: Moldorm_213
+  - first:
+      213: -5166447955732752474
+    second: Moldorm_214
+  - first:
+      213: 6601966254233199690
+    second: Moldorm_215
+  - first:
+      213: -5316670829130042843
+    second: Moldorm_216
+  - first:
+      213: 973343066353824276
+    second: Moldorm_217
+  - first:
+      213: -7948305526644153429
+    second: Moldorm_218
+  - first:
+      213: -975511543616167760
+    second: Moldorm_219
+  - first:
+      213: 4637013195089731024
+    second: Moldorm_220
+  - first:
+      213: -8546188963455569727
+    second: Moldorm_221
+  - first:
+      213: -6354895998940282908
+    second: Moldorm_222
+  - first:
+      213: -8071684878860427964
+    second: Moldorm_223
+  - first:
+      213: 2490707952207892299
+    second: Moldorm_224
+  - first:
+      213: 2230085416889754211
+    second: Moldorm_225
+  - first:
+      213: -621088264483689331
+    second: Moldorm_226
+  - first:
+      213: -1023342951278652964
+    second: Moldorm_227
+  - first:
+      213: 4537829505569281379
+    second: Moldorm_228
+  - first:
+      213: 4110073188332022191
+    second: Moldorm_229
+  - first:
+      213: 6635912734649280489
+    second: Moldorm_230
+  - first:
+      213: 1036085743868296312
+    second: Moldorm_231
+  - first:
+      213: -8822602140507049280
+    second: Moldorm_232
+  - first:
+      213: 6430036144610453586
+    second: Moldorm_233
+  - first:
+      213: -406620281454053059
+    second: Moldorm_234
+  - first:
+      213: 5694855806097847536
+    second: Moldorm_235
+  - first:
+      213: -415698552658586120
+    second: Moldorm_236
+  - first:
+      213: -5543259479417809093
+    second: Moldorm_237
+  - first:
+      213: -1116814902473291431
+    second: Moldorm_238
+  - first:
+      213: -9193052421644421870
+    second: Moldorm_239
+  - first:
+      213: -5560490796715206877
+    second: Moldorm_240
+  - first:
+      213: -462815257228281714
+    second: Moldorm_241
+  - first:
+      213: 7030982241286050976
+    second: Moldorm_242
+  - first:
+      213: -3618854193881094165
+    second: Moldorm_243
+  - first:
+      213: -7619899022444326811
+    second: Moldorm_244
+  - first:
+      213: -537612446937594494
+    second: Moldorm_245
+  - first:
+      213: -6137313649413594676
+    second: Moldorm_246
+  - first:
+      213: -7622174900520212541
+    second: Moldorm_247
+  - first:
+      213: -192639811026840698
+    second: Moldorm_248
+  - first:
+      213: -4205016896820143982
+    second: Moldorm_249
+  - first:
+      213: 3939815468599274809
+    second: Moldorm_250
+  - first:
+      213: -4565011767937476897
+    second: Moldorm_251
+  - first:
+      213: -2151589555713503484
+    second: Moldorm_252
+  - first:
+      213: -7867689134837990765
+    second: Moldorm_253
+  - first:
+      213: 7878026644554931089
+    second: Moldorm_254
+  - first:
+      213: 6811307375782124056
+    second: Moldorm_255
+  - first:
+      213: -8143492719688451683
+    second: Moldorm_256
+  - first:
+      213: 1180823748239651799
+    second: Moldorm_257
+  - first:
+      213: 6173457952978088624
+    second: Moldorm_258
+  - first:
+      213: -7842902782800812274
+    second: Moldorm_259
+  - first:
+      213: -2062617012711097825
+    second: Moldorm_260
+  - first:
+      213: 7116172600426100610
+    second: Moldorm_261
+  - first:
+      213: -8729147228363340982
+    second: Moldorm_262
+  - first:
+      213: -196231509791686290
+    second: Moldorm_263
+  - first:
+      213: -7610422936344852220
+    second: Moldorm_264
+  - first:
+      213: -5127943333093272181
+    second: Moldorm_265
+  - first:
+      213: -3617115338663602270
+    second: Moldorm_266
+  - first:
+      213: -8985943751567860284
+    second: Moldorm_267
+  - first:
+      213: 6619416241548497236
+    second: Moldorm_268
+  - first:
+      213: 6922030258654784963
+    second: Moldorm_269
+  - first:
+      213: 7784463532527684796
+    second: Moldorm_270
+  - first:
+      213: -4132605350430941464
+    second: Moldorm_271
+  - first:
+      213: -7321907021919689392
+    second: Moldorm_272
+  - first:
+      213: 9036440847492100357
+    second: Moldorm_273
+  - first:
+      213: 6828663324313274096
+    second: Moldorm_274
+  - first:
+      213: -6140897310001799140
+    second: Moldorm_275
+  - first:
+      213: -2938200906356666808
+    second: Moldorm_276
+  - first:
+      213: 31879112314990556
+    second: Moldorm_277
+  - first:
+      213: -2863457952417496807
+    second: Moldorm_278
+  - first:
+      213: 3647881024848533184
+    second: Moldorm_279
+  - first:
+      213: 7974029881348352197
+    second: Moldorm_280
+  - first:
+      213: -1179830197766166330
+    second: Moldorm_281
+  - first:
+      213: -7619646892551266958
+    second: Moldorm_282
+  - first:
+      213: -6543019070078414603
+    second: Moldorm_283
+  - first:
+      213: 4195510445372559814
+    second: Moldorm_284
+  - first:
+      213: -3166341575711315181
+    second: Moldorm_285
+  - first:
+      213: 938044314472924710
+    second: Moldorm_286
+  - first:
+      213: 1654808197475634459
+    second: Moldorm_287
+  - first:
+      213: 1216762028070683379
+    second: Moldorm_288
+  - first:
+      213: -6236158669396819066
+    second: Moldorm_289
+  - first:
+      213: -5452230980556404597
+    second: Moldorm_290
+  - first:
+      213: -5031683518659666649
+    second: Moldorm_291
+  - first:
+      213: 5686495460212844640
+    second: Moldorm_292
+  - first:
+      213: -4684712451138035029
+    second: Moldorm_293
+  - first:
+      213: 5945898706787223411
+    second: Moldorm_294
+  - first:
+      213: -4112035639904629400
+    second: Moldorm_295
+  - first:
+      213: 5738300974447894934
+    second: Moldorm_296
+  - first:
+      213: 1320277815632406363
+    second: Moldorm_297
+  - first:
+      213: 7446637926653266591
+    second: Moldorm_298
+  - first:
+      213: -2012517321212814861
+    second: Moldorm_299
+  - first:
+      213: 7068849295228582811
+    second: Moldorm_300
+  - first:
+      213: 6928866948967720284
+    second: Moldorm_301
+  - first:
+      213: 8729988985149955188
+    second: Moldorm_302
+  - first:
+      213: -1769706559224259119
+    second: Moldorm_303
+  - first:
+      213: 8108835296609923414
+    second: Moldorm_304
+  - first:
+      213: -6786928158153441032
+    second: Moldorm_305
+  - first:
+      213: 189816720217926980
+    second: Moldorm_306
+  - first:
+      213: -5278086293968177830
+    second: Moldorm_307
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Moldorm_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 631
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ef4ea394621f5d0800000000000000
+      internalID: -3030598978281079273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_1
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 631
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0fd6ccd95bc1640800000000000000
+      internalID: 5052112571347103976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_2
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 632
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aecf6651165e3df0800000000000000
+      internalID: -198626701093122399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_3
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 632
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30e6865c0450f900800000000000000
+      internalID: 716164752719929404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_4
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 630
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422b3d4906f1d0c30800000000000000
+      internalID: 4327149316647137828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_5
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 632
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c45b1c8d017b5260800000000000000
+      internalID: 7087382741596722373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_6
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 632
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787e6eb6892d23f90800000000000000
+      internalID: -6975281320756320377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_7
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 630
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f92d0578d6280010800000000000000
+      internalID: 1155216015539120628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_8
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 632
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67da648d42f26ad90800000000000000
+      internalID: -7086925128327058058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_9
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 632
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f1f6aade34201e0800000000000000
+      internalID: -2233147777176625407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_10
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 632
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7846c2f00110c70800000000000000
+      internalID: 8935440793035114486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_11
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 632
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f3d081c24fc1c70800000000000000
+      internalID: 8943291430270222109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_12
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 630
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e0c4b831a199700800000000000000
+      internalID: 547497500945944170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_13
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 632
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e64c996ec6580b50800000000000000
+      internalID: 6559588301800228582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_14
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 632
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95ae686158572a40800000000000000
+      internalID: 5343336589566059934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_15
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 632
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42113be30b60abb80800000000000000
+      internalID: -8378376802733453020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_16
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 632
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfcffc27386da0c00800000000000000
+      internalID: 867741738277534972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_17
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 632
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c48fcdf767e11cd0800000000000000
+      internalID: -2589033876935441208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 592
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc8b9301c895b310800000000000000
+      internalID: 1420209212261895345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_19
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 594
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31941402495921c0800000000000000
+      internalID: -4527989810273152709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_20
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 607
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cfcc8bc4b04bdf50800000000000000
+      internalID: 6907185598756081601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_21
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 610
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77a46b5ecc1ab690800000000000000
+      internalID: -7585718949730015366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_22
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 607
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4933e58ab9bace4c0800000000000000
+      internalID: -4256838862738934892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_23
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 592
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c2d259ac50f92b0800000000000000
+      internalID: -5575731446017086336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_24
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 594
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d870c5f97dd7ae0f0800000000000000
+      internalID: -1086917995011504243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_25
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 607
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a638e3b0f61c6c6c0800000000000000
+      internalID: -4123395726136933526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_26
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 610
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb0ad8deed361420800000000000000
+      internalID: 2600333930902719423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_27
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 607
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c2d672341435260800000000000000
+      internalID: 7085078395464002617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_28
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 621
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb63f85eabe7f6440800000000000000
+      internalID: 4931299458174367422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_29
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 621
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7173694c541cd31c0800000000000000
+      internalID: -4522245945415026921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_30
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 621
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a130a13202543d0800000000000000
+      internalID: -3223134623181366731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_31
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 621
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c018ebd1a1bc2d8b0800000000000000
+      internalID: -5128813712592961268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_32
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 621
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d058dc99d15478030800000000000000
+      internalID: 3496839629113230605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_33
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 621
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9cb96f3418353e0800000000000000
+      internalID: -2066165675132728903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_34
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 621
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4e46fd92cd5d5e0800000000000000
+      internalID: -1885358796584983344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_35
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 619
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa530a930e01a8a0800000000000000
+      internalID: -6295735395455640923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_36
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 621
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6251fe8f417816a80800000000000000
+      internalID: -8475344499589049050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_37
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 621
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7906f5f8e771f430800000000000000
+      internalID: 3814962201802180987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_38
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 621
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889c5edd5a5035e70800000000000000
+      internalID: 9102625481796471176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_39
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 621
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1856839a0740c69f0800000000000000
+      internalID: -473998978858850943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_40
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 621
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce569d801d715ca0800000000000000
+      internalID: -6029900916023992629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_41
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 621
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f0c5d2470b22900800000000000000
+      internalID: 658282508573216526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_42
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 621
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d08218995d4b740800000000000000
+      internalID: 5166989527774399811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_43
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 619
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c965da770e1d010800000000000000
+      internalID: 1211996579353238632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_44
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 608
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad06f5df458439e0800000000000000
+      internalID: -1642541386144805459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_45
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 608
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0def83e134848eb50800000000000000
+      internalID: 6622622705155374800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_46
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 594
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c3e16190ce083e0800000000000000
+      internalID: -2053381906311005101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_47
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 594
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888b90df8d8f01520800000000000000
+      internalID: 2670908189872601224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_48
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 594
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b687dc6eaeb0600800000000000000
+      internalID: 435700065981983496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_49
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 594
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908a12999cad4e120800000000000000
+      internalID: 2442317457334052873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_50
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 594
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e26e3cbf362191a0800000000000000
+      internalID: -6804615506797108507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_51
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 594
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24056bc4ebeedbe50800000000000000
+      internalID: 6826875111261753410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_52
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 598
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e406be4d1c65430800000000000000
+      internalID: 3771414858195553946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_53
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 598
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f21be58cd6fbdb0800000000000000
+      internalID: -4773976372639879266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_54
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 588
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4740494f00d9ead0800000000000000
+      internalID: -2672376139795642549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_55
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 588
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4615b4201d07ec30800000000000000
+      internalID: 4388490724882323023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_56
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 575
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1974de2cfa9e400800000000000000
+      internalID: 354007297464701349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_57
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 575
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a51bc60a4187820800000000000000
+      internalID: 2916103437973281428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_58
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 578
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21be239e86f271690800000000000000
+      internalID: -7631578915920483566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_59
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 578
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b1029daa9c7ae190800000000000000
+      internalID: -7932390789880872521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_60
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 536
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65cbf1dcce8623f50800000000000000
+      internalID: 6859660548701666390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_61
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 551
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ec66977c6a44150800000000000000
+      internalID: 5855988791153970775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_62
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 551
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7103ff431732110800000000000000
+      internalID: 1234955195263227870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_63
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 536
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde690e57a1524ca0800000000000000
+      internalID: -6034170771443978532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_64
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 551
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b1cfbb849402ac0800000000000000
+      internalID: -3882022302053033060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_65
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 551
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e59a81b4ec43790800000000000000
+      internalID: -7551183853261857271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_66
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 568
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5535fd67c41657d20800000000000000
+      internalID: 3275631285021659989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_67
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 568
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0498a9978049830f0800000000000000
+      internalID: -1136996141790230208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_68
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 538
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c84fb60146916b0800000000000000
+      internalID: -5325115062695457647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_69
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 554
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4dae88ef8c93f20800000000000000
+      internalID: 3402971988999460074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_70
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 538
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ccefc94c9893830800000000000000
+      internalID: 4051420817337011351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_71
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 554
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc76f68debdaa4b0800000000000000
+      internalID: -5428284587623678733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_72
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 558
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6820074c0986740800000000000000
+      internalID: 5145521747637995249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_73
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 558
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b4ac97e28d02250800000000000000
+      internalID: 5917967604488227620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_74
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 538
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba40fff76b1073d0800000000000000
+      internalID: -3211036400825644363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_75
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 538
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73141b2009614cf0800000000000000
+      internalID: -269819053221866625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_76
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 538
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa6fcedea6055c00800000000000000
+      internalID: 888623849607752356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_77
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 538
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a17c3b7a40199e0800000000000000
+      internalID: -1616505672927077834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_78
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 538
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947a772863ee3bb20800000000000000
+      internalID: 3149122482346633033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_79
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 538
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2fb8c18adf70a450800000000000000
+      internalID: 6098014471916666670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_80
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 548
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9a0e58771920160800000000000000
+      internalID: 6990309514165660082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_81
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 548
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf4e14f8ab4b3e30800000000000000
+      internalID: 4484261042999676851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_82
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 538
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d1f24f1c3da4100800000000000000
+      internalID: 93119572293393746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_83
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 538
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c9103e919670010800000000000000
+      internalID: 1155007389347454011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_84
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 519
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d2c52965784f6d0800000000000000
+      internalID: -2957590249383121637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_85
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 519
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a34d7420ea78af10800000000000000
+      internalID: 2281208314366608297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_86
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 519
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957387bb31f3dfbd0800000000000000
+      internalID: -2594848456313391271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_87
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 517
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b5d500452773da0800000000000000
+      internalID: -5965173476319995123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_88
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 519
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1b22f5443f9e370800000000000000
+      internalID: 8352474458914730441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_89
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 519
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d8287ef338080b0800000000000000
+      internalID: -5728434415524999852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_90
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 519
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5eb780cdf65e6b00800000000000000
+      internalID: 823691429712215644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_91
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 519
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52ef269f37d6d3f0800000000000000
+      internalID: -876276409374350758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_92
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 517
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6072b4b78918500800000000000000
+      internalID: 396765897494562549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_93
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 517
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d61c85f844688260800000000000000
+      internalID: 7100035077069608664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_94
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 519
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a402c3cfea61a80800000000000000
+      internalID: -8496411248624121324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_95
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 519
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1bee1f1d5393afb0800000000000000
+      internalID: -4637701163098117346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_96
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 519
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae378c30052948580800000000000000
+      internalID: -8825768497380822038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_97
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 519
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d2f64666b14c030800000000000000
+      internalID: 3513963735841451324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_98
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 519
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5bba558b03e1f960800000000000000
+      internalID: 7634132481991162719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_99
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 519
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d480b558775bb3be0800000000000000
+      internalID: -1496402926227486643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_100
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 480
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ad7d9671a2b98c0800000000000000
+      internalID: -3991550364685444454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_101
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 482
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f85fe091c646b6140800000000000000
+      internalID: 4713971850413012367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_102
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 495
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff103ba45670b690800000000000000
+      internalID: -7588435266097897481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_103
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 498
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f951ef65c09baac0800000000000000
+      internalID: -3842818679370589712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_104
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 495
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37488407cf1348a10800000000000000
+      internalID: 1910707102197253235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_105
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 480
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a75d8759e59c7890800000000000000
+      internalID: -7458922053403584605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_106
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 482
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2a6f214cd72d3a0800000000000000
+      internalID: -6642108219332844824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_107
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 495
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dda75737735d67e0800000000000000
+      internalID: -1770667306992030256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_108
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 498
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8e07a038096d190800000000000000
+      internalID: -7937998400703633154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_109
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 495
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4783e799604f5d40800000000000000
+      internalID: 5575245685971978059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_110
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 415
+        width: 54
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2afaf108227ae00800000000000000
+      internalID: 1055850571324433131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_111
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 447
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06dd2ed46f19dd50800000000000000
+      internalID: 6762470833558246922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_112
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 482
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45930d2835690ed90800000000000000
+      internalID: -7070486129550542508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_113
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 482
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b77bf0f2283cf150800000000000000
+      internalID: 5907658533926303672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_114
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 482
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75856960585b4420800000000000000
+      internalID: 2615281111007593852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_115
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 482
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba15f0d01667f1ef0800000000000000
+      internalID: -135259304594812501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_116
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 482
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e5c6109eab6cbe0800000000000000
+      internalID: -1457271919493751295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_117
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 482
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a3d006443b48c10800000000000000
+      internalID: 2054964436238416409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_118
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 463
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83bc49cf33489420800000000000000
+      internalID: 2636931523064673163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_119
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 463
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933c956e5971c7390800000000000000
+      internalID: -7819348920439815367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_120
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 424
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12facff83f5cb19e0800000000000000
+      internalID: -1649507188617728223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_121
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 426
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246142e191b0f59a0800000000000000
+      internalID: -6242258356004448702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_122
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 439
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20deb6eb64594b600800000000000000
+      internalID: 483175191110479106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_123
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 442
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d18d8e28740ad610800000000000000
+      internalID: 1646633527980949971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_124
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 439
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc6b688bf915e0f0800000000000000
+      internalID: -1088435166823879472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_125
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 424
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231dc033a1982ba30800000000000000
+      internalID: 4229593745672950066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_126
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 426
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48358b6a536698f30800000000000000
+      internalID: 4578302876815217540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_127
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 439
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5de0113128619c0800000000000000
+      internalID: -3956832204196227629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_128
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 442
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b92ae35dcd99360800000000000000
+      internalID: 7177010289628584860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_129
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 439
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bbf0eeb367521b80800000000000000
+      internalID: -8425575866940982343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_130
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 361
+        width: 60
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de72ee4d184d695d0800000000000000
+      internalID: -3056021643036055571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_131
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 426
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b411d547c3d27f1b0800000000000000
+      internalID: -5622975872075230901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_132
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 426
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3469b1027fa131a20800000000000000
+      internalID: 3031796622848398915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_133
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 426
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103c1497359bf97e0800000000000000
+      internalID: -1756481561483427071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_134
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 426
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1c703375c562f80800000000000000
+      internalID: -8131710547582795299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_135
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 426
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eac0fb3db433aa80800000000000000
+      internalID: -8456857687912559901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_136
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 426
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bcf27475bc83a150800000000000000
+      internalID: 5882700249246661814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_137
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 407
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb46a2ef999010390800000000000000
+      internalID: -7853985718158596932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_138
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 407
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357e8ada94e78cad0800000000000000
+      internalID: -2681754723187890349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_139
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 405
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dace4784d1e50890800000000000000
+      internalID: -7492334102141547822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_140
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 407
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ce8add6f4bd3ce0800000000000000
+      internalID: -1423782934805418990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_141
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 407
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a16e0a98f2c5f800800000000000000
+      internalID: 645636494589845920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_142
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 407
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2f5cbbb027e6550800000000000000
+      internalID: 6155983135382565593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_143
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 407
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8ae32a149ec7670800000000000000
+      internalID: 8537955461691779259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_144
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 407
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bff83b3ddd52bec0800000000000000
+      internalID: -3552673951279153229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_145
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 405
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa5fbb962e80e8f0800000000000000
+      internalID: -513254061047325966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_146
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 407
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83aaa9fddeec56080800000000000000
+      internalID: -9194715543152973256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_147
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 407
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eed92d51c3ba48f0800000000000000
+      internalID: -555433960953749786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_148
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 407
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4b26ef1c2b17dd0800000000000000
+      internalID: -2490012572692859718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_149
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 407
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279df01e1a5e80390800000000000000
+      internalID: -7851773466892052110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_150
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 404
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166305adac4e3ef50800000000000000
+      internalID: 6909617813213689441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_151
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 406
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d20ea269052da40800000000000000
+      internalID: 5391460309810556243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_152
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 406
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aff0fd87e2ef3060800000000000000
+      internalID: 6935511435320557475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_153
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 406
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b43e4612bb77370800000000000000
+      internalID: 8320324588691213185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_154
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 406
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3743dc9bd7d1330800000000000000
+      internalID: 3683238307224122310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_155
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 406
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12bff589f77ed79a0800000000000000
+      internalID: -6233571774007608543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_156
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 406
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de43a5f8ce54a9bd0800000000000000
+      internalID: -2622706950670240531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_157
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 406
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ebcd3ce5628ab680800000000000000
+      internalID: -8738528752692245534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_158
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 404
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ecf6b80048dde10800000000000000
+      internalID: 2224078928865119747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_159
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 406
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d976ca5cffba0a0800000000000000
+      internalID: -6869115582157447803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_160
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 406
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68821a53e84496a20800000000000000
+      internalID: 3056049199723391110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_161
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 406
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b33ecf9821a0b70800000000000000
+      internalID: 8865919200294812416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_162
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 406
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f5b24c09ea36bb0800000000000000
+      internalID: -4943916029132972211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_163
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 406
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1eb858d969c491c0800000000000000
+      internalID: -4497748671397839333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_164
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 406
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5812af989ac64a070800000000000000
+      internalID: 8116731903848620421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_165
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 383
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e548104aade897770800000000000000
+      internalID: 8609069232400991326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_166
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 383
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a301fb32192e9630800000000000000
+      internalID: 3935628282660193190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_167
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 383
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9d2fe85c483ed70800000000000000
+      internalID: 9071240058496014811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_168
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 383
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff14694cdcb8b390800000000000000
+      internalID: -7802278700109258762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_169
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 390
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d5c69bbab1d75a0800000000000000
+      internalID: -6522026260998365908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_170
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 390
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d53929e4858e64300800000000000000
+      internalID: 236131496456524637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_171
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 390
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9484b56a65cf530800000000000000
+      internalID: 3890079450637289978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_172
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 395
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f1e2e374f35da90800000000000000
+      internalID: -7289850846610841846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_173
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 395
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d33ffc9781941ea0800000000000000
+      internalID: -5902933199935294510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_174
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 393
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c412826bb533a2580800000000000000
+      internalID: -8851205648652164788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_175
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 395
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08a8e3d348d42060800000000000000
+      internalID: 6927899912632313870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_176
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 395
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587c85f612c41c570800000000000000
+      internalID: 8485146879428446085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_177
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 395
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d587cae54a248a2a0800000000000000
+      internalID: -6726052769747404707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_178
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 395
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed464de8148817b40800000000000000
+      internalID: 5436276040363435230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_179
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 395
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894cb5e8e1b27f3a0800000000000000
+      internalID: -6631784516042373992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_180
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 393
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46055af71e43c46e0800000000000000
+      internalID: -1852047203642290076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_181
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 369
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3699c6abc6b9250800000000000000
+      internalID: 5952470880441951165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_182
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 350
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0077afb309b95240800000000000000
+      internalID: 4781055905181954063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_183
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 350
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c685eac7934e270800000000000000
+      internalID: 8278805222677572718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_184
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 376
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9c51cbcf379d5f0800000000000000
+      internalID: -731425935146497543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_185
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 376
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0e457bb00898f20800000000000000
+      internalID: 3425409779400761508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_186
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 360
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0dead9d32ca3d7b0800000000000000
+      internalID: -5200623874703954674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_187
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 355
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4a570a3817b2910800000000000000
+      internalID: 1813668085093475516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_188
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 362
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e42881c6f8878740800000000000000
+      internalID: 5154238891939079399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_189
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 361
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b433bb146e805a0800000000000000
+      internalID: -6554736087649793189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_190
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 361
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22e7f4d5fd82bbf0800000000000000
+      internalID: -310029337355623892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_191
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 313
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e16d143ddd56c020800000000000000
+      internalID: 2361678259245900261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_192
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 313
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c281174d05f13a50800000000000000
+      internalID: 6499245174648046272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_193
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 345
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13529b871b498c9f0800000000000000
+      internalID: -447944672967842511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_194
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 345
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407b6ed9c2a173290800000000000000
+      internalID: -7910825441522960636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_195
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 345
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea18b9c92ce98070800000000000000
+      internalID: 8109272268279388900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_196
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 345
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765677b6c8feded90800000000000000
+      internalID: -7066728853896993433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_197
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 343
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a7f542f22cf1e00800000000000000
+      internalID: 1017745548538509875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_198
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 297
+        width: 102
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0648ba9092510b20800000000000000
+      internalID: 3098848799632147982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_199
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 298
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014da4f35fd522160800000000000000
+      internalID: 6999260078797411344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_200
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 295
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0b6da92411ae210800000000000000
+      internalID: 1362920814996271354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_201
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 323
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8193bcda98e1edc30800000000000000
+      internalID: 4385976663780571416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_202
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 323
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5438eb9eae2113f40800000000000000
+      internalID: 5706363003008353093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_203
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 289
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4f6752bb64b34e0800000000000000
+      internalID: -2000927839834671944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_204
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 289
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d4903d746d31ee0800000000000000
+      internalID: -1291453064153576177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_205
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 289
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1fa73adabcfabb0800000000000000
+      internalID: -4922491921060138580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_206
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 289
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01af232baf2edc810800000000000000
+      internalID: 1787334193495341584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_207
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 289
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a0c558efc564230800000000000000
+      internalID: 3622685198494992943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_208
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 289
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4143233ee667b480800000000000000
+      internalID: -8883518566718815923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_209
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 289
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ff76b71f9e00b80800000000000000
+      internalID: -8430481279070765265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_210
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 289
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae53bcc2643e7eb0800000000000000
+      internalID: -4720277760491954518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_211
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 289
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86abbe074d35a8fd0800000000000000
+      internalID: -2338964884572882328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_212
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 289
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237aedbc9a72efc30800000000000000
+      internalID: 4394993896583505714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_213
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 289
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a4dda9fe81ebde0800000000000000
+      internalID: -1315586623771162002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_214
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 289
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7910015f61d48b0800000000000000
+      internalID: -5166447955732752474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_215
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 289
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a44afaa5455ee9b50800000000000000
+      internalID: 6601966254233199690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_216
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 289
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522b502cc046736b0800000000000000
+      internalID: -5316670829130042843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_217
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 287
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412fb92ac52028d00800000000000000
+      internalID: 973343066353824276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_218
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 289
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba3e9164c32f1b190800000000000000
+      internalID: -7948305526644153429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_219
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 289
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b027786b694672f0800000000000000
+      internalID: -975511543616167760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_220
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 289
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd5f18deeaf95040800000000000000
+      internalID: 4637013195089731024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_221
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 289
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0fdd9da66d56980800000000000000
+      internalID: -8546188963455569727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_222
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 247
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4effc9632cfdec7a0800000000000000
+      internalID: -6354895998940282908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_223
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 247
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44dd1a84e5d9bff80800000000000000
+      internalID: -8071684878860427964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_224
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 252
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f879aafa5c09220800000000000000
+      internalID: 2490707952207892299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_225
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 252
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3622e740fdad2fe10800000000000000
+      internalID: 2230085416889754211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_226
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 252
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c294d93837167f0800000000000000
+      internalID: -621088264483689331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_227
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 252
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1d2a9f10b5cc1f0800000000000000
+      internalID: -1023342951278652964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_228
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 252
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3655eb294eb99fe30800000000000000
+      internalID: 4537829505569281379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_229
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 252
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa92367e9c9e90930800000000000000
+      internalID: 4110073188332022191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_230
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 203
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7e24d397f771c50800000000000000
+      internalID: 6635912734649280489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_231
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 203
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87cbd10ae7ae06e00800000000000000
+      internalID: 1036085743868296312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_232
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 209
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2f97ce812df8580800000000000000
+      internalID: -8822602140507049280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_233
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 209
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258ad644ec31c3950800000000000000
+      internalID: 6430036144610453586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_234
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 209
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39367522056b5af0800000000000000
+      internalID: -406620281454053059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_235
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 209
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f47889de21380f40800000000000000
+      internalID: 5694855806097847536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_236
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 207
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5142b6e542b3af0800000000000000
+      internalID: -415698552658586120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_237
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 207
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b371c777fd26213b0800000000000000
+      internalID: -5543259479417809093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_238
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 161
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959873a63c64080f0800000000000000
+      internalID: -1116814902473291431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_239
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 161
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215f6568787bb6080800000000000000
+      internalID: -9193052421644421870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_240
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 167
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32716f4c41b25d2b0800000000000000
+      internalID: -5560490796715206877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_241
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 167
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88f644c9ffb399f0800000000000000
+      internalID: -462815257228281714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_242
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 167
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a45fe1c811139160800000000000000
+      internalID: 7030982241286050976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_243
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 167
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7e8cfb84f37cdc0800000000000000
+      internalID: -3618854193881094165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_244
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 161
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5601cd6063ea04690800000000000000
+      internalID: -7619899022444326811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_245
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 161
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285c471f3540a88f0800000000000000
+      internalID: -537612446937594494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_246
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 122
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1eb83b0c1e3daa0800000000000000
+      internalID: -6137313649413594676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_247
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 122
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7289edf48983690800000000000000
+      internalID: -7622174900520212541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_248
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 124
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683952ecc1b935df0800000000000000
+      internalID: -192639811026840698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_249
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 124
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29815865967c4a5c0800000000000000
+      internalID: -4205016896820143982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_250
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 124
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93de27e6b490da630800000000000000
+      internalID: 3939815468599274809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_251
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 124
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6db98cbf1d5a0c0800000000000000
+      internalID: -4565011767937476897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_252
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 117
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f814dd2b40422e0800000000000000
+      internalID: -2151589555713503484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_253
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 117
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39af7caaa6a50d290800000000000000
+      internalID: -7867689134837990765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_254
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 99
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b52cf5e7f545d60800000000000000
+      internalID: 7878026644554931089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_255
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 99
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81add7d68ff968e50800000000000000
+      internalID: 6811307375782124056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_256
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 99
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d997dfb74808cfe80800000000000000
+      internalID: -8143492719688451683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_257
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 99
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d37b2851f0236010800000000000000
+      internalID: 1180823748239651799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_258
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 99
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2b113cc478ca550800000000000000
+      internalID: 6173457952978088624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_259
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 97
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e072c37f879682390800000000000000
+      internalID: -7842902782800812274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_260
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 99
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a7da151cc1063e0800000000000000
+      internalID: -2062617012711097825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_261
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 99
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 287f3c8e649b1c260800000000000000
+      internalID: 7116172600426100610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_262
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 99
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43415548d6dbd680800000000000000
+      internalID: -8729147228363340982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_263
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 99
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61c0254b78d64df0800000000000000
+      internalID: -196231509791686290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_264
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 99
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4090ea049a8526690800000000000000
+      internalID: -7610422936344852220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_265
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 99
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8594a225b2e5d8b0800000000000000
+      internalID: -5127943333093272181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_266
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 99
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7d65783cc6dcdc0800000000000000
+      internalID: -3617115338663602270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_267
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 63
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd182c74c38b4380800000000000000
+      internalID: -8985943751567860284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_268
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 56
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45113f12004ecdb50800000000000000
+      internalID: 6619416241548497236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_269
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 55
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cdaf9388ddff0060800000000000000
+      internalID: 6922030258654784963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_270
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 56
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc8b47c658f70c60800000000000000
+      internalID: 7784463532527684796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_271
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 59
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee5faa445906a6c0800000000000000
+      internalID: -4132605350430941464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_272
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 63
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055e9005b5c536a90800000000000000
+      internalID: -7321907021919689392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_273
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 63
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501b89cd213e76d70800000000000000
+      internalID: 9036440847492100357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_274
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 63
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f64e681d1944ce50800000000000000
+      internalID: 6828663324313274096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_275
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 16
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10e033be6627caa0800000000000000
+      internalID: -6140897310001799140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_276
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 16
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e41e9c7d96937d0800000000000000
+      internalID: -2938200906356666808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_277
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 16
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf2a4d32e1417000800000000000000
+      internalID: 31879112314990556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_278
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 16
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91143ecd924f248d0800000000000000
+      internalID: -2863457952417496807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_279
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 16
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c61cfcf670ef9230800000000000000
+      internalID: 3647881024848533184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_280
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 12
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c86e1acde179ae60800000000000000
+      internalID: 7974029881348352197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_281
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 9
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c86ed6afa660afe0800000000000000
+      internalID: -1179830197766166330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_282
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 8
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d92979583914690800000000000000
+      internalID: -7619646892551266958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_283
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 29
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f09e5972d68235a0800000000000000
+      internalID: -6543019070078414603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_284
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 27
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c15fd37582793a30800000000000000
+      internalID: 4195510445372559814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_285
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 27
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b2d26ec15ee04d0800000000000000
+      internalID: -3166341575711315181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_286
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 29
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626cbb3855a940d00800000000000000
+      internalID: 938044314472924710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_287
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 29
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d80fdb94f07f610800000000000000
+      internalID: 1654808197475634459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_288
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 29
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2465b2e9ec2e010800000000000000
+      internalID: 1216762028070683379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_289
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 29
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68341a31bb6b479a0800000000000000
+      internalID: -6236158669396819066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_290
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 29
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b884e827fc8c554b0800000000000000
+      internalID: -5452230980556404597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_291
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 18
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d5a10bf7edb2ab0800000000000000
+      internalID: -5031683518659666649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_292
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 18
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068abd22e7d7aee40800000000000000
+      internalID: 5686495460212844640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_293
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 18
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2611ba8de8cfeb0800000000000000
+      internalID: -4684712451138035029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_294
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 18
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377c1800f53148250800000000000000
+      internalID: 5945898706787223411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_295
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 18
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d0dbb3f5d1fe6c0800000000000000
+      internalID: -4112035639904629400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_296
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 18
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691ae3c555a82af40800000000000000
+      internalID: 5738300974447894934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_297
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 18
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57299d9da1925210800000000000000
+      internalID: 1320277815632406363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_298
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 7
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a8e158db5c75760800000000000000
+      internalID: 7446637926653266591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_299
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 7
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f91accb82a1214e0800000000000000
+      internalID: -2012517321212814861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_300
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 7
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9bbedc4bf8991260800000000000000
+      internalID: 7068849295228582811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_301
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 7
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c556a2587c7482060800000000000000
+      internalID: 6928866948967720284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_302
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 6
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c9fe08ab6272970800000000000000
+      internalID: 8729988985149955188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_303
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 7
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd52ccb24db077e0800000000000000
+      internalID: -1769706559224259119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_304
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 7
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65175946dbe588070800000000000000
+      internalID: 8108835296609923414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_305
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 7
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f00b218cccffc1a0800000000000000
+      internalID: -6786928158153441032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_306
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 7
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44de4052d4d52a200800000000000000
+      internalID: 189816720217926980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moldorm_307
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 7
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a553b2aea7870c6b0800000000000000
+      internalID: -5278086293968177830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Moldorm_0: -3030598978281079273
+      Moldorm_1: 5052112571347103976
+      Moldorm_10: 8935440793035114486
+      Moldorm_100: -3991550364685444454
+      Moldorm_101: 4713971850413012367
+      Moldorm_102: -7588435266097897481
+      Moldorm_103: -3842818679370589712
+      Moldorm_104: 1910707102197253235
+      Moldorm_105: -7458922053403584605
+      Moldorm_106: -6642108219332844824
+      Moldorm_107: -1770667306992030256
+      Moldorm_108: -7937998400703633154
+      Moldorm_109: 5575245685971978059
+      Moldorm_11: 8943291430270222109
+      Moldorm_110: 1055850571324433131
+      Moldorm_111: 6762470833558246922
+      Moldorm_112: -7070486129550542508
+      Moldorm_113: 5907658533926303672
+      Moldorm_114: 2615281111007593852
+      Moldorm_115: -135259304594812501
+      Moldorm_116: -1457271919493751295
+      Moldorm_117: 2054964436238416409
+      Moldorm_118: 2636931523064673163
+      Moldorm_119: -7819348920439815367
+      Moldorm_12: 547497500945944170
+      Moldorm_120: -1649507188617728223
+      Moldorm_121: -6242258356004448702
+      Moldorm_122: 483175191110479106
+      Moldorm_123: 1646633527980949971
+      Moldorm_124: -1088435166823879472
+      Moldorm_125: 4229593745672950066
+      Moldorm_126: 4578302876815217540
+      Moldorm_127: -3956832204196227629
+      Moldorm_128: 7177010289628584860
+      Moldorm_129: -8425575866940982343
+      Moldorm_13: 6559588301800228582
+      Moldorm_130: -3056021643036055571
+      Moldorm_131: -5622975872075230901
+      Moldorm_132: 3031796622848398915
+      Moldorm_133: -1756481561483427071
+      Moldorm_134: -8131710547582795299
+      Moldorm_135: -8456857687912559901
+      Moldorm_136: 5882700249246661814
+      Moldorm_137: -7853985718158596932
+      Moldorm_138: -2681754723187890349
+      Moldorm_139: -7492334102141547822
+      Moldorm_14: 5343336589566059934
+      Moldorm_140: -1423782934805418990
+      Moldorm_141: 645636494589845920
+      Moldorm_142: 6155983135382565593
+      Moldorm_143: 8537955461691779259
+      Moldorm_144: -3552673951279153229
+      Moldorm_145: -513254061047325966
+      Moldorm_146: -9194715543152973256
+      Moldorm_147: -555433960953749786
+      Moldorm_148: -2490012572692859718
+      Moldorm_149: -7851773466892052110
+      Moldorm_15: -8378376802733453020
+      Moldorm_150: 6909617813213689441
+      Moldorm_151: 5391460309810556243
+      Moldorm_152: 6935511435320557475
+      Moldorm_153: 8320324588691213185
+      Moldorm_154: 3683238307224122310
+      Moldorm_155: -6233571774007608543
+      Moldorm_156: -2622706950670240531
+      Moldorm_157: -8738528752692245534
+      Moldorm_158: 2224078928865119747
+      Moldorm_159: -6869115582157447803
+      Moldorm_16: 867741738277534972
+      Moldorm_160: 3056049199723391110
+      Moldorm_161: 8865919200294812416
+      Moldorm_162: -4943916029132972211
+      Moldorm_163: -4497748671397839333
+      Moldorm_164: 8116731903848620421
+      Moldorm_165: 8609069232400991326
+      Moldorm_166: 3935628282660193190
+      Moldorm_167: 9071240058496014811
+      Moldorm_168: -7802278700109258762
+      Moldorm_169: -6522026260998365908
+      Moldorm_17: -2589033876935441208
+      Moldorm_170: 236131496456524637
+      Moldorm_171: 3890079450637289978
+      Moldorm_172: -7289850846610841846
+      Moldorm_173: -5902933199935294510
+      Moldorm_174: -8851205648652164788
+      Moldorm_175: 6927899912632313870
+      Moldorm_176: 8485146879428446085
+      Moldorm_177: -6726052769747404707
+      Moldorm_178: 5436276040363435230
+      Moldorm_179: -6631784516042373992
+      Moldorm_18: 1420209212261895345
+      Moldorm_180: -1852047203642290076
+      Moldorm_181: 5952470880441951165
+      Moldorm_182: 4781055905181954063
+      Moldorm_183: 8278805222677572718
+      Moldorm_184: -731425935146497543
+      Moldorm_185: 3425409779400761508
+      Moldorm_186: -5200623874703954674
+      Moldorm_187: 1813668085093475516
+      Moldorm_188: 5154238891939079399
+      Moldorm_189: -6554736087649793189
+      Moldorm_19: -4527989810273152709
+      Moldorm_190: -310029337355623892
+      Moldorm_191: 2361678259245900261
+      Moldorm_192: 6499245174648046272
+      Moldorm_193: -447944672967842511
+      Moldorm_194: -7910825441522960636
+      Moldorm_195: 8109272268279388900
+      Moldorm_196: -7066728853896993433
+      Moldorm_197: 1017745548538509875
+      Moldorm_198: 3098848799632147982
+      Moldorm_199: 6999260078797411344
+      Moldorm_2: -198626701093122399
+      Moldorm_20: 6907185598756081601
+      Moldorm_200: 1362920814996271354
+      Moldorm_201: 4385976663780571416
+      Moldorm_202: 5706363003008353093
+      Moldorm_203: -2000927839834671944
+      Moldorm_204: -1291453064153576177
+      Moldorm_205: -4922491921060138580
+      Moldorm_206: 1787334193495341584
+      Moldorm_207: 3622685198494992943
+      Moldorm_208: -8883518566718815923
+      Moldorm_209: -8430481279070765265
+      Moldorm_21: -7585718949730015366
+      Moldorm_210: -4720277760491954518
+      Moldorm_211: -2338964884572882328
+      Moldorm_212: 4394993896583505714
+      Moldorm_213: -1315586623771162002
+      Moldorm_214: -5166447955732752474
+      Moldorm_215: 6601966254233199690
+      Moldorm_216: -5316670829130042843
+      Moldorm_217: 973343066353824276
+      Moldorm_218: -7948305526644153429
+      Moldorm_219: -975511543616167760
+      Moldorm_22: -4256838862738934892
+      Moldorm_220: 4637013195089731024
+      Moldorm_221: -8546188963455569727
+      Moldorm_222: -6354895998940282908
+      Moldorm_223: -8071684878860427964
+      Moldorm_224: 2490707952207892299
+      Moldorm_225: 2230085416889754211
+      Moldorm_226: -621088264483689331
+      Moldorm_227: -1023342951278652964
+      Moldorm_228: 4537829505569281379
+      Moldorm_229: 4110073188332022191
+      Moldorm_23: -5575731446017086336
+      Moldorm_230: 6635912734649280489
+      Moldorm_231: 1036085743868296312
+      Moldorm_232: -8822602140507049280
+      Moldorm_233: 6430036144610453586
+      Moldorm_234: -406620281454053059
+      Moldorm_235: 5694855806097847536
+      Moldorm_236: -415698552658586120
+      Moldorm_237: -5543259479417809093
+      Moldorm_238: -1116814902473291431
+      Moldorm_239: -9193052421644421870
+      Moldorm_24: -1086917995011504243
+      Moldorm_240: -5560490796715206877
+      Moldorm_241: -462815257228281714
+      Moldorm_242: 7030982241286050976
+      Moldorm_243: -3618854193881094165
+      Moldorm_244: -7619899022444326811
+      Moldorm_245: -537612446937594494
+      Moldorm_246: -6137313649413594676
+      Moldorm_247: -7622174900520212541
+      Moldorm_248: -192639811026840698
+      Moldorm_249: -4205016896820143982
+      Moldorm_25: -4123395726136933526
+      Moldorm_250: 3939815468599274809
+      Moldorm_251: -4565011767937476897
+      Moldorm_252: -2151589555713503484
+      Moldorm_253: -7867689134837990765
+      Moldorm_254: 7878026644554931089
+      Moldorm_255: 6811307375782124056
+      Moldorm_256: -8143492719688451683
+      Moldorm_257: 1180823748239651799
+      Moldorm_258: 6173457952978088624
+      Moldorm_259: -7842902782800812274
+      Moldorm_26: 2600333930902719423
+      Moldorm_260: -2062617012711097825
+      Moldorm_261: 7116172600426100610
+      Moldorm_262: -8729147228363340982
+      Moldorm_263: -196231509791686290
+      Moldorm_264: -7610422936344852220
+      Moldorm_265: -5127943333093272181
+      Moldorm_266: -3617115338663602270
+      Moldorm_267: -8985943751567860284
+      Moldorm_268: 6619416241548497236
+      Moldorm_269: 6922030258654784963
+      Moldorm_27: 7085078395464002617
+      Moldorm_270: 7784463532527684796
+      Moldorm_271: -4132605350430941464
+      Moldorm_272: -7321907021919689392
+      Moldorm_273: 9036440847492100357
+      Moldorm_274: 6828663324313274096
+      Moldorm_275: -6140897310001799140
+      Moldorm_276: -2938200906356666808
+      Moldorm_277: 31879112314990556
+      Moldorm_278: -2863457952417496807
+      Moldorm_279: 3647881024848533184
+      Moldorm_28: 4931299458174367422
+      Moldorm_280: 7974029881348352197
+      Moldorm_281: -1179830197766166330
+      Moldorm_282: -7619646892551266958
+      Moldorm_283: -6543019070078414603
+      Moldorm_284: 4195510445372559814
+      Moldorm_285: -3166341575711315181
+      Moldorm_286: 938044314472924710
+      Moldorm_287: 1654808197475634459
+      Moldorm_288: 1216762028070683379
+      Moldorm_289: -6236158669396819066
+      Moldorm_29: -4522245945415026921
+      Moldorm_290: -5452230980556404597
+      Moldorm_291: -5031683518659666649
+      Moldorm_292: 5686495460212844640
+      Moldorm_293: -4684712451138035029
+      Moldorm_294: 5945898706787223411
+      Moldorm_295: -4112035639904629400
+      Moldorm_296: 5738300974447894934
+      Moldorm_297: 1320277815632406363
+      Moldorm_298: 7446637926653266591
+      Moldorm_299: -2012517321212814861
+      Moldorm_3: 716164752719929404
+      Moldorm_30: -3223134623181366731
+      Moldorm_300: 7068849295228582811
+      Moldorm_301: 6928866948967720284
+      Moldorm_302: 8729988985149955188
+      Moldorm_303: -1769706559224259119
+      Moldorm_304: 8108835296609923414
+      Moldorm_305: -6786928158153441032
+      Moldorm_306: 189816720217926980
+      Moldorm_307: -5278086293968177830
+      Moldorm_31: -5128813712592961268
+      Moldorm_32: 3496839629113230605
+      Moldorm_33: -2066165675132728903
+      Moldorm_34: -1885358796584983344
+      Moldorm_35: -6295735395455640923
+      Moldorm_36: -8475344499589049050
+      Moldorm_37: 3814962201802180987
+      Moldorm_38: 9102625481796471176
+      Moldorm_39: -473998978858850943
+      Moldorm_4: 4327149316647137828
+      Moldorm_40: -6029900916023992629
+      Moldorm_41: 658282508573216526
+      Moldorm_42: 5166989527774399811
+      Moldorm_43: 1211996579353238632
+      Moldorm_44: -1642541386144805459
+      Moldorm_45: 6622622705155374800
+      Moldorm_46: -2053381906311005101
+      Moldorm_47: 2670908189872601224
+      Moldorm_48: 435700065981983496
+      Moldorm_49: 2442317457334052873
+      Moldorm_5: 7087382741596722373
+      Moldorm_50: -6804615506797108507
+      Moldorm_51: 6826875111261753410
+      Moldorm_52: 3771414858195553946
+      Moldorm_53: -4773976372639879266
+      Moldorm_54: -2672376139795642549
+      Moldorm_55: 4388490724882323023
+      Moldorm_56: 354007297464701349
+      Moldorm_57: 2916103437973281428
+      Moldorm_58: -7631578915920483566
+      Moldorm_59: -7932390789880872521
+      Moldorm_6: -6975281320756320377
+      Moldorm_60: 6859660548701666390
+      Moldorm_61: 5855988791153970775
+      Moldorm_62: 1234955195263227870
+      Moldorm_63: -6034170771443978532
+      Moldorm_64: -3882022302053033060
+      Moldorm_65: -7551183853261857271
+      Moldorm_66: 3275631285021659989
+      Moldorm_67: -1136996141790230208
+      Moldorm_68: -5325115062695457647
+      Moldorm_69: 3402971988999460074
+      Moldorm_7: 1155216015539120628
+      Moldorm_70: 4051420817337011351
+      Moldorm_71: -5428284587623678733
+      Moldorm_72: 5145521747637995249
+      Moldorm_73: 5917967604488227620
+      Moldorm_74: -3211036400825644363
+      Moldorm_75: -269819053221866625
+      Moldorm_76: 888623849607752356
+      Moldorm_77: -1616505672927077834
+      Moldorm_78: 3149122482346633033
+      Moldorm_79: 6098014471916666670
+      Moldorm_8: -7086925128327058058
+      Moldorm_80: 6990309514165660082
+      Moldorm_81: 4484261042999676851
+      Moldorm_82: 93119572293393746
+      Moldorm_83: 1155007389347454011
+      Moldorm_84: -2957590249383121637
+      Moldorm_85: 2281208314366608297
+      Moldorm_86: -2594848456313391271
+      Moldorm_87: -5965173476319995123
+      Moldorm_88: 8352474458914730441
+      Moldorm_89: -5728434415524999852
+      Moldorm_9: -2233147777176625407
+      Moldorm_90: 823691429712215644
+      Moldorm_91: -876276409374350758
+      Moldorm_92: 396765897494562549
+      Moldorm_93: 7100035077069608664
+      Moldorm_94: -8496411248624121324
+      Moldorm_95: -4637701163098117346
+      Moldorm_96: -8825768497380822038
+      Moldorm_97: 3513963735841451324
+      Moldorm_98: 7634132481991162719
+      Moldorm_99: -1496402926227486643
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

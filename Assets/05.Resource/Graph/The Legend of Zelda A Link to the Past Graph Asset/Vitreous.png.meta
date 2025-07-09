@@ -1,0 +1,6513 @@
+fileFormatVersion: 2
+guid: 50aeb67a1138b87428979d1e67e67b0a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9190347922612537280
+    second: Vitreous_0
+  - first:
+      213: -7008455152507224314
+    second: Vitreous_1
+  - first:
+      213: -3070703696993750873
+    second: Vitreous_2
+  - first:
+      213: 4457803615547078332
+    second: Vitreous_3
+  - first:
+      213: 7534384007940110285
+    second: Vitreous_4
+  - first:
+      213: 4899570159790911356
+    second: Vitreous_5
+  - first:
+      213: 8259100604728409975
+    second: Vitreous_6
+  - first:
+      213: -8851790117489649589
+    second: Vitreous_7
+  - first:
+      213: 407849796954803255
+    second: Vitreous_8
+  - first:
+      213: 7213364182727545680
+    second: Vitreous_9
+  - first:
+      213: -1874316434668944463
+    second: Vitreous_10
+  - first:
+      213: 7269401530167049865
+    second: Vitreous_11
+  - first:
+      213: -6703367328341714263
+    second: Vitreous_12
+  - first:
+      213: 1905838981798682533
+    second: Vitreous_13
+  - first:
+      213: -1080829734688770907
+    second: Vitreous_14
+  - first:
+      213: 1811491190004818583
+    second: Vitreous_15
+  - first:
+      213: -258382998492697085
+    second: Vitreous_16
+  - first:
+      213: -1840663212894747172
+    second: Vitreous_17
+  - first:
+      213: 7728026351297711588
+    second: Vitreous_18
+  - first:
+      213: -2002844666267106879
+    second: Vitreous_19
+  - first:
+      213: 126483859977335011
+    second: Vitreous_20
+  - first:
+      213: -9082764689883219971
+    second: Vitreous_21
+  - first:
+      213: 169534793928958996
+    second: Vitreous_22
+  - first:
+      213: -3537887813221739905
+    second: Vitreous_23
+  - first:
+      213: -144444281263754053
+    second: Vitreous_24
+  - first:
+      213: 2028746298906347442
+    second: Vitreous_25
+  - first:
+      213: 4990635731484846326
+    second: Vitreous_26
+  - first:
+      213: 6132493721284294432
+    second: Vitreous_27
+  - first:
+      213: -4104729241810954425
+    second: Vitreous_28
+  - first:
+      213: -4680850386080453661
+    second: Vitreous_29
+  - first:
+      213: -839816993024571745
+    second: Vitreous_30
+  - first:
+      213: -6757512583056748410
+    second: Vitreous_31
+  - first:
+      213: -1743554635520773314
+    second: Vitreous_32
+  - first:
+      213: 4874051699573105006
+    second: Vitreous_33
+  - first:
+      213: 6336834394913285599
+    second: Vitreous_34
+  - first:
+      213: 478190200302320269
+    second: Vitreous_35
+  - first:
+      213: -25978937088709711
+    second: Vitreous_36
+  - first:
+      213: 115089848469201592
+    second: Vitreous_37
+  - first:
+      213: -2122364446100488478
+    second: Vitreous_38
+  - first:
+      213: 1689544146647875831
+    second: Vitreous_39
+  - first:
+      213: 3942091670558431197
+    second: Vitreous_40
+  - first:
+      213: -5359954871350768379
+    second: Vitreous_41
+  - first:
+      213: -6311913943613426357
+    second: Vitreous_42
+  - first:
+      213: -4045633545826236593
+    second: Vitreous_43
+  - first:
+      213: -2604225348541140816
+    second: Vitreous_44
+  - first:
+      213: 750132959384184291
+    second: Vitreous_45
+  - first:
+      213: 6517136702740565254
+    second: Vitreous_46
+  - first:
+      213: 1715278534782227157
+    second: Vitreous_47
+  - first:
+      213: 5860894309032615488
+    second: Vitreous_48
+  - first:
+      213: 7778119842428392714
+    second: Vitreous_49
+  - first:
+      213: -5718546743262655263
+    second: Vitreous_50
+  - first:
+      213: -4920766689121297689
+    second: Vitreous_51
+  - first:
+      213: 2926598681827268898
+    second: Vitreous_52
+  - first:
+      213: 1538349580753903253
+    second: Vitreous_53
+  - first:
+      213: 8312369511114193704
+    second: Vitreous_54
+  - first:
+      213: 7601665265251952900
+    second: Vitreous_55
+  - first:
+      213: -3130076916196439145
+    second: Vitreous_56
+  - first:
+      213: 4894892632621587665
+    second: Vitreous_57
+  - first:
+      213: -4641989390578509009
+    second: Vitreous_58
+  - first:
+      213: 211957854005361817
+    second: Vitreous_59
+  - first:
+      213: 4982126793906289683
+    second: Vitreous_60
+  - first:
+      213: 259055645518179286
+    second: Vitreous_61
+  - first:
+      213: 348007672221681102
+    second: Vitreous_62
+  - first:
+      213: 7509715108282253649
+    second: Vitreous_63
+  - first:
+      213: -9121266583288785858
+    second: Vitreous_64
+  - first:
+      213: -7076254718393190621
+    second: Vitreous_65
+  - first:
+      213: 3152098598033536735
+    second: Vitreous_66
+  - first:
+      213: 8548444763814894827
+    second: Vitreous_67
+  - first:
+      213: 3176176883329389291
+    second: Vitreous_68
+  - first:
+      213: 4658841080396891004
+    second: Vitreous_69
+  - first:
+      213: -7582468502133321157
+    second: Vitreous_70
+  - first:
+      213: 4869312451671364853
+    second: Vitreous_71
+  - first:
+      213: 6943390647907361078
+    second: Vitreous_72
+  - first:
+      213: 5941147755620458295
+    second: Vitreous_73
+  - first:
+      213: -4692037147743736758
+    second: Vitreous_74
+  - first:
+      213: 327275834550309580
+    second: Vitreous_75
+  - first:
+      213: 4765045926202390756
+    second: Vitreous_76
+  - first:
+      213: 2254866200383432876
+    second: Vitreous_77
+  - first:
+      213: -7541655903886612708
+    second: Vitreous_78
+  - first:
+      213: 6655678569662163234
+    second: Vitreous_79
+  - first:
+      213: 9185513222271124355
+    second: Vitreous_80
+  - first:
+      213: -641624461009810896
+    second: Vitreous_81
+  - first:
+      213: 7228342337666783374
+    second: Vitreous_82
+  - first:
+      213: -2888611421950404181
+    second: Vitreous_83
+  - first:
+      213: -1205702606187894120
+    second: Vitreous_84
+  - first:
+      213: 2876904590459315520
+    second: Vitreous_85
+  - first:
+      213: -1718963746783520824
+    second: Vitreous_86
+  - first:
+      213: 4967162769375202435
+    second: Vitreous_87
+  - first:
+      213: -838833236593296345
+    second: Vitreous_88
+  - first:
+      213: -1478849039633785012
+    second: Vitreous_89
+  - first:
+      213: 5890977615756182302
+    second: Vitreous_90
+  - first:
+      213: 9102761618047278486
+    second: Vitreous_91
+  - first:
+      213: -2875350284379338732
+    second: Vitreous_92
+  - first:
+      213: -2035418376422330140
+    second: Vitreous_93
+  - first:
+      213: 1604125479670566471
+    second: Vitreous_94
+  - first:
+      213: -5231894773981301835
+    second: Vitreous_95
+  - first:
+      213: -1546889600685107115
+    second: Vitreous_96
+  - first:
+      213: 5322573200066824343
+    second: Vitreous_97
+  - first:
+      213: 8051182725966535191
+    second: Vitreous_98
+  - first:
+      213: 4458859767107866050
+    second: Vitreous_99
+  - first:
+      213: 7826306724758664821
+    second: Vitreous_100
+  - first:
+      213: -7181334758347534666
+    second: Vitreous_101
+  - first:
+      213: 4453007460127179498
+    second: Vitreous_102
+  - first:
+      213: 5853727673548879610
+    second: Vitreous_103
+  - first:
+      213: 4907919783333093096
+    second: Vitreous_104
+  - first:
+      213: 6197565458118596802
+    second: Vitreous_105
+  - first:
+      213: -1175664482030752065
+    second: Vitreous_106
+  - first:
+      213: 2547253722031307008
+    second: Vitreous_107
+  - first:
+      213: -8606885211484429724
+    second: Vitreous_108
+  - first:
+      213: 2825053696692290706
+    second: Vitreous_109
+  - first:
+      213: 3542403101924108985
+    second: Vitreous_110
+  - first:
+      213: -2512513861422668867
+    second: Vitreous_111
+  - first:
+      213: -3094537967855648476
+    second: Vitreous_112
+  - first:
+      213: -7499428722455383057
+    second: Vitreous_113
+  - first:
+      213: 6351010124355466435
+    second: Vitreous_114
+  - first:
+      213: -2822656208442290056
+    second: Vitreous_115
+  - first:
+      213: 7236573008462426912
+    second: Vitreous_116
+  - first:
+      213: -1935248890896875556
+    second: Vitreous_117
+  - first:
+      213: 5552732229246873612
+    second: Vitreous_118
+  - first:
+      213: 3570559473184767363
+    second: Vitreous_119
+  - first:
+      213: -8263701951505992156
+    second: Vitreous_120
+  - first:
+      213: -3798641431521512245
+    second: Vitreous_121
+  - first:
+      213: -2430886339347197033
+    second: Vitreous_122
+  - first:
+      213: -1112389936568311839
+    second: Vitreous_123
+  - first:
+      213: -4573189145282401386
+    second: Vitreous_124
+  - first:
+      213: -3766290458066779860
+    second: Vitreous_125
+  - first:
+      213: 1493199476680854032
+    second: Vitreous_126
+  - first:
+      213: -4705515168306474738
+    second: Vitreous_127
+  - first:
+      213: 3350721539272757469
+    second: Vitreous_128
+  - first:
+      213: -3517896950821733882
+    second: Vitreous_129
+  - first:
+      213: -1972538088369968719
+    second: Vitreous_130
+  - first:
+      213: -6389340007753840495
+    second: Vitreous_131
+  - first:
+      213: -5576985384814344672
+    second: Vitreous_132
+  - first:
+      213: 1663338256591524481
+    second: Vitreous_133
+  - first:
+      213: -2328117731006704459
+    second: Vitreous_134
+  - first:
+      213: 1423780255464281688
+    second: Vitreous_135
+  - first:
+      213: -5356057089976872724
+    second: Vitreous_136
+  - first:
+      213: -652524173337147018
+    second: Vitreous_137
+  - first:
+      213: -3524971076356561870
+    second: Vitreous_138
+  - first:
+      213: 5985090215561454138
+    second: Vitreous_139
+  - first:
+      213: 8266249903048996960
+    second: Vitreous_140
+  - first:
+      213: -3991917229028209777
+    second: Vitreous_141
+  - first:
+      213: -5289483311402927046
+    second: Vitreous_142
+  - first:
+      213: -3321065266001527926
+    second: Vitreous_143
+  - first:
+      213: 3280101310878296788
+    second: Vitreous_144
+  - first:
+      213: 5405219089262041992
+    second: Vitreous_145
+  - first:
+      213: -6557881314220746886
+    second: Vitreous_146
+  - first:
+      213: 2021446894802837707
+    second: Vitreous_147
+  - first:
+      213: -4175638106268382574
+    second: Vitreous_148
+  - first:
+      213: -7260688157948724450
+    second: Vitreous_149
+  - first:
+      213: 2272398195803035181
+    second: Vitreous_150
+  - first:
+      213: 2171636816325425681
+    second: Vitreous_151
+  - first:
+      213: -8133305806420244570
+    second: Vitreous_152
+  - first:
+      213: -7571598978878443159
+    second: Vitreous_153
+  - first:
+      213: -1658209751015039697
+    second: Vitreous_154
+  - first:
+      213: -4828720588613935238
+    second: Vitreous_155
+  - first:
+      213: -3974052832294096293
+    second: Vitreous_156
+  - first:
+      213: -3381918988899775099
+    second: Vitreous_157
+  - first:
+      213: 3081763624647716077
+    second: Vitreous_158
+  - first:
+      213: -8569311283041889296
+    second: Vitreous_159
+  - first:
+      213: -5684661063443081413
+    second: Vitreous_160
+  - first:
+      213: 344490545334965963
+    second: Vitreous_161
+  - first:
+      213: -6292607716881430460
+    second: Vitreous_162
+  - first:
+      213: 2953879112139039408
+    second: Vitreous_163
+  - first:
+      213: -6171032750299173994
+    second: Vitreous_164
+  - first:
+      213: 6952345483307927907
+    second: Vitreous_165
+  - first:
+      213: 3062370759911335281
+    second: Vitreous_166
+  - first:
+      213: 6308671302640026116
+    second: Vitreous_167
+  - first:
+      213: 7263470912786197876
+    second: Vitreous_168
+  - first:
+      213: 2052037465837647523
+    second: Vitreous_169
+  - first:
+      213: 4305513487973846099
+    second: Vitreous_170
+  - first:
+      213: 3582792655843383019
+    second: Vitreous_171
+  - first:
+      213: 9107167773795421745
+    second: Vitreous_172
+  - first:
+      213: -3913733676305641419
+    second: Vitreous_173
+  - first:
+      213: -5797036494202671574
+    second: Vitreous_174
+  - first:
+      213: 3429992375156188888
+    second: Vitreous_175
+  - first:
+      213: -7823425829589863735
+    second: Vitreous_176
+  - first:
+      213: -533723356829601275
+    second: Vitreous_177
+  - first:
+      213: 6145892751803430301
+    second: Vitreous_178
+  - first:
+      213: 1590592863577327473
+    second: Vitreous_179
+  - first:
+      213: 387562377050032985
+    second: Vitreous_180
+  - first:
+      213: 7699083999684428085
+    second: Vitreous_181
+  - first:
+      213: -8244113164718937439
+    second: Vitreous_182
+  - first:
+      213: 6227258533639352511
+    second: Vitreous_183
+  - first:
+      213: 4433131376825937442
+    second: Vitreous_184
+  - first:
+      213: -4702557267904410429
+    second: Vitreous_185
+  - first:
+      213: -7187227647720164189
+    second: Vitreous_186
+  - first:
+      213: -9140127732930703656
+    second: Vitreous_187
+  - first:
+      213: 6883805523598989842
+    second: Vitreous_188
+  - first:
+      213: 1038068859275893706
+    second: Vitreous_189
+  - first:
+      213: 2243399085614537212
+    second: Vitreous_190
+  - first:
+      213: -6096202361096901373
+    second: Vitreous_191
+  - first:
+      213: -4256753436003392464
+    second: Vitreous_192
+  - first:
+      213: 7247311526855800060
+    second: Vitreous_193
+  - first:
+      213: 4711190552713499691
+    second: Vitreous_194
+  - first:
+      213: -1518234521720275975
+    second: Vitreous_195
+  - first:
+      213: 4427339742816958374
+    second: Vitreous_196
+  - first:
+      213: -4615288395673906978
+    second: Vitreous_197
+  - first:
+      213: -8504218181667947301
+    second: Vitreous_198
+  - first:
+      213: 6281213160782736961
+    second: Vitreous_199
+  - first:
+      213: 547365378633375597
+    second: Vitreous_200
+  - first:
+      213: 742956091928116892
+    second: Vitreous_201
+  - first:
+      213: 3065653575673359647
+    second: Vitreous_202
+  - first:
+      213: 5644726175107015555
+    second: Vitreous_203
+  - first:
+      213: 6409010137976952231
+    second: Vitreous_204
+  - first:
+      213: 8449516628611771192
+    second: Vitreous_205
+  - first:
+      213: -2769625855600663552
+    second: Vitreous_206
+  - first:
+      213: 3686681291596032652
+    second: Vitreous_207
+  - first:
+      213: -4684592814374698759
+    second: Vitreous_208
+  - first:
+      213: -1633260824315653517
+    second: Vitreous_209
+  - first:
+      213: 6343555231244329530
+    second: Vitreous_210
+  - first:
+      213: 8089696865008197888
+    second: Vitreous_211
+  - first:
+      213: -870988473509046914
+    second: Vitreous_212
+  - first:
+      213: -7427510810441230704
+    second: Vitreous_213
+  - first:
+      213: 7108849756396035522
+    second: Vitreous_214
+  - first:
+      213: 4521021908252977695
+    second: Vitreous_215
+  - first:
+      213: -9089636233239614840
+    second: Vitreous_216
+  - first:
+      213: -8983671293822784487
+    second: Vitreous_217
+  - first:
+      213: 4645585431536999259
+    second: Vitreous_218
+  - first:
+      213: 7568760482500676030
+    second: Vitreous_219
+  - first:
+      213: -4740547488811331098
+    second: Vitreous_220
+  - first:
+      213: -7556091706476200845
+    second: Vitreous_221
+  - first:
+      213: 5903586407797515502
+    second: Vitreous_222
+  - first:
+      213: 231833856149558257
+    second: Vitreous_223
+  - first:
+      213: -4941465889856883591
+    second: Vitreous_224
+  - first:
+      213: 348891880301874899
+    second: Vitreous_225
+  - first:
+      213: -6318989835639604236
+    second: Vitreous_226
+  - first:
+      213: -5027314512276423785
+    second: Vitreous_227
+  - first:
+      213: -6249090137733670392
+    second: Vitreous_228
+  - first:
+      213: -417415081491058813
+    second: Vitreous_229
+  - first:
+      213: 1420888543517643915
+    second: Vitreous_230
+  - first:
+      213: 3178857526254808442
+    second: Vitreous_231
+  - first:
+      213: -6805567459936504707
+    second: Vitreous_232
+  - first:
+      213: -1819946689957881752
+    second: Vitreous_233
+  - first:
+      213: -8876293291138658277
+    second: Vitreous_234
+  - first:
+      213: 8324141303427116406
+    second: Vitreous_235
+  - first:
+      213: 2827566024646761261
+    second: Vitreous_236
+  - first:
+      213: -5253177547548190898
+    second: Vitreous_237
+  - first:
+      213: 6998116089283514976
+    second: Vitreous_238
+  - first:
+      213: -3116263855461549197
+    second: Vitreous_239
+  - first:
+      213: -6279076939086750536
+    second: Vitreous_240
+  - first:
+      213: 2533975289422079098
+    second: Vitreous_241
+  - first:
+      213: -2875083156027054965
+    second: Vitreous_242
+  - first:
+      213: -6448320316259138309
+    second: Vitreous_243
+  - first:
+      213: -7275739741900566710
+    second: Vitreous_244
+  - first:
+      213: -3985039840727972999
+    second: Vitreous_245
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Vitreous_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 479
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0483e66c143557080800000000000000
+      internalID: -9190347922612537280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 479
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ffc82db27fcbe90800000000000000
+      internalID: -7008455152507224314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_2
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 478
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a07532c14ba265d0800000000000000
+      internalID: -3070703696993750873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_3
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 479
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6b22715cc4ddd30800000000000000
+      internalID: 4457803615547078332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_4
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 477
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc777aa16528f8860800000000000000
+      internalID: 7534384007940110285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_5
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 479
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7fe07ee915cef340800000000000000
+      internalID: 4899570159790911356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_6
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 479
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ffc0dcd383e9270800000000000000
+      internalID: 8259100604728409975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_7
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 479
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4857b479cf182580800000000000000
+      internalID: -8851790117489649589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_8
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 479
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73cc43dba39f8a500800000000000000
+      internalID: 407849796954803255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_9
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 479
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053500391840b1460800000000000000
+      internalID: 7213364182727545680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_10
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 479
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b381ea12271df5e0800000000000000
+      internalID: -1874316434668944463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_11
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 479
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98eb94f3d2a12e460800000000000000
+      internalID: 7269401530167049865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_12
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 479
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa9b3b4eead8f2a0800000000000000
+      internalID: -6703367328341714263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_13
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 479
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5afd335d476e27a10800000000000000
+      internalID: 1905838981798682533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_14
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 479
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a43231351f1001f0800000000000000
+      internalID: -1080829734688770907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_15
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 479
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792acfdb3a5b32910800000000000000
+      internalID: 1811491190004818583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_16
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 477
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ea7d6280a0a6cf0800000000000000
+      internalID: -258382998492697085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_17
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 479
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd587446f86a476e0800000000000000
+      internalID: -1840663212894747172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_18
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 479
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed45fb85077f3b60800000000000000
+      internalID: 7728026351297711588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_19
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 479
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c10dd633677434e0800000000000000
+      internalID: -2002844666267106879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_20
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 479
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0f4c7866c51c100800000000000000
+      internalID: 126483859977335011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_21
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 479
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df7bc0913a983f180800000000000000
+      internalID: -9082764689883219971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_22
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 479
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41464313ffe4a5200800000000000000
+      internalID: 169534793928958996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_23
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 479
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f721cb547c5e6eec0800000000000000
+      internalID: -3537887813221739905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_24
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 479
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4ff6501b4defdf0800000000000000
+      internalID: -144444281263754053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_25
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 479
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b783b5920e872c10800000000000000
+      internalID: 2028746298906347442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_26
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 479
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8a68a91cc424540800000000000000
+      internalID: 4990635731484846326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_27
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 479
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027b6745c8efa1550800000000000000
+      internalID: 6132493721284294432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_28
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 479
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74713ba90821907c0800000000000000
+      internalID: -4104729241810954425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_29
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 479
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ebace2cf574a0fb0800000000000000
+      internalID: -4680850386080453661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_30
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 479
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f960f66f4ee5854f0800000000000000
+      internalID: -839816993024571745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_31
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 367
+        width: 178
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6809ba9cb1e7832a0800000000000000
+      internalID: -6757512583056748410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_32
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 367
+        width: 178
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e337c47fb46adc7e0800000000000000
+      internalID: -1743554635520773314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_33
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 367
+        width: 178
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61a1f9623c14a340800000000000000
+      internalID: 4874051699573105006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_34
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 271
+        width: 178
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5a845ee45f0f750800000000000000
+      internalID: 6336834394913285599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_35
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 255
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ab710247fd2a600800000000000000
+      internalID: 478190200302320269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_36
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 271
+        width: 178
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb6f2b5b44b3aff0800000000000000
+      internalID: -25978937088709711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_37
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 255
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2a24f7b91e89100800000000000000
+      internalID: 115089848469201592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_38
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 271
+        width: 178
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eef242f7c8db82e0800000000000000
+      internalID: -2122364446100488478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_39
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 255
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f089452377727710800000000000000
+      internalID: 1689544146647875831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_40
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 255
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd759affc7f15b630800000000000000
+      internalID: 3942091670558431197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_41
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 255
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d4309517d9d95b0800000000000000
+      internalID: -5359954871350768379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_42
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 255
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b453612d5b39768a0800000000000000
+      internalID: -6311913943613426357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_43
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 239
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f478f9989b50bd7c0800000000000000
+      internalID: -4045633545826236593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_44
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 239
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b03321e7deebdbd0800000000000000
+      internalID: -2604225348541140816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_45
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 239
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e52862c3f1096a00800000000000000
+      internalID: 750132959384184291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_46
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 239
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d03874d45817a50800000000000000
+      internalID: 6517136702740565254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_47
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 239
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d21c8c4db4edc710800000000000000
+      internalID: 1715278534782227157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_48
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 239
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e5ffb5254165150800000000000000
+      internalID: 5860894309032615488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_49
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 239
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a059c5459ce61fb60800000000000000
+      internalID: 7778119842428392714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_50
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 237
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eccc500904a3a0b0800000000000000
+      internalID: -5718546743262655263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_51
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 239
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea995084cce5bbb0800000000000000
+      internalID: -4920766689121297689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_52
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 239
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 229d07ecefd5d9820800000000000000
+      internalID: 2926598681827268898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_53
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 239
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e153d0bc0595510800000000000000
+      internalID: 1538349580753903253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_54
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 239
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82bbfbf87087b5370800000000000000
+      internalID: 8312369511114193704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_55
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 237
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409a4cc884a8e7960800000000000000
+      internalID: 7601665265251952900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_56
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 239
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b067ae0abbf84d0800000000000000
+      internalID: -3130076916196439145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_57
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 239
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc16154ae62ee340800000000000000
+      internalID: 4894892632621587665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_58
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 239
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b9f6b5e37549fb0800000000000000
+      internalID: -4641989390578509009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_59
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 239
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99cf7539b8601f200800000000000000
+      internalID: 211957854005361817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_60
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 239
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c7db03ce1142540800000000000000
+      internalID: 4982126793906289683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_61
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 199
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dbab20bcb9589300800000000000000
+      internalID: 259055645518179286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_62
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 199
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec542e1522f54d400800000000000000
+      internalID: 348007672221681102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_63
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 199
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1514c815a1ed73860800000000000000
+      internalID: 7509715108282253649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_64
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 199
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e345e697e50ca6180800000000000000
+      internalID: -9121266583288785858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_65
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 199
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327fdf143d71ccd90800000000000000
+      internalID: -7076254718393190621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_66
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6bbc079f08ebb20800000000000000
+      internalID: 3152098598033536735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_67
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 223
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec1c39983d22a670800000000000000
+      internalID: 8548444763814894827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_68
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 223
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2d7aa1c0c041c20800000000000000
+      internalID: 3176176883329389291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_69
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 223
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73cd0e674787a040800000000000000
+      internalID: 4658841080396891004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_70
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 223
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3251c92219a5c690800000000000000
+      internalID: -7582468502133321157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_71
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 223
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4124640e5439340800000000000000
+      internalID: 4869312451671364853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_72
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 223
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 631a941b101eb5060800000000000000
+      internalID: 6943390647907361078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_73
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 228
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73fdddbf762337250800000000000000
+      internalID: 5941147755620458295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_74
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 228
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c2cc7d21982eeb0800000000000000
+      internalID: -4692037147743736758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_75
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 228
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2d0f533a7ba8400800000000000000
+      internalID: 327275834550309580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_76
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 228
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e837b90608d02240800000000000000
+      internalID: 4765045926202390756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_77
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 228
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8a3e9ccd4ea4f10800000000000000
+      internalID: 2254866200383432876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_78
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 228
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c176c9ea9e7a65790800000000000000
+      internalID: -7541655903886612708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_79
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 228
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 229a4e35568bd5c50800000000000000
+      internalID: 6655678569662163234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_80
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 228
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383cf15db9f797f70800000000000000
+      internalID: 9185513222271124355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_81
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 228
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a0f42c3fd7817f0800000000000000
+      internalID: -641624461009810896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_82
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 228
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e889b870f0b305460800000000000000
+      internalID: 7228342337666783374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_83
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 228
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9928c573799e7d0800000000000000
+      internalID: -2888611421950404181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_84
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 228
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a68652edb744fe0800000000000000
+      internalID: -1205702606187894120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_85
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 226
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045a4078b71dce720800000000000000
+      internalID: 2876904590459315520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_86
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 212
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7913b64930528e0800000000000000
+      internalID: -1718963746783520824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_87
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 212
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c872ab838eee440800000000000000
+      internalID: 4967162769375202435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_88
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 212
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72cb01b9d9ddb54f0800000000000000
+      internalID: -838833236593296345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_89
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 212
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f533c32a21a7be0800000000000000
+      internalID: -1478849039633785012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_90
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 212
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13cce60ee4f0c150800000000000000
+      internalID: 5890977615756182302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_91
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 214
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d94ce8671835e70800000000000000
+      internalID: 9102761618047278486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_92
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 204
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41840ce8624b818d0800000000000000
+      internalID: -2875350284379338732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_93
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 194
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e07b0055cdb0c3e0800000000000000
+      internalID: -2035418376422330140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_94
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 183
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ecaeeef9ff24610800000000000000
+      internalID: 1604125479670566471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_95
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 183
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b33f9e3c639467b0800000000000000
+      internalID: -5231894773981301835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_96
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 183
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5581b6c9a18588ae0800000000000000
+      internalID: -1546889600685107115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_97
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 183
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7984ff010249dd940800000000000000
+      internalID: 5322573200066824343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_98
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 183
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a1ff2480c8bbf60800000000000000
+      internalID: 8051182725966535191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_99
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 181
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cdceb9855d01ed30800000000000000
+      internalID: 4458859767107866050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_100
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 183
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576bd782080ac9c60800000000000000
+      internalID: 7826306724758664821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_101
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 183
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be878be516c65c90800000000000000
+      internalID: -7181334758347534666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_102
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 183
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae28b0321b24ccd30800000000000000
+      internalID: 4453007460127179498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_103
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 181
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af631c10e4e9c3150800000000000000
+      internalID: 5853727673548879610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_104
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 184
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee5ea72a0f6c1440800000000000000
+      internalID: 4907919783333093096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_105
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 143
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8d363b2fc220650800000000000000
+      internalID: 6197565458118596802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_106
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 143
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe638de1633fafe0800000000000000
+      internalID: -1175664482030752065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_107
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 143
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009b776a3c9a95320800000000000000
+      internalID: 2547253722031307008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_108
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 143
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46268ea50833e8880800000000000000
+      internalID: -8606885211484429724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_109
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 143
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2948fbe8e5b943720800000000000000
+      internalID: 2825053696692290706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_110
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 174
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9baad6d4ad4292130800000000000000
+      internalID: 3542403101924108985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_111
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 164
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db328a474f1c12dd0800000000000000
+      internalID: -2512513861422668867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_112
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 154
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42141022d1efd05d0800000000000000
+      internalID: -3094537967855648476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_113
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 144
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe37fa38f4dace790800000000000000
+      internalID: -7499428722455383057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_114
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 127
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4fd1b1f02532850800000000000000
+      internalID: 6351010124355466435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_115
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 127
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8701fbc2229e3d8d0800000000000000
+      internalID: -2822656208442290056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_116
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 127
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02335986fc87d6460800000000000000
+      internalID: 7236573008462426912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_117
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 127
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf7f1a136d9425e0800000000000000
+      internalID: -1935248890896875556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_118
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 127
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c007f19fa844f0d40800000000000000
+      internalID: 5552732229246873612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_119
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 127
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d75985cec2d8130800000000000000
+      internalID: 3570559473184767363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_120
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 127
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42678caabde615d80800000000000000
+      internalID: -8263701951505992156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_121
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 125
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4341d7eb3884bc0800000000000000
+      internalID: -3798641431521512245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_122
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 127
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7935cd5f0c1c34ed0800000000000000
+      internalID: -2430886339347197033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_123
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 127
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef50231f3fff80f0800000000000000
+      internalID: -1112389936568311839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_124
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 127
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b25c0c3b4c880c0800000000000000
+      internalID: -4573189145282401386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_125
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 127
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c218cf578c27bbbc0800000000000000
+      internalID: -3766290458066779860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_126
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 127
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a8c524309e8b410800000000000000
+      internalID: 1493199476680854032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_127
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 127
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0151e3a2e6a2beb0800000000000000
+      internalID: -4705515168306474738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_128
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 127
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd05a91bc77208e20800000000000000
+      internalID: 3350721539272757469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_129
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 127
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a37d1ac5bed2fc0800000000000000
+      internalID: -3517896950821733882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_130
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 127
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9a7c04f0320a4e0800000000000000
+      internalID: -1972538088369968719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_131
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 87
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19804a87d118457a0800000000000000
+      internalID: -6389340007753840495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_132
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 87
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026889437519a92b0800000000000000
+      internalID: -5576985384814344672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_133
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 87
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1829475e45d551710800000000000000
+      internalID: 1663338256591524481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_134
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 87
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b49e00324dd0bfd0800000000000000
+      internalID: -2328117731006704459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_135
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 87
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856d92d499842c310800000000000000
+      internalID: 1423780255464281688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_136
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 87
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0573b44767ba5b0800000000000000
+      internalID: -5356057089976872724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_137
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 87
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67942e8b8b4c1f6f0800000000000000
+      internalID: -652524173337147018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_138
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 112
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234ad3e6b79c41fc0800000000000000
+      internalID: -3524971076356561870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_139
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 95
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32e43737df4f0350800000000000000
+      internalID: 5985090215561454138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_140
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 95
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068b7d78d7e97b270800000000000000
+      internalID: 8266249903048996960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_141
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 95
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b03072e6cd998c0800000000000000
+      internalID: -3991917229028209777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_142
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 95
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3cb87204faf796b0800000000000000
+      internalID: -5289483311402927046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_143
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 95
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b37108cb439e1d0800000000000000
+      internalID: -3321065266001527926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_144
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 95
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4daa13673c2458d20800000000000000
+      internalID: 3280101310878296788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_145
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 95
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88bdf94af12330b40800000000000000
+      internalID: 5405219089262041992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_146
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 95
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7753ba90b9bdf4a0800000000000000
+      internalID: -6557881314220746886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_147
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 95
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc02a01ad3f9d0c10800000000000000
+      internalID: 2021446894802837707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_148
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 71
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ac94d04472d06c0800000000000000
+      internalID: -4175638106268382574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_149
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 71
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1bb490d69adc3b90800000000000000
+      internalID: -7260688157948724450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_150
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 71
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2614119e1e298f10800000000000000
+      internalID: 2272398195803035181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_151
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 71
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11abc3abd24332e10800000000000000
+      internalID: 2171636816325425681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_152
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 71
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a703be0671b02f80800000000000000
+      internalID: -8133305806420244570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_153
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 71
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9617d3248d64ce690800000000000000
+      internalID: -7571598978878443159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_154
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 71
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2dd8ab540bdcf8e0800000000000000
+      internalID: -1658209751015039697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_155
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 80
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f1d045530fcfcb0800000000000000
+      internalID: -4828720588613935238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_156
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 71
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52b974210459d8c0800000000000000
+      internalID: -3974052832294096293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_157
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 71
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d0b7709920111d0800000000000000
+      internalID: -3381918988899775099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_158
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 71
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dece8d050bf94ca20800000000000000
+      internalID: 3081763624647716077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_159
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 69
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f39a8c4ac0b31980800000000000000
+      internalID: -8569311283041889296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_160
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 71
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b371bf4a1e60c11b0800000000000000
+      internalID: -5684661063443081413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_161
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 71
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6db276350e7c400800000000000000
+      internalID: 344490545334965963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_162
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 71
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44886640f9a2ca8a0800000000000000
+      internalID: -6292607716881430460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_163
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 63
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b26e74f6694ef820800000000000000
+      internalID: 2953879112139039408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_164
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 63
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69bad1db8661c5aa0800000000000000
+      internalID: -6171032750299173994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_165
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 63
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3694c58c161bb7060800000000000000
+      internalID: 6952345483307927907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_166
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 63
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175ee032bf9bf7a20800000000000000
+      internalID: 3062370759911335281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_167
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 31
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4024f8eff17ec8750800000000000000
+      internalID: 6308671302640026116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_168
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 31
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47de009cf480dc460800000000000000
+      internalID: 7263470912786197876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_169
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 31
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6bb09f33d4a7c10800000000000000
+      internalID: 2052037465837647523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_170
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 31
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c855aa4b140cb30800000000000000
+      internalID: 4305513487973846099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_171
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be65c6320f2a8b130800000000000000
+      internalID: 3582792655843383019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_172
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e06f2a6d8236e70800000000000000
+      internalID: 9107167773795421745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_173
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 63
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 530915e05ff9fa9c0800000000000000
+      internalID: -3913733676305641419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_174
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 63
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ee215c50acc8fa0800000000000000
+      internalID: -5797036494202671574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_175
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 63
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6ab7f64e7c99f20800000000000000
+      internalID: 3429992375156188888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_176
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 23
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c23ea488ab9d6390800000000000000
+      internalID: -7823425829589863735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_177
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 21
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502b7db4f65d798f0800000000000000
+      internalID: -533723356829601275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_178
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 23
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9534ea35e89a4550800000000000000
+      internalID: 6145892751803430301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_179
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 23
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1774cc738cbe21610800000000000000
+      internalID: 1590592863577327473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_180
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 23
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b8f54bde5e06500800000000000000
+      internalID: 387562377050032985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_181
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 23
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53185113b14a8da60800000000000000
+      internalID: 7699083999684428085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_182
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 23
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa6ec081c6079d80800000000000000
+      internalID: -8244113164718937439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_183
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 23
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0f71694aaab6650800000000000000
+      internalID: 6227258533639352511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_184
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 23
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e295edf75a58d30800000000000000
+      internalID: 4433131376825937442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_185
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 23
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc40ae74192dbeb0800000000000000
+      internalID: -4702557267904410429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_186
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 23
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4f5c1b886d14c90800000000000000
+      internalID: -7187227647720164189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_187
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 23
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de08fcd04eb72180800000000000000
+      internalID: -9140127732930703656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_188
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 23
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a5df8d6a0388f50800000000000000
+      internalID: 6883805523598989842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_189
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 23
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acbd889a026f76e00800000000000000
+      internalID: 1038068859275893706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_190
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 23
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf99d731597222f10800000000000000
+      internalID: 2243399085614537212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_191
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 23
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30debeb6040f56ba0800000000000000
+      internalID: -6096202361096901373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_192
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 23
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034289e9d49fce4c0800000000000000
+      internalID: -4256753436003392464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_193
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 21
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf475de8f6f939460800000000000000
+      internalID: 7247311526855800060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_194
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 12
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b241aa3c8d2816140800000000000000
+      internalID: 4711190552713499691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_195
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 23
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fbb0271fb52eeae0800000000000000
+      internalID: -1518234521720275975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_196
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 23
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7f29ef902117d30800000000000000
+      internalID: 4427339742816958374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_197
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 22
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0dfdf28a333ffb0800000000000000
+      internalID: -4615288395673906978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_198
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 7
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc734dfe92faf980800000000000000
+      internalID: -8504218181667947301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_199
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 12
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ea6f6271a5b2750800000000000000
+      internalID: 6281213160782736961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_200
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 10
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f1acb69e1a89700800000000000000
+      internalID: 547365378633375597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_201
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 10
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e761711a28f4a00800000000000000
+      internalID: 742956091928116892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_202
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 12
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1daa6e3fa36b8a20800000000000000
+      internalID: 3065653575673359647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_203
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 12
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3836a999c88165e40800000000000000
+      internalID: 5644726175107015555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_204
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 10
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a55efb93c061f850800000000000000
+      internalID: 6409010137976952231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_205
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 12
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b29243b96b24570800000000000000
+      internalID: 8449516628611771192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_206
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 12
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0046f2c55ff4099d0800000000000000
+      internalID: -2769625855600663552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_207
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 12
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ae8a11a19b92330800000000000000
+      internalID: 3686681291596032652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_208
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 12
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f049d5c7abfcfeb0800000000000000
+      internalID: -4684592814374698759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_209
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 12
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3729a150fed7559e0800000000000000
+      internalID: -1633260824315653517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_210
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 12
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32a36b8fd5d80850800000000000000
+      internalID: 6343555231244329530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_211
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 12
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001a76b0070644070800000000000000
+      internalID: 8089696865008197888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_212
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 12
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7598091990a9e3f0800000000000000
+      internalID: -870988473509046914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_213
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 12
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096d642454e2ce890800000000000000
+      internalID: -7427510810441230704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_214
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 12
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd9b9b6035b7a260800000000000000
+      internalID: 7108849756396035522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_215
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 12
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a6d2fd875edbe30800000000000000
+      internalID: 4521021908252977695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_216
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 12
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88aab3c31002bd180800000000000000
+      internalID: -9089636233239614840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_217
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 12
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ca1d84e86935380800000000000000
+      internalID: -8983671293822784487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_218
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 12
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b1e7c265f687040800000000000000
+      internalID: 4645585431536999259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_219
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 12
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9877dce83a90960800000000000000
+      internalID: 7568760482500676030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_220
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 12
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1d788ec21363eb0800000000000000
+      internalID: -4740547488811331098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_221
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 11
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37cf53970ae532790800000000000000
+      internalID: -7556091706476200845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_222
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 12
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee468913f80cde150800000000000000
+      internalID: 5903586407797515502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_223
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 12
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f314b2f9a3a73300800000000000000
+      internalID: 231833856149558257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_224
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 12
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974fe5544f26c6bb0800000000000000
+      internalID: -4941465889856883591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_225
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 12
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de496e015387d400800000000000000
+      internalID: 348891880301874899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_226
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 12
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fbb56359307e48a0800000000000000
+      internalID: -6318989835639604236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_227
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 12
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79bf89146146b3ab0800000000000000
+      internalID: -5027314512276423785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_228
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 12
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80adcfaf0a5c649a0800000000000000
+      internalID: -6249090137733670392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_229
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 12
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38fa5d7e13b053af0800000000000000
+      internalID: -417415081491058813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_230
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 12
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b849ac52a9208b310800000000000000
+      internalID: 1420888543517643915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_231
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 12
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7daefbe3129d1c20800000000000000
+      internalID: 3178857526254808442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_232
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 12
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74f68fd374cd81a0800000000000000
+      internalID: -6805567459936504707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_233
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 12
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86899e2c0204eb6e0800000000000000
+      internalID: -1819946689957881752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_234
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 12
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b105f73c74211d480800000000000000
+      internalID: -8876293291138658277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_235
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 12
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d2eea896a458370800000000000000
+      internalID: 8324141303427116406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_236
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 12
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b980e71588d3720800000000000000
+      internalID: 2827566024646761261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_237
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 12
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4715506ad6f817b0800000000000000
+      internalID: -5253177547548190898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_238
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 12
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06290be618d4e1160800000000000000
+      internalID: 6998116089283514976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_239
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 12
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b33dcb88ec0c4d0800000000000000
+      internalID: -3116263855461549197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_240
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 12
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc1368bacc3cd8a0800000000000000
+      internalID: -6279076939086750536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_241
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 12
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74ee93a91d7a2320800000000000000
+      internalID: 2533975289422079098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_242
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 12
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b846c493a17a918d0800000000000000
+      internalID: -2875083156027054965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_243
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 12
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf4807746d6f286a0800000000000000
+      internalID: -6448320316259138309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_244
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 12
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f03d5d041670b90800000000000000
+      internalID: -7275739741900566710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitreous_245
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 12
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97341a5e06b42b8c0800000000000000
+      internalID: -3985039840727972999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Vitreous_0: -9190347922612537280
+      Vitreous_1: -7008455152507224314
+      Vitreous_10: -1874316434668944463
+      Vitreous_100: 7826306724758664821
+      Vitreous_101: -7181334758347534666
+      Vitreous_102: 4453007460127179498
+      Vitreous_103: 5853727673548879610
+      Vitreous_104: 4907919783333093096
+      Vitreous_105: 6197565458118596802
+      Vitreous_106: -1175664482030752065
+      Vitreous_107: 2547253722031307008
+      Vitreous_108: -8606885211484429724
+      Vitreous_109: 2825053696692290706
+      Vitreous_11: 7269401530167049865
+      Vitreous_110: 3542403101924108985
+      Vitreous_111: -2512513861422668867
+      Vitreous_112: -3094537967855648476
+      Vitreous_113: -7499428722455383057
+      Vitreous_114: 6351010124355466435
+      Vitreous_115: -2822656208442290056
+      Vitreous_116: 7236573008462426912
+      Vitreous_117: -1935248890896875556
+      Vitreous_118: 5552732229246873612
+      Vitreous_119: 3570559473184767363
+      Vitreous_12: -6703367328341714263
+      Vitreous_120: -8263701951505992156
+      Vitreous_121: -3798641431521512245
+      Vitreous_122: -2430886339347197033
+      Vitreous_123: -1112389936568311839
+      Vitreous_124: -4573189145282401386
+      Vitreous_125: -3766290458066779860
+      Vitreous_126: 1493199476680854032
+      Vitreous_127: -4705515168306474738
+      Vitreous_128: 3350721539272757469
+      Vitreous_129: -3517896950821733882
+      Vitreous_13: 1905838981798682533
+      Vitreous_130: -1972538088369968719
+      Vitreous_131: -6389340007753840495
+      Vitreous_132: -5576985384814344672
+      Vitreous_133: 1663338256591524481
+      Vitreous_134: -2328117731006704459
+      Vitreous_135: 1423780255464281688
+      Vitreous_136: -5356057089976872724
+      Vitreous_137: -652524173337147018
+      Vitreous_138: -3524971076356561870
+      Vitreous_139: 5985090215561454138
+      Vitreous_14: -1080829734688770907
+      Vitreous_140: 8266249903048996960
+      Vitreous_141: -3991917229028209777
+      Vitreous_142: -5289483311402927046
+      Vitreous_143: -3321065266001527926
+      Vitreous_144: 3280101310878296788
+      Vitreous_145: 5405219089262041992
+      Vitreous_146: -6557881314220746886
+      Vitreous_147: 2021446894802837707
+      Vitreous_148: -4175638106268382574
+      Vitreous_149: -7260688157948724450
+      Vitreous_15: 1811491190004818583
+      Vitreous_150: 2272398195803035181
+      Vitreous_151: 2171636816325425681
+      Vitreous_152: -8133305806420244570
+      Vitreous_153: -7571598978878443159
+      Vitreous_154: -1658209751015039697
+      Vitreous_155: -4828720588613935238
+      Vitreous_156: -3974052832294096293
+      Vitreous_157: -3381918988899775099
+      Vitreous_158: 3081763624647716077
+      Vitreous_159: -8569311283041889296
+      Vitreous_16: -258382998492697085
+      Vitreous_160: -5684661063443081413
+      Vitreous_161: 344490545334965963
+      Vitreous_162: -6292607716881430460
+      Vitreous_163: 2953879112139039408
+      Vitreous_164: -6171032750299173994
+      Vitreous_165: 6952345483307927907
+      Vitreous_166: 3062370759911335281
+      Vitreous_167: 6308671302640026116
+      Vitreous_168: 7263470912786197876
+      Vitreous_169: 2052037465837647523
+      Vitreous_17: -1840663212894747172
+      Vitreous_170: 4305513487973846099
+      Vitreous_171: 3582792655843383019
+      Vitreous_172: 9107167773795421745
+      Vitreous_173: -3913733676305641419
+      Vitreous_174: -5797036494202671574
+      Vitreous_175: 3429992375156188888
+      Vitreous_176: -7823425829589863735
+      Vitreous_177: -533723356829601275
+      Vitreous_178: 6145892751803430301
+      Vitreous_179: 1590592863577327473
+      Vitreous_18: 7728026351297711588
+      Vitreous_180: 387562377050032985
+      Vitreous_181: 7699083999684428085
+      Vitreous_182: -8244113164718937439
+      Vitreous_183: 6227258533639352511
+      Vitreous_184: 4433131376825937442
+      Vitreous_185: -4702557267904410429
+      Vitreous_186: -7187227647720164189
+      Vitreous_187: -9140127732930703656
+      Vitreous_188: 6883805523598989842
+      Vitreous_189: 1038068859275893706
+      Vitreous_19: -2002844666267106879
+      Vitreous_190: 2243399085614537212
+      Vitreous_191: -6096202361096901373
+      Vitreous_192: -4256753436003392464
+      Vitreous_193: 7247311526855800060
+      Vitreous_194: 4711190552713499691
+      Vitreous_195: -1518234521720275975
+      Vitreous_196: 4427339742816958374
+      Vitreous_197: -4615288395673906978
+      Vitreous_198: -8504218181667947301
+      Vitreous_199: 6281213160782736961
+      Vitreous_2: -3070703696993750873
+      Vitreous_20: 126483859977335011
+      Vitreous_200: 547365378633375597
+      Vitreous_201: 742956091928116892
+      Vitreous_202: 3065653575673359647
+      Vitreous_203: 5644726175107015555
+      Vitreous_204: 6409010137976952231
+      Vitreous_205: 8449516628611771192
+      Vitreous_206: -2769625855600663552
+      Vitreous_207: 3686681291596032652
+      Vitreous_208: -4684592814374698759
+      Vitreous_209: -1633260824315653517
+      Vitreous_21: -9082764689883219971
+      Vitreous_210: 6343555231244329530
+      Vitreous_211: 8089696865008197888
+      Vitreous_212: -870988473509046914
+      Vitreous_213: -7427510810441230704
+      Vitreous_214: 7108849756396035522
+      Vitreous_215: 4521021908252977695
+      Vitreous_216: -9089636233239614840
+      Vitreous_217: -8983671293822784487
+      Vitreous_218: 4645585431536999259
+      Vitreous_219: 7568760482500676030
+      Vitreous_22: 169534793928958996
+      Vitreous_220: -4740547488811331098
+      Vitreous_221: -7556091706476200845
+      Vitreous_222: 5903586407797515502
+      Vitreous_223: 231833856149558257
+      Vitreous_224: -4941465889856883591
+      Vitreous_225: 348891880301874899
+      Vitreous_226: -6318989835639604236
+      Vitreous_227: -5027314512276423785
+      Vitreous_228: -6249090137733670392
+      Vitreous_229: -417415081491058813
+      Vitreous_23: -3537887813221739905
+      Vitreous_230: 1420888543517643915
+      Vitreous_231: 3178857526254808442
+      Vitreous_232: -6805567459936504707
+      Vitreous_233: -1819946689957881752
+      Vitreous_234: -8876293291138658277
+      Vitreous_235: 8324141303427116406
+      Vitreous_236: 2827566024646761261
+      Vitreous_237: -5253177547548190898
+      Vitreous_238: 6998116089283514976
+      Vitreous_239: -3116263855461549197
+      Vitreous_24: -144444281263754053
+      Vitreous_240: -6279076939086750536
+      Vitreous_241: 2533975289422079098
+      Vitreous_242: -2875083156027054965
+      Vitreous_243: -6448320316259138309
+      Vitreous_244: -7275739741900566710
+      Vitreous_245: -3985039840727972999
+      Vitreous_25: 2028746298906347442
+      Vitreous_26: 4990635731484846326
+      Vitreous_27: 6132493721284294432
+      Vitreous_28: -4104729241810954425
+      Vitreous_29: -4680850386080453661
+      Vitreous_3: 4457803615547078332
+      Vitreous_30: -839816993024571745
+      Vitreous_31: -6757512583056748410
+      Vitreous_32: -1743554635520773314
+      Vitreous_33: 4874051699573105006
+      Vitreous_34: 6336834394913285599
+      Vitreous_35: 478190200302320269
+      Vitreous_36: -25978937088709711
+      Vitreous_37: 115089848469201592
+      Vitreous_38: -2122364446100488478
+      Vitreous_39: 1689544146647875831
+      Vitreous_4: 7534384007940110285
+      Vitreous_40: 3942091670558431197
+      Vitreous_41: -5359954871350768379
+      Vitreous_42: -6311913943613426357
+      Vitreous_43: -4045633545826236593
+      Vitreous_44: -2604225348541140816
+      Vitreous_45: 750132959384184291
+      Vitreous_46: 6517136702740565254
+      Vitreous_47: 1715278534782227157
+      Vitreous_48: 5860894309032615488
+      Vitreous_49: 7778119842428392714
+      Vitreous_5: 4899570159790911356
+      Vitreous_50: -5718546743262655263
+      Vitreous_51: -4920766689121297689
+      Vitreous_52: 2926598681827268898
+      Vitreous_53: 1538349580753903253
+      Vitreous_54: 8312369511114193704
+      Vitreous_55: 7601665265251952900
+      Vitreous_56: -3130076916196439145
+      Vitreous_57: 4894892632621587665
+      Vitreous_58: -4641989390578509009
+      Vitreous_59: 211957854005361817
+      Vitreous_6: 8259100604728409975
+      Vitreous_60: 4982126793906289683
+      Vitreous_61: 259055645518179286
+      Vitreous_62: 348007672221681102
+      Vitreous_63: 7509715108282253649
+      Vitreous_64: -9121266583288785858
+      Vitreous_65: -7076254718393190621
+      Vitreous_66: 3152098598033536735
+      Vitreous_67: 8548444763814894827
+      Vitreous_68: 3176176883329389291
+      Vitreous_69: 4658841080396891004
+      Vitreous_7: -8851790117489649589
+      Vitreous_70: -7582468502133321157
+      Vitreous_71: 4869312451671364853
+      Vitreous_72: 6943390647907361078
+      Vitreous_73: 5941147755620458295
+      Vitreous_74: -4692037147743736758
+      Vitreous_75: 327275834550309580
+      Vitreous_76: 4765045926202390756
+      Vitreous_77: 2254866200383432876
+      Vitreous_78: -7541655903886612708
+      Vitreous_79: 6655678569662163234
+      Vitreous_8: 407849796954803255
+      Vitreous_80: 9185513222271124355
+      Vitreous_81: -641624461009810896
+      Vitreous_82: 7228342337666783374
+      Vitreous_83: -2888611421950404181
+      Vitreous_84: -1205702606187894120
+      Vitreous_85: 2876904590459315520
+      Vitreous_86: -1718963746783520824
+      Vitreous_87: 4967162769375202435
+      Vitreous_88: -838833236593296345
+      Vitreous_89: -1478849039633785012
+      Vitreous_9: 7213364182727545680
+      Vitreous_90: 5890977615756182302
+      Vitreous_91: 9102761618047278486
+      Vitreous_92: -2875350284379338732
+      Vitreous_93: -2035418376422330140
+      Vitreous_94: 1604125479670566471
+      Vitreous_95: -5231894773981301835
+      Vitreous_96: -1546889600685107115
+      Vitreous_97: 5322573200066824343
+      Vitreous_98: 8051182725966535191
+      Vitreous_99: 4458859767107866050
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

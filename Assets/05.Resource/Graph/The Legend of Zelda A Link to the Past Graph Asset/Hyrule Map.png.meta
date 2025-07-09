@@ -1,0 +1,2899 @@
+fileFormatVersion: 2
+guid: c3f8023a942434c48881836587c91605
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2138889848762464619
+    second: Hyrule Map_0
+  - first:
+      213: 492938836765155679
+    second: Hyrule Map_1
+  - first:
+      213: -8035236658887271054
+    second: Hyrule Map_2
+  - first:
+      213: 2970119353686815499
+    second: Hyrule Map_3
+  - first:
+      213: -502839761532392981
+    second: Hyrule Map_4
+  - first:
+      213: 724210149790948417
+    second: Hyrule Map_5
+  - first:
+      213: -1423308745237597225
+    second: Hyrule Map_6
+  - first:
+      213: -8795661178362148802
+    second: Hyrule Map_7
+  - first:
+      213: -1890139325220555878
+    second: Hyrule Map_8
+  - first:
+      213: -1156543882955928465
+    second: Hyrule Map_9
+  - first:
+      213: -2917859322558414287
+    second: Hyrule Map_10
+  - first:
+      213: -5440194325237389860
+    second: Hyrule Map_11
+  - first:
+      213: -4847229335394283475
+    second: Hyrule Map_12
+  - first:
+      213: 1963004702805037589
+    second: Hyrule Map_13
+  - first:
+      213: 2873808775290082817
+    second: Hyrule Map_14
+  - first:
+      213: 4802482541768375368
+    second: Hyrule Map_15
+  - first:
+      213: 8629620594241905776
+    second: Hyrule Map_16
+  - first:
+      213: 2404592006463571533
+    second: Hyrule Map_17
+  - first:
+      213: -6008336417434060193
+    second: Hyrule Map_18
+  - first:
+      213: 6013429300288575114
+    second: Hyrule Map_19
+  - first:
+      213: -3617421362852899716
+    second: Hyrule Map_20
+  - first:
+      213: 6857896898435879380
+    second: Hyrule Map_21
+  - first:
+      213: 2344995458503263105
+    second: Hyrule Map_22
+  - first:
+      213: 645765949376928729
+    second: Hyrule Map_23
+  - first:
+      213: 8581156462362507639
+    second: Hyrule Map_24
+  - first:
+      213: 477948140632866791
+    second: Hyrule Map_25
+  - first:
+      213: 9089922507212565975
+    second: Hyrule Map_26
+  - first:
+      213: 2885046117128916496
+    second: Hyrule Map_27
+  - first:
+      213: 8527139646599712615
+    second: Hyrule Map_28
+  - first:
+      213: -256164361116302075
+    second: Hyrule Map_29
+  - first:
+      213: 3468093086249946419
+    second: Hyrule Map_30
+  - first:
+      213: 3908277607939228363
+    second: Hyrule Map_31
+  - first:
+      213: 844206976166403450
+    second: Hyrule Map_32
+  - first:
+      213: -938779826330435657
+    second: Hyrule Map_33
+  - first:
+      213: -3176893736277547578
+    second: Hyrule Map_34
+  - first:
+      213: -1169963456607788788
+    second: Hyrule Map_35
+  - first:
+      213: 3594925616716050045
+    second: Hyrule Map_36
+  - first:
+      213: -8669197706344922418
+    second: Hyrule Map_37
+  - first:
+      213: -4223180916418276517
+    second: Hyrule Map_38
+  - first:
+      213: -7551889123587594845
+    second: Hyrule Map_39
+  - first:
+      213: -8952617825705419855
+    second: Hyrule Map_40
+  - first:
+      213: -1412249304415272876
+    second: Hyrule Map_41
+  - first:
+      213: -7493941556537691330
+    second: Hyrule Map_42
+  - first:
+      213: -3091926066115588419
+    second: Hyrule Map_43
+  - first:
+      213: 1794192629691173995
+    second: Hyrule Map_44
+  - first:
+      213: 60367983108226708
+    second: Hyrule Map_45
+  - first:
+      213: -921163575275812971
+    second: Hyrule Map_46
+  - first:
+      213: 6727860586836072322
+    second: Hyrule Map_47
+  - first:
+      213: -4978367265652063181
+    second: Hyrule Map_48
+  - first:
+      213: -3603853402711012119
+    second: Hyrule Map_49
+  - first:
+      213: 8965926666925331819
+    second: Hyrule Map_50
+  - first:
+      213: 1780460042945867257
+    second: Hyrule Map_51
+  - first:
+      213: -1898240304323304595
+    second: Hyrule Map_52
+  - first:
+      213: -3167995541869693756
+    second: Hyrule Map_53
+  - first:
+      213: 2017448734454610592
+    second: Hyrule Map_54
+  - first:
+      213: -311414000075679705
+    second: Hyrule Map_55
+  - first:
+      213: -8357449068254662360
+    second: Hyrule Map_56
+  - first:
+      213: 893434820175326785
+    second: Hyrule Map_57
+  - first:
+      213: -5569000382376614537
+    second: Hyrule Map_58
+  - first:
+      213: 49158321983945137
+    second: Hyrule Map_59
+  - first:
+      213: 1751441880216223948
+    second: Hyrule Map_60
+  - first:
+      213: 2077179026612072059
+    second: Hyrule Map_61
+  - first:
+      213: -8561606011415851503
+    second: Hyrule Map_62
+  - first:
+      213: -5660188132037697674
+    second: Hyrule Map_63
+  - first:
+      213: -7102272678621655013
+    second: Hyrule Map_64
+  - first:
+      213: -6415033710032704395
+    second: Hyrule Map_65
+  - first:
+      213: 2926484808915767156
+    second: Hyrule Map_66
+  - first:
+      213: 8335377965054198970
+    second: Hyrule Map_67
+  - first:
+      213: 2693472450631936091
+    second: Hyrule Map_68
+  - first:
+      213: 179619582652211406
+    second: Hyrule Map_69
+  - first:
+      213: 2117022704559490347
+    second: Hyrule Map_70
+  - first:
+      213: -5191788309043720484
+    second: Hyrule Map_71
+  - first:
+      213: 2839021232744995505
+    second: Hyrule Map_72
+  - first:
+      213: 1168083501622060855
+    second: Hyrule Map_73
+  - first:
+      213: -5112355188515500320
+    second: Hyrule Map_74
+  - first:
+      213: -5502748979960540132
+    second: Hyrule Map_75
+  - first:
+      213: -7041418366513108655
+    second: Hyrule Map_76
+  - first:
+      213: -1274427093559086427
+    second: Hyrule Map_77
+  - first:
+      213: -5306923096424092769
+    second: Hyrule Map_78
+  - first:
+      213: -7639206295210023496
+    second: Hyrule Map_79
+  - first:
+      213: 5687929411099574565
+    second: Hyrule Map_80
+  - first:
+      213: -3103920551517413999
+    second: Hyrule Map_81
+  - first:
+      213: 1378955334611257084
+    second: Hyrule Map_82
+  - first:
+      213: 3111701931192967274
+    second: Hyrule Map_83
+  - first:
+      213: 3733580583074589295
+    second: Hyrule Map_84
+  - first:
+      213: -2473045767099698444
+    second: Hyrule Map_85
+  - first:
+      213: -5858007333347517764
+    second: Hyrule Map_86
+  - first:
+      213: 4832292036212616974
+    second: Hyrule Map_87
+  - first:
+      213: -5125557371228785175
+    second: Hyrule Map_88
+  - first:
+      213: 3688893032029734603
+    second: Hyrule Map_89
+  - first:
+      213: 3107115891822673038
+    second: Hyrule Map_90
+  - first:
+      213: 241011064560468988
+    second: Hyrule Map_91
+  - first:
+      213: 2581497485021753777
+    second: Hyrule Map_92
+  - first:
+      213: 4851204112717679614
+    second: Hyrule Map_93
+  - first:
+      213: 8916553826092432824
+    second: Hyrule Map_94
+  - first:
+      213: 4545346560285567657
+    second: Hyrule Map_95
+  - first:
+      213: 4445212733902049987
+    second: Hyrule Map_96
+  - first:
+      213: -463119536616600833
+    second: Hyrule Map_97
+  - first:
+      213: -2456341021771337107
+    second: Hyrule Map_98
+  - first:
+      213: 5669857400820340460
+    second: Hyrule Map_99
+  - first:
+      213: -181034534730761383
+    second: Hyrule Map_100
+  - first:
+      213: -6091981016991312379
+    second: Hyrule Map_101
+  - first:
+      213: -7527249728094150896
+    second: Hyrule Map_102
+  - first:
+      213: 1214403793360681519
+    second: Hyrule Map_103
+  - first:
+      213: -4527905401734809569
+    second: Hyrule Map_104
+  - first:
+      213: -8148230664810922931
+    second: Hyrule Map_105
+  - first:
+      213: 5428828044888104502
+    second: Hyrule Map_106
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hyrule Map_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 47
+        width: 514
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69fc213cfcdead10800000000000000
+      internalID: 2138889848762464619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_1
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 351
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51a165a24547d600800000000000000
+      internalID: 492938836765155679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_2
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 47
+        width: 514
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27dd3dcc4da1d7090800000000000000
+      internalID: -8035236658887271054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_3
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 215
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03f309d0dbf73920800000000000000
+      internalID: 2970119353686815499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_4
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 191
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be96beaa6ed8509f0800000000000000
+      internalID: -502839761532392981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_5
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 193
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c95015b49ec0a00800000000000000
+      internalID: 724210149790948417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_6
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3f76abc346f3ce0800000000000000
+      internalID: -1423308745237597225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_7
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38c70b72c88fe580800000000000000
+      internalID: -8795661178362148802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_8
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a937b305c40e4c5e0800000000000000
+      internalID: -1890139325220555878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_9
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 168
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6cc241577123ffe0800000000000000
+      internalID: -1156543882955928465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_10
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 168
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1320856d76ea187d0800000000000000
+      internalID: -2917859322558414287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_11
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 171
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd52127a51c8084b0800000000000000
+      internalID: -5440194325237389860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_12
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 171
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2098f6e99e2bbcb0800000000000000
+      internalID: -4847229335394283475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_13
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 171
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5129d13706efd3b10800000000000000
+      internalID: 1963004702805037589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_14
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 171
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106d093ead1d1e720800000000000000
+      internalID: 2873808775290082817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_15
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 171
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c7e165d68d5a240800000000000000
+      internalID: 4802482541768375368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_16
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 151
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0742f22753292c770800000000000000
+      internalID: 8629620594241905776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_17
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 151
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46410790b3de5120800000000000000
+      internalID: 2404592006463571533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_18
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 151
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5abcc3acd91e9ca0800000000000000
+      internalID: -6008336417434060193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_19
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 151
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8650ad861ef37350800000000000000
+      internalID: 6013429300288575114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_20
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 152
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c745e38bf665ccdc0800000000000000
+      internalID: -3617421362852899716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_21
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 152
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d11689f4e42c2f50800000000000000
+      internalID: 6857896898435879380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_22
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 152
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183cdf7f1f81b8020800000000000000
+      internalID: 2344995458503263105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_23
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 138
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db97a4a5b836f800800000000000000
+      internalID: 645765949376928729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_24
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 128
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7793a2d6654661770800000000000000
+      internalID: 8581156462362507639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_25
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 136
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7effa773d4302a600800000000000000
+      internalID: 477948140632866791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_26
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 127
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ddab3e1c54e52e70800000000000000
+      internalID: 9089922507212565975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_27
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 132
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ec61c682eb90820800000000000000
+      internalID: 2885046117128916496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_28
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 127
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76fc9b1745c765670800000000000000
+      internalID: 8527139646599712615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_29
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 138
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5054c8beedbe17cf0800000000000000
+      internalID: -256164361116302075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_30
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 134
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d8ae58944212030800000000000000
+      internalID: 3468093086249946419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_31
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 131
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2c4d807cdfc3630800000000000000
+      internalID: 3908277607939228363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_32
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 134
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d1e43a5c937bb00800000000000000
+      internalID: 844206976166403450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_33
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 127
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf7549c8b8c8f2f0800000000000000
+      internalID: -938779826330435657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_34
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 138
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c563009af769e3d0800000000000000
+      internalID: -3176893736277547578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_35
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 127
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0164b85f6473cfe0800000000000000
+      internalID: -1169963456607788788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_36
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 127
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7eef4a3dcdb3e130800000000000000
+      internalID: 3594925616716050045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_37
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 127
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec20ea11e92d0b780800000000000000
+      internalID: -8669197706344922418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_38
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 127
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b531ea6f45f3465c0800000000000000
+      internalID: -4223180916418276517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_39
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5ec6d8adc423790800000000000000
+      internalID: -7551889123587594845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_40
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb9ff04589e1c380800000000000000
+      internalID: -8952617825705419855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_41
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45009047dbea66ce0800000000000000
+      internalID: -1412249304415272876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_42
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e337803ebdb200890800000000000000
+      internalID: -7493941556537691330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_43
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbec865ef954715d0800000000000000
+      internalID: -3091926066115588419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_44
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ccd5fc0b046e810800000000000000
+      internalID: 1794192629691173995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_45
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ef8fc5c5876d000800000000000000
+      internalID: 60367983108226708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_46
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59708abdb9e5733f0800000000000000
+      internalID: -921163575275812971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_47
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28717b8de892e5d50800000000000000
+      internalID: 6727860586836072322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_48
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3344061395949eab0800000000000000
+      internalID: -4978367265652063181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_49
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ecc3dc9c6a8cfdc0800000000000000
+      internalID: -3603853402711012119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_50
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b655940dcce5d6c70800000000000000
+      internalID: 8965926666925331819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_51
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fda09cc9f675b810800000000000000
+      internalID: 1780460042945867257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_52
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63ea72208818a5e0800000000000000
+      internalID: -1898240304323304595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_53
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4f5d4e6d40904d0800000000000000
+      internalID: -3167995541869693756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_54
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa7ab16fea6ffb10800000000000000
+      internalID: 2017448734454610592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_55
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728d76bed92adabf0800000000000000
+      internalID: -311414000075679705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_56
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821f2422a50640c80800000000000000
+      internalID: -8357449068254662360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_57
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ee38e3c3e166c00800000000000000
+      internalID: 893434820175326785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_58
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7756d6678afe6b2b0800000000000000
+      internalID: -5569000382376614537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_59
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b97b9fbb35aea000800000000000000
+      internalID: 49158321983945137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_60
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0c70b4c1f5e4810800000000000000
+      internalID: 1751441880216223948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_61
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7eaa10c15f93dc10800000000000000
+      internalID: 2077179026612072059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_62
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e85b6a1b01f2980800000000000000
+      internalID: -8561606011415851503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_63
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 23
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67fd20402e8f271b0800000000000000
+      internalID: -5660188132037697674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_64
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b105bc4d0a8af6d90800000000000000
+      internalID: -7102272678621655013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_65
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c285b34d839f6a0800000000000000
+      internalID: -6415033710032704395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_66
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f4004bd66fc9820800000000000000
+      internalID: 2926484808915767156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_67
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab48ca3b8163da370800000000000000
+      internalID: 8335377965054198970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_68
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58a7385ce2216520800000000000000
+      internalID: 2693472450631936091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_69
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec060ba0f032e7200800000000000000
+      internalID: 179619582652211406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_70
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2584beeeec216d10800000000000000
+      internalID: 2117022704559490347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_71
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde4c6a4a0013f7b0800000000000000
+      internalID: -5191788309043720484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_72
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba9e87f4ca366720800000000000000
+      internalID: 2839021232744995505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_73
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7376d2681cdd53010800000000000000
+      internalID: 1168083501622060855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_74
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee88eeda044d09b0800000000000000
+      internalID: -5112355188515500320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_75
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c141f4125fe42a3b0800000000000000
+      internalID: -5502748979960540132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_76
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159231d7d4bd74e90800000000000000
+      internalID: -7041418366513108655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_77
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2f6448f43505ee0800000000000000
+      internalID: -1274427093559086427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_78
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 15
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b6353af850a56b0800000000000000
+      internalID: -5306923096424092769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_79
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5241849561cf590800000000000000
+      internalID: -7639206295210023496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_80
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 15
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5214618d9a59fee40800000000000000
+      internalID: 5687929411099574565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_81
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d15c324b8ace4d0800000000000000
+      internalID: -3103920551517413999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_82
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 15
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf642a02298032310800000000000000
+      internalID: 1378955334611257084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_83
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6067af7b6cfe2b20800000000000000
+      internalID: 3111701931192967274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_84
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 15
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ae47a42c750d330800000000000000
+      internalID: 3733580583074589295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_85
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f23db24af9fdadd0800000000000000
+      internalID: -2473045767099698444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_86
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 15
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba103c0e5d24bea0800000000000000
+      internalID: -5858007333347517764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_87
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0fe66d1100cf0340800000000000000
+      internalID: 4832292036212616974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_88
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 15
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5f50c2abc5ed8b0800000000000000
+      internalID: -5125557371228785175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_89
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6cb840ba4913330800000000000000
+      internalID: 3688893032029734603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_90
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 15
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8cbf000171be1b20800000000000000
+      internalID: 3107115891822673038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_91
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3c01a494e385300800000000000000
+      internalID: 241011064560468988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_92
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 15
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b13947094253d320800000000000000
+      internalID: 2581497485021753777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_93
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb837f0070f25340800000000000000
+      internalID: 4851204112717679614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_94
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 15
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bdb3e08676fdbb70800000000000000
+      internalID: 8916553826092432824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_95
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa6dd24d90541f30800000000000000
+      internalID: 4545346560285567657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_96
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c256430e6190bd30800000000000000
+      internalID: 4445212733902049987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_97
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa8c633c3ba299f0800000000000000
+      internalID: -463119536616600833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_98
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62791edad259edd0800000000000000
+      internalID: -2456341021771337107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_99
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce6140f04416fae40800000000000000
+      internalID: 5669857400820340460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_100
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b7b41cc06dc7df0800000000000000
+      internalID: -181034534730761383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_101
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5065fcfaa8fe47ba0800000000000000
+      internalID: -6091981016991312379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_102
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01fda4dd046d98790800000000000000
+      internalID: -7527249728094150896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_103
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a762dd0dd6ad010800000000000000
+      internalID: 1214403793360681519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_104
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f183609e606a921c0800000000000000
+      internalID: -4527905401734809569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_105
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4cfffba16babee80800000000000000
+      internalID: -8148230664810922931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Map_106
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63edb3af752175b40800000000000000
+      internalID: 5428828044888104502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hyrule Map_0: 2138889848762464619
+      Hyrule Map_1: 492938836765155679
+      Hyrule Map_10: -2917859322558414287
+      Hyrule Map_100: -181034534730761383
+      Hyrule Map_101: -6091981016991312379
+      Hyrule Map_102: -7527249728094150896
+      Hyrule Map_103: 1214403793360681519
+      Hyrule Map_104: -4527905401734809569
+      Hyrule Map_105: -8148230664810922931
+      Hyrule Map_106: 5428828044888104502
+      Hyrule Map_11: -5440194325237389860
+      Hyrule Map_12: -4847229335394283475
+      Hyrule Map_13: 1963004702805037589
+      Hyrule Map_14: 2873808775290082817
+      Hyrule Map_15: 4802482541768375368
+      Hyrule Map_16: 8629620594241905776
+      Hyrule Map_17: 2404592006463571533
+      Hyrule Map_18: -6008336417434060193
+      Hyrule Map_19: 6013429300288575114
+      Hyrule Map_2: -8035236658887271054
+      Hyrule Map_20: -3617421362852899716
+      Hyrule Map_21: 6857896898435879380
+      Hyrule Map_22: 2344995458503263105
+      Hyrule Map_23: 645765949376928729
+      Hyrule Map_24: 8581156462362507639
+      Hyrule Map_25: 477948140632866791
+      Hyrule Map_26: 9089922507212565975
+      Hyrule Map_27: 2885046117128916496
+      Hyrule Map_28: 8527139646599712615
+      Hyrule Map_29: -256164361116302075
+      Hyrule Map_3: 2970119353686815499
+      Hyrule Map_30: 3468093086249946419
+      Hyrule Map_31: 3908277607939228363
+      Hyrule Map_32: 844206976166403450
+      Hyrule Map_33: -938779826330435657
+      Hyrule Map_34: -3176893736277547578
+      Hyrule Map_35: -1169963456607788788
+      Hyrule Map_36: 3594925616716050045
+      Hyrule Map_37: -8669197706344922418
+      Hyrule Map_38: -4223180916418276517
+      Hyrule Map_39: -7551889123587594845
+      Hyrule Map_4: -502839761532392981
+      Hyrule Map_40: -8952617825705419855
+      Hyrule Map_41: -1412249304415272876
+      Hyrule Map_42: -7493941556537691330
+      Hyrule Map_43: -3091926066115588419
+      Hyrule Map_44: 1794192629691173995
+      Hyrule Map_45: 60367983108226708
+      Hyrule Map_46: -921163575275812971
+      Hyrule Map_47: 6727860586836072322
+      Hyrule Map_48: -4978367265652063181
+      Hyrule Map_49: -3603853402711012119
+      Hyrule Map_5: 724210149790948417
+      Hyrule Map_50: 8965926666925331819
+      Hyrule Map_51: 1780460042945867257
+      Hyrule Map_52: -1898240304323304595
+      Hyrule Map_53: -3167995541869693756
+      Hyrule Map_54: 2017448734454610592
+      Hyrule Map_55: -311414000075679705
+      Hyrule Map_56: -8357449068254662360
+      Hyrule Map_57: 893434820175326785
+      Hyrule Map_58: -5569000382376614537
+      Hyrule Map_59: 49158321983945137
+      Hyrule Map_6: -1423308745237597225
+      Hyrule Map_60: 1751441880216223948
+      Hyrule Map_61: 2077179026612072059
+      Hyrule Map_62: -8561606011415851503
+      Hyrule Map_63: -5660188132037697674
+      Hyrule Map_64: -7102272678621655013
+      Hyrule Map_65: -6415033710032704395
+      Hyrule Map_66: 2926484808915767156
+      Hyrule Map_67: 8335377965054198970
+      Hyrule Map_68: 2693472450631936091
+      Hyrule Map_69: 179619582652211406
+      Hyrule Map_7: -8795661178362148802
+      Hyrule Map_70: 2117022704559490347
+      Hyrule Map_71: -5191788309043720484
+      Hyrule Map_72: 2839021232744995505
+      Hyrule Map_73: 1168083501622060855
+      Hyrule Map_74: -5112355188515500320
+      Hyrule Map_75: -5502748979960540132
+      Hyrule Map_76: -7041418366513108655
+      Hyrule Map_77: -1274427093559086427
+      Hyrule Map_78: -5306923096424092769
+      Hyrule Map_79: -7639206295210023496
+      Hyrule Map_8: -1890139325220555878
+      Hyrule Map_80: 5687929411099574565
+      Hyrule Map_81: -3103920551517413999
+      Hyrule Map_82: 1378955334611257084
+      Hyrule Map_83: 3111701931192967274
+      Hyrule Map_84: 3733580583074589295
+      Hyrule Map_85: -2473045767099698444
+      Hyrule Map_86: -5858007333347517764
+      Hyrule Map_87: 4832292036212616974
+      Hyrule Map_88: -5125557371228785175
+      Hyrule Map_89: 3688893032029734603
+      Hyrule Map_9: -1156543882955928465
+      Hyrule Map_90: 3107115891822673038
+      Hyrule Map_91: 241011064560468988
+      Hyrule Map_92: 2581497485021753777
+      Hyrule Map_93: 4851204112717679614
+      Hyrule Map_94: 8916553826092432824
+      Hyrule Map_95: 4545346560285567657
+      Hyrule Map_96: 4445212733902049987
+      Hyrule Map_97: -463119536616600833
+      Hyrule Map_98: -2456341021771337107
+      Hyrule Map_99: 5669857400820340460
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

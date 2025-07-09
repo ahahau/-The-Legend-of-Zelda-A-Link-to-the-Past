@@ -1,0 +1,4511 @@
+fileFormatVersion: 2
+guid: 8722f7d35a22c404da8642e398b61675
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -111319263727733527
+    second: Fairy Bubble & Popo_0
+  - first:
+      213: 3650820582329789170
+    second: Fairy Bubble & Popo_1
+  - first:
+      213: 3736889731027308581
+    second: Fairy Bubble & Popo_2
+  - first:
+      213: -6547783027718967445
+    second: Fairy Bubble & Popo_3
+  - first:
+      213: 8663132948457656084
+    second: Fairy Bubble & Popo_4
+  - first:
+      213: -2848930043554869581
+    second: Fairy Bubble & Popo_5
+  - first:
+      213: -2119867366766596956
+    second: Fairy Bubble & Popo_6
+  - first:
+      213: 2207490710145549401
+    second: Fairy Bubble & Popo_7
+  - first:
+      213: -2389603341996371500
+    second: Fairy Bubble & Popo_8
+  - first:
+      213: 5219259829741212643
+    second: Fairy Bubble & Popo_9
+  - first:
+      213: -8687577770847823392
+    second: Fairy Bubble & Popo_10
+  - first:
+      213: -7924700218359451615
+    second: Fairy Bubble & Popo_11
+  - first:
+      213: -317686721039501023
+    second: Fairy Bubble & Popo_12
+  - first:
+      213: -7116506820906414900
+    second: Fairy Bubble & Popo_13
+  - first:
+      213: -3789773961505576464
+    second: Fairy Bubble & Popo_14
+  - first:
+      213: -3193496330899817814
+    second: Fairy Bubble & Popo_15
+  - first:
+      213: -6056195297248695153
+    second: Fairy Bubble & Popo_16
+  - first:
+      213: -5655039845913510426
+    second: Fairy Bubble & Popo_17
+  - first:
+      213: 7490332396272023758
+    second: Fairy Bubble & Popo_18
+  - first:
+      213: -7003329888548076476
+    second: Fairy Bubble & Popo_19
+  - first:
+      213: 503675595866994067
+    second: Fairy Bubble & Popo_20
+  - first:
+      213: -7268080184464428468
+    second: Fairy Bubble & Popo_21
+  - first:
+      213: 3133364520365174938
+    second: Fairy Bubble & Popo_22
+  - first:
+      213: 6560210411938728250
+    second: Fairy Bubble & Popo_23
+  - first:
+      213: 7282232449163864899
+    second: Fairy Bubble & Popo_24
+  - first:
+      213: 8252627088620206261
+    second: Fairy Bubble & Popo_25
+  - first:
+      213: 589854325712049885
+    second: Fairy Bubble & Popo_26
+  - first:
+      213: 5778143429072489024
+    second: Fairy Bubble & Popo_27
+  - first:
+      213: 1823666092084586509
+    second: Fairy Bubble & Popo_28
+  - first:
+      213: -3139535333119103774
+    second: Fairy Bubble & Popo_29
+  - first:
+      213: 8372871281287128252
+    second: Fairy Bubble & Popo_30
+  - first:
+      213: 5525948710492633491
+    second: Fairy Bubble & Popo_31
+  - first:
+      213: 7799854759605662223
+    second: Fairy Bubble & Popo_32
+  - first:
+      213: 11757541022574029
+    second: Fairy Bubble & Popo_33
+  - first:
+      213: 8723329591600769225
+    second: Fairy Bubble & Popo_34
+  - first:
+      213: 649195050883087983
+    second: Fairy Bubble & Popo_35
+  - first:
+      213: 8608739369568878450
+    second: Fairy Bubble & Popo_36
+  - first:
+      213: -8162848817234677586
+    second: Fairy Bubble & Popo_37
+  - first:
+      213: 8283515159184919687
+    second: Fairy Bubble & Popo_38
+  - first:
+      213: -6773264552110575267
+    second: Fairy Bubble & Popo_39
+  - first:
+      213: -721504613208355243
+    second: Fairy Bubble & Popo_40
+  - first:
+      213: 7810980304866252799
+    second: Fairy Bubble & Popo_41
+  - first:
+      213: 3351872713576726618
+    second: Fairy Bubble & Popo_42
+  - first:
+      213: 5932989982747878995
+    second: Fairy Bubble & Popo_43
+  - first:
+      213: 2199969192831239009
+    second: Fairy Bubble & Popo_44
+  - first:
+      213: 6107379205960239928
+    second: Fairy Bubble & Popo_45
+  - first:
+      213: -6959046382290306601
+    second: Fairy Bubble & Popo_46
+  - first:
+      213: -8088399841441415877
+    second: Fairy Bubble & Popo_47
+  - first:
+      213: 5143780469388188986
+    second: Fairy Bubble & Popo_48
+  - first:
+      213: 8516919919035494372
+    second: Fairy Bubble & Popo_49
+  - first:
+      213: 4122791528579561379
+    second: Fairy Bubble & Popo_50
+  - first:
+      213: 1116936826507566168
+    second: Fairy Bubble & Popo_51
+  - first:
+      213: 9031431675887090622
+    second: Fairy Bubble & Popo_52
+  - first:
+      213: -5205626147467144597
+    second: Fairy Bubble & Popo_53
+  - first:
+      213: -6391360133720095788
+    second: Fairy Bubble & Popo_54
+  - first:
+      213: 1088173017677213040
+    second: Fairy Bubble & Popo_55
+  - first:
+      213: 5581302098617575851
+    second: Fairy Bubble & Popo_56
+  - first:
+      213: 595454751358479285
+    second: Fairy Bubble & Popo_57
+  - first:
+      213: 8669521573899413992
+    second: Fairy Bubble & Popo_58
+  - first:
+      213: 5922502896683001950
+    second: Fairy Bubble & Popo_59
+  - first:
+      213: -9151271501318368830
+    second: Fairy Bubble & Popo_60
+  - first:
+      213: 6084781234364770425
+    second: Fairy Bubble & Popo_61
+  - first:
+      213: -8778708500342356554
+    second: Fairy Bubble & Popo_62
+  - first:
+      213: -659020726981997650
+    second: Fairy Bubble & Popo_63
+  - first:
+      213: 2881060385456286940
+    second: Fairy Bubble & Popo_64
+  - first:
+      213: -8979212037074123471
+    second: Fairy Bubble & Popo_65
+  - first:
+      213: 7246163008414430281
+    second: Fairy Bubble & Popo_66
+  - first:
+      213: 5793362492360878517
+    second: Fairy Bubble & Popo_67
+  - first:
+      213: 7558209639387596668
+    second: Fairy Bubble & Popo_68
+  - first:
+      213: -8639448154871102413
+    second: Fairy Bubble & Popo_69
+  - first:
+      213: -322539240343187212
+    second: Fairy Bubble & Popo_70
+  - first:
+      213: -7595062811618232112
+    second: Fairy Bubble & Popo_71
+  - first:
+      213: 7609751724158429599
+    second: Fairy Bubble & Popo_72
+  - first:
+      213: -6295432200087361585
+    second: Fairy Bubble & Popo_73
+  - first:
+      213: 5126472731433177690
+    second: Fairy Bubble & Popo_74
+  - first:
+      213: -3536568020691325720
+    second: Fairy Bubble & Popo_75
+  - first:
+      213: -904907749544978471
+    second: Fairy Bubble & Popo_76
+  - first:
+      213: -7968809781126701648
+    second: Fairy Bubble & Popo_77
+  - first:
+      213: -5207099994436449827
+    second: Fairy Bubble & Popo_78
+  - first:
+      213: 8210500693680368039
+    second: Fairy Bubble & Popo_79
+  - first:
+      213: -1420162029107525537
+    second: Fairy Bubble & Popo_80
+  - first:
+      213: 2081426720644520805
+    second: Fairy Bubble & Popo_81
+  - first:
+      213: -8475201821100341349
+    second: Fairy Bubble & Popo_82
+  - first:
+      213: -4479583697710671800
+    second: Fairy Bubble & Popo_83
+  - first:
+      213: -8366656487426819928
+    second: Fairy Bubble & Popo_84
+  - first:
+      213: -361891103420875939
+    second: Fairy Bubble & Popo_85
+  - first:
+      213: -8711921478555025630
+    second: Fairy Bubble & Popo_86
+  - first:
+      213: -3191006407927615075
+    second: Fairy Bubble & Popo_87
+  - first:
+      213: 1727103677139125503
+    second: Fairy Bubble & Popo_88
+  - first:
+      213: 3123120279905634059
+    second: Fairy Bubble & Popo_89
+  - first:
+      213: -194215989901663503
+    second: Fairy Bubble & Popo_90
+  - first:
+      213: -4033575201283084251
+    second: Fairy Bubble & Popo_91
+  - first:
+      213: 2039560169031632793
+    second: Fairy Bubble & Popo_92
+  - first:
+      213: -336612570890413174
+    second: Fairy Bubble & Popo_93
+  - first:
+      213: 2829900304960048882
+    second: Fairy Bubble & Popo_94
+  - first:
+      213: 389072729557481491
+    second: Fairy Bubble & Popo_95
+  - first:
+      213: 7078470416458479544
+    second: Fairy Bubble & Popo_96
+  - first:
+      213: 9173618016356909462
+    second: Fairy Bubble & Popo_97
+  - first:
+      213: 2325174165698638672
+    second: Fairy Bubble & Popo_98
+  - first:
+      213: 8547572730375708622
+    second: Fairy Bubble & Popo_99
+  - first:
+      213: -6811988857317909965
+    second: Fairy Bubble & Popo_100
+  - first:
+      213: 1735917946845033927
+    second: Fairy Bubble & Popo_101
+  - first:
+      213: -4448546724456997754
+    second: Fairy Bubble & Popo_102
+  - first:
+      213: -2549614382600650108
+    second: Fairy Bubble & Popo_103
+  - first:
+      213: 1825329176615898797
+    second: Fairy Bubble & Popo_104
+  - first:
+      213: -7982185710884945549
+    second: Fairy Bubble & Popo_105
+  - first:
+      213: -2761810737743485833
+    second: Fairy Bubble & Popo_106
+  - first:
+      213: 699646101566172283
+    second: Fairy Bubble & Popo_107
+  - first:
+      213: 3592297203360899833
+    second: Fairy Bubble & Popo_108
+  - first:
+      213: 573438392232520541
+    second: Fairy Bubble & Popo_109
+  - first:
+      213: 2760184896783880177
+    second: Fairy Bubble & Popo_110
+  - first:
+      213: -1908915533833530208
+    second: Fairy Bubble & Popo_111
+  - first:
+      213: -6941672260911875865
+    second: Fairy Bubble & Popo_112
+  - first:
+      213: 374611090837190988
+    second: Fairy Bubble & Popo_113
+  - first:
+      213: -8244551528036256508
+    second: Fairy Bubble & Popo_114
+  - first:
+      213: 6817232174336622171
+    second: Fairy Bubble & Popo_115
+  - first:
+      213: -7670269387979538116
+    second: Fairy Bubble & Popo_116
+  - first:
+      213: -8021514596054786361
+    second: Fairy Bubble & Popo_117
+  - first:
+      213: 115684218483856875
+    second: Fairy Bubble & Popo_118
+  - first:
+      213: 3842040751650730357
+    second: Fairy Bubble & Popo_119
+  - first:
+      213: -860339471919990978
+    second: Fairy Bubble & Popo_120
+  - first:
+      213: -390594486283970576
+    second: Fairy Bubble & Popo_121
+  - first:
+      213: -5437438129414527732
+    second: Fairy Bubble & Popo_122
+  - first:
+      213: 636989227337678144
+    second: Fairy Bubble & Popo_123
+  - first:
+      213: 2444265723821527679
+    second: Fairy Bubble & Popo_124
+  - first:
+      213: -4544736834692927220
+    second: Fairy Bubble & Popo_125
+  - first:
+      213: -6057413135398104391
+    second: Fairy Bubble & Popo_126
+  - first:
+      213: 3280763671427138519
+    second: Fairy Bubble & Popo_127
+  - first:
+      213: -6113737817671054472
+    second: Fairy Bubble & Popo_128
+  - first:
+      213: -2589347198695870651
+    second: Fairy Bubble & Popo_129
+  - first:
+      213: -3095090027066000431
+    second: Fairy Bubble & Popo_130
+  - first:
+      213: -6389998759919626994
+    second: Fairy Bubble & Popo_131
+  - first:
+      213: 7324565786849554225
+    second: Fairy Bubble & Popo_132
+  - first:
+      213: 2280729132643877005
+    second: Fairy Bubble & Popo_133
+  - first:
+      213: 1036936073488193782
+    second: Fairy Bubble & Popo_134
+  - first:
+      213: 683340561857503965
+    second: Fairy Bubble & Popo_135
+  - first:
+      213: 3125546820951064505
+    second: Fairy Bubble & Popo_136
+  - first:
+      213: 1114571645425734125
+    second: Fairy Bubble & Popo_137
+  - first:
+      213: -4843977284822558928
+    second: Fairy Bubble & Popo_138
+  - first:
+      213: -5645578792720842313
+    second: Fairy Bubble & Popo_139
+  - first:
+      213: 3077627213072869809
+    second: Fairy Bubble & Popo_140
+  - first:
+      213: 2258701833090585788
+    second: Fairy Bubble & Popo_141
+  - first:
+      213: -4106666392321231782
+    second: Fairy Bubble & Popo_142
+  - first:
+      213: -4882286193956329530
+    second: Fairy Bubble & Popo_143
+  - first:
+      213: 4625531510230522970
+    second: Fairy Bubble & Popo_144
+  - first:
+      213: -1007324175819764872
+    second: Fairy Bubble & Popo_145
+  - first:
+      213: 5177734753506057882
+    second: Fairy Bubble & Popo_146
+  - first:
+      213: 5657455093285036894
+    second: Fairy Bubble & Popo_147
+  - first:
+      213: 3094435652383866955
+    second: Fairy Bubble & Popo_148
+  - first:
+      213: -4907260036027448369
+    second: Fairy Bubble & Popo_149
+  - first:
+      213: 8243729146295219049
+    second: Fairy Bubble & Popo_150
+  - first:
+      213: 2109423511651548687
+    second: Fairy Bubble & Popo_151
+  - first:
+      213: -395115771193901565
+    second: Fairy Bubble & Popo_152
+  - first:
+      213: -9001388705671991306
+    second: Fairy Bubble & Popo_153
+  - first:
+      213: -8697270016593980258
+    second: Fairy Bubble & Popo_154
+  - first:
+      213: 2823214746073360370
+    second: Fairy Bubble & Popo_155
+  - first:
+      213: 4338338394186882511
+    second: Fairy Bubble & Popo_156
+  - first:
+      213: 6175792820626023752
+    second: Fairy Bubble & Popo_157
+  - first:
+      213: -172355837058839372
+    second: Fairy Bubble & Popo_158
+  - first:
+      213: 8072204857691004830
+    second: Fairy Bubble & Popo_159
+  - first:
+      213: 7615631536964509560
+    second: Fairy Bubble & Popo_160
+  - first:
+      213: 1271926309560280251
+    second: Fairy Bubble & Popo_161
+  - first:
+      213: 6203789942279212038
+    second: Fairy Bubble & Popo_162
+  - first:
+      213: 3584154698497635177
+    second: Fairy Bubble & Popo_163
+  - first:
+      213: -7653459533433155367
+    second: Fairy Bubble & Popo_164
+  - first:
+      213: -5321853899354550123
+    second: Fairy Bubble & Popo_165
+  - first:
+      213: 3711726341304513984
+    second: Fairy Bubble & Popo_166
+  - first:
+      213: -7942779466780646965
+    second: Fairy Bubble & Popo_167
+  - first:
+      213: -4380407774957997155
+    second: Fairy Bubble & Popo_168
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 223
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4b9dc28b3847ef0800000000000000
+      internalID: -111319263727733527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 223
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2faa37c0af15aa230800000000000000
+      internalID: 3650820582329789170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 223
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52010b659691cd330800000000000000
+      internalID: 3736889731027308581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_3
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 223
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6faa76270a9125a0800000000000000
+      internalID: -6547783027718967445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_4
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 223
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f0dc27481a93870800000000000000
+      internalID: 8663132948457656084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_5
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 223
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be49fb38319678d0800000000000000
+      internalID: -2848930043554869581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_6
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 223
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac2fe88cd7b492e0800000000000000
+      internalID: -2119867366766596956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_7
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 223
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9544337ea1592ae10800000000000000
+      internalID: 2207490710145549401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_8
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 223
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1583ecb6c66ded0800000000000000
+      internalID: -2389603341996371500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_9
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 223
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3d03e89298e6840800000000000000
+      internalID: 5219259829741212643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_10
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 223
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e91902db068f6780800000000000000
+      internalID: -8687577770847823392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_11
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 223
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1207935632fc50290800000000000000
+      internalID: -7924700218359451615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_12
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 223
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129f4924c99579bf0800000000000000
+      internalID: -317686721039501023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_13
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 223
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc8a3250c61d3d90800000000000000
+      internalID: -7116506820906414900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_14
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 223
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f96f6d39a4086bc0800000000000000
+      internalID: -3789773961505576464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_15
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 223
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaaf335c10c6ea3d0800000000000000
+      internalID: -3193496330899817814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_16
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 223
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ca919d67214fba0800000000000000
+      internalID: -6056195297248695153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_17
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 221
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed35a9c8334581b0800000000000000
+      internalID: -5655039845913510426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_18
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 223
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8f46101a103f760800000000000000
+      internalID: 7490332396272023758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_19
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 223
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4444734529c2fce90800000000000000
+      internalID: -7003329888548076476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_20
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 221
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3957fad294a6df600800000000000000
+      internalID: 503675595866994067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_21
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 223
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4231f58497922b90800000000000000
+      internalID: -7268080184464428468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_22
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 223
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90bd241e62fb7b20800000000000000
+      internalID: 3133364520365174938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_23
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 223
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a394d67bc9c8a0b50800000000000000
+      internalID: 6560210411938728250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_24
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 223
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b2c3064dfaf0560800000000000000
+      internalID: 7282232449163864899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_25
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 199
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b839f0ec98378270800000000000000
+      internalID: 8252627088620206261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_26
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 200
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd65b4152659f2800800000000000000
+      internalID: 589854325712049885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_27
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 201
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a8f17b5d6103050800000000000000
+      internalID: 5778143429072489024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_28
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 208
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0860a706a6fe4910800000000000000
+      internalID: 1823666092084586509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_29
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 207
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ece5ad9f312e64d0800000000000000
+      internalID: -3139535333119103774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_30
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 208
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb46037a11a623470800000000000000
+      internalID: 8372871281287128252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_31
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 194
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399f0ff031d10bc40800000000000000
+      internalID: 5525948710492633491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_32
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 194
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f027fe51496ae3c60800000000000000
+      internalID: 7799854759605662223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_33
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 194
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc52518db65c92000800000000000000
+      internalID: 11757541022574029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_34
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 194
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8640e9b0e7f0970800000000000000
+      internalID: 8723329591600769225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_35
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 183
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ef3dd8577620900800000000000000
+      internalID: 649195050883087983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_36
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 183
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27fb21778d2687770800000000000000
+      internalID: 8608739369568878450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_37
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 183
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea07285df3cb7be80800000000000000
+      internalID: -8162848817234677586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_38
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 183
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78cc7ca3625f4f270800000000000000
+      internalID: 8283515159184919687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_39
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 183
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5134b1b6c78002a0800000000000000
+      internalID: -6773264552110575267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_40
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 183
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e09e18063bcf5f0800000000000000
+      internalID: -721504613208355243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_41
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 183
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff71023f33d266c60800000000000000
+      internalID: 7810980304866252799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_42
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 183
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50c019597e348e20800000000000000
+      internalID: 3351872713576726618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_43
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 183
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35663a974f6365250800000000000000
+      internalID: 5932989982747878995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_44
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 183
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163428f235cd78e10800000000000000
+      internalID: 2199969192831239009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_45
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 183
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b0edf8705c1c450800000000000000
+      internalID: 6107379205960239928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_46
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 183
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d97e189f208c6f90800000000000000
+      internalID: -6959046382290306601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_47
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 183
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3dfe89c23b30cf80800000000000000
+      internalID: -8088399841441415877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_48
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 176
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d99708511626740800000000000000
+      internalID: 5143780469388188986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_49
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 176
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef2f82ba8d223670800000000000000
+      internalID: 8516919919035494372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_50
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 176
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a779ff3d09173930800000000000000
+      internalID: 4122791528579561379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_51
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 174
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c198c3028208f00800000000000000
+      internalID: 1116936826507566168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_52
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 176
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebbf5763247165d70800000000000000
+      internalID: 9031431675887090622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_53
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 176
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b625cb67996e1c7b0800000000000000
+      internalID: -5205626147467144597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_54
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 176
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3450e32d35d47a0800000000000000
+      internalID: -6391360133720095788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_55
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 176
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07da0dc1897f91f00800000000000000
+      internalID: 1088173017677213040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_56
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 176
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba92e3c00b4c47d40800000000000000
+      internalID: 5581302098617575851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_57
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 174
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb6a8601fa734800800000000000000
+      internalID: 595454751358479285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_58
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 176
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e92cd830f3505870800000000000000
+      internalID: 8669521573899413992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_59
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 176
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58230a7105f03250800000000000000
+      internalID: 5922502896683001950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_60
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 159
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c153c81e07200180800000000000000
+      internalID: -9151271501318368830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_61
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 160
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978664a4b4c717450800000000000000
+      internalID: 6084781234364770425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_62
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 161
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5446a6123cb2680800000000000000
+      internalID: -8778708500342356554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_63
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 168
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab4e94f320bad6f0800000000000000
+      internalID: -659020726981997650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_64
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 167
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc6293f7259bf720800000000000000
+      internalID: 2881060385456286940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_65
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 168
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1350947e93e636380800000000000000
+      internalID: -8979212037074123471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_66
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 154
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9443e154dda8f8460800000000000000
+      internalID: 7246163008414430281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_67
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 155
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9ed340e78266050800000000000000
+      internalID: 5793362492360878517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_68
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 156
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7781a53f9724e860800000000000000
+      internalID: 7558209639387596668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_69
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 158
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33401894da38a1880800000000000000
+      internalID: -8639448154871102413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_70
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 158
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f05831154c168bf0800000000000000
+      internalID: -322539240343187212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_71
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 159
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d837bafc9ae89690800000000000000
+      internalID: -7595062811618232112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_72
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 143
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99216bffd44b9960800000000000000
+      internalID: 7609751724158429599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_73
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 143
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7ac36c4c122a8a0800000000000000
+      internalID: -6295432200087361585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_74
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 143
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a521dcbb9c3e42740800000000000000
+      internalID: 5126472731433177690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_75
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 143
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ecefaa6f169beec0800000000000000
+      internalID: -3536568020691325720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_76
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 143
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d79fd9323f1173f0800000000000000
+      internalID: -904907749544978471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_77
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 143
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bdd84189b9196190800000000000000
+      internalID: -7968809781126701648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_78
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 141
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd94da9b42aacb7b0800000000000000
+      internalID: -5207099994436449827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_79
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 143
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9aaea31ee81f170800000000000000
+      internalID: 8210500693680368039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_80
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 130
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f584c8ba8229a4ce0800000000000000
+      internalID: -1420162029107525537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_81
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 131
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56bd5061396b2ec10800000000000000
+      internalID: 2081426720644520805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_82
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 132
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b970295e8d8026a80800000000000000
+      internalID: -8475201821100341349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_83
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 134
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848135c5c5255d1c0800000000000000
+      internalID: -4479583697710671800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_84
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 119
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8f43dc04aa3eb80800000000000000
+      internalID: -8366656487426819928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_85
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 134
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b793575fd4afaf0800000000000000
+      internalID: -361891103420875939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_86
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 135
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22fb1afa299091780800000000000000
+      internalID: -8711921478555025630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_87
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 119
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91ba73249447b3d0800000000000000
+      internalID: -3191006407927615075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_88
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 119
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4062ec4a7e7f710800000000000000
+      internalID: 1727103677139125503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_89
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 114
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07089af85d875b20800000000000000
+      internalID: 3123120279905634059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_90
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 114
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2e53016910e4df0800000000000000
+      internalID: -194215989901663503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_91
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 112
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52072b8a9bcd508c0800000000000000
+      internalID: -4033575201283084251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_92
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 114
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9978a2dea29fd4c10800000000000000
+      internalID: 2039560169031632793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_93
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 112
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b552576ac145bf0800000000000000
+      internalID: -336612570890413174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_94
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 114
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fec9ea7553d54720800000000000000
+      internalID: 2829900304960048882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_95
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 114
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318b01d0693466500800000000000000
+      internalID: 389072729557481491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_96
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 112
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b77e162757cb3260800000000000000
+      internalID: 7078470416458479544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_97
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 103
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691c3126bfc3f4f70800000000000000
+      internalID: 9173618016356909462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_98
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 103
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053f16b959da44020800000000000000
+      internalID: 2325174165698638672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_99
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 103
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf1cdd7c141f9670800000000000000
+      internalID: 8547572730375708622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_100
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 101
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a95a9c934f671a0800000000000000
+      internalID: -6811988857317909965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_101
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 103
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c57ce4ec28371810800000000000000
+      internalID: 1735917946845033927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_102
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 89
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c5302d2569342c0800000000000000
+      internalID: -4448546724456997754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_103
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 90
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4828cda3a33fd9cd0800000000000000
+      internalID: -2549614382600650108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_104
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 90
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daec852173fd45910800000000000000
+      internalID: 1825329176615898797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_105
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 79
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371018b2364993190800000000000000
+      internalID: -7982185710884945549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_106
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 74
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774a0f744c31ca9d0800000000000000
+      internalID: -2761810737743485833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_107
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 74
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ca6582c64a5b900800000000000000
+      internalID: 699646101566172283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_108
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 74
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2a4fd06476ad130800000000000000
+      internalID: 3592297203360899833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_109
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 74
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b2795fd2345f700800000000000000
+      internalID: 573438392232520541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_110
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 72
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff833f1a852e4620800000000000000
+      internalID: 2760184896783880177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_111
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 74
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a490a39f6b2285e0800000000000000
+      internalID: -1908915533833530208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_112
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 74
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e83a257bd93aaf90800000000000000
+      internalID: -6941672260911875865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_113
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 72
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49b5466dc2e23500800000000000000
+      internalID: 374611090837190988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_114
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 63
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405bef61118759d80800000000000000
+      internalID: -8244551528036256508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_115
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 63
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5eb2b61b8cab9e50800000000000000
+      internalID: 6817232174336622171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_116
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 63
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c314de561aabd8590800000000000000
+      internalID: -7670269387979538116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_117
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 63
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce1b8589fadda090800000000000000
+      internalID: -8021514596054786361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_118
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 61
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be559dc0f2efa9100800000000000000
+      internalID: 115684218483856875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_119
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 63
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57177b625bba15530800000000000000
+      internalID: 3842040751650730357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_120
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 63
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3736fdfec57f04f0800000000000000
+      internalID: -860339471919990978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_121
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 63
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f751d95264549af0800000000000000
+      internalID: -390594486283970576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_122
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 63
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05251084d65a84b0800000000000000
+      internalID: -5437438129414527732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_123
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 63
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d763dc35a07d800800000000000000
+      internalID: 636989227337678144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_124
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 50
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f729b0db9b6cbe120800000000000000
+      internalID: 2444265723821527679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_125
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 50
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01be7a8de9dde0c0800000000000000
+      internalID: -4544736834692927220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_126
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 50
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b29fcec8debfeba0800000000000000
+      internalID: -6057413135398104391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_127
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 50
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3cb6b4d2d978d20800000000000000
+      internalID: 3280763671427138519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_128
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 47
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b48d7c8d3a72ba0800000000000000
+      internalID: -6113737817671054472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_129
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 47
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f6495117ac01cd0800000000000000
+      internalID: -2589347198695870651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_130
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 34
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db70e4d4080c05d0800000000000000
+      internalID: -3095090027066000431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_131
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 34
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05ddc7cbf92257a0800000000000000
+      internalID: -6389998759919626994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_132
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 34
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13fa523a6c516a560800000000000000
+      internalID: 7324565786849554225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_133
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 34
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d808f14ff07c6af10800000000000000
+      internalID: 2280729132643877005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_134
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 32
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f85d0b6ddfe36e00800000000000000
+      internalID: 1036936073488193782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_135
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 34
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2e12ade96bb7900800000000000000
+      internalID: 683340561857503965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_136
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 34
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bfb3a7164c206b20800000000000000
+      internalID: 3125546820951064505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_137
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 32
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1d25a9101c77f00800000000000000
+      internalID: 1114571645425734125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_138
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 19
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037171ee25cb6ccb0800000000000000
+      internalID: -4843977284822558928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_139
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 17
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b14564efffd6a1b0800000000000000
+      internalID: -5645578792720842313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_140
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 17
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9a842f4ade5ba20800000000000000
+      internalID: 3077627213072869809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_141
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 19
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb453ee9955885f10800000000000000
+      internalID: 2258701833090585788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_142
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 19
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5478aa9ca03207c0800000000000000
+      internalID: -4106666392321231782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_143
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 19
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c76075f292ae3cb0800000000000000
+      internalID: -4882286193956329530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_144
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 19
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c9aa4c660313040800000000000000
+      internalID: 4625531510230522970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_145
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 19
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b8996cff34502f0800000000000000
+      internalID: -1007324175819764872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_146
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 19
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e5ce353520bd740800000000000000
+      internalID: 5177734753506057882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_147
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 19
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53aaffce61538e40800000000000000
+      internalID: 5657455093285036894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_148
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 19
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4005a0b4d4a1fa20800000000000000
+      internalID: 3094435652383866955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_149
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 19
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc30d1c3ff8e5ebb0800000000000000
+      internalID: -4907260036027448369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_150
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 19
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963f57d3bfb976270800000000000000
+      internalID: 8243729146295219049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_151
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 10
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ef8d4f18d264d10800000000000000
+      internalID: 2109423511651548687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_152
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 9
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e35dcac44448af0800000000000000
+      internalID: -395115771193901565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_153
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 9
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff2531e9a4a41380800000000000000
+      internalID: -9001388705671991306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_154
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 9
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94924100071d4780800000000000000
+      internalID: -8697270016593980258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_155
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 9
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7e8508ad21e2720800000000000000
+      internalID: 2823214746073360370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_156
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 9
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd92f4b8cfd43c30800000000000000
+      internalID: 4338338394186882511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_157
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 8
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84562df79d2d4b550800000000000000
+      internalID: 6175792820626023752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_158
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 8
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc8425874bab9df0800000000000000
+      internalID: -172355837058839372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_159
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 8
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9fdad8bc8b360070800000000000000
+      internalID: 8072204857691004830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_160
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 8
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f1805988820b960800000000000000
+      internalID: 7615631536964509560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_161
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 8
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb460d55d3ac6a110800000000000000
+      internalID: 1271926309560280251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_162
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 8
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c81ba551a481650800000000000000
+      internalID: 6203789942279212038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_163
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 7
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963bff765b97db130800000000000000
+      internalID: 3584154698497635177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_164
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0d3e6aa1379c590800000000000000
+      internalID: -7653459533433155367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_165
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 8
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590d17e231af426b0800000000000000
+      internalID: -5321853899354550123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_166
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 8
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c57aec1173b28330800000000000000
+      internalID: 3711726341304513984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_167
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 8
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1e549582495c190800000000000000
+      internalID: -7942779466780646965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Bubble & Popo_168
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 8
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93f44a465aa533c0800000000000000
+      internalID: -4380407774957997155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Fairy Bubble & Popo_0: -111319263727733527
+      Fairy Bubble & Popo_1: 3650820582329789170
+      Fairy Bubble & Popo_10: -8687577770847823392
+      Fairy Bubble & Popo_100: -6811988857317909965
+      Fairy Bubble & Popo_101: 1735917946845033927
+      Fairy Bubble & Popo_102: -4448546724456997754
+      Fairy Bubble & Popo_103: -2549614382600650108
+      Fairy Bubble & Popo_104: 1825329176615898797
+      Fairy Bubble & Popo_105: -7982185710884945549
+      Fairy Bubble & Popo_106: -2761810737743485833
+      Fairy Bubble & Popo_107: 699646101566172283
+      Fairy Bubble & Popo_108: 3592297203360899833
+      Fairy Bubble & Popo_109: 573438392232520541
+      Fairy Bubble & Popo_11: -7924700218359451615
+      Fairy Bubble & Popo_110: 2760184896783880177
+      Fairy Bubble & Popo_111: -1908915533833530208
+      Fairy Bubble & Popo_112: -6941672260911875865
+      Fairy Bubble & Popo_113: 374611090837190988
+      Fairy Bubble & Popo_114: -8244551528036256508
+      Fairy Bubble & Popo_115: 6817232174336622171
+      Fairy Bubble & Popo_116: -7670269387979538116
+      Fairy Bubble & Popo_117: -8021514596054786361
+      Fairy Bubble & Popo_118: 115684218483856875
+      Fairy Bubble & Popo_119: 3842040751650730357
+      Fairy Bubble & Popo_12: -317686721039501023
+      Fairy Bubble & Popo_120: -860339471919990978
+      Fairy Bubble & Popo_121: -390594486283970576
+      Fairy Bubble & Popo_122: -5437438129414527732
+      Fairy Bubble & Popo_123: 636989227337678144
+      Fairy Bubble & Popo_124: 2444265723821527679
+      Fairy Bubble & Popo_125: -4544736834692927220
+      Fairy Bubble & Popo_126: -6057413135398104391
+      Fairy Bubble & Popo_127: 3280763671427138519
+      Fairy Bubble & Popo_128: -6113737817671054472
+      Fairy Bubble & Popo_129: -2589347198695870651
+      Fairy Bubble & Popo_13: -7116506820906414900
+      Fairy Bubble & Popo_130: -3095090027066000431
+      Fairy Bubble & Popo_131: -6389998759919626994
+      Fairy Bubble & Popo_132: 7324565786849554225
+      Fairy Bubble & Popo_133: 2280729132643877005
+      Fairy Bubble & Popo_134: 1036936073488193782
+      Fairy Bubble & Popo_135: 683340561857503965
+      Fairy Bubble & Popo_136: 3125546820951064505
+      Fairy Bubble & Popo_137: 1114571645425734125
+      Fairy Bubble & Popo_138: -4843977284822558928
+      Fairy Bubble & Popo_139: -5645578792720842313
+      Fairy Bubble & Popo_14: -3789773961505576464
+      Fairy Bubble & Popo_140: 3077627213072869809
+      Fairy Bubble & Popo_141: 2258701833090585788
+      Fairy Bubble & Popo_142: -4106666392321231782
+      Fairy Bubble & Popo_143: -4882286193956329530
+      Fairy Bubble & Popo_144: 4625531510230522970
+      Fairy Bubble & Popo_145: -1007324175819764872
+      Fairy Bubble & Popo_146: 5177734753506057882
+      Fairy Bubble & Popo_147: 5657455093285036894
+      Fairy Bubble & Popo_148: 3094435652383866955
+      Fairy Bubble & Popo_149: -4907260036027448369
+      Fairy Bubble & Popo_15: -3193496330899817814
+      Fairy Bubble & Popo_150: 8243729146295219049
+      Fairy Bubble & Popo_151: 2109423511651548687
+      Fairy Bubble & Popo_152: -395115771193901565
+      Fairy Bubble & Popo_153: -9001388705671991306
+      Fairy Bubble & Popo_154: -8697270016593980258
+      Fairy Bubble & Popo_155: 2823214746073360370
+      Fairy Bubble & Popo_156: 4338338394186882511
+      Fairy Bubble & Popo_157: 6175792820626023752
+      Fairy Bubble & Popo_158: -172355837058839372
+      Fairy Bubble & Popo_159: 8072204857691004830
+      Fairy Bubble & Popo_16: -6056195297248695153
+      Fairy Bubble & Popo_160: 7615631536964509560
+      Fairy Bubble & Popo_161: 1271926309560280251
+      Fairy Bubble & Popo_162: 6203789942279212038
+      Fairy Bubble & Popo_163: 3584154698497635177
+      Fairy Bubble & Popo_164: -7653459533433155367
+      Fairy Bubble & Popo_165: -5321853899354550123
+      Fairy Bubble & Popo_166: 3711726341304513984
+      Fairy Bubble & Popo_167: -7942779466780646965
+      Fairy Bubble & Popo_168: -4380407774957997155
+      Fairy Bubble & Popo_17: -5655039845913510426
+      Fairy Bubble & Popo_18: 7490332396272023758
+      Fairy Bubble & Popo_19: -7003329888548076476
+      Fairy Bubble & Popo_2: 3736889731027308581
+      Fairy Bubble & Popo_20: 503675595866994067
+      Fairy Bubble & Popo_21: -7268080184464428468
+      Fairy Bubble & Popo_22: 3133364520365174938
+      Fairy Bubble & Popo_23: 6560210411938728250
+      Fairy Bubble & Popo_24: 7282232449163864899
+      Fairy Bubble & Popo_25: 8252627088620206261
+      Fairy Bubble & Popo_26: 589854325712049885
+      Fairy Bubble & Popo_27: 5778143429072489024
+      Fairy Bubble & Popo_28: 1823666092084586509
+      Fairy Bubble & Popo_29: -3139535333119103774
+      Fairy Bubble & Popo_3: -6547783027718967445
+      Fairy Bubble & Popo_30: 8372871281287128252
+      Fairy Bubble & Popo_31: 5525948710492633491
+      Fairy Bubble & Popo_32: 7799854759605662223
+      Fairy Bubble & Popo_33: 11757541022574029
+      Fairy Bubble & Popo_34: 8723329591600769225
+      Fairy Bubble & Popo_35: 649195050883087983
+      Fairy Bubble & Popo_36: 8608739369568878450
+      Fairy Bubble & Popo_37: -8162848817234677586
+      Fairy Bubble & Popo_38: 8283515159184919687
+      Fairy Bubble & Popo_39: -6773264552110575267
+      Fairy Bubble & Popo_4: 8663132948457656084
+      Fairy Bubble & Popo_40: -721504613208355243
+      Fairy Bubble & Popo_41: 7810980304866252799
+      Fairy Bubble & Popo_42: 3351872713576726618
+      Fairy Bubble & Popo_43: 5932989982747878995
+      Fairy Bubble & Popo_44: 2199969192831239009
+      Fairy Bubble & Popo_45: 6107379205960239928
+      Fairy Bubble & Popo_46: -6959046382290306601
+      Fairy Bubble & Popo_47: -8088399841441415877
+      Fairy Bubble & Popo_48: 5143780469388188986
+      Fairy Bubble & Popo_49: 8516919919035494372
+      Fairy Bubble & Popo_5: -2848930043554869581
+      Fairy Bubble & Popo_50: 4122791528579561379
+      Fairy Bubble & Popo_51: 1116936826507566168
+      Fairy Bubble & Popo_52: 9031431675887090622
+      Fairy Bubble & Popo_53: -5205626147467144597
+      Fairy Bubble & Popo_54: -6391360133720095788
+      Fairy Bubble & Popo_55: 1088173017677213040
+      Fairy Bubble & Popo_56: 5581302098617575851
+      Fairy Bubble & Popo_57: 595454751358479285
+      Fairy Bubble & Popo_58: 8669521573899413992
+      Fairy Bubble & Popo_59: 5922502896683001950
+      Fairy Bubble & Popo_6: -2119867366766596956
+      Fairy Bubble & Popo_60: -9151271501318368830
+      Fairy Bubble & Popo_61: 6084781234364770425
+      Fairy Bubble & Popo_62: -8778708500342356554
+      Fairy Bubble & Popo_63: -659020726981997650
+      Fairy Bubble & Popo_64: 2881060385456286940
+      Fairy Bubble & Popo_65: -8979212037074123471
+      Fairy Bubble & Popo_66: 7246163008414430281
+      Fairy Bubble & Popo_67: 5793362492360878517
+      Fairy Bubble & Popo_68: 7558209639387596668
+      Fairy Bubble & Popo_69: -8639448154871102413
+      Fairy Bubble & Popo_7: 2207490710145549401
+      Fairy Bubble & Popo_70: -322539240343187212
+      Fairy Bubble & Popo_71: -7595062811618232112
+      Fairy Bubble & Popo_72: 7609751724158429599
+      Fairy Bubble & Popo_73: -6295432200087361585
+      Fairy Bubble & Popo_74: 5126472731433177690
+      Fairy Bubble & Popo_75: -3536568020691325720
+      Fairy Bubble & Popo_76: -904907749544978471
+      Fairy Bubble & Popo_77: -7968809781126701648
+      Fairy Bubble & Popo_78: -5207099994436449827
+      Fairy Bubble & Popo_79: 8210500693680368039
+      Fairy Bubble & Popo_8: -2389603341996371500
+      Fairy Bubble & Popo_80: -1420162029107525537
+      Fairy Bubble & Popo_81: 2081426720644520805
+      Fairy Bubble & Popo_82: -8475201821100341349
+      Fairy Bubble & Popo_83: -4479583697710671800
+      Fairy Bubble & Popo_84: -8366656487426819928
+      Fairy Bubble & Popo_85: -361891103420875939
+      Fairy Bubble & Popo_86: -8711921478555025630
+      Fairy Bubble & Popo_87: -3191006407927615075
+      Fairy Bubble & Popo_88: 1727103677139125503
+      Fairy Bubble & Popo_89: 3123120279905634059
+      Fairy Bubble & Popo_9: 5219259829741212643
+      Fairy Bubble & Popo_90: -194215989901663503
+      Fairy Bubble & Popo_91: -4033575201283084251
+      Fairy Bubble & Popo_92: 2039560169031632793
+      Fairy Bubble & Popo_93: -336612570890413174
+      Fairy Bubble & Popo_94: 2829900304960048882
+      Fairy Bubble & Popo_95: 389072729557481491
+      Fairy Bubble & Popo_96: 7078470416458479544
+      Fairy Bubble & Popo_97: 9173618016356909462
+      Fairy Bubble & Popo_98: 2325174165698638672
+      Fairy Bubble & Popo_99: 8547572730375708622
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

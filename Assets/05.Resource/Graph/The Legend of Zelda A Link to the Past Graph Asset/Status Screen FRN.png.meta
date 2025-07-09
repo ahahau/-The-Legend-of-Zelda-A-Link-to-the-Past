@@ -1,0 +1,4927 @@
+fileFormatVersion: 2
+guid: d2f8e791cd4762f4894e0211081de961
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1428696303205052902
+    second: Status Screen FRN_0
+  - first:
+      213: 2286883732639554075
+    second: Status Screen FRN_1
+  - first:
+      213: 4375176703108878140
+    second: Status Screen FRN_2
+  - first:
+      213: -9173229258649630107
+    second: Status Screen FRN_3
+  - first:
+      213: -3473529842282854522
+    second: Status Screen FRN_4
+  - first:
+      213: 7257932622097820807
+    second: Status Screen FRN_5
+  - first:
+      213: 337654061273562385
+    second: Status Screen FRN_6
+  - first:
+      213: 1392138899886633148
+    second: Status Screen FRN_7
+  - first:
+      213: -4432527596437549315
+    second: Status Screen FRN_8
+  - first:
+      213: -2758635096334599881
+    second: Status Screen FRN_9
+  - first:
+      213: 4563891709733016049
+    second: Status Screen FRN_10
+  - first:
+      213: -6206897016237169056
+    second: Status Screen FRN_11
+  - first:
+      213: 2764046547871357994
+    second: Status Screen FRN_12
+  - first:
+      213: -3171377665941005942
+    second: Status Screen FRN_13
+  - first:
+      213: -1872202775475004707
+    second: Status Screen FRN_14
+  - first:
+      213: -2248483514307695717
+    second: Status Screen FRN_15
+  - first:
+      213: 4456630450854026648
+    second: Status Screen FRN_16
+  - first:
+      213: 5932196927619322956
+    second: Status Screen FRN_17
+  - first:
+      213: 5461419811357984194
+    second: Status Screen FRN_18
+  - first:
+      213: -1661743665221542750
+    second: Status Screen FRN_19
+  - first:
+      213: -8666065603121164282
+    second: Status Screen FRN_20
+  - first:
+      213: -3037887947653423996
+    second: Status Screen FRN_21
+  - first:
+      213: -6170274635540487434
+    second: Status Screen FRN_22
+  - first:
+      213: 8253624928945338974
+    second: Status Screen FRN_23
+  - first:
+      213: -7122028298312584047
+    second: Status Screen FRN_24
+  - first:
+      213: 7369093480746829947
+    second: Status Screen FRN_25
+  - first:
+      213: -6504852148999305919
+    second: Status Screen FRN_26
+  - first:
+      213: 3273391355912957968
+    second: Status Screen FRN_27
+  - first:
+      213: -7615986665914783450
+    second: Status Screen FRN_28
+  - first:
+      213: 4500723517189718265
+    second: Status Screen FRN_29
+  - first:
+      213: -6457659450615207493
+    second: Status Screen FRN_30
+  - first:
+      213: -1307996176911350122
+    second: Status Screen FRN_31
+  - first:
+      213: -3573319443414928946
+    second: Status Screen FRN_32
+  - first:
+      213: -3057217086541143854
+    second: Status Screen FRN_33
+  - first:
+      213: -9008242711039115446
+    second: Status Screen FRN_34
+  - first:
+      213: 6708536655316106247
+    second: Status Screen FRN_35
+  - first:
+      213: 1544348250442079615
+    second: Status Screen FRN_36
+  - first:
+      213: -5301429444975066108
+    second: Status Screen FRN_37
+  - first:
+      213: 1309477007500926729
+    second: Status Screen FRN_38
+  - first:
+      213: -1572132808925750578
+    second: Status Screen FRN_39
+  - first:
+      213: -1845384988526559685
+    second: Status Screen FRN_40
+  - first:
+      213: 2339751375521290021
+    second: Status Screen FRN_41
+  - first:
+      213: 5907325192270663519
+    second: Status Screen FRN_42
+  - first:
+      213: 8191550812455446291
+    second: Status Screen FRN_43
+  - first:
+      213: -5522540728632928984
+    second: Status Screen FRN_44
+  - first:
+      213: 4823540387702842101
+    second: Status Screen FRN_45
+  - first:
+      213: 3775425156907220059
+    second: Status Screen FRN_46
+  - first:
+      213: -8478084879944626528
+    second: Status Screen FRN_47
+  - first:
+      213: 7999338113721584758
+    second: Status Screen FRN_48
+  - first:
+      213: 4643524593734061091
+    second: Status Screen FRN_49
+  - first:
+      213: -1766414774043779503
+    second: Status Screen FRN_50
+  - first:
+      213: 8189679248997880119
+    second: Status Screen FRN_51
+  - first:
+      213: 1225250578501492513
+    second: Status Screen FRN_52
+  - first:
+      213: 1917646694936876905
+    second: Status Screen FRN_53
+  - first:
+      213: -7224059752623214802
+    second: Status Screen FRN_54
+  - first:
+      213: 1559202556403030096
+    second: Status Screen FRN_55
+  - first:
+      213: 8048698851237499703
+    second: Status Screen FRN_56
+  - first:
+      213: 5793856274986574548
+    second: Status Screen FRN_57
+  - first:
+      213: 376407180500902844
+    second: Status Screen FRN_58
+  - first:
+      213: -6180029077194033856
+    second: Status Screen FRN_59
+  - first:
+      213: -8049707462622503109
+    second: Status Screen FRN_60
+  - first:
+      213: -3917630365080685861
+    second: Status Screen FRN_61
+  - first:
+      213: -688871942750897870
+    second: Status Screen FRN_62
+  - first:
+      213: -6760856012626263414
+    second: Status Screen FRN_63
+  - first:
+      213: -6600666228289360769
+    second: Status Screen FRN_64
+  - first:
+      213: 3177744219272586367
+    second: Status Screen FRN_65
+  - first:
+      213: 4623754603781542129
+    second: Status Screen FRN_66
+  - first:
+      213: -2388748371716745145
+    second: Status Screen FRN_67
+  - first:
+      213: 7145047433509570585
+    second: Status Screen FRN_68
+  - first:
+      213: 8044002850378961405
+    second: Status Screen FRN_69
+  - first:
+      213: -1231619348275262747
+    second: Status Screen FRN_70
+  - first:
+      213: -295459164422892975
+    second: Status Screen FRN_71
+  - first:
+      213: -7375586275163306572
+    second: Status Screen FRN_72
+  - first:
+      213: -5358486007111261723
+    second: Status Screen FRN_73
+  - first:
+      213: 5417310408002983565
+    second: Status Screen FRN_74
+  - first:
+      213: -9089450311550459496
+    second: Status Screen FRN_75
+  - first:
+      213: 4615280115914145349
+    second: Status Screen FRN_76
+  - first:
+      213: -6066749843658065650
+    second: Status Screen FRN_77
+  - first:
+      213: 7865810096725988195
+    second: Status Screen FRN_78
+  - first:
+      213: 2849550789437860452
+    second: Status Screen FRN_79
+  - first:
+      213: -762931036191612540
+    second: Status Screen FRN_80
+  - first:
+      213: 6672801658879003513
+    second: Status Screen FRN_81
+  - first:
+      213: -7345393863321302923
+    second: Status Screen FRN_82
+  - first:
+      213: 882500694012136218
+    second: Status Screen FRN_83
+  - first:
+      213: 1938609606574278690
+    second: Status Screen FRN_84
+  - first:
+      213: -1874729072673698510
+    second: Status Screen FRN_85
+  - first:
+      213: 1813391672592344111
+    second: Status Screen FRN_86
+  - first:
+      213: -4575551795232222375
+    second: Status Screen FRN_87
+  - first:
+      213: -8449415515875382926
+    second: Status Screen FRN_88
+  - first:
+      213: -682554868580510806
+    second: Status Screen FRN_89
+  - first:
+      213: 6334715274882852815
+    second: Status Screen FRN_90
+  - first:
+      213: 628414686827769853
+    second: Status Screen FRN_91
+  - first:
+      213: -3698606567708510822
+    second: Status Screen FRN_92
+  - first:
+      213: -176308119296135082
+    second: Status Screen FRN_93
+  - first:
+      213: -3235832027157619728
+    second: Status Screen FRN_94
+  - first:
+      213: 7753061318956029170
+    second: Status Screen FRN_95
+  - first:
+      213: 1420494533731139416
+    second: Status Screen FRN_96
+  - first:
+      213: 5674707986807859636
+    second: Status Screen FRN_97
+  - first:
+      213: 7470476640041467936
+    second: Status Screen FRN_98
+  - first:
+      213: 1664069193236406501
+    second: Status Screen FRN_99
+  - first:
+      213: -3827696096534331941
+    second: Status Screen FRN_100
+  - first:
+      213: -991376035741806592
+    second: Status Screen FRN_101
+  - first:
+      213: 1381943711276207437
+    second: Status Screen FRN_102
+  - first:
+      213: 6288829952986624001
+    second: Status Screen FRN_103
+  - first:
+      213: 1272867553116249535
+    second: Status Screen FRN_104
+  - first:
+      213: 3454015222076013284
+    second: Status Screen FRN_105
+  - first:
+      213: -1953914337666530430
+    second: Status Screen FRN_106
+  - first:
+      213: 3535259131877895068
+    second: Status Screen FRN_107
+  - first:
+      213: 7118688861070266713
+    second: Status Screen FRN_108
+  - first:
+      213: 3308503599163498234
+    second: Status Screen FRN_109
+  - first:
+      213: 8181944349447367906
+    second: Status Screen FRN_110
+  - first:
+      213: 7036174400142580077
+    second: Status Screen FRN_111
+  - first:
+      213: -4779441555349369793
+    second: Status Screen FRN_112
+  - first:
+      213: 4242884852531840778
+    second: Status Screen FRN_113
+  - first:
+      213: 4974323981888021702
+    second: Status Screen FRN_114
+  - first:
+      213: 3054655480642581276
+    second: Status Screen FRN_115
+  - first:
+      213: -4639442359931270126
+    second: Status Screen FRN_116
+  - first:
+      213: 3347156839825560361
+    second: Status Screen FRN_117
+  - first:
+      213: 378162330447772679
+    second: Status Screen FRN_118
+  - first:
+      213: -4570297715590476169
+    second: Status Screen FRN_119
+  - first:
+      213: -3089101663634884462
+    second: Status Screen FRN_120
+  - first:
+      213: -2167848594394593553
+    second: Status Screen FRN_121
+  - first:
+      213: 7101680359721489318
+    second: Status Screen FRN_122
+  - first:
+      213: 1684498144574361155
+    second: Status Screen FRN_123
+  - first:
+      213: 3683281362010515579
+    second: Status Screen FRN_124
+  - first:
+      213: 4813754522230386736
+    second: Status Screen FRN_125
+  - first:
+      213: -3990862354209774156
+    second: Status Screen FRN_126
+  - first:
+      213: -6601232933364953712
+    second: Status Screen FRN_127
+  - first:
+      213: -6869427106030974231
+    second: Status Screen FRN_128
+  - first:
+      213: -7093100812148351503
+    second: Status Screen FRN_129
+  - first:
+      213: 1862167408481314348
+    second: Status Screen FRN_130
+  - first:
+      213: -4366187899157543111
+    second: Status Screen FRN_131
+  - first:
+      213: 7329648232088851242
+    second: Status Screen FRN_132
+  - first:
+      213: 2518004438786164011
+    second: Status Screen FRN_133
+  - first:
+      213: 2546285734722446665
+    second: Status Screen FRN_134
+  - first:
+      213: -5569492043367940613
+    second: Status Screen FRN_135
+  - first:
+      213: -8402448337982203007
+    second: Status Screen FRN_136
+  - first:
+      213: 9170515430244993450
+    second: Status Screen FRN_137
+  - first:
+      213: 5194467927415214827
+    second: Status Screen FRN_138
+  - first:
+      213: 4527485414354117033
+    second: Status Screen FRN_139
+  - first:
+      213: -6661403726040305637
+    second: Status Screen FRN_140
+  - first:
+      213: 810219142805055690
+    second: Status Screen FRN_141
+  - first:
+      213: -8826987091782967343
+    second: Status Screen FRN_142
+  - first:
+      213: -850464315030722532
+    second: Status Screen FRN_143
+  - first:
+      213: -6856329409150576613
+    second: Status Screen FRN_144
+  - first:
+      213: -3320106063772386276
+    second: Status Screen FRN_145
+  - first:
+      213: 5808501250636393725
+    second: Status Screen FRN_146
+  - first:
+      213: -6614902952396351108
+    second: Status Screen FRN_147
+  - first:
+      213: 8447570605365616051
+    second: Status Screen FRN_148
+  - first:
+      213: 6690114782749460153
+    second: Status Screen FRN_149
+  - first:
+      213: -8516093587804126327
+    second: Status Screen FRN_150
+  - first:
+      213: 6188352388507064397
+    second: Status Screen FRN_151
+  - first:
+      213: -9028999311845074780
+    second: Status Screen FRN_152
+  - first:
+      213: 4923201239288065813
+    second: Status Screen FRN_153
+  - first:
+      213: -419668116551557874
+    second: Status Screen FRN_154
+  - first:
+      213: -4650017957637070504
+    second: Status Screen FRN_155
+  - first:
+      213: 3199323924166498049
+    second: Status Screen FRN_156
+  - first:
+      213: 3897845920395211537
+    second: Status Screen FRN_157
+  - first:
+      213: -8426854884668236957
+    second: Status Screen FRN_158
+  - first:
+      213: -4183223826882058589
+    second: Status Screen FRN_159
+  - first:
+      213: -8621884293581236359
+    second: Status Screen FRN_160
+  - first:
+      213: -4883276929245342135
+    second: Status Screen FRN_161
+  - first:
+      213: -333180752558722358
+    second: Status Screen FRN_162
+  - first:
+      213: -7553612091353739005
+    second: Status Screen FRN_163
+  - first:
+      213: -3214236996049784730
+    second: Status Screen FRN_164
+  - first:
+      213: -1985997556032828710
+    second: Status Screen FRN_165
+  - first:
+      213: 5757864046569790709
+    second: Status Screen FRN_166
+  - first:
+      213: -91095627926139367
+    second: Status Screen FRN_167
+  - first:
+      213: 2355462543322889735
+    second: Status Screen FRN_168
+  - first:
+      213: -5063743920158671751
+    second: Status Screen FRN_169
+  - first:
+      213: 4851008653968230662
+    second: Status Screen FRN_170
+  - first:
+      213: -950363628755388435
+    second: Status Screen FRN_171
+  - first:
+      213: 5037154802213551958
+    second: Status Screen FRN_172
+  - first:
+      213: 7064973910290198441
+    second: Status Screen FRN_173
+  - first:
+      213: 3222209604249376533
+    second: Status Screen FRN_174
+  - first:
+      213: -6338259815324698550
+    second: Status Screen FRN_175
+  - first:
+      213: 6396113464790141687
+    second: Status Screen FRN_176
+  - first:
+      213: 4117840014304347604
+    second: Status Screen FRN_177
+  - first:
+      213: 7523252031273887296
+    second: Status Screen FRN_178
+  - first:
+      213: 3737992942410106041
+    second: Status Screen FRN_179
+  - first:
+      213: 1100972839788478834
+    second: Status Screen FRN_180
+  - first:
+      213: -1801443736846462082
+    second: Status Screen FRN_181
+  - first:
+      213: 5751571635058728771
+    second: Status Screen FRN_182
+  - first:
+      213: 6281249707110591264
+    second: Status Screen FRN_183
+  - first:
+      213: -8840203702931850070
+    second: Status Screen FRN_184
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Status Screen FRN_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 655
+        width: 258
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e8c8328404c2ce0800000000000000
+      internalID: -1428696303205052902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_1
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 655
+        width: 258
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a999e63a4acbf10800000000000000
+      internalID: 2286883732639554075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_2
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 511
+        width: 154
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f8e52e700c7bc30800000000000000
+      internalID: 4375176703108878140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_3
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 495
+        width: 82
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a08f2579422b080800000000000000
+      internalID: -9173229258649630107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 575
+        width: 154
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6870302130b8bcfc0800000000000000
+      internalID: -3473529842282854522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_5
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 567
+        width: 82
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c2cdff34b59b460800000000000000
+      internalID: 7257932622097820807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_6
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 495
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11dbd2b64969fa400800000000000000
+      internalID: 337654061273562385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_7
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 495
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0febd14fed15310800000000000000
+      internalID: 1392138899886633148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_8
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 527
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe4935b2af7c72c0800000000000000
+      internalID: -4432527596437549315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_9
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 415
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739fc0aeefb57b9d0800000000000000
+      internalID: -2758635096334599881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_10
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 463
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f19cf75453365f30800000000000000
+      internalID: 4563891709733016049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_11
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 463
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06660cd9c0cacd9a0800000000000000
+      internalID: -6206897016237169056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_12
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 463
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c5484d0bddb5620800000000000000
+      internalID: 2764046547871357994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_13
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 463
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a899af4c0d00df3d0800000000000000
+      internalID: -3171377665941005942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_14
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 463
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddadf4cbe799406e0800000000000000
+      internalID: -1872202775475004707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_15
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 427
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b2e5e1828cbc0e0800000000000000
+      internalID: -2248483514307695717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_16
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 427
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89dd75668c129dd30800000000000000
+      internalID: 4456630450854026648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_17
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 427
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44d960fca5635250800000000000000
+      internalID: 5932196927619322956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_18
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 439
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c50641f16cdacb40800000000000000
+      internalID: 5461419811357984194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_19
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 439
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2acd6b6d0fc40f8e0800000000000000
+      internalID: -1661743665221542750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_20
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 439
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6005bbdaf33fbb780800000000000000
+      internalID: -8666065603121164282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_21
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 439
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c5dacc10147d5d0800000000000000
+      internalID: -3037887947653423996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_22
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 439
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2a10619e7ce5aa0800000000000000
+      internalID: -6170274635540487434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_23
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 403
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a781fa424ca8270800000000000000
+      internalID: 8253624928945338974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_24
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 403
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1947cce2ff8792d90800000000000000
+      internalID: -7122028298312584047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_25
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 403
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78cf844a77444660800000000000000
+      internalID: 7369093480746829947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_26
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 415
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145c5764f6f1ab5a0800000000000000
+      internalID: -6504852148999305919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_27
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 415
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010b604581c6d6d20800000000000000
+      internalID: 3273391355912957968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_28
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 415
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629a9048a749e4690800000000000000
+      internalID: -7615986665914783450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_29
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 415
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0075a6138c57e30800000000000000
+      internalID: 4500723517189718265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_30
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 415
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb9e2ad91f8c166a0800000000000000
+      internalID: -6457659450615207493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_31
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 335
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69641ab386019dde0800000000000000
+      internalID: -1307996176911350122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_32
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 379
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1b14206e4096ec0800000000000000
+      internalID: -3573319443414928946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_33
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 379
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0e573f1459295d0800000000000000
+      internalID: -3057217086541143854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_34
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 379
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ff2066bfa4cf280800000000000000
+      internalID: -9008242711039115446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_35
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 391
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70cbdce6b82891d50800000000000000
+      internalID: 6708536655316106247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_36
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 391
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d981d2d80ae6510800000000000000
+      internalID: 1544348250442079615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_37
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 391
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404077a020a8d66b0800000000000000
+      internalID: -5301429444975066108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_38
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 391
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f52a186623c2210800000000000000
+      internalID: 1309477007500926729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_39
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 391
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca5e303a89ae2ae0800000000000000
+      internalID: -1572132808925750578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_40
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 367
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e39055120e366e0800000000000000
+      internalID: -1845384988526559685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_41
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 367
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5279da0ca77787020800000000000000
+      internalID: 2339751375521290021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_42
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 367
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f420ac6f80bf150800000000000000
+      internalID: 5907325192270663519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_43
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 367
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31728ff201c3ea170800000000000000
+      internalID: 8191550812455446291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_44
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 367
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825153c877efb53b0800000000000000
+      internalID: -5522540728632928984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_45
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 343
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f227c82d68a0f240800000000000000
+      internalID: 4823540387702842101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_46
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 343
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c37895d21056430800000000000000
+      internalID: 3775425156907220059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_47
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 343
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae4a4378bac75a80800000000000000
+      internalID: -8478084879944626528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_48
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 343
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c4e92d1ab530f60800000000000000
+      internalID: 7999338113721584758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_49
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 311
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c0f4bf30d117040800000000000000
+      internalID: 4643524593734061091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_50
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 311
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e5e133f1f6c77e0800000000000000
+      internalID: -1766414774043779503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_51
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 311
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73118ecd2e597a170800000000000000
+      internalID: 8189679248997880119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_52
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 311
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f5c64d8e6f00110800000000000000
+      internalID: 1225250578501492513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_53
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 311
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9671a684289dc9a10800000000000000
+      internalID: 1917646694936876905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_54
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 287
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f62b00eebfebb90800000000000000
+      internalID: -7224059752623214802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_55
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 287
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 058984bc67663a510800000000000000
+      internalID: 1559202556403030096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_56
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 287
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7331b1c16f8b2bf60800000000000000
+      internalID: 8048698851237499703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_57
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 287
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d22e3eb599e76050800000000000000
+      internalID: 5793856274986574548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_58
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 287
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3a9ac1654493500800000000000000
+      internalID: 376407180500902844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_59
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 263
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045b3482c402c3aa0800000000000000
+      internalID: -6180029077194033856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_60
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 263
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f139046b1b94090800000000000000
+      internalID: -8049707462622503109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_61
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 263
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd2f41080f7c1a9c0800000000000000
+      internalID: -3917630365080685861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_62
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 263
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239799c2e92a076f0800000000000000
+      internalID: -688871942750897870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_63
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 263
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8209dde64d9c22a0800000000000000
+      internalID: -6760856012626263414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_64
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 239
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c25e58909b564a0800000000000000
+      internalID: -6600666228289360769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_65
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 239
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f742bc0f78d991c20800000000000000
+      internalID: 3177744219272586367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_66
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 239
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0d9fe7050ea2040800000000000000
+      internalID: 4623754603781542129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_67
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 239
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748d706130679ded0800000000000000
+      internalID: -2388748371716745145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_68
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 239
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91887a1e8ce482360800000000000000
+      internalID: 7145047433509570585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_69
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 215
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1511539f902af60800000000000000
+      internalID: 8044002850378961405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_70
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 215
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea0e876ab868eee0800000000000000
+      internalID: -1231619348275262747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_71
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 215
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15290f2947156ebf0800000000000000
+      internalID: -295459164422892975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_72
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 215
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b505aa3c57a4a990800000000000000
+      internalID: -7375586275163306572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_73
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 215
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e16b34fd55d2a5b0800000000000000
+      internalID: -5358486007111261723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_74
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 191
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d865b0b2d172e2b40800000000000000
+      internalID: 5417310408002983565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_75
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 191
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891a8708919cbd180800000000000000
+      internalID: -9089450311550459496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_76
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 191
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e7cf700d4cc0040800000000000000
+      internalID: 4615280115914145349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_77
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 191
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09ba9309239ecba0800000000000000
+      internalID: -6066749843658065650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_78
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 191
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363980eab98f82d60800000000000000
+      internalID: 7865810096725988195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_79
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 167
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46aa0ed6853ab8720800000000000000
+      internalID: 2849550789437860452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_80
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 167
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481ada7c3468965f0800000000000000
+      internalID: -762931036191612540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_81
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 167
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97bce1631cd8a9c50800000000000000
+      internalID: 6672801658879003513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_82
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 167
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5784669e23bef0a90800000000000000
+      internalID: -7345393863321302923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_83
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 167
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b01ac94b54f3c00800000000000000
+      internalID: 882500694012136218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_84
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 143
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228050e7a2357ea10800000000000000
+      internalID: 1938609606574278690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_85
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 143
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23dcf2557df9bf5e0800000000000000
+      internalID: -1874729072673698510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_86
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 143
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24a4835e167a2910800000000000000
+      internalID: 1813391672592344111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_87
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 143
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95358c172ef5080c0800000000000000
+      internalID: -4575551795232222375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_88
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 143
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279e290fa55adba80800000000000000
+      internalID: -8449415515875382926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_89
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 119
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa39b8e96f31786f0800000000000000
+      internalID: -682554868580510806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_90
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 119
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc722a0dafd69e750800000000000000
+      internalID: 6334715274882852815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_91
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 119
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dffe10404d398b800800000000000000
+      internalID: 628414686827769853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_92
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 119
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95bec73ce8ebacc0800000000000000
+      internalID: -3698606567708510822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_93
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 119
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650365a13b0ad8df0800000000000000
+      internalID: -176308119296135082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_94
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 95
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb107c5ae30813d0800000000000000
+      internalID: -3235832027157619728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_95
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 95
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4123e2138689b60800000000000000
+      internalID: 7753061318956029170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_96
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 95
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85fbd68904c96b310800000000000000
+      internalID: 1420494533731139416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_97
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 95
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b921cd19dc90ce40800000000000000
+      internalID: 5674707986807859636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_98
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 95
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02086808ce67ca760800000000000000
+      internalID: 7470476640041467936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_99
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 71
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0e6885d16f71710800000000000000
+      internalID: 1664069193236406501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_100
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 71
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bddfbe12eaa41eac0800000000000000
+      internalID: -3827696096534331941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_101
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 71
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00056ce7fbced32f0800000000000000
+      internalID: -991376035741806592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_102
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 71
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d043acb76ad2310800000000000000
+      internalID: 1381943711276207437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_103
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 71
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100ba98c589664750800000000000000
+      internalID: 6288829952986624001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_104
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 71
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd5d9dab422aa110800000000000000
+      internalID: 1272867553116249535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_105
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 47
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eaf1a85b802fef20800000000000000
+      internalID: 3454015222076013284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_106
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 47
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28308dd134d42e4e0800000000000000
+      internalID: -1953914337666530430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_107
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 47
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ba9882373cf0130800000000000000
+      internalID: 3535259131877895068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_108
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 47
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9519f9e7dc9aac260800000000000000
+      internalID: 7118688861070266713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_109
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 47
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afedd368e7a2aed20800000000000000
+      internalID: 3308503599163498234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_110
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 47
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec23d8390b1c8170800000000000000
+      internalID: 8181944349447367906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_111
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d691232765385a160800000000000000
+      internalID: 7036174400142580077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_112
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c09ac5a330cadb0800000000000000
+      internalID: -4779441555349369793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_113
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07cb0a2b41c1ea30800000000000000
+      internalID: 4242884852531840778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_114
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c464227e49580540800000000000000
+      internalID: 4974323981888021702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_115
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13b6e2b9f0546a20800000000000000
+      internalID: 3054655480642581276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_116
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c856421c36d9fb0800000000000000
+      internalID: -4639442359931270126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_117
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923525d696d737e20800000000000000
+      internalID: 3347156839825560361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_118
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70cf5cdc2a08f3500800000000000000
+      internalID: 378162330447772679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_119
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e4370317a0390c0800000000000000
+      internalID: -4570297715590476169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_120
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29879f7576e4125d0800000000000000
+      internalID: -3089101663634884462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_121
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe6c74c60314ae1e0800000000000000
+      internalID: -2167848594394593553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_122
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3519d29ac3e8260800000000000000
+      internalID: 7101680359721489318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_123
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ec82c332a806710800000000000000
+      internalID: 1684498144574361155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_124
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78247642e4ad1330800000000000000
+      internalID: 3683281362010515579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_125
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030f87dcb34edc240800000000000000
+      internalID: 4813754522230386736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_126
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5e8d555db9d98c0800000000000000
+      internalID: -3990862354209774156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_127
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d0c273f95b364a0800000000000000
+      internalID: -6601232933364953712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_128
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea859e5174eaa0a0800000000000000
+      internalID: -6869427106030974231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_129
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fddcd7646e309d90800000000000000
+      internalID: -7093100812148351503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_130
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26a6de446fb7d910800000000000000
+      internalID: 1862167408481314348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_131
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9370b102d3f2863c0800000000000000
+      internalID: -4366187899157543111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_132
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23d932ab3428b560800000000000000
+      internalID: 7329648232088851242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_133
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25c4b432bfb1f220800000000000000
+      internalID: 2518004438786164011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_134
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945a6ca8269365320800000000000000
+      internalID: 2546285734722446665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_135
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 31
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd70b7be7035b2b0800000000000000
+      internalID: -5569492043367940613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_136
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18bdff231c1846b80800000000000000
+      internalID: -8402448337982203007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_137
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9cdf24237344f70800000000000000
+      internalID: 9170515430244993450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_138
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be25ebafe05761840800000000000000
+      internalID: 5194467927415214827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_139
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 31
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1e6582ffbd4de30800000000000000
+      internalID: 4527485414354117033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_140
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1077e3da90fd83a0800000000000000
+      internalID: -6661403726040305637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_141
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 23
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8ed15840a7e3b00800000000000000
+      internalID: 810219142805055690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_142
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df5155e10e308580800000000000000
+      internalID: -8826987091782967343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_143
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18a270263b8234f0800000000000000
+      internalID: -850464315030722532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_144
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1814809abc69d0a0800000000000000
+      internalID: -6856329409150576613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_145
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1cf93c202d9ce1d0800000000000000
+      internalID: -3320106063772386276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_146
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc2899dc11fb9050800000000000000
+      internalID: 5808501250636393725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_147
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c799bb2efc42334a0800000000000000
+      internalID: -6614902952396351108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_148
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd59db55bccb3570800000000000000
+      internalID: 8447570605365616051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_149
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b60f5cf2ff08dc50800000000000000
+      internalID: 6690114782749460153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_150
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98304f88002c0d980800000000000000
+      internalID: -8516093587804126327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_151
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4857e5c5b171e550800000000000000
+      internalID: 6188352388507064397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_152
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a85a3ca6fc82b280800000000000000
+      internalID: -9028999311845074780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_153
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f27816179b25440800000000000000
+      internalID: 4923201239288065813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_154
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d136d421a0d2af0800000000000000
+      internalID: -419668116551557874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_155
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851eadbed41d77fb0800000000000000
+      internalID: -4650017957637070504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_156
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 15
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1075a558828466c20800000000000000
+      internalID: 3199323924166498049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_157
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113bc52863ee71630800000000000000
+      internalID: 3897845920395211537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_158
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 15
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b9599312ccd0b80800000000000000
+      internalID: -8426854884668236957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_159
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6aeb6d71432f5c0800000000000000
+      internalID: -4183223826882058589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_160
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 15
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977129a6ae9e85880800000000000000
+      internalID: -8621884293581236359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_161
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946987c618d1b3cb0800000000000000
+      internalID: -4883276929245342135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_162
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 15
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac27dbdeedd406bf0800000000000000
+      internalID: -333180752558722358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_163
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301d3cbd2dd2c2790800000000000000
+      internalID: -7553612091353739005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_164
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 15
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660b88a5b7cb463d0800000000000000
+      internalID: -3214236996049784730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_165
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada8edbbeb15074e0800000000000000
+      internalID: -1985997556032828710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_166
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 15
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc19c808da08ef40800000000000000
+      internalID: 5757864046569790709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_167
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e0fd0520d5cbef0800000000000000
+      internalID: -91095627926139367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_168
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 15
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ebf7014b840b020800000000000000
+      internalID: 2355462543322889735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_169
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97cf565cbb7f9b9b0800000000000000
+      internalID: -5063743920158671751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_170
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 15
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6094f164bae325340800000000000000
+      internalID: 4851008653968230662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_171
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7759c9051afc2f0800000000000000
+      internalID: -950363628755388435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_172
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 15
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f7798ca9197e540800000000000000
+      internalID: 5037154802213551958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_173
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9afef3ee654db0260800000000000000
+      internalID: 7064973910290198441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_174
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517d225209697bc20800000000000000
+      internalID: 3222209604249376533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_175
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48307d874af908a0800000000000000
+      internalID: -6338259815324698550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_176
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fac8e3ee4f83c850800000000000000
+      internalID: 6396113464790141687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_177
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5008efca1852930800000000000000
+      internalID: 4117840014304347604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_178
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046e0dfccd5f76860800000000000000
+      internalID: 7523252031273887296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_179
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b48541c6c400e330800000000000000
+      internalID: 3737992942410106041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_180
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27102fee6f0774f00800000000000000
+      internalID: 1100972839788478834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_181
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e731a6e377cfff6e0800000000000000
+      internalID: -1801443736846462082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_182
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f53efcdefa1df40800000000000000
+      internalID: 5751571635058728771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_183
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b6ad1445b7b2750800000000000000
+      internalID: 6281249707110591264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status Screen FRN_184
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac77a0d199415580800000000000000
+      internalID: -8840203702931850070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Status Screen FRN_0: -1428696303205052902
+      Status Screen FRN_1: 2286883732639554075
+      Status Screen FRN_10: 4563891709733016049
+      Status Screen FRN_100: -3827696096534331941
+      Status Screen FRN_101: -991376035741806592
+      Status Screen FRN_102: 1381943711276207437
+      Status Screen FRN_103: 6288829952986624001
+      Status Screen FRN_104: 1272867553116249535
+      Status Screen FRN_105: 3454015222076013284
+      Status Screen FRN_106: -1953914337666530430
+      Status Screen FRN_107: 3535259131877895068
+      Status Screen FRN_108: 7118688861070266713
+      Status Screen FRN_109: 3308503599163498234
+      Status Screen FRN_11: -6206897016237169056
+      Status Screen FRN_110: 8181944349447367906
+      Status Screen FRN_111: 7036174400142580077
+      Status Screen FRN_112: -4779441555349369793
+      Status Screen FRN_113: 4242884852531840778
+      Status Screen FRN_114: 4974323981888021702
+      Status Screen FRN_115: 3054655480642581276
+      Status Screen FRN_116: -4639442359931270126
+      Status Screen FRN_117: 3347156839825560361
+      Status Screen FRN_118: 378162330447772679
+      Status Screen FRN_119: -4570297715590476169
+      Status Screen FRN_12: 2764046547871357994
+      Status Screen FRN_120: -3089101663634884462
+      Status Screen FRN_121: -2167848594394593553
+      Status Screen FRN_122: 7101680359721489318
+      Status Screen FRN_123: 1684498144574361155
+      Status Screen FRN_124: 3683281362010515579
+      Status Screen FRN_125: 4813754522230386736
+      Status Screen FRN_126: -3990862354209774156
+      Status Screen FRN_127: -6601232933364953712
+      Status Screen FRN_128: -6869427106030974231
+      Status Screen FRN_129: -7093100812148351503
+      Status Screen FRN_13: -3171377665941005942
+      Status Screen FRN_130: 1862167408481314348
+      Status Screen FRN_131: -4366187899157543111
+      Status Screen FRN_132: 7329648232088851242
+      Status Screen FRN_133: 2518004438786164011
+      Status Screen FRN_134: 2546285734722446665
+      Status Screen FRN_135: -5569492043367940613
+      Status Screen FRN_136: -8402448337982203007
+      Status Screen FRN_137: 9170515430244993450
+      Status Screen FRN_138: 5194467927415214827
+      Status Screen FRN_139: 4527485414354117033
+      Status Screen FRN_14: -1872202775475004707
+      Status Screen FRN_140: -6661403726040305637
+      Status Screen FRN_141: 810219142805055690
+      Status Screen FRN_142: -8826987091782967343
+      Status Screen FRN_143: -850464315030722532
+      Status Screen FRN_144: -6856329409150576613
+      Status Screen FRN_145: -3320106063772386276
+      Status Screen FRN_146: 5808501250636393725
+      Status Screen FRN_147: -6614902952396351108
+      Status Screen FRN_148: 8447570605365616051
+      Status Screen FRN_149: 6690114782749460153
+      Status Screen FRN_15: -2248483514307695717
+      Status Screen FRN_150: -8516093587804126327
+      Status Screen FRN_151: 6188352388507064397
+      Status Screen FRN_152: -9028999311845074780
+      Status Screen FRN_153: 4923201239288065813
+      Status Screen FRN_154: -419668116551557874
+      Status Screen FRN_155: -4650017957637070504
+      Status Screen FRN_156: 3199323924166498049
+      Status Screen FRN_157: 3897845920395211537
+      Status Screen FRN_158: -8426854884668236957
+      Status Screen FRN_159: -4183223826882058589
+      Status Screen FRN_16: 4456630450854026648
+      Status Screen FRN_160: -8621884293581236359
+      Status Screen FRN_161: -4883276929245342135
+      Status Screen FRN_162: -333180752558722358
+      Status Screen FRN_163: -7553612091353739005
+      Status Screen FRN_164: -3214236996049784730
+      Status Screen FRN_165: -1985997556032828710
+      Status Screen FRN_166: 5757864046569790709
+      Status Screen FRN_167: -91095627926139367
+      Status Screen FRN_168: 2355462543322889735
+      Status Screen FRN_169: -5063743920158671751
+      Status Screen FRN_17: 5932196927619322956
+      Status Screen FRN_170: 4851008653968230662
+      Status Screen FRN_171: -950363628755388435
+      Status Screen FRN_172: 5037154802213551958
+      Status Screen FRN_173: 7064973910290198441
+      Status Screen FRN_174: 3222209604249376533
+      Status Screen FRN_175: -6338259815324698550
+      Status Screen FRN_176: 6396113464790141687
+      Status Screen FRN_177: 4117840014304347604
+      Status Screen FRN_178: 7523252031273887296
+      Status Screen FRN_179: 3737992942410106041
+      Status Screen FRN_18: 5461419811357984194
+      Status Screen FRN_180: 1100972839788478834
+      Status Screen FRN_181: -1801443736846462082
+      Status Screen FRN_182: 5751571635058728771
+      Status Screen FRN_183: 6281249707110591264
+      Status Screen FRN_184: -8840203702931850070
+      Status Screen FRN_19: -1661743665221542750
+      Status Screen FRN_2: 4375176703108878140
+      Status Screen FRN_20: -8666065603121164282
+      Status Screen FRN_21: -3037887947653423996
+      Status Screen FRN_22: -6170274635540487434
+      Status Screen FRN_23: 8253624928945338974
+      Status Screen FRN_24: -7122028298312584047
+      Status Screen FRN_25: 7369093480746829947
+      Status Screen FRN_26: -6504852148999305919
+      Status Screen FRN_27: 3273391355912957968
+      Status Screen FRN_28: -7615986665914783450
+      Status Screen FRN_29: 4500723517189718265
+      Status Screen FRN_3: -9173229258649630107
+      Status Screen FRN_30: -6457659450615207493
+      Status Screen FRN_31: -1307996176911350122
+      Status Screen FRN_32: -3573319443414928946
+      Status Screen FRN_33: -3057217086541143854
+      Status Screen FRN_34: -9008242711039115446
+      Status Screen FRN_35: 6708536655316106247
+      Status Screen FRN_36: 1544348250442079615
+      Status Screen FRN_37: -5301429444975066108
+      Status Screen FRN_38: 1309477007500926729
+      Status Screen FRN_39: -1572132808925750578
+      Status Screen FRN_4: -3473529842282854522
+      Status Screen FRN_40: -1845384988526559685
+      Status Screen FRN_41: 2339751375521290021
+      Status Screen FRN_42: 5907325192270663519
+      Status Screen FRN_43: 8191550812455446291
+      Status Screen FRN_44: -5522540728632928984
+      Status Screen FRN_45: 4823540387702842101
+      Status Screen FRN_46: 3775425156907220059
+      Status Screen FRN_47: -8478084879944626528
+      Status Screen FRN_48: 7999338113721584758
+      Status Screen FRN_49: 4643524593734061091
+      Status Screen FRN_5: 7257932622097820807
+      Status Screen FRN_50: -1766414774043779503
+      Status Screen FRN_51: 8189679248997880119
+      Status Screen FRN_52: 1225250578501492513
+      Status Screen FRN_53: 1917646694936876905
+      Status Screen FRN_54: -7224059752623214802
+      Status Screen FRN_55: 1559202556403030096
+      Status Screen FRN_56: 8048698851237499703
+      Status Screen FRN_57: 5793856274986574548
+      Status Screen FRN_58: 376407180500902844
+      Status Screen FRN_59: -6180029077194033856
+      Status Screen FRN_6: 337654061273562385
+      Status Screen FRN_60: -8049707462622503109
+      Status Screen FRN_61: -3917630365080685861
+      Status Screen FRN_62: -688871942750897870
+      Status Screen FRN_63: -6760856012626263414
+      Status Screen FRN_64: -6600666228289360769
+      Status Screen FRN_65: 3177744219272586367
+      Status Screen FRN_66: 4623754603781542129
+      Status Screen FRN_67: -2388748371716745145
+      Status Screen FRN_68: 7145047433509570585
+      Status Screen FRN_69: 8044002850378961405
+      Status Screen FRN_7: 1392138899886633148
+      Status Screen FRN_70: -1231619348275262747
+      Status Screen FRN_71: -295459164422892975
+      Status Screen FRN_72: -7375586275163306572
+      Status Screen FRN_73: -5358486007111261723
+      Status Screen FRN_74: 5417310408002983565
+      Status Screen FRN_75: -9089450311550459496
+      Status Screen FRN_76: 4615280115914145349
+      Status Screen FRN_77: -6066749843658065650
+      Status Screen FRN_78: 7865810096725988195
+      Status Screen FRN_79: 2849550789437860452
+      Status Screen FRN_8: -4432527596437549315
+      Status Screen FRN_80: -762931036191612540
+      Status Screen FRN_81: 6672801658879003513
+      Status Screen FRN_82: -7345393863321302923
+      Status Screen FRN_83: 882500694012136218
+      Status Screen FRN_84: 1938609606574278690
+      Status Screen FRN_85: -1874729072673698510
+      Status Screen FRN_86: 1813391672592344111
+      Status Screen FRN_87: -4575551795232222375
+      Status Screen FRN_88: -8449415515875382926
+      Status Screen FRN_89: -682554868580510806
+      Status Screen FRN_9: -2758635096334599881
+      Status Screen FRN_90: 6334715274882852815
+      Status Screen FRN_91: 628414686827769853
+      Status Screen FRN_92: -3698606567708510822
+      Status Screen FRN_93: -176308119296135082
+      Status Screen FRN_94: -3235832027157619728
+      Status Screen FRN_95: 7753061318956029170
+      Status Screen FRN_96: 1420494533731139416
+      Status Screen FRN_97: 5674707986807859636
+      Status Screen FRN_98: 7470476640041467936
+      Status Screen FRN_99: 1664069193236406501
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -3,8 +3,626 @@ guid: f24d2a82268c9664daf4d1eabb8785a4
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8143868443202798770
-    second: SNES - The Legend of Zelda A Link to the Past - Castle Exterior Tiles_0
+      213: 5481334270828681030
+    second: Castle Exterior Tiles_0
+  - first:
+      213: -2967320145857445624
+    second: Castle Exterior Tiles_1
+  - first:
+      213: -5677687793484720241
+    second: Castle Exterior Tiles_2
+  - first:
+      213: 5127331472272953184
+    second: Castle Exterior Tiles_3
+  - first:
+      213: -1435786389259867904
+    second: Castle Exterior Tiles_4
+  - first:
+      213: -2356721236315145454
+    second: Castle Exterior Tiles_5
+  - first:
+      213: -3353634011508761448
+    second: Castle Exterior Tiles_6
+  - first:
+      213: 199332220543602147
+    second: Castle Exterior Tiles_7
+  - first:
+      213: -3841638225622486491
+    second: Castle Exterior Tiles_8
+  - first:
+      213: -5205952744478386567
+    second: Castle Exterior Tiles_9
+  - first:
+      213: -658464043260211605
+    second: Castle Exterior Tiles_10
+  - first:
+      213: -1253882884237849315
+    second: Castle Exterior Tiles_11
+  - first:
+      213: 6829036732401818145
+    second: Castle Exterior Tiles_12
+  - first:
+      213: 1252251791103843079
+    second: Castle Exterior Tiles_13
+  - first:
+      213: 5742764047613611652
+    second: Castle Exterior Tiles_14
+  - first:
+      213: 3824957622142396247
+    second: Castle Exterior Tiles_15
+  - first:
+      213: 4004166860805834900
+    second: Castle Exterior Tiles_16
+  - first:
+      213: -7332939113530814029
+    second: Castle Exterior Tiles_17
+  - first:
+      213: 2530412177093634182
+    second: Castle Exterior Tiles_18
+  - first:
+      213: 3572737168683995832
+    second: Castle Exterior Tiles_19
+  - first:
+      213: 8692337351740179983
+    second: Castle Exterior Tiles_20
+  - first:
+      213: 4909403294839578632
+    second: Castle Exterior Tiles_21
+  - first:
+      213: 7339737162775924122
+    second: Castle Exterior Tiles_22
+  - first:
+      213: -8116496941341424641
+    second: Castle Exterior Tiles_23
+  - first:
+      213: 4417020336571441489
+    second: Castle Exterior Tiles_24
+  - first:
+      213: -3469688479416107431
+    second: Castle Exterior Tiles_25
+  - first:
+      213: 2515334752491650232
+    second: Castle Exterior Tiles_26
+  - first:
+      213: -8516079264169670660
+    second: Castle Exterior Tiles_27
+  - first:
+      213: -688010437724007388
+    second: Castle Exterior Tiles_28
+  - first:
+      213: 1421603688714163996
+    second: Castle Exterior Tiles_29
+  - first:
+      213: -5107930185341088689
+    second: Castle Exterior Tiles_30
+  - first:
+      213: 2293831518550545611
+    second: Castle Exterior Tiles_31
+  - first:
+      213: 5554126678437251172
+    second: Castle Exterior Tiles_32
+  - first:
+      213: 1194913198241545291
+    second: Castle Exterior Tiles_33
+  - first:
+      213: 5607250497295474142
+    second: Castle Exterior Tiles_34
+  - first:
+      213: -4611630523587370620
+    second: Castle Exterior Tiles_35
+  - first:
+      213: -5100646173155626668
+    second: Castle Exterior Tiles_36
+  - first:
+      213: 8656492800548631451
+    second: Castle Exterior Tiles_37
+  - first:
+      213: 5304549432246512145
+    second: Castle Exterior Tiles_38
+  - first:
+      213: -1721030387371437589
+    second: Castle Exterior Tiles_39
+  - first:
+      213: 4278405029324881808
+    second: Castle Exterior Tiles_40
+  - first:
+      213: -7725283602402085265
+    second: Castle Exterior Tiles_41
+  - first:
+      213: -3945675573319053316
+    second: Castle Exterior Tiles_42
+  - first:
+      213: 2153719899687676189
+    second: Castle Exterior Tiles_43
+  - first:
+      213: 7503583776565357837
+    second: Castle Exterior Tiles_44
+  - first:
+      213: -1155931157565117415
+    second: Castle Exterior Tiles_45
+  - first:
+      213: 3234410057778472587
+    second: Castle Exterior Tiles_46
+  - first:
+      213: -1825448386155183613
+    second: Castle Exterior Tiles_47
+  - first:
+      213: -8909482950504587921
+    second: Castle Exterior Tiles_48
+  - first:
+      213: 4695144136593287237
+    second: Castle Exterior Tiles_49
+  - first:
+      213: 6701699799666874512
+    second: Castle Exterior Tiles_50
+  - first:
+      213: -6049268735780699725
+    second: Castle Exterior Tiles_51
+  - first:
+      213: -7942810533897468525
+    second: Castle Exterior Tiles_52
+  - first:
+      213: 1711410028779975155
+    second: Castle Exterior Tiles_53
+  - first:
+      213: 5283354868761890326
+    second: Castle Exterior Tiles_54
+  - first:
+      213: -232182118437683204
+    second: Castle Exterior Tiles_55
+  - first:
+      213: -8233277698255314247
+    second: Castle Exterior Tiles_56
+  - first:
+      213: -8280520175840460836
+    second: Castle Exterior Tiles_57
+  - first:
+      213: 436393179950213200
+    second: Castle Exterior Tiles_58
+  - first:
+      213: -5117073648826562663
+    second: Castle Exterior Tiles_59
+  - first:
+      213: -6337345541794530080
+    second: Castle Exterior Tiles_60
+  - first:
+      213: 2318162069109077499
+    second: Castle Exterior Tiles_61
+  - first:
+      213: 8597624468184089348
+    second: Castle Exterior Tiles_62
+  - first:
+      213: 7424709466991779645
+    second: Castle Exterior Tiles_63
+  - first:
+      213: -5828433147161392549
+    second: Castle Exterior Tiles_64
+  - first:
+      213: 2174462473462166275
+    second: Castle Exterior Tiles_65
+  - first:
+      213: -2242064905362258530
+    second: Castle Exterior Tiles_66
+  - first:
+      213: 1351092845505273637
+    second: Castle Exterior Tiles_67
+  - first:
+      213: -5789011696413319497
+    second: Castle Exterior Tiles_68
+  - first:
+      213: 1346800607776889950
+    second: Castle Exterior Tiles_69
+  - first:
+      213: -2962258872731537991
+    second: Castle Exterior Tiles_70
+  - first:
+      213: 3121702978357726726
+    second: Castle Exterior Tiles_71
+  - first:
+      213: 8432787016841273860
+    second: Castle Exterior Tiles_72
+  - first:
+      213: -7987806950133143284
+    second: Castle Exterior Tiles_73
+  - first:
+      213: -4429019621436765796
+    second: Castle Exterior Tiles_74
+  - first:
+      213: 8989905524848840899
+    second: Castle Exterior Tiles_75
+  - first:
+      213: 6264890486200684806
+    second: Castle Exterior Tiles_76
+  - first:
+      213: -7471687389798949140
+    second: Castle Exterior Tiles_77
+  - first:
+      213: 136032279197032543
+    second: Castle Exterior Tiles_78
+  - first:
+      213: 4109126187609524738
+    second: Castle Exterior Tiles_79
+  - first:
+      213: 1286279844928741000
+    second: Castle Exterior Tiles_80
+  - first:
+      213: -8162111894942320335
+    second: Castle Exterior Tiles_81
+  - first:
+      213: -5056087434108603228
+    second: Castle Exterior Tiles_82
+  - first:
+      213: 1002485038202534000
+    second: Castle Exterior Tiles_83
+  - first:
+      213: 4875231227533134603
+    second: Castle Exterior Tiles_84
+  - first:
+      213: -1782254824706903701
+    second: Castle Exterior Tiles_85
+  - first:
+      213: -912951664314893342
+    second: Castle Exterior Tiles_86
+  - first:
+      213: -4740582904863814178
+    second: Castle Exterior Tiles_87
+  - first:
+      213: 4639979115451675833
+    second: Castle Exterior Tiles_88
+  - first:
+      213: -8779664272592255305
+    second: Castle Exterior Tiles_89
+  - first:
+      213: 322601332766160538
+    second: Castle Exterior Tiles_90
+  - first:
+      213: -3846969745926239987
+    second: Castle Exterior Tiles_91
+  - first:
+      213: 1381959997251161535
+    second: Castle Exterior Tiles_92
+  - first:
+      213: -5999314677137788283
+    second: Castle Exterior Tiles_93
+  - first:
+      213: -6647945488281897535
+    second: Castle Exterior Tiles_94
+  - first:
+      213: 5399614656293494802
+    second: Castle Exterior Tiles_95
+  - first:
+      213: 2825385457984487989
+    second: Castle Exterior Tiles_96
+  - first:
+      213: -1020364656467559394
+    second: Castle Exterior Tiles_97
+  - first:
+      213: -2111223122682912095
+    second: Castle Exterior Tiles_98
+  - first:
+      213: -3691974786096008064
+    second: Castle Exterior Tiles_99
+  - first:
+      213: 467766721783274037
+    second: Castle Exterior Tiles_100
+  - first:
+      213: 1393989087911562439
+    second: Castle Exterior Tiles_101
+  - first:
+      213: -7700073867292460834
+    second: Castle Exterior Tiles_102
+  - first:
+      213: 1330660175313686900
+    second: Castle Exterior Tiles_103
+  - first:
+      213: 5773490157192945568
+    second: Castle Exterior Tiles_104
+  - first:
+      213: -8829485802205105941
+    second: Castle Exterior Tiles_105
+  - first:
+      213: -4455704557735014841
+    second: Castle Exterior Tiles_106
+  - first:
+      213: 6241095746120569176
+    second: Castle Exterior Tiles_107
+  - first:
+      213: 5976715944715799684
+    second: Castle Exterior Tiles_108
+  - first:
+      213: 1415842985136338273
+    second: Castle Exterior Tiles_109
+  - first:
+      213: -6934084620934374766
+    second: Castle Exterior Tiles_110
+  - first:
+      213: 7133753618281025318
+    second: Castle Exterior Tiles_111
+  - first:
+      213: 5746736166189834117
+    second: Castle Exterior Tiles_112
+  - first:
+      213: -7387875507352063364
+    second: Castle Exterior Tiles_113
+  - first:
+      213: 5504948942671852134
+    second: Castle Exterior Tiles_114
+  - first:
+      213: 504306919089794867
+    second: Castle Exterior Tiles_115
+  - first:
+      213: 7225654886652058544
+    second: Castle Exterior Tiles_116
+  - first:
+      213: -6733352828772663914
+    second: Castle Exterior Tiles_117
+  - first:
+      213: 8481831766487738483
+    second: Castle Exterior Tiles_118
+  - first:
+      213: -1433412939982810365
+    second: Castle Exterior Tiles_119
+  - first:
+      213: 7321563968665304858
+    second: Castle Exterior Tiles_120
+  - first:
+      213: 4243696401133378856
+    second: Castle Exterior Tiles_121
+  - first:
+      213: -5900317123793783790
+    second: Castle Exterior Tiles_122
+  - first:
+      213: -7379125209971213949
+    second: Castle Exterior Tiles_123
+  - first:
+      213: -3835445570435321394
+    second: Castle Exterior Tiles_124
+  - first:
+      213: -6881161238038352686
+    second: Castle Exterior Tiles_125
+  - first:
+      213: 5983295337262242430
+    second: Castle Exterior Tiles_126
+  - first:
+      213: 936132013828150931
+    second: Castle Exterior Tiles_127
+  - first:
+      213: 4622300996824287943
+    second: Castle Exterior Tiles_128
+  - first:
+      213: -224714316098326429
+    second: Castle Exterior Tiles_129
+  - first:
+      213: -4959988575620524587
+    second: Castle Exterior Tiles_130
+  - first:
+      213: -6159545542871867360
+    second: Castle Exterior Tiles_131
+  - first:
+      213: -5753800417575558494
+    second: Castle Exterior Tiles_132
+  - first:
+      213: -1038277436391181243
+    second: Castle Exterior Tiles_133
+  - first:
+      213: 133246451687126656
+    second: Castle Exterior Tiles_134
+  - first:
+      213: -3431640344724813352
+    second: Castle Exterior Tiles_135
+  - first:
+      213: -3428398008586748829
+    second: Castle Exterior Tiles_136
+  - first:
+      213: -40425657844470894
+    second: Castle Exterior Tiles_137
+  - first:
+      213: 2690180257519932582
+    second: Castle Exterior Tiles_138
+  - first:
+      213: 1977887791685156822
+    second: Castle Exterior Tiles_139
+  - first:
+      213: 5344952354185241935
+    second: Castle Exterior Tiles_140
+  - first:
+      213: 6472274090765617301
+    second: Castle Exterior Tiles_141
+  - first:
+      213: 330500448971626022
+    second: Castle Exterior Tiles_142
+  - first:
+      213: 1445822704003820816
+    second: Castle Exterior Tiles_143
+  - first:
+      213: -7718831395171501308
+    second: Castle Exterior Tiles_144
+  - first:
+      213: -8056221727272642728
+    second: Castle Exterior Tiles_145
+  - first:
+      213: -7369400512998340649
+    second: Castle Exterior Tiles_146
+  - first:
+      213: 7323387624508699549
+    second: Castle Exterior Tiles_147
+  - first:
+      213: 3570765396844643715
+    second: Castle Exterior Tiles_148
+  - first:
+      213: -6722570641876337180
+    second: Castle Exterior Tiles_149
+  - first:
+      213: 1402674824460386990
+    second: Castle Exterior Tiles_150
+  - first:
+      213: -4718605453050373768
+    second: Castle Exterior Tiles_151
+  - first:
+      213: 8651617393393205207
+    second: Castle Exterior Tiles_152
+  - first:
+      213: 8910796190101675691
+    second: Castle Exterior Tiles_153
+  - first:
+      213: 8936439043626833783
+    second: Castle Exterior Tiles_154
+  - first:
+      213: 8831723657013508933
+    second: Castle Exterior Tiles_155
+  - first:
+      213: 561625990912675650
+    second: Castle Exterior Tiles_156
+  - first:
+      213: -7853798420354403422
+    second: Castle Exterior Tiles_157
+  - first:
+      213: 3652511979329329143
+    second: Castle Exterior Tiles_158
+  - first:
+      213: -8741954982905753336
+    second: Castle Exterior Tiles_159
+  - first:
+      213: -4805371016633145678
+    second: Castle Exterior Tiles_160
+  - first:
+      213: -8494917870037908311
+    second: Castle Exterior Tiles_161
+  - first:
+      213: -6371738450356348982
+    second: Castle Exterior Tiles_162
+  - first:
+      213: 7412778805304641623
+    second: Castle Exterior Tiles_163
+  - first:
+      213: 1430923829923359611
+    second: Castle Exterior Tiles_164
+  - first:
+      213: 1048800646861185129
+    second: Castle Exterior Tiles_165
+  - first:
+      213: -4740632929802895554
+    second: Castle Exterior Tiles_166
+  - first:
+      213: 2881953919650413125
+    second: Castle Exterior Tiles_167
+  - first:
+      213: -3833634328582697105
+    second: Castle Exterior Tiles_168
+  - first:
+      213: -2242801596687991632
+    second: Castle Exterior Tiles_169
+  - first:
+      213: 3095922981013062772
+    second: Castle Exterior Tiles_170
+  - first:
+      213: -6915321618463351422
+    second: Castle Exterior Tiles_171
+  - first:
+      213: -3790333115783247463
+    second: Castle Exterior Tiles_172
+  - first:
+      213: 36881532792967999
+    second: Castle Exterior Tiles_173
+  - first:
+      213: -5198057163318941472
+    second: Castle Exterior Tiles_174
+  - first:
+      213: -659495118566896556
+    second: Castle Exterior Tiles_175
+  - first:
+      213: -7080883033783244314
+    second: Castle Exterior Tiles_176
+  - first:
+      213: -6353857194675749029
+    second: Castle Exterior Tiles_177
+  - first:
+      213: 7070057305140005450
+    second: Castle Exterior Tiles_178
+  - first:
+      213: 5002703938565244056
+    second: Castle Exterior Tiles_179
+  - first:
+      213: -8627044896997117691
+    second: Castle Exterior Tiles_180
+  - first:
+      213: 1617664158828715844
+    second: Castle Exterior Tiles_181
+  - first:
+      213: 1379133327217347641
+    second: Castle Exterior Tiles_182
+  - first:
+      213: 1501694608048666002
+    second: Castle Exterior Tiles_183
+  - first:
+      213: -1189885982391666111
+    second: Castle Exterior Tiles_184
+  - first:
+      213: 3147261766923472619
+    second: Castle Exterior Tiles_185
+  - first:
+      213: -8348501568267477139
+    second: Castle Exterior Tiles_186
+  - first:
+      213: -9140795465696985183
+    second: Castle Exterior Tiles_187
+  - first:
+      213: -3897149903310550343
+    second: Castle Exterior Tiles_188
+  - first:
+      213: -6634576518943953324
+    second: Castle Exterior Tiles_189
+  - first:
+      213: 6146017885568489439
+    second: Castle Exterior Tiles_190
+  - first:
+      213: 5800119400183538657
+    second: Castle Exterior Tiles_191
+  - first:
+      213: 149530990976400462
+    second: Castle Exterior Tiles_192
+  - first:
+      213: -602186857188754138
+    second: Castle Exterior Tiles_193
+  - first:
+      213: 7769000225834687181
+    second: Castle Exterior Tiles_194
+  - first:
+      213: 6378738606348672832
+    second: Castle Exterior Tiles_195
+  - first:
+      213: -6693829486180779336
+    second: Castle Exterior Tiles_196
+  - first:
+      213: 1226482971099183257
+    second: Castle Exterior Tiles_197
+  - first:
+      213: 7932113852168116400
+    second: Castle Exterior Tiles_198
+  - first:
+      213: -5520171921223035131
+    second: Castle Exterior Tiles_199
+  - first:
+      213: -3314675428998979252
+    second: Castle Exterior Tiles_200
+  - first:
+      213: 5186910815974171503
+    second: Castle Exterior Tiles_201
+  - first:
+      213: 686533160520930751
+    second: Castle Exterior Tiles_202
+  - first:
+      213: 3368641729724283632
+    second: Castle Exterior Tiles_203
+  - first:
+      213: -7456308827876362045
+    second: Castle Exterior Tiles_204
+  - first:
+      213: 2854503248154242516
+    second: Castle Exterior Tiles_205
+  - first:
+      213: -295844594943228603
+    second: Castle Exterior Tiles_206
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +655,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -48,10 +666,10 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -72,10 +690,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -100,13 +718,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: SNES - The Legend of Zelda A Link to the Past - Castle Exterior Tiles_0
+      name: Castle Exterior Tiles_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 369
-        height: 378
+        x: 10
+        y: 342
+        width: 26
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +733,4540 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e4b32698cca2bfe80800000000000000
-      internalID: -8143868443202798770
+      spriteID: 6471beb5a7c911c40800000000000000
+      internalID: 5481334270828681030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_1
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 306
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8018e438c06f1d6d0800000000000000
+      internalID: -2967320145857445624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_2
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 309
+        width: 66
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8795c3980dc431b0800000000000000
+      internalID: -5677687793484720241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_3
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 319
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f828aeec0f72740800000000000000
+      internalID: 5127331472272953184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_4
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 319
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00923d6d2ef031ce0800000000000000
+      internalID: -1435786389259867904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_5
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 323
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21bf0d2a58e3b4fd0800000000000000
+      internalID: -2356721236315145454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_6
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 323
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c1a5582af7571d0800000000000000
+      internalID: -3353634011508761448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_7
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 296
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed8ac5399b24c200800000000000000
+      internalID: 199332220543602147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_8
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 299
+        width: 82
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522b53e3362cfaac0800000000000000
+      internalID: -3841638225622486491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_9
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 284
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97655ebaf8db0c7b0800000000000000
+      internalID: -5205952744478386567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_10
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 274
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e8b1cf07aacd6f0800000000000000
+      internalID: -658464043260211605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_11
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 274
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d8f0ff820599ee0800000000000000
+      internalID: -1253882884237849315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_12
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 210
+        width: 26
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a97e0f9bc95ce50800000000000000
+      internalID: 6829036732401818145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_13
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 242
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b571a8e54e06110800000000000000
+      internalID: 1252251791103843079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_14
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 205
+        width: 50
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ec4ee897562bf40800000000000000
+      internalID: 5742764047613611652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_15
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 219
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75768bc11baf41530800000000000000
+      internalID: 3824957622142396247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 369
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49809bf7b88a19730800000000000000
+      internalID: 4004166860805834900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_17
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 162
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b19d625aba2c3a90800000000000000
+      internalID: -7332939113530814029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_18
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 171
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6882df6e774dd1320800000000000000
+      internalID: 2530412177093634182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_19
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 162
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b29e379689e49130800000000000000
+      internalID: 3572737168683995832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_20
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 171
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06455674c261a870800000000000000
+      internalID: 8692337351740179983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_21
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 162
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800ab081944b12440800000000000000
+      internalID: 4909403294839578632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_22
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 168
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d0efbdf0cfbd560800000000000000
+      internalID: 7339737162775924122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_23
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 168
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff3cccee8096c5f80800000000000000
+      internalID: -8116496941341424641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_24
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 168
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151640ff7986c4d30800000000000000
+      internalID: 4417020336571441489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_25
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 168
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e332f06b039dfc0800000000000000
+      internalID: -3469688479416107431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_26
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 145
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bcb57d61a348e220800000000000000
+      internalID: 2515334752491650232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_27
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 145
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7c814870fc0d980800000000000000
+      internalID: -8516079264169670660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_28
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 145
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42413b1f622b376f0800000000000000
+      internalID: -688010437724007388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_29
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 159
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17513dd50d8ab310800000000000000
+      internalID: 1421603688714163996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_30
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 150
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ccf353f8cfc19b0800000000000000
+      internalID: -5107930185341088689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_31
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 159
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4dcc5ec9355df10800000000000000
+      internalID: 2293831518550545611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_32
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 150
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468c5c979c8341d40800000000000000
+      internalID: 5554126678437251172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_33
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 159
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4cfc9e093f259010800000000000000
+      internalID: 1194913198241545291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_34
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 150
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edddde96e94f0dd40800000000000000
+      internalID: 5607250497295474142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_35
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 159
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481e936e8723000c0800000000000000
+      internalID: -4611630523587370620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_36
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 150
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4517a14745dd639b0800000000000000
+      internalID: -5100646173155626668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_37
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 159
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b937d69865a022870800000000000000
+      internalID: 8656492800548631451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_38
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 150
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11aad8a9a9b8d9940800000000000000
+      internalID: 5304549432246512145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_39
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 150
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be192192bfbad18e0800000000000000
+      internalID: -1721030387371437589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_40
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 150
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f772ac4b2ff5b30800000000000000
+      internalID: 4278405029324881808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_41
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 149
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f667ca17e774ac490800000000000000
+      internalID: -7725283602402085265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_42
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 149
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cffc16d98f42e39c0800000000000000
+      internalID: -3945675573319053316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_43
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 149
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19e29e76dc83ed10800000000000000
+      internalID: 2153719899687676189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_44
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 149
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0def8860b5122860800000000000000
+      internalID: 7503583776565357837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_45
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 136
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c66809cbe45ffe0800000000000000
+      internalID: -1155931157565117415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_46
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 136
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8626d79fcee2ec20800000000000000
+      internalID: 3234410057778472587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_47
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 136
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302096b4d54baa6e0800000000000000
+      internalID: -1825448386155183613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_48
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 145
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d56c206782b5480800000000000000
+      internalID: -8909482950504587921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_49
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 136
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548a6ee57b0882140800000000000000
+      internalID: 4695144136593287237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_50
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 141
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098537ee578310d50800000000000000
+      internalID: 6701699799666874512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_51
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 141
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b14aec922eac0ca0800000000000000
+      internalID: -6049268735780699725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_52
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 141
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3958fc8f6e775c190800000000000000
+      internalID: -7942810533897468525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_53
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 141
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1b87e8a5620c710800000000000000
+      internalID: 1711410028779975155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_54
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 141
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e02eeb24f325940800000000000000
+      internalID: 5283354868761890326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_55
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 141
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfff25be79f17ccf0800000000000000
+      internalID: -232182118437683204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_56
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 141
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b2a8522e858dbd80800000000000000
+      internalID: -8233277698255314247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_57
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 141
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdff29ba5cea51d80800000000000000
+      internalID: -8280520175840460836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_58
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 141
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 058e559f8416e0600800000000000000
+      internalID: 436393179950213200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_59
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 141
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9974e28b0a08cf8b0800000000000000
+      internalID: -5117073648826562663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_60
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 141
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec7e627ec93d08a0800000000000000
+      internalID: -6337345541794530080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_61
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 140
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5f705ae14cb2020800000000000000
+      internalID: 2318162069109077499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_62
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 140
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403c152d6e5e05770800000000000000
+      internalID: 8597624468184089348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_63
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 140
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f56842cedd90760800000000000000
+      internalID: 7424709466991779645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_64
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 140
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a455adeee3d1fa0800000000000000
+      internalID: -5828433147161392549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_65
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 140
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303312c491e3d2e10800000000000000
+      internalID: 2174462473462166275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_66
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 123
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e954388f8d592e0e0800000000000000
+      internalID: -2242064905362258530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_67
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 123
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52fd9ead8cb00c210800000000000000
+      internalID: 1351092845505273637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_68
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 123
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bed3ba988c49afa0800000000000000
+      internalID: -5789011696413319497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_69
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 123
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c52d1640cc0b210800000000000000
+      internalID: 1346800607776889950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_70
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 123
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd661eff31f3e6d0800000000000000
+      internalID: -2962258872731537991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_71
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 123
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e8a4fb154825b20800000000000000
+      internalID: 3121702978357726726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_72
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 132
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402a95dec17470570800000000000000
+      internalID: 8432787016841273860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_73
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 123
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09eaea66eb952190800000000000000
+      internalID: -7987806950133143284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_74
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 132
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99c609ce16f882c0800000000000000
+      internalID: -4429019621436765796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_75
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 123
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c0dfecb17f82cc70800000000000000
+      internalID: 8989905524848840899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_76
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 132
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60157b254bc51f650800000000000000
+      internalID: 6264890486200684806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_77
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 123
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee944ad7eb3f4890800000000000000
+      internalID: -7471687389798949140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_78
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 132
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50a68f13a843e100800000000000000
+      internalID: 136032279197032543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_79
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 123
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a88bd1f7c860930800000000000000
+      internalID: 4109126187609524738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_80
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 132
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ed8b634b8c9d110800000000000000
+      internalID: 1286279844928741000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_81
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 132
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139f8fce97a5abe80800000000000000
+      internalID: -8162111894942320335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_82
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 123
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4f3a8544b25d9b0800000000000000
+      internalID: -5056087434108603228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_83
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 132
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078b4b2b4da89ed00800000000000000
+      internalID: 1002485038202534000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_84
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 123
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b010ba8fc48a340800000000000000
+      internalID: 4875231227533134603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_85
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 132
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b617e120ea82447e0800000000000000
+      internalID: -1782254824706903701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_86
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 123
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ebb86f5c4b8453f0800000000000000
+      internalID: -912951664314893342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_87
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 132
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd8d47f6f0163eb0800000000000000
+      internalID: -4740582904863814178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_88
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 123
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b47abdfb64846040800000000000000
+      internalID: 4639979115451675833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_89
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 132
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b643f85cdd582680800000000000000
+      internalID: -8779664272592255305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_90
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 123
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a963893f33c1a7400800000000000000
+      internalID: 322601332766160538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_91
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 132
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d094460f561dc9ac0800000000000000
+      internalID: -3846969745926239987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_92
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 123
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd84f9ab45bd2310800000000000000
+      internalID: 1381959997251161535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_93
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 131
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5823a6d36172ebca0800000000000000
+      internalID: -5999314677137788283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_94
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 131
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5fbccfcc0cdb3a0800000000000000
+      internalID: -6647945488281897535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_95
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 131
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210ed58ebe84fea40800000000000000
+      internalID: 5399614656293494802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_96
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 131
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53248b0ca19c53720800000000000000
+      internalID: 2825385457984487989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_97
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 131
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c33e540cfe6d1f0800000000000000
+      internalID: -1020364656467559394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_98
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 131
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2e4e271cd63b2e0800000000000000
+      internalID: -2111223122682912095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_99
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 131
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0847c033e7873ccc0800000000000000
+      internalID: -3691974786096008064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_100
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 118
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a14a9ea57dd7600800000000000000
+      internalID: 467766721783274037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_101
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 109
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc4db590b1785310800000000000000
+      internalID: 1393989087911562439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_102
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 109
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8b3cb4d97d32590800000000000000
+      internalID: -7700073867292460834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_103
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 118
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471d45a1164777210800000000000000
+      internalID: 1330660175313686900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_104
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 109
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af13bd65be8f1050800000000000000
+      internalID: 5773490157192945568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_105
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 114
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0b53a817d577580800000000000000
+      internalID: -8829485802205105941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_106
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 114
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e8d14ef482a22c0800000000000000
+      internalID: -4455704557735014841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_107
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 114
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851d7bca383dc9650800000000000000
+      internalID: 6241095746120569176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_108
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 114
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48cc2385c7f81f250800000000000000
+      internalID: 5976715944715799684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_109
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 114
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165b7ca81b516a310800000000000000
+      internalID: 1415842985136338273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_110
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 114
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a15be86ce25cf90800000000000000
+      internalID: -6934084620934374766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_111
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 114
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f4ccc9e1f200360800000000000000
+      internalID: 7133753618281025318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_112
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 114
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f92ab781280cf40800000000000000
+      internalID: 5746736166189834117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_113
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 114
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72b8736e5ef87990800000000000000
+      internalID: -7387875507352063364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_114
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 114
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6623e9a95e1856c40800000000000000
+      internalID: 5504948942671852134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_115
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 114
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f6e129878aff600800000000000000
+      internalID: 504306919089794867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_116
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 114
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb167416dea64460800000000000000
+      internalID: 7225654886652058544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_117
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 114
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d32ade6435e82a0800000000000000
+      internalID: -6733352828772663914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_118
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 114
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378202e8d0585b570800000000000000
+      internalID: 8481831766487738483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_119
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 95
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30350ef868e7b1ce0800000000000000
+      internalID: -1433412939982810365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_120
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 95
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f389063ab6b9560800000000000000
+      internalID: 7321563968665304858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_121
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 97
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d982c8463a4ea30800000000000000
+      internalID: 4243696401133378856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_122
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 97
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214fd1e46dcdd1ea0800000000000000
+      internalID: -5900317123793783790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_123
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 97
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3893982c7b4189990800000000000000
+      internalID: -7379125209971213949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_124
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 97
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec17bd22392c5cac0800000000000000
+      internalID: -3835445570435321394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_125
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 97
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc698cdf443180a0800000000000000
+      internalID: -6881161238038352686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_126
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 97
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a54cb886fe80350800000000000000
+      internalID: 5983295337262242430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_127
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 105
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39619135b1fcdfc00800000000000000
+      internalID: 936132013828150931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_128
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 96
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca45a04446b52040800000000000000
+      internalID: 4622300996824287943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_129
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 105
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360b3052587a1ecf0800000000000000
+      internalID: -224714316098326429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_130
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 96
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5942c6ba49a2bb0800000000000000
+      internalID: -4959988575620524587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_131
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 96
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0202843a6f5e48aa0800000000000000
+      internalID: -6159545542871867360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_132
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a22ae151056620b0800000000000000
+      internalID: -5753800417575558494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_133
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 86
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544b9913c2c4791f0800000000000000
+      internalID: -1038277436391181243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_134
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 86
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086746c11f269d100800000000000000
+      internalID: 133246451687126656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_135
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 88
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d947cfb94d5060d0800000000000000
+      internalID: -3431640344724813352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_136
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 88
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36cb785fc22eb60d0800000000000000
+      internalID: -3428398008586748829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_137
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 88
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b6e501411607ff0800000000000000
+      internalID: -40425657844470894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_138
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 88
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a49e37e0b0755520800000000000000
+      internalID: 2690180257519932582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_139
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 88
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dfb9fc977ed27b10800000000000000
+      internalID: 1977887791685156822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_140
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 88
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45699ce8d51d2a40800000000000000
+      internalID: 5344952354185241935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_141
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 93
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5988c057ef222d950800000000000000
+      internalID: 6472274090765617301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_142
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 84
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6269f03486c269400800000000000000
+      internalID: 330500448971626022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_143
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 93
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01da758c618901410800000000000000
+      internalID: 1445822704003820816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_144
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 84
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b7ba10eb331e490800000000000000
+      internalID: -7718831395171501308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_145
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 76
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8575122d50d823090800000000000000
+      internalID: -8056221727272642728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_146
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 79
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d707273741aab990800000000000000
+      internalID: -7369400512998340649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_147
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 70
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9335575e36e1a560800000000000000
+      internalID: 7323387624508699549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_148
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 79
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3858e2fa538ed8130800000000000000
+      internalID: 3570765396844643715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_149
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 70
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4edbd717e91a4b2a0800000000000000
+      internalID: -6722570641876337180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_150
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 79
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea24857325d477310800000000000000
+      internalID: 1402674824460386990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_151
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 70
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87916b73755248eb0800000000000000
+      internalID: -4718605453050373768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_152
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 79
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dffac95e28b01870800000000000000
+      internalID: 8651617393393205207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_153
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 70
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae1ae86ce189ab70800000000000000
+      internalID: 8910796190101675691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_154
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 79
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7771f4086fb940c70800000000000000
+      internalID: 8936439043626833783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_155
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 70
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b34b2afd5909a70800000000000000
+      internalID: 8831723657013508933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_156
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 79
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f0af4fcdb4bc700800000000000000
+      internalID: 561625990912675650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_157
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 70
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a37049a2f3b10390800000000000000
+      internalID: -7853798420354403422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_158
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 75
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f798c91b4450b230800000000000000
+      internalID: 3652511979329329143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_159
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 75
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 801527982465ea680800000000000000
+      internalID: -8741954982905753336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_160
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 75
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6af933584ef4db0800000000000000
+      internalID: -4805371016633145678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_161
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 67
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4c548843dfb1a80800000000000000
+      internalID: -8494917870037908311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_162
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 67
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7dfc863a90397a0800000000000000
+      internalID: -6371738450356348982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_163
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 58
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7584ab08c0b7fd660800000000000000
+      internalID: 7412778805304641623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_164
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 58
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b293754a9abd310800000000000000
+      internalID: 1430923829923359611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_165
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 61
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9606c5ca1a61e8e00800000000000000
+      internalID: 1048800646861185129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_166
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 61
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f3490a773e53eb0800000000000000
+      internalID: -4740632929802895554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_167
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 61
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54abec712d1cef720800000000000000
+      internalID: 2881953919650413125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_168
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 61
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6fc51eb3e13ccac0800000000000000
+      internalID: -3833634328582697105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_169
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 61
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bcbbb7a4d7ffd0e0800000000000000
+      internalID: -2242801596687991632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_170
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 61
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474804f5c8de6fa20800000000000000
+      internalID: 3095922981013062772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_171
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 57
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d99ef70a7d700a0800000000000000
+      internalID: -6915321618463351422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_172
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 66
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999075dfc18066bc0800000000000000
+      internalID: -3790333115783247463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_173
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 57
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3395e40f87038000800000000000000
+      internalID: 36881532792967999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_174
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 66
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8233aec8accd7b0800000000000000
+      internalID: -5198057163318941472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_175
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 57
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c47be0fa009d6f0800000000000000
+      internalID: -659495118566896556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_176
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 66
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9624b9566abbd90800000000000000
+      internalID: -7080883033783244314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_177
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 57
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5fbacdab8092d7a0800000000000000
+      internalID: -6353857194675749029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_178
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 57
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a868609a3ed1260800000000000000
+      internalID: 7070057305140005450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_179
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 66
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89401a60abc2d6540800000000000000
+      internalID: 5002703938565244056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_180
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 57
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501f32dcf54964880800000000000000
+      internalID: -8627044896997117691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_181
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 57
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44fddd05bf8137610800000000000000
+      internalID: 1617664158828715844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_182
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 66
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c41b2447aa32310800000000000000
+      internalID: 1379133327217347641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_183
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 57
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2953cd92a4717d410800000000000000
+      internalID: 1501694608048666002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_184
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 57
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14af358d00dac7fe0800000000000000
+      internalID: -1189885982391666111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_185
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 57
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee44a0f6e15dab20800000000000000
+      internalID: 3147261766923472619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_186
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 49
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f10a05e0a242c80800000000000000
+      internalID: -8348501568267477139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_187
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 49
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af31a634fe552180800000000000000
+      internalID: -9140795465696985183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_188
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 52
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba0ab89fca8ae9c0800000000000000
+      internalID: -3897149903310550343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_189
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 52
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ea239becf3de3a0800000000000000
+      internalID: -6634576518943953324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_190
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 48
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7d18434ba0b4550800000000000000
+      internalID: 6146017885568489439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_191
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 48
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3aac63dd92e7050800000000000000
+      internalID: 5800119400183538657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_192
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 48
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c7f00e4ad331200800000000000000
+      internalID: 149530990976400462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_193
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 48
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62dfad07e3a94a7f0800000000000000
+      internalID: -602186857188754138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_194
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 48
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca5ec02b8801db60800000000000000
+      internalID: 7769000225834687181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_195
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 48
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f9b7a67f4d58850800000000000000
+      internalID: 6378738606348672832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_196
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 48
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bab8293c8dba13a0800000000000000
+      internalID: -6693829486180779336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_197
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 48
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998be6793c7550110800000000000000
+      internalID: 1226482971099183257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_198
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 40
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b89f6cb587841e60800000000000000
+      internalID: 7932113852168116400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_199
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 31
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5075a6082e86463b0800000000000000
+      internalID: -5520171921223035131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_200
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 39
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41eccc5248eff1d0800000000000000
+      internalID: -3314675428998979252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_201
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 22
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63a5cbd7eb9bf740800000000000000
+      internalID: 5186910815974171503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_202
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 30
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb55067a54e078900800000000000000
+      internalID: 686533160520930751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_203
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 39
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0faf5cb2ec1dfbe20800000000000000
+      internalID: 3368641729724283632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_204
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 30
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8f1d250aed58890800000000000000
+      internalID: -7456308827876362045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_205
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 14
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ddae64949b3d9720800000000000000
+      internalID: 2854503248154242516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle Exterior Tiles_206
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 13
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54580b988e2f4ebf0800000000000000
+      internalID: -295844594943228603
       vertices: []
       indices: 
       edges: []
@@ -135,7 +5285,213 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      SNES - The Legend of Zelda A Link to the Past - Castle Exterior Tiles_0: -8143868443202798770
+      Castle Exterior Tiles_0: 5481334270828681030
+      Castle Exterior Tiles_1: -2967320145857445624
+      Castle Exterior Tiles_10: -658464043260211605
+      Castle Exterior Tiles_100: 467766721783274037
+      Castle Exterior Tiles_101: 1393989087911562439
+      Castle Exterior Tiles_102: -7700073867292460834
+      Castle Exterior Tiles_103: 1330660175313686900
+      Castle Exterior Tiles_104: 5773490157192945568
+      Castle Exterior Tiles_105: -8829485802205105941
+      Castle Exterior Tiles_106: -4455704557735014841
+      Castle Exterior Tiles_107: 6241095746120569176
+      Castle Exterior Tiles_108: 5976715944715799684
+      Castle Exterior Tiles_109: 1415842985136338273
+      Castle Exterior Tiles_11: -1253882884237849315
+      Castle Exterior Tiles_110: -6934084620934374766
+      Castle Exterior Tiles_111: 7133753618281025318
+      Castle Exterior Tiles_112: 5746736166189834117
+      Castle Exterior Tiles_113: -7387875507352063364
+      Castle Exterior Tiles_114: 5504948942671852134
+      Castle Exterior Tiles_115: 504306919089794867
+      Castle Exterior Tiles_116: 7225654886652058544
+      Castle Exterior Tiles_117: -6733352828772663914
+      Castle Exterior Tiles_118: 8481831766487738483
+      Castle Exterior Tiles_119: -1433412939982810365
+      Castle Exterior Tiles_12: 6829036732401818145
+      Castle Exterior Tiles_120: 7321563968665304858
+      Castle Exterior Tiles_121: 4243696401133378856
+      Castle Exterior Tiles_122: -5900317123793783790
+      Castle Exterior Tiles_123: -7379125209971213949
+      Castle Exterior Tiles_124: -3835445570435321394
+      Castle Exterior Tiles_125: -6881161238038352686
+      Castle Exterior Tiles_126: 5983295337262242430
+      Castle Exterior Tiles_127: 936132013828150931
+      Castle Exterior Tiles_128: 4622300996824287943
+      Castle Exterior Tiles_129: -224714316098326429
+      Castle Exterior Tiles_13: 1252251791103843079
+      Castle Exterior Tiles_130: -4959988575620524587
+      Castle Exterior Tiles_131: -6159545542871867360
+      Castle Exterior Tiles_132: -5753800417575558494
+      Castle Exterior Tiles_133: -1038277436391181243
+      Castle Exterior Tiles_134: 133246451687126656
+      Castle Exterior Tiles_135: -3431640344724813352
+      Castle Exterior Tiles_136: -3428398008586748829
+      Castle Exterior Tiles_137: -40425657844470894
+      Castle Exterior Tiles_138: 2690180257519932582
+      Castle Exterior Tiles_139: 1977887791685156822
+      Castle Exterior Tiles_14: 5742764047613611652
+      Castle Exterior Tiles_140: 5344952354185241935
+      Castle Exterior Tiles_141: 6472274090765617301
+      Castle Exterior Tiles_142: 330500448971626022
+      Castle Exterior Tiles_143: 1445822704003820816
+      Castle Exterior Tiles_144: -7718831395171501308
+      Castle Exterior Tiles_145: -8056221727272642728
+      Castle Exterior Tiles_146: -7369400512998340649
+      Castle Exterior Tiles_147: 7323387624508699549
+      Castle Exterior Tiles_148: 3570765396844643715
+      Castle Exterior Tiles_149: -6722570641876337180
+      Castle Exterior Tiles_15: 3824957622142396247
+      Castle Exterior Tiles_150: 1402674824460386990
+      Castle Exterior Tiles_151: -4718605453050373768
+      Castle Exterior Tiles_152: 8651617393393205207
+      Castle Exterior Tiles_153: 8910796190101675691
+      Castle Exterior Tiles_154: 8936439043626833783
+      Castle Exterior Tiles_155: 8831723657013508933
+      Castle Exterior Tiles_156: 561625990912675650
+      Castle Exterior Tiles_157: -7853798420354403422
+      Castle Exterior Tiles_158: 3652511979329329143
+      Castle Exterior Tiles_159: -8741954982905753336
+      Castle Exterior Tiles_16: 4004166860805834900
+      Castle Exterior Tiles_160: -4805371016633145678
+      Castle Exterior Tiles_161: -8494917870037908311
+      Castle Exterior Tiles_162: -6371738450356348982
+      Castle Exterior Tiles_163: 7412778805304641623
+      Castle Exterior Tiles_164: 1430923829923359611
+      Castle Exterior Tiles_165: 1048800646861185129
+      Castle Exterior Tiles_166: -4740632929802895554
+      Castle Exterior Tiles_167: 2881953919650413125
+      Castle Exterior Tiles_168: -3833634328582697105
+      Castle Exterior Tiles_169: -2242801596687991632
+      Castle Exterior Tiles_17: -7332939113530814029
+      Castle Exterior Tiles_170: 3095922981013062772
+      Castle Exterior Tiles_171: -6915321618463351422
+      Castle Exterior Tiles_172: -3790333115783247463
+      Castle Exterior Tiles_173: 36881532792967999
+      Castle Exterior Tiles_174: -5198057163318941472
+      Castle Exterior Tiles_175: -659495118566896556
+      Castle Exterior Tiles_176: -7080883033783244314
+      Castle Exterior Tiles_177: -6353857194675749029
+      Castle Exterior Tiles_178: 7070057305140005450
+      Castle Exterior Tiles_179: 5002703938565244056
+      Castle Exterior Tiles_18: 2530412177093634182
+      Castle Exterior Tiles_180: -8627044896997117691
+      Castle Exterior Tiles_181: 1617664158828715844
+      Castle Exterior Tiles_182: 1379133327217347641
+      Castle Exterior Tiles_183: 1501694608048666002
+      Castle Exterior Tiles_184: -1189885982391666111
+      Castle Exterior Tiles_185: 3147261766923472619
+      Castle Exterior Tiles_186: -8348501568267477139
+      Castle Exterior Tiles_187: -9140795465696985183
+      Castle Exterior Tiles_188: -3897149903310550343
+      Castle Exterior Tiles_189: -6634576518943953324
+      Castle Exterior Tiles_19: 3572737168683995832
+      Castle Exterior Tiles_190: 6146017885568489439
+      Castle Exterior Tiles_191: 5800119400183538657
+      Castle Exterior Tiles_192: 149530990976400462
+      Castle Exterior Tiles_193: -602186857188754138
+      Castle Exterior Tiles_194: 7769000225834687181
+      Castle Exterior Tiles_195: 6378738606348672832
+      Castle Exterior Tiles_196: -6693829486180779336
+      Castle Exterior Tiles_197: 1226482971099183257
+      Castle Exterior Tiles_198: 7932113852168116400
+      Castle Exterior Tiles_199: -5520171921223035131
+      Castle Exterior Tiles_2: -5677687793484720241
+      Castle Exterior Tiles_20: 8692337351740179983
+      Castle Exterior Tiles_200: -3314675428998979252
+      Castle Exterior Tiles_201: 5186910815974171503
+      Castle Exterior Tiles_202: 686533160520930751
+      Castle Exterior Tiles_203: 3368641729724283632
+      Castle Exterior Tiles_204: -7456308827876362045
+      Castle Exterior Tiles_205: 2854503248154242516
+      Castle Exterior Tiles_206: -295844594943228603
+      Castle Exterior Tiles_21: 4909403294839578632
+      Castle Exterior Tiles_22: 7339737162775924122
+      Castle Exterior Tiles_23: -8116496941341424641
+      Castle Exterior Tiles_24: 4417020336571441489
+      Castle Exterior Tiles_25: -3469688479416107431
+      Castle Exterior Tiles_26: 2515334752491650232
+      Castle Exterior Tiles_27: -8516079264169670660
+      Castle Exterior Tiles_28: -688010437724007388
+      Castle Exterior Tiles_29: 1421603688714163996
+      Castle Exterior Tiles_3: 5127331472272953184
+      Castle Exterior Tiles_30: -5107930185341088689
+      Castle Exterior Tiles_31: 2293831518550545611
+      Castle Exterior Tiles_32: 5554126678437251172
+      Castle Exterior Tiles_33: 1194913198241545291
+      Castle Exterior Tiles_34: 5607250497295474142
+      Castle Exterior Tiles_35: -4611630523587370620
+      Castle Exterior Tiles_36: -5100646173155626668
+      Castle Exterior Tiles_37: 8656492800548631451
+      Castle Exterior Tiles_38: 5304549432246512145
+      Castle Exterior Tiles_39: -1721030387371437589
+      Castle Exterior Tiles_4: -1435786389259867904
+      Castle Exterior Tiles_40: 4278405029324881808
+      Castle Exterior Tiles_41: -7725283602402085265
+      Castle Exterior Tiles_42: -3945675573319053316
+      Castle Exterior Tiles_43: 2153719899687676189
+      Castle Exterior Tiles_44: 7503583776565357837
+      Castle Exterior Tiles_45: -1155931157565117415
+      Castle Exterior Tiles_46: 3234410057778472587
+      Castle Exterior Tiles_47: -1825448386155183613
+      Castle Exterior Tiles_48: -8909482950504587921
+      Castle Exterior Tiles_49: 4695144136593287237
+      Castle Exterior Tiles_5: -2356721236315145454
+      Castle Exterior Tiles_50: 6701699799666874512
+      Castle Exterior Tiles_51: -6049268735780699725
+      Castle Exterior Tiles_52: -7942810533897468525
+      Castle Exterior Tiles_53: 1711410028779975155
+      Castle Exterior Tiles_54: 5283354868761890326
+      Castle Exterior Tiles_55: -232182118437683204
+      Castle Exterior Tiles_56: -8233277698255314247
+      Castle Exterior Tiles_57: -8280520175840460836
+      Castle Exterior Tiles_58: 436393179950213200
+      Castle Exterior Tiles_59: -5117073648826562663
+      Castle Exterior Tiles_6: -3353634011508761448
+      Castle Exterior Tiles_60: -6337345541794530080
+      Castle Exterior Tiles_61: 2318162069109077499
+      Castle Exterior Tiles_62: 8597624468184089348
+      Castle Exterior Tiles_63: 7424709466991779645
+      Castle Exterior Tiles_64: -5828433147161392549
+      Castle Exterior Tiles_65: 2174462473462166275
+      Castle Exterior Tiles_66: -2242064905362258530
+      Castle Exterior Tiles_67: 1351092845505273637
+      Castle Exterior Tiles_68: -5789011696413319497
+      Castle Exterior Tiles_69: 1346800607776889950
+      Castle Exterior Tiles_7: 199332220543602147
+      Castle Exterior Tiles_70: -2962258872731537991
+      Castle Exterior Tiles_71: 3121702978357726726
+      Castle Exterior Tiles_72: 8432787016841273860
+      Castle Exterior Tiles_73: -7987806950133143284
+      Castle Exterior Tiles_74: -4429019621436765796
+      Castle Exterior Tiles_75: 8989905524848840899
+      Castle Exterior Tiles_76: 6264890486200684806
+      Castle Exterior Tiles_77: -7471687389798949140
+      Castle Exterior Tiles_78: 136032279197032543
+      Castle Exterior Tiles_79: 4109126187609524738
+      Castle Exterior Tiles_8: -3841638225622486491
+      Castle Exterior Tiles_80: 1286279844928741000
+      Castle Exterior Tiles_81: -8162111894942320335
+      Castle Exterior Tiles_82: -5056087434108603228
+      Castle Exterior Tiles_83: 1002485038202534000
+      Castle Exterior Tiles_84: 4875231227533134603
+      Castle Exterior Tiles_85: -1782254824706903701
+      Castle Exterior Tiles_86: -912951664314893342
+      Castle Exterior Tiles_87: -4740582904863814178
+      Castle Exterior Tiles_88: 4639979115451675833
+      Castle Exterior Tiles_89: -8779664272592255305
+      Castle Exterior Tiles_9: -5205952744478386567
+      Castle Exterior Tiles_90: 322601332766160538
+      Castle Exterior Tiles_91: -3846969745926239987
+      Castle Exterior Tiles_92: 1381959997251161535
+      Castle Exterior Tiles_93: -5999314677137788283
+      Castle Exterior Tiles_94: -6647945488281897535
+      Castle Exterior Tiles_95: 5399614656293494802
+      Castle Exterior Tiles_96: 2825385457984487989
+      Castle Exterior Tiles_97: -1020364656467559394
+      Castle Exterior Tiles_98: -2111223122682912095
+      Castle Exterior Tiles_99: -3691974786096008064
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

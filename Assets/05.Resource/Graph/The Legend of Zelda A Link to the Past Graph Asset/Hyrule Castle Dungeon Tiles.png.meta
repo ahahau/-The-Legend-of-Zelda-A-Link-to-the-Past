@@ -1,0 +1,6253 @@
+fileFormatVersion: 2
+guid: c209115604f68ca468c561ddada5f3fd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6451590818670013008
+    second: Hyrule Castle Dungeon Tiles_0
+  - first:
+      213: 2135329982242585830
+    second: Hyrule Castle Dungeon Tiles_1
+  - first:
+      213: -3608454007956180579
+    second: Hyrule Castle Dungeon Tiles_2
+  - first:
+      213: -7744734912718422829
+    second: Hyrule Castle Dungeon Tiles_3
+  - first:
+      213: -4009765217399972194
+    second: Hyrule Castle Dungeon Tiles_4
+  - first:
+      213: -223486604185757074
+    second: Hyrule Castle Dungeon Tiles_5
+  - first:
+      213: -9037602874174605757
+    second: Hyrule Castle Dungeon Tiles_6
+  - first:
+      213: 4169528006933417267
+    second: Hyrule Castle Dungeon Tiles_7
+  - first:
+      213: 2420086574714974059
+    second: Hyrule Castle Dungeon Tiles_8
+  - first:
+      213: 7323961669903744348
+    second: Hyrule Castle Dungeon Tiles_9
+  - first:
+      213: -5760468842709441514
+    second: Hyrule Castle Dungeon Tiles_10
+  - first:
+      213: 3750517843363604629
+    second: Hyrule Castle Dungeon Tiles_11
+  - first:
+      213: 3846501306108145750
+    second: Hyrule Castle Dungeon Tiles_12
+  - first:
+      213: 4270328722376285051
+    second: Hyrule Castle Dungeon Tiles_13
+  - first:
+      213: 3561820439666958597
+    second: Hyrule Castle Dungeon Tiles_14
+  - first:
+      213: -776446751867927666
+    second: Hyrule Castle Dungeon Tiles_15
+  - first:
+      213: 7863962572299592743
+    second: Hyrule Castle Dungeon Tiles_16
+  - first:
+      213: -3409434181124747177
+    second: Hyrule Castle Dungeon Tiles_17
+  - first:
+      213: -900256907170048528
+    second: Hyrule Castle Dungeon Tiles_18
+  - first:
+      213: 8807769326492104714
+    second: Hyrule Castle Dungeon Tiles_19
+  - first:
+      213: -5959853192356280933
+    second: Hyrule Castle Dungeon Tiles_20
+  - first:
+      213: -5554957191677966060
+    second: Hyrule Castle Dungeon Tiles_21
+  - first:
+      213: -3267178416765686515
+    second: Hyrule Castle Dungeon Tiles_22
+  - first:
+      213: 8977530533176534051
+    second: Hyrule Castle Dungeon Tiles_23
+  - first:
+      213: -1787214481544082750
+    second: Hyrule Castle Dungeon Tiles_24
+  - first:
+      213: -1638595443393653727
+    second: Hyrule Castle Dungeon Tiles_25
+  - first:
+      213: 75464986747659103
+    second: Hyrule Castle Dungeon Tiles_26
+  - first:
+      213: 5608633843934031166
+    second: Hyrule Castle Dungeon Tiles_27
+  - first:
+      213: -5453184630695692760
+    second: Hyrule Castle Dungeon Tiles_28
+  - first:
+      213: -7742529142697546557
+    second: Hyrule Castle Dungeon Tiles_29
+  - first:
+      213: -6591994023392549075
+    second: Hyrule Castle Dungeon Tiles_30
+  - first:
+      213: -4720232372871954156
+    second: Hyrule Castle Dungeon Tiles_31
+  - first:
+      213: -504829769642599127
+    second: Hyrule Castle Dungeon Tiles_32
+  - first:
+      213: -8848388633257798100
+    second: Hyrule Castle Dungeon Tiles_33
+  - first:
+      213: -2857151835887466266
+    second: Hyrule Castle Dungeon Tiles_34
+  - first:
+      213: 5519881428924926450
+    second: Hyrule Castle Dungeon Tiles_35
+  - first:
+      213: -405158424735521335
+    second: Hyrule Castle Dungeon Tiles_36
+  - first:
+      213: -7920800459502633559
+    second: Hyrule Castle Dungeon Tiles_37
+  - first:
+      213: -1620035950760429197
+    second: Hyrule Castle Dungeon Tiles_38
+  - first:
+      213: -4166746787332570391
+    second: Hyrule Castle Dungeon Tiles_39
+  - first:
+      213: 16937365127847112
+    second: Hyrule Castle Dungeon Tiles_40
+  - first:
+      213: -653089333964997495
+    second: Hyrule Castle Dungeon Tiles_41
+  - first:
+      213: 2147716728156734843
+    second: Hyrule Castle Dungeon Tiles_42
+  - first:
+      213: -4850609789714089286
+    second: Hyrule Castle Dungeon Tiles_43
+  - first:
+      213: -3338876314604616841
+    second: Hyrule Castle Dungeon Tiles_44
+  - first:
+      213: 7607034714733802040
+    second: Hyrule Castle Dungeon Tiles_45
+  - first:
+      213: 4381511318464062845
+    second: Hyrule Castle Dungeon Tiles_46
+  - first:
+      213: 7571477345521894603
+    second: Hyrule Castle Dungeon Tiles_47
+  - first:
+      213: -1704528336384053490
+    second: Hyrule Castle Dungeon Tiles_48
+  - first:
+      213: -7219034549842242079
+    second: Hyrule Castle Dungeon Tiles_49
+  - first:
+      213: -3259323347936399836
+    second: Hyrule Castle Dungeon Tiles_50
+  - first:
+      213: -6085714132666871608
+    second: Hyrule Castle Dungeon Tiles_51
+  - first:
+      213: -5875169185015937805
+    second: Hyrule Castle Dungeon Tiles_52
+  - first:
+      213: 7445057990271813573
+    second: Hyrule Castle Dungeon Tiles_53
+  - first:
+      213: -1883980860525788979
+    second: Hyrule Castle Dungeon Tiles_54
+  - first:
+      213: -8630846805058148734
+    second: Hyrule Castle Dungeon Tiles_55
+  - first:
+      213: 1906754586742416917
+    second: Hyrule Castle Dungeon Tiles_56
+  - first:
+      213: -1547795032172621871
+    second: Hyrule Castle Dungeon Tiles_57
+  - first:
+      213: -8405337083203922769
+    second: Hyrule Castle Dungeon Tiles_58
+  - first:
+      213: -8697236206084813391
+    second: Hyrule Castle Dungeon Tiles_59
+  - first:
+      213: 5097311296620280849
+    second: Hyrule Castle Dungeon Tiles_60
+  - first:
+      213: -4323148441238356854
+    second: Hyrule Castle Dungeon Tiles_61
+  - first:
+      213: -3959337705750017665
+    second: Hyrule Castle Dungeon Tiles_62
+  - first:
+      213: 3816706280642029542
+    second: Hyrule Castle Dungeon Tiles_63
+  - first:
+      213: -3740537982376989798
+    second: Hyrule Castle Dungeon Tiles_64
+  - first:
+      213: -470291582117188287
+    second: Hyrule Castle Dungeon Tiles_65
+  - first:
+      213: -2012468547526362734
+    second: Hyrule Castle Dungeon Tiles_66
+  - first:
+      213: 8609194435266246193
+    second: Hyrule Castle Dungeon Tiles_67
+  - first:
+      213: 2807602621274429401
+    second: Hyrule Castle Dungeon Tiles_68
+  - first:
+      213: -6226174822984488610
+    second: Hyrule Castle Dungeon Tiles_69
+  - first:
+      213: 5324188391004325305
+    second: Hyrule Castle Dungeon Tiles_70
+  - first:
+      213: -4704907941444588402
+    second: Hyrule Castle Dungeon Tiles_71
+  - first:
+      213: -4415726723668128973
+    second: Hyrule Castle Dungeon Tiles_72
+  - first:
+      213: -2312720074238001566
+    second: Hyrule Castle Dungeon Tiles_73
+  - first:
+      213: 823972155716746062
+    second: Hyrule Castle Dungeon Tiles_74
+  - first:
+      213: -4639338941880180680
+    second: Hyrule Castle Dungeon Tiles_75
+  - first:
+      213: 6943622158842944685
+    second: Hyrule Castle Dungeon Tiles_76
+  - first:
+      213: -7594540167857170501
+    second: Hyrule Castle Dungeon Tiles_77
+  - first:
+      213: 6513311473395689228
+    second: Hyrule Castle Dungeon Tiles_78
+  - first:
+      213: 9057792377073090379
+    second: Hyrule Castle Dungeon Tiles_79
+  - first:
+      213: 2633638606843690939
+    second: Hyrule Castle Dungeon Tiles_80
+  - first:
+      213: -4418010036648829945
+    second: Hyrule Castle Dungeon Tiles_81
+  - first:
+      213: -9125438506291229197
+    second: Hyrule Castle Dungeon Tiles_82
+  - first:
+      213: 467066307133057973
+    second: Hyrule Castle Dungeon Tiles_83
+  - first:
+      213: -493289053384400734
+    second: Hyrule Castle Dungeon Tiles_84
+  - first:
+      213: -5800922535581010869
+    second: Hyrule Castle Dungeon Tiles_85
+  - first:
+      213: 8861429349114297413
+    second: Hyrule Castle Dungeon Tiles_86
+  - first:
+      213: -6139903416218793694
+    second: Hyrule Castle Dungeon Tiles_87
+  - first:
+      213: 4590132877147533091
+    second: Hyrule Castle Dungeon Tiles_88
+  - first:
+      213: 479037885565280900
+    second: Hyrule Castle Dungeon Tiles_89
+  - first:
+      213: -7995949419669533080
+    second: Hyrule Castle Dungeon Tiles_90
+  - first:
+      213: -5793642594241542641
+    second: Hyrule Castle Dungeon Tiles_91
+  - first:
+      213: -517684784029570207
+    second: Hyrule Castle Dungeon Tiles_92
+  - first:
+      213: -3737860979432559809
+    second: Hyrule Castle Dungeon Tiles_93
+  - first:
+      213: 3178480256922310837
+    second: Hyrule Castle Dungeon Tiles_94
+  - first:
+      213: -8013884947960240930
+    second: Hyrule Castle Dungeon Tiles_95
+  - first:
+      213: -1604805764613804213
+    second: Hyrule Castle Dungeon Tiles_96
+  - first:
+      213: -7509822296274477769
+    second: Hyrule Castle Dungeon Tiles_97
+  - first:
+      213: 1456961543526068493
+    second: Hyrule Castle Dungeon Tiles_98
+  - first:
+      213: -5299760057327658740
+    second: Hyrule Castle Dungeon Tiles_99
+  - first:
+      213: 5520570604052275671
+    second: Hyrule Castle Dungeon Tiles_100
+  - first:
+      213: 694854354364283473
+    second: Hyrule Castle Dungeon Tiles_101
+  - first:
+      213: 5467071250693192594
+    second: Hyrule Castle Dungeon Tiles_102
+  - first:
+      213: 2758977728996314325
+    second: Hyrule Castle Dungeon Tiles_103
+  - first:
+      213: -3061508574623394788
+    second: Hyrule Castle Dungeon Tiles_104
+  - first:
+      213: 6978756217212556021
+    second: Hyrule Castle Dungeon Tiles_105
+  - first:
+      213: -5501938721324101036
+    second: Hyrule Castle Dungeon Tiles_106
+  - first:
+      213: 7416631629819169230
+    second: Hyrule Castle Dungeon Tiles_107
+  - first:
+      213: 8212789615636399088
+    second: Hyrule Castle Dungeon Tiles_108
+  - first:
+      213: 762392189255262779
+    second: Hyrule Castle Dungeon Tiles_109
+  - first:
+      213: -8285608402150666025
+    second: Hyrule Castle Dungeon Tiles_110
+  - first:
+      213: -2277854567230338074
+    second: Hyrule Castle Dungeon Tiles_111
+  - first:
+      213: 988921787441453589
+    second: Hyrule Castle Dungeon Tiles_112
+  - first:
+      213: 4136775167931349763
+    second: Hyrule Castle Dungeon Tiles_113
+  - first:
+      213: 8643075677571164847
+    second: Hyrule Castle Dungeon Tiles_114
+  - first:
+      213: -6281643692936250640
+    second: Hyrule Castle Dungeon Tiles_115
+  - first:
+      213: -436610075889726068
+    second: Hyrule Castle Dungeon Tiles_116
+  - first:
+      213: -763657074961713892
+    second: Hyrule Castle Dungeon Tiles_117
+  - first:
+      213: -5233892552694419009
+    second: Hyrule Castle Dungeon Tiles_118
+  - first:
+      213: 5443227202800099852
+    second: Hyrule Castle Dungeon Tiles_119
+  - first:
+      213: 222263577849510471
+    second: Hyrule Castle Dungeon Tiles_120
+  - first:
+      213: 5906986371416527789
+    second: Hyrule Castle Dungeon Tiles_121
+  - first:
+      213: -4012904434868080966
+    second: Hyrule Castle Dungeon Tiles_122
+  - first:
+      213: -8015797067256602907
+    second: Hyrule Castle Dungeon Tiles_123
+  - first:
+      213: 5886576310794676492
+    second: Hyrule Castle Dungeon Tiles_124
+  - first:
+      213: -4780279468858337627
+    second: Hyrule Castle Dungeon Tiles_125
+  - first:
+      213: -6204670524682876504
+    second: Hyrule Castle Dungeon Tiles_126
+  - first:
+      213: 7395515955566615249
+    second: Hyrule Castle Dungeon Tiles_127
+  - first:
+      213: 1861777512484884722
+    second: Hyrule Castle Dungeon Tiles_128
+  - first:
+      213: -4492715792204054056
+    second: Hyrule Castle Dungeon Tiles_129
+  - first:
+      213: 86959227007348530
+    second: Hyrule Castle Dungeon Tiles_130
+  - first:
+      213: -595293654673634162
+    second: Hyrule Castle Dungeon Tiles_131
+  - first:
+      213: 3135788759587761625
+    second: Hyrule Castle Dungeon Tiles_132
+  - first:
+      213: 3307910422043901776
+    second: Hyrule Castle Dungeon Tiles_133
+  - first:
+      213: -5743118767108089739
+    second: Hyrule Castle Dungeon Tiles_134
+  - first:
+      213: -335726539810748840
+    second: Hyrule Castle Dungeon Tiles_135
+  - first:
+      213: -1759480625389894730
+    second: Hyrule Castle Dungeon Tiles_136
+  - first:
+      213: 2558220740420621080
+    second: Hyrule Castle Dungeon Tiles_137
+  - first:
+      213: 4261352488092085961
+    second: Hyrule Castle Dungeon Tiles_138
+  - first:
+      213: 6703442834795255959
+    second: Hyrule Castle Dungeon Tiles_139
+  - first:
+      213: 4850224431151325412
+    second: Hyrule Castle Dungeon Tiles_140
+  - first:
+      213: 6091888184571751007
+    second: Hyrule Castle Dungeon Tiles_141
+  - first:
+      213: -7513686804762036659
+    second: Hyrule Castle Dungeon Tiles_142
+  - first:
+      213: 6942136859604222572
+    second: Hyrule Castle Dungeon Tiles_143
+  - first:
+      213: 133217330115804902
+    second: Hyrule Castle Dungeon Tiles_144
+  - first:
+      213: 3636906002392022912
+    second: Hyrule Castle Dungeon Tiles_145
+  - first:
+      213: 4274614662039437754
+    second: Hyrule Castle Dungeon Tiles_146
+  - first:
+      213: 2204926038767708003
+    second: Hyrule Castle Dungeon Tiles_147
+  - first:
+      213: -1452789651328403395
+    second: Hyrule Castle Dungeon Tiles_148
+  - first:
+      213: -5676632323378288601
+    second: Hyrule Castle Dungeon Tiles_149
+  - first:
+      213: -4190733037192929221
+    second: Hyrule Castle Dungeon Tiles_150
+  - first:
+      213: -1030789111911103723
+    second: Hyrule Castle Dungeon Tiles_151
+  - first:
+      213: -8744764914456229927
+    second: Hyrule Castle Dungeon Tiles_152
+  - first:
+      213: 2702349793626345900
+    second: Hyrule Castle Dungeon Tiles_153
+  - first:
+      213: -2915721479819088927
+    second: Hyrule Castle Dungeon Tiles_154
+  - first:
+      213: -5010983620316888869
+    second: Hyrule Castle Dungeon Tiles_155
+  - first:
+      213: 1255900420557276622
+    second: Hyrule Castle Dungeon Tiles_156
+  - first:
+      213: 2200606266840293777
+    second: Hyrule Castle Dungeon Tiles_157
+  - first:
+      213: -5331248681785430571
+    second: Hyrule Castle Dungeon Tiles_158
+  - first:
+      213: -8767492325594568228
+    second: Hyrule Castle Dungeon Tiles_159
+  - first:
+      213: 3157859625181274686
+    second: Hyrule Castle Dungeon Tiles_160
+  - first:
+      213: 3895854296649577947
+    second: Hyrule Castle Dungeon Tiles_161
+  - first:
+      213: 1042462160921953152
+    second: Hyrule Castle Dungeon Tiles_162
+  - first:
+      213: -2364437626211802005
+    second: Hyrule Castle Dungeon Tiles_163
+  - first:
+      213: 6889493214943937410
+    second: Hyrule Castle Dungeon Tiles_164
+  - first:
+      213: 2805717299502274416
+    second: Hyrule Castle Dungeon Tiles_165
+  - first:
+      213: -2813981600842629950
+    second: Hyrule Castle Dungeon Tiles_166
+  - first:
+      213: 7242757095791876425
+    second: Hyrule Castle Dungeon Tiles_167
+  - first:
+      213: 5434165363321591816
+    second: Hyrule Castle Dungeon Tiles_168
+  - first:
+      213: -2211836548764326983
+    second: Hyrule Castle Dungeon Tiles_169
+  - first:
+      213: -9153467569123040282
+    second: Hyrule Castle Dungeon Tiles_170
+  - first:
+      213: -2582778698014721266
+    second: Hyrule Castle Dungeon Tiles_171
+  - first:
+      213: 6587090064865795594
+    second: Hyrule Castle Dungeon Tiles_172
+  - first:
+      213: 6613907094795188261
+    second: Hyrule Castle Dungeon Tiles_173
+  - first:
+      213: 5540318216243651211
+    second: Hyrule Castle Dungeon Tiles_174
+  - first:
+      213: -1583371460455502141
+    second: Hyrule Castle Dungeon Tiles_175
+  - first:
+      213: -209096339167803931
+    second: Hyrule Castle Dungeon Tiles_176
+  - first:
+      213: 157894104504295581
+    second: Hyrule Castle Dungeon Tiles_177
+  - first:
+      213: -4801832466105563956
+    second: Hyrule Castle Dungeon Tiles_178
+  - first:
+      213: 3895562623710177095
+    second: Hyrule Castle Dungeon Tiles_179
+  - first:
+      213: -2115052495330312322
+    second: Hyrule Castle Dungeon Tiles_180
+  - first:
+      213: 8867557241742384340
+    second: Hyrule Castle Dungeon Tiles_181
+  - first:
+      213: 8008793367699614695
+    second: Hyrule Castle Dungeon Tiles_182
+  - first:
+      213: -3723676026522147739
+    second: Hyrule Castle Dungeon Tiles_183
+  - first:
+      213: -7623360796732881594
+    second: Hyrule Castle Dungeon Tiles_184
+  - first:
+      213: 5710728480360179264
+    second: Hyrule Castle Dungeon Tiles_185
+  - first:
+      213: -4047942312294671523
+    second: Hyrule Castle Dungeon Tiles_186
+  - first:
+      213: 8566548399726479721
+    second: Hyrule Castle Dungeon Tiles_187
+  - first:
+      213: 6616868819203183974
+    second: Hyrule Castle Dungeon Tiles_188
+  - first:
+      213: -5253601280654234970
+    second: Hyrule Castle Dungeon Tiles_189
+  - first:
+      213: -1196066690903120531
+    second: Hyrule Castle Dungeon Tiles_190
+  - first:
+      213: -8652527688192885229
+    second: Hyrule Castle Dungeon Tiles_191
+  - first:
+      213: -6292950554315872405
+    second: Hyrule Castle Dungeon Tiles_192
+  - first:
+      213: -8912778114594673639
+    second: Hyrule Castle Dungeon Tiles_193
+  - first:
+      213: 2654012650750146391
+    second: Hyrule Castle Dungeon Tiles_194
+  - first:
+      213: 8096235903410506643
+    second: Hyrule Castle Dungeon Tiles_195
+  - first:
+      213: 2354393284268741343
+    second: Hyrule Castle Dungeon Tiles_196
+  - first:
+      213: 2725230060972511936
+    second: Hyrule Castle Dungeon Tiles_197
+  - first:
+      213: 2997737299012111530
+    second: Hyrule Castle Dungeon Tiles_198
+  - first:
+      213: 7296884261877862274
+    second: Hyrule Castle Dungeon Tiles_199
+  - first:
+      213: 2726306196414169944
+    second: Hyrule Castle Dungeon Tiles_200
+  - first:
+      213: 6249876434630078178
+    second: Hyrule Castle Dungeon Tiles_201
+  - first:
+      213: 3445375016098009188
+    second: Hyrule Castle Dungeon Tiles_202
+  - first:
+      213: 4344345193392301744
+    second: Hyrule Castle Dungeon Tiles_203
+  - first:
+      213: 285244616524589329
+    second: Hyrule Castle Dungeon Tiles_204
+  - first:
+      213: 8820374422212478971
+    second: Hyrule Castle Dungeon Tiles_205
+  - first:
+      213: -7351365388899191003
+    second: Hyrule Castle Dungeon Tiles_206
+  - first:
+      213: -4968455786938722290
+    second: Hyrule Castle Dungeon Tiles_207
+  - first:
+      213: -5263297557056108035
+    second: Hyrule Castle Dungeon Tiles_208
+  - first:
+      213: 1497457237112598455
+    second: Hyrule Castle Dungeon Tiles_209
+  - first:
+      213: -5314278906356817785
+    second: Hyrule Castle Dungeon Tiles_210
+  - first:
+      213: -1296209515561851273
+    second: Hyrule Castle Dungeon Tiles_211
+  - first:
+      213: -238202682965184219
+    second: Hyrule Castle Dungeon Tiles_212
+  - first:
+      213: -8171095951670809748
+    second: Hyrule Castle Dungeon Tiles_213
+  - first:
+      213: 1036701916789006679
+    second: Hyrule Castle Dungeon Tiles_214
+  - first:
+      213: -4623580119553012586
+    second: Hyrule Castle Dungeon Tiles_215
+  - first:
+      213: -2379439639218635691
+    second: Hyrule Castle Dungeon Tiles_216
+  - first:
+      213: 7100355175847553592
+    second: Hyrule Castle Dungeon Tiles_217
+  - first:
+      213: 335104971901816210
+    second: Hyrule Castle Dungeon Tiles_218
+  - first:
+      213: -6683607609947077434
+    second: Hyrule Castle Dungeon Tiles_219
+  - first:
+      213: -8338235007916720111
+    second: Hyrule Castle Dungeon Tiles_220
+  - first:
+      213: -1571168101004337322
+    second: Hyrule Castle Dungeon Tiles_221
+  - first:
+      213: -2577178064870058827
+    second: Hyrule Castle Dungeon Tiles_222
+  - first:
+      213: 8038265995800649295
+    second: Hyrule Castle Dungeon Tiles_223
+  - first:
+      213: -7602160997640739796
+    second: Hyrule Castle Dungeon Tiles_224
+  - first:
+      213: 9078271392397084780
+    second: Hyrule Castle Dungeon Tiles_225
+  - first:
+      213: -366798777819047744
+    second: Hyrule Castle Dungeon Tiles_226
+  - first:
+      213: -5507215244772999773
+    second: Hyrule Castle Dungeon Tiles_227
+  - first:
+      213: -7989939862207053801
+    second: Hyrule Castle Dungeon Tiles_228
+  - first:
+      213: -5663714516123000134
+    second: Hyrule Castle Dungeon Tiles_229
+  - first:
+      213: -2088115664055908394
+    second: Hyrule Castle Dungeon Tiles_230
+  - first:
+      213: -6178369055370079008
+    second: Hyrule Castle Dungeon Tiles_231
+  - first:
+      213: -3517791232013471193
+    second: Hyrule Castle Dungeon Tiles_232
+  - first:
+      213: -5175070521114812552
+    second: Hyrule Castle Dungeon Tiles_233
+  - first:
+      213: 4343386592680820926
+    second: Hyrule Castle Dungeon Tiles_234
+  - first:
+      213: 3046302772100755615
+    second: Hyrule Castle Dungeon Tiles_235
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 322
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a6ff6eaa7a88950800000000000000
+      internalID: 6451590818670013008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 305
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec7fcd2e4732ad10800000000000000
+      internalID: 2135329982242585830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 322
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91ff6bb2323cedc0800000000000000
+      internalID: -3608454007956180579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_3
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 305
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc3ad751ac258490800000000000000
+      internalID: -7744734912718422829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_4
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 322
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e582887c37a58c0800000000000000
+      internalID: -4009765217399972194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_5
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 305
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a13791e1406ecf0800000000000000
+      internalID: -223486604185757074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_6
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 322
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 346f5c7b11cf39280800000000000000
+      internalID: -9037602874174605757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_7
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 305
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d0f4691a32dd930800000000000000
+      internalID: 4169528006933417267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_8
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 322
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6fe393eaefd59120800000000000000
+      internalID: 2420086574714974059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_9
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 305
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d7033b550f3a560800000000000000
+      internalID: 7323961669903744348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_10
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 322
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614299a9b14be00b0800000000000000
+      internalID: -5760468842709441514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_11
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 305
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598a3718b148c0430800000000000000
+      internalID: 3750517843363604629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_12
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 322
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650f6aaee84816530800000000000000
+      internalID: 3846501306108145750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_13
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 305
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7bd26b0951434b30800000000000000
+      internalID: 4270328722376285051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_14
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 322
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501231c81d02e6130800000000000000
+      internalID: 3561820439666958597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_15
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 305
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8308effac18935f0800000000000000
+      internalID: -776446751867927666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_16
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 322
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72462e06b48622d60800000000000000
+      internalID: 7863962572299592743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_17
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 305
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7501cfc1da14fa0d0800000000000000
+      internalID: -3409434181124747177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_18
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 305
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f59989dc15a183f0800000000000000
+      internalID: -900256907170048528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08b421798b7b3a70800000000000000
+      internalID: 8807769326492104714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_20
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 288
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95402429195a4da0800000000000000
+      internalID: -5959853192356280933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_21
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 288
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41988879dd3d8e2b0800000000000000
+      internalID: -5554957191677966060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_22
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 288
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0dabda4a86a8a2d0800000000000000
+      internalID: -3267178416765686515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_23
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 288
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324e5367478969c70800000000000000
+      internalID: 8977530533176534051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_24
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 288
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca812ae5e98237e0800000000000000
+      internalID: -1787214481544082750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_25
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 288
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12492f9302a8249e0800000000000000
+      internalID: -1638595443393653727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_26
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 288
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53e210710b1c0100800000000000000
+      internalID: 75464986747659103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_27
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 288
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3debe6e3ced5dd40800000000000000
+      internalID: 5608633843934031166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_28
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 296
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82673c878756254b0800000000000000
+      internalID: -5453184630695692760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_29
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 296
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc276234c20d8490800000000000000
+      internalID: -7742529142697546557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_30
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 288
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2760329c588484a0800000000000000
+      internalID: -6591994023392549075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 271
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4110bad6aad5e7eb0800000000000000
+      internalID: -4720232372871954156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_32
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 271
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d196ccffb7ef8f0800000000000000
+      internalID: -504829769642599127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_33
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 271
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2690183b65343580800000000000000
+      internalID: -8848388633257798100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_34
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 271
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e882980b8b5958d0800000000000000
+      internalID: -2857151835887466266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_35
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 271
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9885df9ee8a9c40800000000000000
+      internalID: 5519881428924926450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_36
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 271
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5e1ef2f86906af0800000000000000
+      internalID: -405158424735521335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_37
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 271
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad3892c2f9a31290800000000000000
+      internalID: -7920800459502633559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_38
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 271
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379ff87d2e97489e0800000000000000
+      internalID: -1620035950760429197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_39
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 279
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2ca009fddbc26c0800000000000000
+      internalID: -4166746787332570391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_40
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 279
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc50ef917c2c3000800000000000000
+      internalID: 16937365127847112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_41
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 279
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c7b6206b2cfe6f0800000000000000
+      internalID: -653089333964997495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_42
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 271
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7542f33cf83ecd10800000000000000
+      internalID: 2147716728156734843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_43
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 271
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba3f0c881c2facb0800000000000000
+      internalID: -4850609789714089286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_44
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 254
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773c6079eade9a1d0800000000000000
+      internalID: -3338876314604616841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_45
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 237
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832f5cde4cd919960800000000000000
+      internalID: 7607034714733802040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_46
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 254
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75676474514ecc30800000000000000
+      internalID: 4381511318464062845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_47
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 254
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc400c4c78a431960800000000000000
+      internalID: 7571477345521894603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_48
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 237
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0fad30528c4858e0800000000000000
+      internalID: -1704528336384053490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_49
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 237
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e591633356d0db90800000000000000
+      internalID: -7219034549842242079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_50
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 237
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e2d160fae84c2d0800000000000000
+      internalID: -3259323347936399836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_51
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 254
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c011d56d333b8ba0800000000000000
+      internalID: -6085714132666871608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_52
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 237
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4cdc311c4377ea0800000000000000
+      internalID: -5875169185015937805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_53
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 254
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7c55aebc8225760800000000000000
+      internalID: 7445057990271813573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_54
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 237
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0c9bc9361cad5e0800000000000000
+      internalID: -1883980860525788979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_55
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 254
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286a1b91f82193880800000000000000
+      internalID: -8630846805058148734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_56
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 237
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516e0a8b137267a10800000000000000
+      internalID: 1906754586742416917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_57
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 254
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df8c3a6e90258ae0800000000000000
+      internalID: -1547795032172621871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_58
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 245
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4563ac47e3a5b80800000000000000
+      internalID: -8405337083203922769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_59
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 254
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd06a020c53d4780800000000000000
+      internalID: -8697236206084813391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_60
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 245
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c33a81e994db640800000000000000
+      internalID: 5097311296620280849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_61
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 254
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c34b0d5671104c0800000000000000
+      internalID: -4323148441238356854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_62
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 254
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79c5f6855b9d09c0800000000000000
+      internalID: -3959337705750017665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_63
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 254
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e7aba5f32aa7f430800000000000000
+      internalID: 3816706280642029542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_64
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 237
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b2093f580f61cc0800000000000000
+      internalID: -3740537982376989798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_65
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 254
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d6c0b3c403979f0800000000000000
+      internalID: -470291582117188287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_66
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 237
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2997b0fb4864214e0800000000000000
+      internalID: -2012468547526362734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_67
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 254
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1367054b9b00a7770800000000000000
+      internalID: 8609194435266246193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_68
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 237
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7948f65bb96f620800000000000000
+      internalID: 2807602621274429401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_69
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 228
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5967867cfe2899a0800000000000000
+      internalID: -6226174822984488610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_70
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 228
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b54213022153e940800000000000000
+      internalID: 5324188391004325305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_71
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 228
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ce749a72fc4beb0800000000000000
+      internalID: -4704907941444588402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_72
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 228
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33bcf8ab0ff28b2c0800000000000000
+      internalID: -4415726723668128973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_73
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 220
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ef026885197efd0800000000000000
+      internalID: -2312720074238001566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_74
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 220
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b3f4e5f465f6b00800000000000000
+      internalID: 823972155716746062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_75
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 220
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830689800d1cd9fb0800000000000000
+      internalID: -4639338941880180680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_76
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 220
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac5d588093bc5060800000000000000
+      internalID: 6943622158842944685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_77
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 220
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7107674f5ca9690800000000000000
+      internalID: -7594540167857170501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_78
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 220
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07e93ba64ee36a50800000000000000
+      internalID: 6513311473395689228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_79
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 220
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4fbeac3d2eb3bd70800000000000000
+      internalID: 9057792377073090379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_80
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 220
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf3cabfb509c8420800000000000000
+      internalID: 2633638606843690939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 203
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c9f6f774310b2c0800000000000000
+      internalID: -4418010036648829945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_82
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 203
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd07d4f60eeb5180800000000000000
+      internalID: -9125438506291229197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_83
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 186
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb283be45a5b7600800000000000000
+      internalID: 467066307133057973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_84
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 186
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a02f61383c7729f0800000000000000
+      internalID: -493289053384400734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_85
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 186
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44b22140bbfe7fa0800000000000000
+      internalID: -5800922535581010869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_86
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 203
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54cbd2c0b0f1afa70800000000000000
+      internalID: 8861429349114297413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_87
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 203
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2294211af5eaacaa0800000000000000
+      internalID: -6139903416218793694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_88
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 186
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f683e388d63bf30800000000000000
+      internalID: 4590132877147533091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_89
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 203
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482a21b3b62e5a600800000000000000
+      internalID: 479037885565280900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_90
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 186
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e4b9efd5ea80190800000000000000
+      internalID: -7995949419669533080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_91
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 203
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0609aea1c8d89fa0800000000000000
+      internalID: -5793642594241542641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_92
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 186
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16bea468e60d0d8f0800000000000000
+      internalID: -517684784029570207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_93
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 203
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3be0254e33702cc0800000000000000
+      internalID: -3737860979432559809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_94
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 186
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8527f04fa3c1c20800000000000000
+      internalID: 3178480256922310837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_95
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 203
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4eaf56916f8c090800000000000000
+      internalID: -8013884947960240930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_96
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 186
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4fe1b2e8a59ab9e0800000000000000
+      internalID: -1604805764613804213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_97
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 186
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d50480960c7c790800000000000000
+      internalID: -7509822296274477769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_98
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 203
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01b645fdca283410800000000000000
+      internalID: 1456961543526068493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 169
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c095e24ae487376b0800000000000000
+      internalID: -5299760057327658740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_100
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 169
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1eff317b10d9c40800000000000000
+      internalID: 5520570604052275671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_101
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 152
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a34829a5e94a900800000000000000
+      internalID: 694854354364283473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_102
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 169
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b71533650fedb40800000000000000
+      internalID: 5467071250693192594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_103
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 152
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc0a0870abd94620800000000000000
+      internalID: 2758977728996314325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_104
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 169
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1492c40c265385d0800000000000000
+      internalID: -3061508574623394788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_105
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 169
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2d005fdc589d060800000000000000
+      internalID: 6978756217212556021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_106
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 152
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452928b22ef25a3b0800000000000000
+      internalID: -5501938721324101036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_107
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 169
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec94c4d1c2b2de660800000000000000
+      internalID: 7416631629819169230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_108
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 169
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f3460764a0b9f170800000000000000
+      internalID: 8212789615636399088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_109
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 152
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32a71428af849a00800000000000000
+      internalID: 762392189255262779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_110
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 169
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d051d9ae0b930d80800000000000000
+      internalID: -8285608402150666025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_111
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 152
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb0c36f65f6360e0800000000000000
+      internalID: -2277854567230338074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_112
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 152
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a971b402b59bd00800000000000000
+      internalID: 988921787441453589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_113
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 152
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b74300917c86930800000000000000
+      internalID: 4136775167931349763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_114
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 169
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faaa278298f52f770800000000000000
+      internalID: 8643075677571164847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_115
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 169
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa36f4c75e13d8a0800000000000000
+      internalID: -6281643692936250640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_116
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 169
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d8c310379d0f9f0800000000000000
+      internalID: -436610075889726068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_117
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 152
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1571b4bfe1f665f0800000000000000
+      internalID: -763657074961713892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_118
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 169
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb13614247a7d57b0800000000000000
+      internalID: -5233892552694419009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_119
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 152
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c02a4ae2d4a3a8b40800000000000000
+      internalID: 5443227202800099852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_120
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 169
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a3a34eb83a51300800000000000000
+      internalID: 222263577849510471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_121
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 152
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da31b59eec4d9f150800000000000000
+      internalID: 5906986371416527789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_122
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 169
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe29128dac4f48c0800000000000000
+      internalID: -4012904434868080966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_123
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 169
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee5d8e690b22c090800000000000000
+      internalID: -8015797067256602907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_124
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 135
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09652c57f151b150800000000000000
+      internalID: 5886576310794676492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_125
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 118
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a61b9b662909adb0800000000000000
+      internalID: -4780279468858337627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_126
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 135
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9c0f3180594e9a0800000000000000
+      internalID: -6204670524682876504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_127
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 118
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da1846149622a660800000000000000
+      internalID: 7395515955566615249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_128
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 135
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0d87298cc56d910800000000000000
+      internalID: 1861777512484884722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_129
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 127
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1c3e85acaa6a1c0800000000000000
+      internalID: -4492715792204054056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_130
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 135
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f27bbc4f0f43100800000000000000
+      internalID: 86959227007348530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_131
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 135
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c422833971db7f0800000000000000
+      internalID: -595293654673634162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_132
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 118
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd24e1434f848b20800000000000000
+      internalID: 3135788759587761625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_133
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 135
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f3db6b00f08ed20800000000000000
+      internalID: 3307910422043901776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_134
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 118
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57894afd8e75c40b0800000000000000
+      internalID: -5743118767108089739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_135
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 135
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856c8e4ad72475bf0800000000000000
+      internalID: -335726539810748840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_136
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 118
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3047e71b11597e0800000000000000
+      internalID: -1759480625389894730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_137
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 135
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813dec99530a08320800000000000000
+      internalID: 2558220740420621080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_138
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 135
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cea473a28d532b30800000000000000
+      internalID: 4261352488092085961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_139
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 118
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798db1cedb9670d50800000000000000
+      internalID: 6703442834795255959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_140
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 135
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e022bb2c657f4340800000000000000
+      internalID: 4850224431151325412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_141
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 135
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a6cc4170cba8450800000000000000
+      internalID: 6091888184571751007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_142
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 118
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d467e9809a50ab790800000000000000
+      internalID: -7513686804762036659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_143
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 135
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c620bda51bc675060800000000000000
+      internalID: 6942136859604222572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_144
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 118
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee7a77b47849d100800000000000000
+      internalID: 133217330115804902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_145
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 101
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08fff027db2e87230800000000000000
+      internalID: 3636906002392022912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_146
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 84
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab18982236b725b30800000000000000
+      internalID: 4274614662039437754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_147
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 84
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36722c0dc88799e10800000000000000
+      internalID: 2204926038767708003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_148
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 101
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38f4336287a6dbe0800000000000000
+      internalID: -1452789651328403395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_149
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 84
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728698c5afc8831b0800000000000000
+      internalID: -5676632323378288601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_150
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 101
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b302f91918687d5c0800000000000000
+      internalID: -4190733037192929221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_151
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 84
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513c23a93c6e1b1f0800000000000000
+      internalID: -1030789111911103723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_152
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 101
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7898d54aa54a680800000000000000
+      internalID: -8744764914456229927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_153
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 84
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1d2f3d1dca08520800000000000000
+      internalID: 2702349793626345900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_154
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 101
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb286323c64987d0800000000000000
+      internalID: -2915721479819088927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_155
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 84
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd006b752f8657ab0800000000000000
+      internalID: -5010983620316888869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_156
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 101
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5849847cadd6110800000000000000
+      internalID: 1255900420557276622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_157
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 84
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191a3898dbf1a8e10800000000000000
+      internalID: 2200606266840293777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_158
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 101
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dde8e0f1999306b0800000000000000
+      internalID: -5331248681785430571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_159
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 84
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9e8f99e2c935680800000000000000
+      internalID: -8767492325594568228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_160
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 101
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e326a791998f2db20800000000000000
+      internalID: 3157859625181274686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_161
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 84
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd53a7877dad01630800000000000000
+      internalID: 3895854296649577947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_162
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 101
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0830a89efc1977e00800000000000000
+      internalID: 1042462160921953152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_163
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 84
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64e31c9184df2fd0800000000000000
+      internalID: -2364437626211802005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_164
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 101
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283823fa3956c9f50800000000000000
+      internalID: 6889493214943937410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_165
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 92
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0775001c409efe620800000000000000
+      internalID: 2805717299502274416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_166
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 101
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc3a45a4aab2f8d0800000000000000
+      internalID: -2813981600842629950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_167
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 92
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9495d117431738460800000000000000
+      internalID: 7242757095791876425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_168
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 101
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808d3834b980a6b40800000000000000
+      internalID: 5434165363321591816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_169
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 84
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b32da1b06afd41e0800000000000000
+      internalID: -2211836548764326983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_170
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 101
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3ec573eb958f080800000000000000
+      internalID: -9153467569123040282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_171
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 84
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0bf2635570282cd0800000000000000
+      internalID: -2582778698014721266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_172
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 50
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e94db938b0a6b50800000000000000
+      internalID: 6587090064865795594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_173
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 50
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528f3b2f57159cb50800000000000000
+      internalID: 6613907094795188261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_174
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 67
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8224d5501a23ec40800000000000000
+      internalID: 5540318216243651211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_175
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 50
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ceee08bb0cb60ae0800000000000000
+      internalID: -1583371460455502141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_176
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 67
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e58114ccf3291df0800000000000000
+      internalID: -209096339167803931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_177
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 50
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d906b1bf9d3f03200800000000000000
+      internalID: 157894104504295581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_178
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 67
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc407d230d67c5db0800000000000000
+      internalID: -4801832466105563956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_179
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 50
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747a8821191df0630800000000000000
+      internalID: 3895562623710177095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_180
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 67
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f788626f2d5a2e0800000000000000
+      internalID: -2115052495330312322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_181
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 50
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc5f7b3454ef0b70800000000000000
+      internalID: 8867557241742384340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_182
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 67
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb6d31b223f42f60800000000000000
+      internalID: 8008793367699614695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_183
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 50
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564628cf168d25cc0800000000000000
+      internalID: -3723676026522147739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_184
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 67
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6450914eeb1643690800000000000000
+      internalID: -7623360796732881594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_185
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 50
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0462390db45904f40800000000000000
+      internalID: 5710728480360179264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_186
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 50
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b1764f9e1d2d7c0800000000000000
+      internalID: -4047942312294671523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_187
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 50
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96943ecc16e72e670800000000000000
+      internalID: 8566548399726479721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_188
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 67
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665d6f52227d3db50800000000000000
+      internalID: 6616868819203183974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_189
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 50
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa211358757717b0800000000000000
+      internalID: -5253601280654234970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_190
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 67
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65ea018ea7b66fe0800000000000000
+      internalID: -1196066690903120531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_191
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 50
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ef70029eb0ce780800000000000000
+      internalID: -8652527688192885229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_192
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 50
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67a7e4ffc2faa8a0800000000000000
+      internalID: -6292950554315872405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_193
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 0
+        width: 18
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c65b5d6837f4480800000000000000
+      internalID: -8912778114594673639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_194
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 35
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757fa5db172f4d420800000000000000
+      internalID: 2654012650750146391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_195
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 33
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b0c8098ab9b5070800000000000000
+      internalID: 8096235903410506643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_196
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd2576ac73c7ca020800000000000000
+      internalID: 2354393284268741343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_197
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 33
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c29b733d46f1d520800000000000000
+      internalID: 2725230060972511936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_198
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 16
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac4e85d03a1a9920800000000000000
+      internalID: 2997737299012111530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_199
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 33
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f4e5c539db34560800000000000000
+      internalID: 7296884261877862274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_200
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 16
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85386328a09c5d520800000000000000
+      internalID: 2726306196414169944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_201
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 33
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eee53801850cb650800000000000000
+      internalID: 6249876434630078178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_202
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 16
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4601780a25e60df20800000000000000
+      internalID: 3445375016098009188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_203
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 16
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6e2d1afe63a4c30800000000000000
+      internalID: 4344345193392301744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_204
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 16
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1196a0aa77465f300800000000000000
+      internalID: 285244616524589329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_205
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 16
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf78aedfdc3486a70800000000000000
+      internalID: 8820374422212478971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_206
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 16
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527ff84c024baf990800000000000000
+      internalID: -7351365388899191003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_207
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 33
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08984929cf7c0bb0800000000000000
+      internalID: -4968455786938722290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_208
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 16
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df94d7c02c205f6b0800000000000000
+      internalID: -5263297557056108035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_209
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 33
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf2f6c5c6908c410800000000000000
+      internalID: 1497457237112598455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_210
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 16
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780204dad73ef36b0800000000000000
+      internalID: -5314278906356817785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_211
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 16
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776647e2050f20ee0800000000000000
+      internalID: -1296209515561851273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_212
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 16
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521b0510cebb1bcf0800000000000000
+      internalID: -238202682965184219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_213
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 16
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b6707368f6a9e80800000000000000
+      internalID: -8171095951670809748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_214
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 16
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751ec2096ea136e00800000000000000
+      internalID: 1036701916789006679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_215
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 33
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c0c77c06eb5dfb0800000000000000
+      internalID: -4623580119553012586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_216
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 16
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55cb3e341488afed0800000000000000
+      internalID: -2379439639218635691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_217
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 33
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83aef73c967898260800000000000000
+      internalID: 7100355175847553592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_218
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 16
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29dccac423886a400800000000000000
+      internalID: 335104971901816210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_219
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 0
+        width: 17
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4c10f3a4e0f33a0800000000000000
+      internalID: -6683607609947077434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_220
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110c56b2073a84c80800000000000000
+      internalID: -8338235007916720111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_221
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f1631cfe6123ae0800000000000000
+      internalID: -1571168101004337322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_222
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4dd7854360c3cd0800000000000000
+      internalID: -2577178064870058827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_223
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e9cc9a558ad8f60800000000000000
+      internalID: 8038265995800649295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_224
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c246b42c9d2bf7690800000000000000
+      internalID: -7602160997640739796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_225
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c684b6e8bbf7cfd70800000000000000
+      internalID: 9078271392397084780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_226
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c85c08747ed8eaf0800000000000000
+      internalID: -366798777819047744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_227
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad70b1d9e07293b0800000000000000
+      internalID: -5507215244772999773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_228
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7104a6027080e1190800000000000000
+      internalID: -7989939862207053801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_229
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2e34db7a17661b0800000000000000
+      internalID: -5663714516123000134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_230
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7c40aedd58503e0800000000000000
+      internalID: -2088115664055908394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_231
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4966b1416024aa0800000000000000
+      internalID: -6178369055370079008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_232
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7227ad5338b4e2fc0800000000000000
+      internalID: -3517791232013471193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_233
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f1b5d97c47e28b0800000000000000
+      internalID: -5175070521114812552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_234
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb04fe2081fc64c30800000000000000
+      internalID: 4343386592680820926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle Dungeon Tiles_235
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f907a513b34a64a20800000000000000
+      internalID: 3046302772100755615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hyrule Castle Dungeon Tiles_0: 6451590818670013008
+      Hyrule Castle Dungeon Tiles_1: 2135329982242585830
+      Hyrule Castle Dungeon Tiles_10: -5760468842709441514
+      Hyrule Castle Dungeon Tiles_100: 5520570604052275671
+      Hyrule Castle Dungeon Tiles_101: 694854354364283473
+      Hyrule Castle Dungeon Tiles_102: 5467071250693192594
+      Hyrule Castle Dungeon Tiles_103: 2758977728996314325
+      Hyrule Castle Dungeon Tiles_104: -3061508574623394788
+      Hyrule Castle Dungeon Tiles_105: 6978756217212556021
+      Hyrule Castle Dungeon Tiles_106: -5501938721324101036
+      Hyrule Castle Dungeon Tiles_107: 7416631629819169230
+      Hyrule Castle Dungeon Tiles_108: 8212789615636399088
+      Hyrule Castle Dungeon Tiles_109: 762392189255262779
+      Hyrule Castle Dungeon Tiles_11: 3750517843363604629
+      Hyrule Castle Dungeon Tiles_110: -8285608402150666025
+      Hyrule Castle Dungeon Tiles_111: -2277854567230338074
+      Hyrule Castle Dungeon Tiles_112: 988921787441453589
+      Hyrule Castle Dungeon Tiles_113: 4136775167931349763
+      Hyrule Castle Dungeon Tiles_114: 8643075677571164847
+      Hyrule Castle Dungeon Tiles_115: -6281643692936250640
+      Hyrule Castle Dungeon Tiles_116: -436610075889726068
+      Hyrule Castle Dungeon Tiles_117: -763657074961713892
+      Hyrule Castle Dungeon Tiles_118: -5233892552694419009
+      Hyrule Castle Dungeon Tiles_119: 5443227202800099852
+      Hyrule Castle Dungeon Tiles_12: 3846501306108145750
+      Hyrule Castle Dungeon Tiles_120: 222263577849510471
+      Hyrule Castle Dungeon Tiles_121: 5906986371416527789
+      Hyrule Castle Dungeon Tiles_122: -4012904434868080966
+      Hyrule Castle Dungeon Tiles_123: -8015797067256602907
+      Hyrule Castle Dungeon Tiles_124: 5886576310794676492
+      Hyrule Castle Dungeon Tiles_125: -4780279468858337627
+      Hyrule Castle Dungeon Tiles_126: -6204670524682876504
+      Hyrule Castle Dungeon Tiles_127: 7395515955566615249
+      Hyrule Castle Dungeon Tiles_128: 1861777512484884722
+      Hyrule Castle Dungeon Tiles_129: -4492715792204054056
+      Hyrule Castle Dungeon Tiles_13: 4270328722376285051
+      Hyrule Castle Dungeon Tiles_130: 86959227007348530
+      Hyrule Castle Dungeon Tiles_131: -595293654673634162
+      Hyrule Castle Dungeon Tiles_132: 3135788759587761625
+      Hyrule Castle Dungeon Tiles_133: 3307910422043901776
+      Hyrule Castle Dungeon Tiles_134: -5743118767108089739
+      Hyrule Castle Dungeon Tiles_135: -335726539810748840
+      Hyrule Castle Dungeon Tiles_136: -1759480625389894730
+      Hyrule Castle Dungeon Tiles_137: 2558220740420621080
+      Hyrule Castle Dungeon Tiles_138: 4261352488092085961
+      Hyrule Castle Dungeon Tiles_139: 6703442834795255959
+      Hyrule Castle Dungeon Tiles_14: 3561820439666958597
+      Hyrule Castle Dungeon Tiles_140: 4850224431151325412
+      Hyrule Castle Dungeon Tiles_141: 6091888184571751007
+      Hyrule Castle Dungeon Tiles_142: -7513686804762036659
+      Hyrule Castle Dungeon Tiles_143: 6942136859604222572
+      Hyrule Castle Dungeon Tiles_144: 133217330115804902
+      Hyrule Castle Dungeon Tiles_145: 3636906002392022912
+      Hyrule Castle Dungeon Tiles_146: 4274614662039437754
+      Hyrule Castle Dungeon Tiles_147: 2204926038767708003
+      Hyrule Castle Dungeon Tiles_148: -1452789651328403395
+      Hyrule Castle Dungeon Tiles_149: -5676632323378288601
+      Hyrule Castle Dungeon Tiles_15: -776446751867927666
+      Hyrule Castle Dungeon Tiles_150: -4190733037192929221
+      Hyrule Castle Dungeon Tiles_151: -1030789111911103723
+      Hyrule Castle Dungeon Tiles_152: -8744764914456229927
+      Hyrule Castle Dungeon Tiles_153: 2702349793626345900
+      Hyrule Castle Dungeon Tiles_154: -2915721479819088927
+      Hyrule Castle Dungeon Tiles_155: -5010983620316888869
+      Hyrule Castle Dungeon Tiles_156: 1255900420557276622
+      Hyrule Castle Dungeon Tiles_157: 2200606266840293777
+      Hyrule Castle Dungeon Tiles_158: -5331248681785430571
+      Hyrule Castle Dungeon Tiles_159: -8767492325594568228
+      Hyrule Castle Dungeon Tiles_16: 7863962572299592743
+      Hyrule Castle Dungeon Tiles_160: 3157859625181274686
+      Hyrule Castle Dungeon Tiles_161: 3895854296649577947
+      Hyrule Castle Dungeon Tiles_162: 1042462160921953152
+      Hyrule Castle Dungeon Tiles_163: -2364437626211802005
+      Hyrule Castle Dungeon Tiles_164: 6889493214943937410
+      Hyrule Castle Dungeon Tiles_165: 2805717299502274416
+      Hyrule Castle Dungeon Tiles_166: -2813981600842629950
+      Hyrule Castle Dungeon Tiles_167: 7242757095791876425
+      Hyrule Castle Dungeon Tiles_168: 5434165363321591816
+      Hyrule Castle Dungeon Tiles_169: -2211836548764326983
+      Hyrule Castle Dungeon Tiles_17: -3409434181124747177
+      Hyrule Castle Dungeon Tiles_170: -9153467569123040282
+      Hyrule Castle Dungeon Tiles_171: -2582778698014721266
+      Hyrule Castle Dungeon Tiles_172: 6587090064865795594
+      Hyrule Castle Dungeon Tiles_173: 6613907094795188261
+      Hyrule Castle Dungeon Tiles_174: 5540318216243651211
+      Hyrule Castle Dungeon Tiles_175: -1583371460455502141
+      Hyrule Castle Dungeon Tiles_176: -209096339167803931
+      Hyrule Castle Dungeon Tiles_177: 157894104504295581
+      Hyrule Castle Dungeon Tiles_178: -4801832466105563956
+      Hyrule Castle Dungeon Tiles_179: 3895562623710177095
+      Hyrule Castle Dungeon Tiles_18: -900256907170048528
+      Hyrule Castle Dungeon Tiles_180: -2115052495330312322
+      Hyrule Castle Dungeon Tiles_181: 8867557241742384340
+      Hyrule Castle Dungeon Tiles_182: 8008793367699614695
+      Hyrule Castle Dungeon Tiles_183: -3723676026522147739
+      Hyrule Castle Dungeon Tiles_184: -7623360796732881594
+      Hyrule Castle Dungeon Tiles_185: 5710728480360179264
+      Hyrule Castle Dungeon Tiles_186: -4047942312294671523
+      Hyrule Castle Dungeon Tiles_187: 8566548399726479721
+      Hyrule Castle Dungeon Tiles_188: 6616868819203183974
+      Hyrule Castle Dungeon Tiles_189: -5253601280654234970
+      Hyrule Castle Dungeon Tiles_19: 8807769326492104714
+      Hyrule Castle Dungeon Tiles_190: -1196066690903120531
+      Hyrule Castle Dungeon Tiles_191: -8652527688192885229
+      Hyrule Castle Dungeon Tiles_192: -6292950554315872405
+      Hyrule Castle Dungeon Tiles_193: -8912778114594673639
+      Hyrule Castle Dungeon Tiles_194: 2654012650750146391
+      Hyrule Castle Dungeon Tiles_195: 8096235903410506643
+      Hyrule Castle Dungeon Tiles_196: 2354393284268741343
+      Hyrule Castle Dungeon Tiles_197: 2725230060972511936
+      Hyrule Castle Dungeon Tiles_198: 2997737299012111530
+      Hyrule Castle Dungeon Tiles_199: 7296884261877862274
+      Hyrule Castle Dungeon Tiles_2: -3608454007956180579
+      Hyrule Castle Dungeon Tiles_20: -5959853192356280933
+      Hyrule Castle Dungeon Tiles_200: 2726306196414169944
+      Hyrule Castle Dungeon Tiles_201: 6249876434630078178
+      Hyrule Castle Dungeon Tiles_202: 3445375016098009188
+      Hyrule Castle Dungeon Tiles_203: 4344345193392301744
+      Hyrule Castle Dungeon Tiles_204: 285244616524589329
+      Hyrule Castle Dungeon Tiles_205: 8820374422212478971
+      Hyrule Castle Dungeon Tiles_206: -7351365388899191003
+      Hyrule Castle Dungeon Tiles_207: -4968455786938722290
+      Hyrule Castle Dungeon Tiles_208: -5263297557056108035
+      Hyrule Castle Dungeon Tiles_209: 1497457237112598455
+      Hyrule Castle Dungeon Tiles_21: -5554957191677966060
+      Hyrule Castle Dungeon Tiles_210: -5314278906356817785
+      Hyrule Castle Dungeon Tiles_211: -1296209515561851273
+      Hyrule Castle Dungeon Tiles_212: -238202682965184219
+      Hyrule Castle Dungeon Tiles_213: -8171095951670809748
+      Hyrule Castle Dungeon Tiles_214: 1036701916789006679
+      Hyrule Castle Dungeon Tiles_215: -4623580119553012586
+      Hyrule Castle Dungeon Tiles_216: -2379439639218635691
+      Hyrule Castle Dungeon Tiles_217: 7100355175847553592
+      Hyrule Castle Dungeon Tiles_218: 335104971901816210
+      Hyrule Castle Dungeon Tiles_219: -6683607609947077434
+      Hyrule Castle Dungeon Tiles_22: -3267178416765686515
+      Hyrule Castle Dungeon Tiles_220: -8338235007916720111
+      Hyrule Castle Dungeon Tiles_221: -1571168101004337322
+      Hyrule Castle Dungeon Tiles_222: -2577178064870058827
+      Hyrule Castle Dungeon Tiles_223: 8038265995800649295
+      Hyrule Castle Dungeon Tiles_224: -7602160997640739796
+      Hyrule Castle Dungeon Tiles_225: 9078271392397084780
+      Hyrule Castle Dungeon Tiles_226: -366798777819047744
+      Hyrule Castle Dungeon Tiles_227: -5507215244772999773
+      Hyrule Castle Dungeon Tiles_228: -7989939862207053801
+      Hyrule Castle Dungeon Tiles_229: -5663714516123000134
+      Hyrule Castle Dungeon Tiles_23: 8977530533176534051
+      Hyrule Castle Dungeon Tiles_230: -2088115664055908394
+      Hyrule Castle Dungeon Tiles_231: -6178369055370079008
+      Hyrule Castle Dungeon Tiles_232: -3517791232013471193
+      Hyrule Castle Dungeon Tiles_233: -5175070521114812552
+      Hyrule Castle Dungeon Tiles_234: 4343386592680820926
+      Hyrule Castle Dungeon Tiles_235: 3046302772100755615
+      Hyrule Castle Dungeon Tiles_24: -1787214481544082750
+      Hyrule Castle Dungeon Tiles_25: -1638595443393653727
+      Hyrule Castle Dungeon Tiles_26: 75464986747659103
+      Hyrule Castle Dungeon Tiles_27: 5608633843934031166
+      Hyrule Castle Dungeon Tiles_28: -5453184630695692760
+      Hyrule Castle Dungeon Tiles_29: -7742529142697546557
+      Hyrule Castle Dungeon Tiles_3: -7744734912718422829
+      Hyrule Castle Dungeon Tiles_30: -6591994023392549075
+      Hyrule Castle Dungeon Tiles_31: -4720232372871954156
+      Hyrule Castle Dungeon Tiles_32: -504829769642599127
+      Hyrule Castle Dungeon Tiles_33: -8848388633257798100
+      Hyrule Castle Dungeon Tiles_34: -2857151835887466266
+      Hyrule Castle Dungeon Tiles_35: 5519881428924926450
+      Hyrule Castle Dungeon Tiles_36: -405158424735521335
+      Hyrule Castle Dungeon Tiles_37: -7920800459502633559
+      Hyrule Castle Dungeon Tiles_38: -1620035950760429197
+      Hyrule Castle Dungeon Tiles_39: -4166746787332570391
+      Hyrule Castle Dungeon Tiles_4: -4009765217399972194
+      Hyrule Castle Dungeon Tiles_40: 16937365127847112
+      Hyrule Castle Dungeon Tiles_41: -653089333964997495
+      Hyrule Castle Dungeon Tiles_42: 2147716728156734843
+      Hyrule Castle Dungeon Tiles_43: -4850609789714089286
+      Hyrule Castle Dungeon Tiles_44: -3338876314604616841
+      Hyrule Castle Dungeon Tiles_45: 7607034714733802040
+      Hyrule Castle Dungeon Tiles_46: 4381511318464062845
+      Hyrule Castle Dungeon Tiles_47: 7571477345521894603
+      Hyrule Castle Dungeon Tiles_48: -1704528336384053490
+      Hyrule Castle Dungeon Tiles_49: -7219034549842242079
+      Hyrule Castle Dungeon Tiles_5: -223486604185757074
+      Hyrule Castle Dungeon Tiles_50: -3259323347936399836
+      Hyrule Castle Dungeon Tiles_51: -6085714132666871608
+      Hyrule Castle Dungeon Tiles_52: -5875169185015937805
+      Hyrule Castle Dungeon Tiles_53: 7445057990271813573
+      Hyrule Castle Dungeon Tiles_54: -1883980860525788979
+      Hyrule Castle Dungeon Tiles_55: -8630846805058148734
+      Hyrule Castle Dungeon Tiles_56: 1906754586742416917
+      Hyrule Castle Dungeon Tiles_57: -1547795032172621871
+      Hyrule Castle Dungeon Tiles_58: -8405337083203922769
+      Hyrule Castle Dungeon Tiles_59: -8697236206084813391
+      Hyrule Castle Dungeon Tiles_6: -9037602874174605757
+      Hyrule Castle Dungeon Tiles_60: 5097311296620280849
+      Hyrule Castle Dungeon Tiles_61: -4323148441238356854
+      Hyrule Castle Dungeon Tiles_62: -3959337705750017665
+      Hyrule Castle Dungeon Tiles_63: 3816706280642029542
+      Hyrule Castle Dungeon Tiles_64: -3740537982376989798
+      Hyrule Castle Dungeon Tiles_65: -470291582117188287
+      Hyrule Castle Dungeon Tiles_66: -2012468547526362734
+      Hyrule Castle Dungeon Tiles_67: 8609194435266246193
+      Hyrule Castle Dungeon Tiles_68: 2807602621274429401
+      Hyrule Castle Dungeon Tiles_69: -6226174822984488610
+      Hyrule Castle Dungeon Tiles_7: 4169528006933417267
+      Hyrule Castle Dungeon Tiles_70: 5324188391004325305
+      Hyrule Castle Dungeon Tiles_71: -4704907941444588402
+      Hyrule Castle Dungeon Tiles_72: -4415726723668128973
+      Hyrule Castle Dungeon Tiles_73: -2312720074238001566
+      Hyrule Castle Dungeon Tiles_74: 823972155716746062
+      Hyrule Castle Dungeon Tiles_75: -4639338941880180680
+      Hyrule Castle Dungeon Tiles_76: 6943622158842944685
+      Hyrule Castle Dungeon Tiles_77: -7594540167857170501
+      Hyrule Castle Dungeon Tiles_78: 6513311473395689228
+      Hyrule Castle Dungeon Tiles_79: 9057792377073090379
+      Hyrule Castle Dungeon Tiles_8: 2420086574714974059
+      Hyrule Castle Dungeon Tiles_80: 2633638606843690939
+      Hyrule Castle Dungeon Tiles_81: -4418010036648829945
+      Hyrule Castle Dungeon Tiles_82: -9125438506291229197
+      Hyrule Castle Dungeon Tiles_83: 467066307133057973
+      Hyrule Castle Dungeon Tiles_84: -493289053384400734
+      Hyrule Castle Dungeon Tiles_85: -5800922535581010869
+      Hyrule Castle Dungeon Tiles_86: 8861429349114297413
+      Hyrule Castle Dungeon Tiles_87: -6139903416218793694
+      Hyrule Castle Dungeon Tiles_88: 4590132877147533091
+      Hyrule Castle Dungeon Tiles_89: 479037885565280900
+      Hyrule Castle Dungeon Tiles_9: 7323961669903744348
+      Hyrule Castle Dungeon Tiles_90: -7995949419669533080
+      Hyrule Castle Dungeon Tiles_91: -5793642594241542641
+      Hyrule Castle Dungeon Tiles_92: -517684784029570207
+      Hyrule Castle Dungeon Tiles_93: -3737860979432559809
+      Hyrule Castle Dungeon Tiles_94: 3178480256922310837
+      Hyrule Castle Dungeon Tiles_95: -8013884947960240930
+      Hyrule Castle Dungeon Tiles_96: -1604805764613804213
+      Hyrule Castle Dungeon Tiles_97: -7509822296274477769
+      Hyrule Castle Dungeon Tiles_98: 1456961543526068493
+      Hyrule Castle Dungeon Tiles_99: -5299760057327658740
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -3,8 +3,11 @@ guid: 7169476225c190e4a92ef58aba278dac
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7460434902157171160
-    second: SNES - The Legend of Zelda A Link to the Past - Aginahs Cave_0
+      213: -3545583708004583606
+    second: Aginahs Cave_0
+  - first:
+      213: 3235668318977739657
+    second: Aginahs Cave_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +40,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -48,10 +51,10 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -72,10 +75,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -100,13 +103,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: SNES - The Legend of Zelda A Link to the Past - Aginahs Cave_0
+      name: Aginahs Cave_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1048
-        height: 528
+        x: 7
+        y: 7
+        width: 514
+        height: 514
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +118,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 826eefacbf5377890800000000000000
-      internalID: -7460434902157171160
+      spriteID: a4779f2276e8bcec0800000000000000
+      internalID: -3545583708004583606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aginahs Cave_1
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 7
+        width: 514
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b47ab513767ec20800000000000000
+      internalID: 3235668318977739657
       vertices: []
       indices: 
       edges: []
@@ -135,7 +160,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      SNES - The Legend of Zelda A Link to the Past - Aginahs Cave_0: -7460434902157171160
+      Aginahs Cave_0: -3545583708004583606
+      Aginahs Cave_1: 3235668318977739657
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,0 +1,2353 @@
+fileFormatVersion: 2
+guid: aca9940b9ecf5854ba4783bbc57522bb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1425395254442216533
+    second: Eastern Palace Parts_0
+  - first:
+      213: -6408567787957277454
+    second: Eastern Palace Parts_1
+  - first:
+      213: 4194935556755197420
+    second: Eastern Palace Parts_2
+  - first:
+      213: -167262661188350181
+    second: Eastern Palace Parts_3
+  - first:
+      213: -6603606154247617897
+    second: Eastern Palace Parts_4
+  - first:
+      213: 3153571616197802303
+    second: Eastern Palace Parts_5
+  - first:
+      213: 3796406669590147496
+    second: Eastern Palace Parts_6
+  - first:
+      213: 2016631969596937592
+    second: Eastern Palace Parts_7
+  - first:
+      213: 1241208800903569760
+    second: Eastern Palace Parts_8
+  - first:
+      213: -897971046913341468
+    second: Eastern Palace Parts_9
+  - first:
+      213: -6534229185610873385
+    second: Eastern Palace Parts_10
+  - first:
+      213: 5051091456601019144
+    second: Eastern Palace Parts_11
+  - first:
+      213: 1639385857646624904
+    second: Eastern Palace Parts_12
+  - first:
+      213: -1877820495605510475
+    second: Eastern Palace Parts_13
+  - first:
+      213: -1493386264758854992
+    second: Eastern Palace Parts_14
+  - first:
+      213: -5510302287951958097
+    second: Eastern Palace Parts_15
+  - first:
+      213: -8785012710912439645
+    second: Eastern Palace Parts_16
+  - first:
+      213: -2824523269563951647
+    second: Eastern Palace Parts_17
+  - first:
+      213: -4149791866307103845
+    second: Eastern Palace Parts_18
+  - first:
+      213: -783557688374878878
+    second: Eastern Palace Parts_19
+  - first:
+      213: -9172806192869417846
+    second: Eastern Palace Parts_20
+  - first:
+      213: 8704786470040194501
+    second: Eastern Palace Parts_21
+  - first:
+      213: 3407530152965089521
+    second: Eastern Palace Parts_22
+  - first:
+      213: 899545244550695959
+    second: Eastern Palace Parts_23
+  - first:
+      213: -4813958566801557358
+    second: Eastern Palace Parts_24
+  - first:
+      213: 1971454926580002535
+    second: Eastern Palace Parts_25
+  - first:
+      213: 5622098551688967230
+    second: Eastern Palace Parts_26
+  - first:
+      213: -2477450663494574469
+    second: Eastern Palace Parts_27
+  - first:
+      213: -2377079492176499543
+    second: Eastern Palace Parts_28
+  - first:
+      213: -2404722237501755471
+    second: Eastern Palace Parts_29
+  - first:
+      213: -6870384286775629064
+    second: Eastern Palace Parts_30
+  - first:
+      213: -324834934070299178
+    second: Eastern Palace Parts_31
+  - first:
+      213: 301532308941054816
+    second: Eastern Palace Parts_32
+  - first:
+      213: 7730879411627539413
+    second: Eastern Palace Parts_33
+  - first:
+      213: -42990018572818106
+    second: Eastern Palace Parts_34
+  - first:
+      213: -9171708133391804139
+    second: Eastern Palace Parts_35
+  - first:
+      213: 1984277035743324090
+    second: Eastern Palace Parts_36
+  - first:
+      213: 6027418682346410224
+    second: Eastern Palace Parts_37
+  - first:
+      213: 8904930584450940474
+    second: Eastern Palace Parts_38
+  - first:
+      213: -2552083218227850765
+    second: Eastern Palace Parts_39
+  - first:
+      213: -8853465114083659788
+    second: Eastern Palace Parts_40
+  - first:
+      213: -7972251214670739873
+    second: Eastern Palace Parts_41
+  - first:
+      213: 3670086173738899131
+    second: Eastern Palace Parts_42
+  - first:
+      213: 3084855988293665299
+    second: Eastern Palace Parts_43
+  - first:
+      213: -267836704671527290
+    second: Eastern Palace Parts_44
+  - first:
+      213: -2854748748897301139
+    second: Eastern Palace Parts_45
+  - first:
+      213: -719394169982393143
+    second: Eastern Palace Parts_46
+  - first:
+      213: -5838312835255148568
+    second: Eastern Palace Parts_47
+  - first:
+      213: 3328694668070926911
+    second: Eastern Palace Parts_48
+  - first:
+      213: -8988133387204726420
+    second: Eastern Palace Parts_49
+  - first:
+      213: -6549518391552335749
+    second: Eastern Palace Parts_50
+  - first:
+      213: -8001610157170682091
+    second: Eastern Palace Parts_51
+  - first:
+      213: 3661097427918930804
+    second: Eastern Palace Parts_52
+  - first:
+      213: -9054034476668850186
+    second: Eastern Palace Parts_53
+  - first:
+      213: -6668578580212811939
+    second: Eastern Palace Parts_54
+  - first:
+      213: -3748006700987185474
+    second: Eastern Palace Parts_55
+  - first:
+      213: 3329972874942228762
+    second: Eastern Palace Parts_56
+  - first:
+      213: 4083343819786105816
+    second: Eastern Palace Parts_57
+  - first:
+      213: -7996359762412233611
+    second: Eastern Palace Parts_58
+  - first:
+      213: 3663497566975478282
+    second: Eastern Palace Parts_59
+  - first:
+      213: -676564079126893400
+    second: Eastern Palace Parts_60
+  - first:
+      213: -4766233067154486689
+    second: Eastern Palace Parts_61
+  - first:
+      213: -9051155764375836829
+    second: Eastern Palace Parts_62
+  - first:
+      213: 2768947163486890086
+    second: Eastern Palace Parts_63
+  - first:
+      213: -7062234492090788072
+    second: Eastern Palace Parts_64
+  - first:
+      213: 3349595975362637336
+    second: Eastern Palace Parts_65
+  - first:
+      213: 6265948898204406693
+    second: Eastern Palace Parts_66
+  - first:
+      213: 2775331636379326882
+    second: Eastern Palace Parts_67
+  - first:
+      213: -1546291998177831887
+    second: Eastern Palace Parts_68
+  - first:
+      213: 7731591055984467902
+    second: Eastern Palace Parts_69
+  - first:
+      213: -4756028567931567597
+    second: Eastern Palace Parts_70
+  - first:
+      213: -291676374900146987
+    second: Eastern Palace Parts_71
+  - first:
+      213: 4333273815586741738
+    second: Eastern Palace Parts_72
+  - first:
+      213: 2076807444308939942
+    second: Eastern Palace Parts_73
+  - first:
+      213: -1481033228829447876
+    second: Eastern Palace Parts_74
+  - first:
+      213: -5892212734681530730
+    second: Eastern Palace Parts_75
+  - first:
+      213: -4725678503754480267
+    second: Eastern Palace Parts_76
+  - first:
+      213: 7451224287496667818
+    second: Eastern Palace Parts_77
+  - first:
+      213: -2385208942621551720
+    second: Eastern Palace Parts_78
+  - first:
+      213: 9087907573288951096
+    second: Eastern Palace Parts_79
+  - first:
+      213: 7160505655904864719
+    second: Eastern Palace Parts_80
+  - first:
+      213: -64443232662519518
+    second: Eastern Palace Parts_81
+  - first:
+      213: 3411354907728754771
+    second: Eastern Palace Parts_82
+  - first:
+      213: 59103724793263652
+    second: Eastern Palace Parts_83
+  - first:
+      213: 8160586002177044378
+    second: Eastern Palace Parts_84
+  - first:
+      213: -5101876026918113956
+    second: Eastern Palace Parts_85
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Eastern Palace Parts_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 469
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba3b172719af73ce0800000000000000
+      internalID: -1425395254442216533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 307
+        width: 10
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fcabc70d813017a0800000000000000
+      internalID: -6408567787957277454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_2
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 459
+        width: 114
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced8c04c9a7673a30800000000000000
+      internalID: 4194935556755197420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_3
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 469
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f8eafee73cdadf0800000000000000
+      internalID: -167262661188350181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_4
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 469
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792cc7ba0374b54a0800000000000000
+      internalID: -6603606154247617897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_5
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 469
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3979353dacb3cb20800000000000000
+      internalID: 3153571616197802303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_6
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 469
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a138d370cb8fa430800000000000000
+      internalID: 3796406669590147496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_7
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 469
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875958e77148cfb10800000000000000
+      internalID: 2016631969596937592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_8
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 469
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06122f504d8a93110800000000000000
+      internalID: 1241208800903569760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_9
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 469
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7052a2714c983f0800000000000000
+      internalID: -897971046913341468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_10
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 469
+        width: 66
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d58caeec21c155a0800000000000000
+      internalID: -6534229185610873385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_11
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 469
+        width: 18
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803d6befae4191640800000000000000
+      internalID: 5051091456601019144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_12
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 437
+        width: 72
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88083de60c440c610800000000000000
+      internalID: 1639385857646624904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_13
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 440
+        width: 75
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be4c775534a0f5e0800000000000000
+      internalID: -1877820495605510475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_14
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 425
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bad990ca1d664be0800000000000000
+      internalID: -1493386264758854992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_15
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 449
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fafe99193497783b0800000000000000
+      internalID: -5510302287951958097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_16
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 425
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aac5c20c7d551680800000000000000
+      internalID: -8785012710912439645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_17
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 425
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5d0d12d074dc8d0800000000000000
+      internalID: -2824523269563951647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_18
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 412
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93b5fcb84af866c0800000000000000
+      internalID: -4149791866307103845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_19
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 364
+        width: 18
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d93631f6e3025f0800000000000000
+      internalID: -783557688374878878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_20
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 364
+        width: 18
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8cd3800e55a3b080800000000000000
+      internalID: -9172806192869417846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_21
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 413
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd4f50bc2d9dc870800000000000000
+      internalID: 8704786470040194501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_22
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 421
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8aae8ce9af94f20800000000000000
+      internalID: 3407530152965089521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_23
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 395
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c06d842a3db7c00800000000000000
+      internalID: 899545244550695959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_24
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 391
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298385e5032613db0800000000000000
+      internalID: -4813958566801557358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_25
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 391
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eeae7d7fc30c5b10800000000000000
+      internalID: 1971454926580002535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_26
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 412
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34b8a978d4b50e40800000000000000
+      internalID: 5622098551688967230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_27
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 366
+        width: 75
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e99d56fb35e9dd0800000000000000
+      internalID: -2477450663494574469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_28
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 366
+        width: 72
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac24f1dbcae20fd0800000000000000
+      internalID: -2377079492176499543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_29
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 388
+        width: 50
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bfa932add5b0aed0800000000000000
+      internalID: -2404722237501755471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_30
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 371
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa205c54ed77a0a0800000000000000
+      internalID: -6870384286775629064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_31
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 362
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d53a183954fd7bf0800000000000000
+      internalID: -324834934070299178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_32
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 387
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0632cb299024f2400800000000000000
+      internalID: 301532308941054816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_33
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 370
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dbb07b6dd9994b60800000000000000
+      internalID: 7730879411627539413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_34
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 387
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649641e4ec4476ff0800000000000000
+      internalID: -42990018572818106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_35
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 370
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519de95eb0c87b080800000000000000
+      internalID: -9171708133391804139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_36
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 365
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7227b6371998b10800000000000000
+      internalID: 1984277035743324090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_37
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 377
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f09fc16b51b5a350800000000000000
+      internalID: 6027418682346410224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_38
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 354
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3eb5bbaf2ba49b70800000000000000
+      internalID: 8904930584450940474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_39
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 336
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f11b44a5dd259cd0800000000000000
+      internalID: -2552083218227850765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_40
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 336
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ffeabbe26c222580800000000000000
+      internalID: -8853465114083659788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_41
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 353
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56cf5152cfdc5190800000000000000
+      internalID: -7972251214670739873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_42
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 336
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb697c81ee3cee230800000000000000
+      internalID: 3670086173738899131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_43
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 353
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3120b755d2c9fca20800000000000000
+      internalID: 3084855988293665299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_44
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 336
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e0e38afe3784cf0800000000000000
+      internalID: -267836704671527290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_45
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 277
+        width: 130
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d4cf25325e168d0800000000000000
+      internalID: -2854748748897301139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_46
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 347
+        width: 92
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c466bc50d23406f0800000000000000
+      internalID: -719394169982393143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_47
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 271
+        width: 82
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef5307b8652afea0800000000000000
+      internalID: -5838312835255148568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_48
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 286
+        width: 54
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3aba181a26e13e20800000000000000
+      internalID: 3328694668070926911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_49
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 286
+        width: 54
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6175d53e4cb34380800000000000000
+      internalID: -8988133387204726420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_50
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 329
+        width: 92
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70a2a549bf6b15a0800000000000000
+      internalID: -6549518391552335749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_51
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 237
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5171fa6d4f194f090800000000000000
+      internalID: -8001610157170682091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_52
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 237
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473443f96b4dec230800000000000000
+      internalID: 3661097427918930804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_53
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 239
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff63022d9b995280800000000000000
+      internalID: -9054034476668850186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_54
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57f2a9ec137473a0800000000000000
+      internalID: -6668578580212811939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_55
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 264
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb600e363c76cfbc0800000000000000
+      internalID: -3748006700987185474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_56
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 265
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a192e92dfa0763e20800000000000000
+      internalID: 3329972874942228762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_57
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 248
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d33322d193faa830800000000000000
+      internalID: 4083343819786105816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_58
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 244
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c1131a929370190800000000000000
+      internalID: -7996359762412233611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_59
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 220
+        width: 54
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ac41b80ab57d230800000000000000
+      internalID: 3663497566975478282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_60
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 220
+        width: 54
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac2adbfd8c5c96f0800000000000000
+      internalID: -676564079126893400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_61
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 246
+        width: 67
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a498b2740faddb0800000000000000
+      internalID: -4766233067154486689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_62
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 246
+        width: 67
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36726a199c5d36280800000000000000
+      internalID: -9051155764375836829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_63
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 248
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668267156c64d6620800000000000000
+      internalID: 2768947163486890086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_64
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 240
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817da629527edfd90800000000000000
+      internalID: -7062234492090788072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_65
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 204
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e619ceac72c7e20800000000000000
+      internalID: 3349595975362637336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_66
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 202
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a35932135f15f650800000000000000
+      internalID: 6265948898204406693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_67
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 206
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a91b404b65f38620800000000000000
+      internalID: 2775331636379326882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_68
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 206
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134d499ce977a8ae0800000000000000
+      internalID: -1546291998177831887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_69
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 206
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf9a880a112c4b60800000000000000
+      internalID: 7731591055984467902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_70
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 185
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31244da47313ffdb0800000000000000
+      internalID: -4756028567931567597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_71
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 186
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dcf3b4e1e1c3fbf0800000000000000
+      internalID: -291676374900146987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_72
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 163
+        width: 67
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed9c8c9391e22c30800000000000000
+      internalID: 4333273815586741738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_73
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 163
+        width: 67
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4dbe00e5d42dc10800000000000000
+      internalID: 2076807444308939942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_74
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 57
+        width: 242
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39221f0020527be0800000000000000
+      internalID: -1481033228829447876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_75
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 152
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e36407cb7aa3ea0800000000000000
+      internalID: -5892212734681530730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_76
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 152
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575c30540740b6eb0800000000000000
+      internalID: -4725678503754480267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_77
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 114
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2800ed201186760800000000000000
+      internalID: 7451224287496667818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_78
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 114
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89315f3aa1906eed0800000000000000
+      internalID: -2385208942621551720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_79
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 115
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d5871c9cbbe1e70800000000000000
+      internalID: 9087907573288951096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_80
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 82
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc98260c4f93f5360800000000000000
+      internalID: 7160505655904864719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_81
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 115
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22109f8a83d0b1ff0800000000000000
+      internalID: -64443232662519518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_82
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 82
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35835f5e631975f20800000000000000
+      internalID: 3411354907728754771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_83
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 68
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4267439468af1d000800000000000000
+      internalID: 59103724793263652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_84
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 68
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9fa9ca7bb9304170800000000000000
+      internalID: 8160586002177044378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Palace Parts_85
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1
+        width: 182
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5de67fc8ce7239b0800000000000000
+      internalID: -5101876026918113956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Eastern Palace Parts_0: -1425395254442216533
+      Eastern Palace Parts_1: -6408567787957277454
+      Eastern Palace Parts_10: -6534229185610873385
+      Eastern Palace Parts_11: 5051091456601019144
+      Eastern Palace Parts_12: 1639385857646624904
+      Eastern Palace Parts_13: -1877820495605510475
+      Eastern Palace Parts_14: -1493386264758854992
+      Eastern Palace Parts_15: -5510302287951958097
+      Eastern Palace Parts_16: -8785012710912439645
+      Eastern Palace Parts_17: -2824523269563951647
+      Eastern Palace Parts_18: -4149791866307103845
+      Eastern Palace Parts_19: -783557688374878878
+      Eastern Palace Parts_2: 4194935556755197420
+      Eastern Palace Parts_20: -9172806192869417846
+      Eastern Palace Parts_21: 8704786470040194501
+      Eastern Palace Parts_22: 3407530152965089521
+      Eastern Palace Parts_23: 899545244550695959
+      Eastern Palace Parts_24: -4813958566801557358
+      Eastern Palace Parts_25: 1971454926580002535
+      Eastern Palace Parts_26: 5622098551688967230
+      Eastern Palace Parts_27: -2477450663494574469
+      Eastern Palace Parts_28: -2377079492176499543
+      Eastern Palace Parts_29: -2404722237501755471
+      Eastern Palace Parts_3: -167262661188350181
+      Eastern Palace Parts_30: -6870384286775629064
+      Eastern Palace Parts_31: -324834934070299178
+      Eastern Palace Parts_32: 301532308941054816
+      Eastern Palace Parts_33: 7730879411627539413
+      Eastern Palace Parts_34: -42990018572818106
+      Eastern Palace Parts_35: -9171708133391804139
+      Eastern Palace Parts_36: 1984277035743324090
+      Eastern Palace Parts_37: 6027418682346410224
+      Eastern Palace Parts_38: 8904930584450940474
+      Eastern Palace Parts_39: -2552083218227850765
+      Eastern Palace Parts_4: -6603606154247617897
+      Eastern Palace Parts_40: -8853465114083659788
+      Eastern Palace Parts_41: -7972251214670739873
+      Eastern Palace Parts_42: 3670086173738899131
+      Eastern Palace Parts_43: 3084855988293665299
+      Eastern Palace Parts_44: -267836704671527290
+      Eastern Palace Parts_45: -2854748748897301139
+      Eastern Palace Parts_46: -719394169982393143
+      Eastern Palace Parts_47: -5838312835255148568
+      Eastern Palace Parts_48: 3328694668070926911
+      Eastern Palace Parts_49: -8988133387204726420
+      Eastern Palace Parts_5: 3153571616197802303
+      Eastern Palace Parts_50: -6549518391552335749
+      Eastern Palace Parts_51: -8001610157170682091
+      Eastern Palace Parts_52: 3661097427918930804
+      Eastern Palace Parts_53: -9054034476668850186
+      Eastern Palace Parts_54: -6668578580212811939
+      Eastern Palace Parts_55: -3748006700987185474
+      Eastern Palace Parts_56: 3329972874942228762
+      Eastern Palace Parts_57: 4083343819786105816
+      Eastern Palace Parts_58: -7996359762412233611
+      Eastern Palace Parts_59: 3663497566975478282
+      Eastern Palace Parts_6: 3796406669590147496
+      Eastern Palace Parts_60: -676564079126893400
+      Eastern Palace Parts_61: -4766233067154486689
+      Eastern Palace Parts_62: -9051155764375836829
+      Eastern Palace Parts_63: 2768947163486890086
+      Eastern Palace Parts_64: -7062234492090788072
+      Eastern Palace Parts_65: 3349595975362637336
+      Eastern Palace Parts_66: 6265948898204406693
+      Eastern Palace Parts_67: 2775331636379326882
+      Eastern Palace Parts_68: -1546291998177831887
+      Eastern Palace Parts_69: 7731591055984467902
+      Eastern Palace Parts_7: 2016631969596937592
+      Eastern Palace Parts_70: -4756028567931567597
+      Eastern Palace Parts_71: -291676374900146987
+      Eastern Palace Parts_72: 4333273815586741738
+      Eastern Palace Parts_73: 2076807444308939942
+      Eastern Palace Parts_74: -1481033228829447876
+      Eastern Palace Parts_75: -5892212734681530730
+      Eastern Palace Parts_76: -4725678503754480267
+      Eastern Palace Parts_77: 7451224287496667818
+      Eastern Palace Parts_78: -2385208942621551720
+      Eastern Palace Parts_79: 9087907573288951096
+      Eastern Palace Parts_8: 1241208800903569760
+      Eastern Palace Parts_80: 7160505655904864719
+      Eastern Palace Parts_81: -64443232662519518
+      Eastern Palace Parts_82: 3411354907728754771
+      Eastern Palace Parts_83: 59103724793263652
+      Eastern Palace Parts_84: 8160586002177044378
+      Eastern Palace Parts_85: -5101876026918113956
+      Eastern Palace Parts_9: -897971046913341468
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

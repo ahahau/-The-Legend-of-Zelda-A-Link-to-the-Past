@@ -1,0 +1,6409 @@
+fileFormatVersion: 2
+guid: 6601eb71cd64fa749b326c95a86a8b04
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5499376595846460750
+    second: Kakariko Village Tiles_0
+  - first:
+      213: 4163514789736395997
+    second: Kakariko Village Tiles_1
+  - first:
+      213: -6396656904476227178
+    second: Kakariko Village Tiles_2
+  - first:
+      213: 3289526069792647131
+    second: Kakariko Village Tiles_3
+  - first:
+      213: -4942069747112102562
+    second: Kakariko Village Tiles_4
+  - first:
+      213: -6488029268043855525
+    second: Kakariko Village Tiles_5
+  - first:
+      213: 8836723654373198834
+    second: Kakariko Village Tiles_6
+  - first:
+      213: 7258190342388439253
+    second: Kakariko Village Tiles_7
+  - first:
+      213: 8123838125513974147
+    second: Kakariko Village Tiles_8
+  - first:
+      213: 3069631772228136461
+    second: Kakariko Village Tiles_9
+  - first:
+      213: -3603646863632933725
+    second: Kakariko Village Tiles_10
+  - first:
+      213: 4577188492741409686
+    second: Kakariko Village Tiles_11
+  - first:
+      213: 1905360775923623666
+    second: Kakariko Village Tiles_12
+  - first:
+      213: -6544633123321189474
+    second: Kakariko Village Tiles_13
+  - first:
+      213: -257725255070945775
+    second: Kakariko Village Tiles_14
+  - first:
+      213: -7451505648603082453
+    second: Kakariko Village Tiles_15
+  - first:
+      213: 8709561273149495216
+    second: Kakariko Village Tiles_16
+  - first:
+      213: 7526678361405277120
+    second: Kakariko Village Tiles_17
+  - first:
+      213: 8382454320061040234
+    second: Kakariko Village Tiles_18
+  - first:
+      213: -8683139597736483730
+    second: Kakariko Village Tiles_19
+  - first:
+      213: 7026366196511799604
+    second: Kakariko Village Tiles_20
+  - first:
+      213: -5625384867617818899
+    second: Kakariko Village Tiles_21
+  - first:
+      213: -3004302023596309703
+    second: Kakariko Village Tiles_22
+  - first:
+      213: -1840688184015333586
+    second: Kakariko Village Tiles_23
+  - first:
+      213: -619276318250945526
+    second: Kakariko Village Tiles_24
+  - first:
+      213: -944080030717810165
+    second: Kakariko Village Tiles_25
+  - first:
+      213: 1384512909781887994
+    second: Kakariko Village Tiles_26
+  - first:
+      213: -7972282294490570217
+    second: Kakariko Village Tiles_27
+  - first:
+      213: 4588552557433552799
+    second: Kakariko Village Tiles_28
+  - first:
+      213: -7603784886456577584
+    second: Kakariko Village Tiles_29
+  - first:
+      213: 1200431569274845476
+    second: Kakariko Village Tiles_30
+  - first:
+      213: 4860134451450229826
+    second: Kakariko Village Tiles_31
+  - first:
+      213: -6330425779563657542
+    second: Kakariko Village Tiles_32
+  - first:
+      213: 9078532226164597612
+    second: Kakariko Village Tiles_33
+  - first:
+      213: 1010476017256680712
+    second: Kakariko Village Tiles_34
+  - first:
+      213: -8518830085170085032
+    second: Kakariko Village Tiles_35
+  - first:
+      213: 887260023773025786
+    second: Kakariko Village Tiles_36
+  - first:
+      213: -1719636172750152649
+    second: Kakariko Village Tiles_37
+  - first:
+      213: 2673073503144741854
+    second: Kakariko Village Tiles_38
+  - first:
+      213: 4840478816097679016
+    second: Kakariko Village Tiles_39
+  - first:
+      213: -3748471727438842546
+    second: Kakariko Village Tiles_40
+  - first:
+      213: 4205058506433381605
+    second: Kakariko Village Tiles_41
+  - first:
+      213: 2469975839011533041
+    second: Kakariko Village Tiles_42
+  - first:
+      213: -1260736074925304655
+    second: Kakariko Village Tiles_43
+  - first:
+      213: 1785741129323695525
+    second: Kakariko Village Tiles_44
+  - first:
+      213: -1151194040821289375
+    second: Kakariko Village Tiles_45
+  - first:
+      213: -6812216831799340005
+    second: Kakariko Village Tiles_46
+  - first:
+      213: -3481149532385106130
+    second: Kakariko Village Tiles_47
+  - first:
+      213: -4842085104105222682
+    second: Kakariko Village Tiles_48
+  - first:
+      213: -2228413531144842741
+    second: Kakariko Village Tiles_49
+  - first:
+      213: -9210239851648811431
+    second: Kakariko Village Tiles_50
+  - first:
+      213: -3790488150893051607
+    second: Kakariko Village Tiles_51
+  - first:
+      213: 1882273769505716290
+    second: Kakariko Village Tiles_52
+  - first:
+      213: -2853754015267853531
+    second: Kakariko Village Tiles_53
+  - first:
+      213: 551707641142477115
+    second: Kakariko Village Tiles_54
+  - first:
+      213: -2097045283807868542
+    second: Kakariko Village Tiles_55
+  - first:
+      213: -791363260338330083
+    second: Kakariko Village Tiles_56
+  - first:
+      213: -1750133104544490684
+    second: Kakariko Village Tiles_57
+  - first:
+      213: 5634012070025303147
+    second: Kakariko Village Tiles_58
+  - first:
+      213: -8629792109204950878
+    second: Kakariko Village Tiles_59
+  - first:
+      213: 539772207100988012
+    second: Kakariko Village Tiles_60
+  - first:
+      213: 1380976108482708652
+    second: Kakariko Village Tiles_61
+  - first:
+      213: 7590667422822485728
+    second: Kakariko Village Tiles_62
+  - first:
+      213: 6302902369272550354
+    second: Kakariko Village Tiles_63
+  - first:
+      213: 8890691346391215763
+    second: Kakariko Village Tiles_64
+  - first:
+      213: -301878119313292147
+    second: Kakariko Village Tiles_65
+  - first:
+      213: -5695382464682621143
+    second: Kakariko Village Tiles_66
+  - first:
+      213: 3437367734941720276
+    second: Kakariko Village Tiles_67
+  - first:
+      213: 3157213662937200795
+    second: Kakariko Village Tiles_68
+  - first:
+      213: 1085691879448858430
+    second: Kakariko Village Tiles_69
+  - first:
+      213: -7663670885298498311
+    second: Kakariko Village Tiles_70
+  - first:
+      213: -5841282367596111162
+    second: Kakariko Village Tiles_71
+  - first:
+      213: -468308372067407218
+    second: Kakariko Village Tiles_72
+  - first:
+      213: 2853045105022452261
+    second: Kakariko Village Tiles_73
+  - first:
+      213: -4439643981831525754
+    second: Kakariko Village Tiles_74
+  - first:
+      213: -62598269630649940
+    second: Kakariko Village Tiles_75
+  - first:
+      213: -6889162264162628716
+    second: Kakariko Village Tiles_76
+  - first:
+      213: -3747920594481633293
+    second: Kakariko Village Tiles_77
+  - first:
+      213: 3515735335032572730
+    second: Kakariko Village Tiles_78
+  - first:
+      213: -1351945822830541711
+    second: Kakariko Village Tiles_79
+  - first:
+      213: -7956258268127069447
+    second: Kakariko Village Tiles_80
+  - first:
+      213: -5653395858755055807
+    second: Kakariko Village Tiles_81
+  - first:
+      213: 8878176094990367816
+    second: Kakariko Village Tiles_82
+  - first:
+      213: 4728199970026306531
+    second: Kakariko Village Tiles_83
+  - first:
+      213: -3491644271371711276
+    second: Kakariko Village Tiles_84
+  - first:
+      213: -5592852488972639515
+    second: Kakariko Village Tiles_85
+  - first:
+      213: 3557216856613878926
+    second: Kakariko Village Tiles_86
+  - first:
+      213: 2617081959933132400
+    second: Kakariko Village Tiles_87
+  - first:
+      213: 6391694983233305882
+    second: Kakariko Village Tiles_88
+  - first:
+      213: 3456324359540272570
+    second: Kakariko Village Tiles_89
+  - first:
+      213: 7965849408781755153
+    second: Kakariko Village Tiles_90
+  - first:
+      213: 4714658454451454193
+    second: Kakariko Village Tiles_91
+  - first:
+      213: 3571107484997085572
+    second: Kakariko Village Tiles_92
+  - first:
+      213: 1629221510542139203
+    second: Kakariko Village Tiles_93
+  - first:
+      213: 2095960317875313635
+    second: Kakariko Village Tiles_94
+  - first:
+      213: -3893208763160311986
+    second: Kakariko Village Tiles_95
+  - first:
+      213: -6428715893039898996
+    second: Kakariko Village Tiles_96
+  - first:
+      213: 7583095109515863721
+    second: Kakariko Village Tiles_97
+  - first:
+      213: -7219000069757242637
+    second: Kakariko Village Tiles_98
+  - first:
+      213: -4913339367063929645
+    second: Kakariko Village Tiles_99
+  - first:
+      213: -1244097593105897001
+    second: Kakariko Village Tiles_100
+  - first:
+      213: -1552302833095648385
+    second: Kakariko Village Tiles_101
+  - first:
+      213: -4488453100844027968
+    second: Kakariko Village Tiles_102
+  - first:
+      213: 3447033621820178094
+    second: Kakariko Village Tiles_103
+  - first:
+      213: 1769977709630517233
+    second: Kakariko Village Tiles_104
+  - first:
+      213: 1765782544682159635
+    second: Kakariko Village Tiles_105
+  - first:
+      213: -6824884488545038767
+    second: Kakariko Village Tiles_106
+  - first:
+      213: 7096777295764583309
+    second: Kakariko Village Tiles_107
+  - first:
+      213: 5370437459073151626
+    second: Kakariko Village Tiles_108
+  - first:
+      213: -4800623934056703816
+    second: Kakariko Village Tiles_109
+  - first:
+      213: -3502531913120832623
+    second: Kakariko Village Tiles_110
+  - first:
+      213: 208074222445708311
+    second: Kakariko Village Tiles_111
+  - first:
+      213: 8399069956169199333
+    second: Kakariko Village Tiles_112
+  - first:
+      213: -3962900154183965910
+    second: Kakariko Village Tiles_113
+  - first:
+      213: -576247045899214037
+    second: Kakariko Village Tiles_114
+  - first:
+      213: 3784414495192174018
+    second: Kakariko Village Tiles_115
+  - first:
+      213: 2423061748768008519
+    second: Kakariko Village Tiles_116
+  - first:
+      213: 942809118495781426
+    second: Kakariko Village Tiles_117
+  - first:
+      213: -3102472355451358833
+    second: Kakariko Village Tiles_118
+  - first:
+      213: -1224356765335891603
+    second: Kakariko Village Tiles_119
+  - first:
+      213: 1188552909357165374
+    second: Kakariko Village Tiles_120
+  - first:
+      213: -2527239528343062663
+    second: Kakariko Village Tiles_121
+  - first:
+      213: 987763073699763005
+    second: Kakariko Village Tiles_122
+  - first:
+      213: -6624830269791663579
+    second: Kakariko Village Tiles_123
+  - first:
+      213: 3273585579468139152
+    second: Kakariko Village Tiles_124
+  - first:
+      213: -5088908890774998202
+    second: Kakariko Village Tiles_125
+  - first:
+      213: 1297698330584090157
+    second: Kakariko Village Tiles_126
+  - first:
+      213: -694287568011982233
+    second: Kakariko Village Tiles_127
+  - first:
+      213: -4888653924337931478
+    second: Kakariko Village Tiles_128
+  - first:
+      213: 1434681653654459586
+    second: Kakariko Village Tiles_129
+  - first:
+      213: -2378925765240736448
+    second: Kakariko Village Tiles_130
+  - first:
+      213: 9205993996464940469
+    second: Kakariko Village Tiles_131
+  - first:
+      213: 5820572819053080824
+    second: Kakariko Village Tiles_132
+  - first:
+      213: -3696531577951647397
+    second: Kakariko Village Tiles_133
+  - first:
+      213: 1421823474480366418
+    second: Kakariko Village Tiles_134
+  - first:
+      213: 4606694112795227257
+    second: Kakariko Village Tiles_135
+  - first:
+      213: -275540115547899472
+    second: Kakariko Village Tiles_136
+  - first:
+      213: -9157123095157922455
+    second: Kakariko Village Tiles_137
+  - first:
+      213: 8408538527796616438
+    second: Kakariko Village Tiles_138
+  - first:
+      213: -1369195282215967018
+    second: Kakariko Village Tiles_139
+  - first:
+      213: -7192136450156719203
+    second: Kakariko Village Tiles_140
+  - first:
+      213: 7772261720464940611
+    second: Kakariko Village Tiles_141
+  - first:
+      213: 4966850112715949248
+    second: Kakariko Village Tiles_142
+  - first:
+      213: 1026688926690814531
+    second: Kakariko Village Tiles_143
+  - first:
+      213: 272933545765694304
+    second: Kakariko Village Tiles_144
+  - first:
+      213: -8205448870716939948
+    second: Kakariko Village Tiles_145
+  - first:
+      213: 7411085938324362070
+    second: Kakariko Village Tiles_146
+  - first:
+      213: -2680340078848302358
+    second: Kakariko Village Tiles_147
+  - first:
+      213: 8485360501122098492
+    second: Kakariko Village Tiles_148
+  - first:
+      213: 3599040472983054255
+    second: Kakariko Village Tiles_149
+  - first:
+      213: -7104206214186872268
+    second: Kakariko Village Tiles_150
+  - first:
+      213: -2721290552125896871
+    second: Kakariko Village Tiles_151
+  - first:
+      213: -6988263980198152508
+    second: Kakariko Village Tiles_152
+  - first:
+      213: 104447519942705968
+    second: Kakariko Village Tiles_153
+  - first:
+      213: 5033809971129968678
+    second: Kakariko Village Tiles_154
+  - first:
+      213: 1374676323913780010
+    second: Kakariko Village Tiles_155
+  - first:
+      213: -8135241978803960739
+    second: Kakariko Village Tiles_156
+  - first:
+      213: -258002643342173988
+    second: Kakariko Village Tiles_157
+  - first:
+      213: -7066232990960686808
+    second: Kakariko Village Tiles_158
+  - first:
+      213: 5205825487282263154
+    second: Kakariko Village Tiles_159
+  - first:
+      213: -8230965130519948588
+    second: Kakariko Village Tiles_160
+  - first:
+      213: -2761925859491456002
+    second: Kakariko Village Tiles_161
+  - first:
+      213: -5477867789510987117
+    second: Kakariko Village Tiles_162
+  - first:
+      213: -6475769518921661911
+    second: Kakariko Village Tiles_163
+  - first:
+      213: -5716956357367156342
+    second: Kakariko Village Tiles_164
+  - first:
+      213: -710869939795216585
+    second: Kakariko Village Tiles_165
+  - first:
+      213: -4808157416701771534
+    second: Kakariko Village Tiles_166
+  - first:
+      213: -8858762216344215669
+    second: Kakariko Village Tiles_167
+  - first:
+      213: 7646400272438948042
+    second: Kakariko Village Tiles_168
+  - first:
+      213: 2597388866754062614
+    second: Kakariko Village Tiles_169
+  - first:
+      213: 5122991486118488463
+    second: Kakariko Village Tiles_170
+  - first:
+      213: -8069507386523316397
+    second: Kakariko Village Tiles_171
+  - first:
+      213: 1793234308418388316
+    second: Kakariko Village Tiles_172
+  - first:
+      213: -1429064432416375697
+    second: Kakariko Village Tiles_173
+  - first:
+      213: -5785471157319363904
+    second: Kakariko Village Tiles_174
+  - first:
+      213: -5621271565867242507
+    second: Kakariko Village Tiles_175
+  - first:
+      213: 8451077742208620863
+    second: Kakariko Village Tiles_176
+  - first:
+      213: -2726586490936377916
+    second: Kakariko Village Tiles_177
+  - first:
+      213: -5121426230910520847
+    second: Kakariko Village Tiles_178
+  - first:
+      213: -5856662585533228726
+    second: Kakariko Village Tiles_179
+  - first:
+      213: -1029127694603690459
+    second: Kakariko Village Tiles_180
+  - first:
+      213: 9170933579588626212
+    second: Kakariko Village Tiles_181
+  - first:
+      213: -389332807700838510
+    second: Kakariko Village Tiles_182
+  - first:
+      213: -6016677430349983240
+    second: Kakariko Village Tiles_183
+  - first:
+      213: -7758760976363793361
+    second: Kakariko Village Tiles_184
+  - first:
+      213: -8981180141110117718
+    second: Kakariko Village Tiles_185
+  - first:
+      213: 1455096713121852903
+    second: Kakariko Village Tiles_186
+  - first:
+      213: -2294254076414712873
+    second: Kakariko Village Tiles_187
+  - first:
+      213: 5796457591225659050
+    second: Kakariko Village Tiles_188
+  - first:
+      213: 3816933514275932350
+    second: Kakariko Village Tiles_189
+  - first:
+      213: -1232478665226177900
+    second: Kakariko Village Tiles_190
+  - first:
+      213: -1373131761476667536
+    second: Kakariko Village Tiles_191
+  - first:
+      213: -2128471857915826433
+    second: Kakariko Village Tiles_192
+  - first:
+      213: -1939558881605358779
+    second: Kakariko Village Tiles_193
+  - first:
+      213: 4884892481216820333
+    second: Kakariko Village Tiles_194
+  - first:
+      213: 4812188562275315828
+    second: Kakariko Village Tiles_195
+  - first:
+      213: 990289233342709030
+    second: Kakariko Village Tiles_196
+  - first:
+      213: 5297815120000655501
+    second: Kakariko Village Tiles_197
+  - first:
+      213: 6551527865080025789
+    second: Kakariko Village Tiles_198
+  - first:
+      213: -8503144621434681403
+    second: Kakariko Village Tiles_199
+  - first:
+      213: -5706245602143870663
+    second: Kakariko Village Tiles_200
+  - first:
+      213: 6659931985020994420
+    second: Kakariko Village Tiles_201
+  - first:
+      213: 8923997351516062309
+    second: Kakariko Village Tiles_202
+  - first:
+      213: -3713606186180457901
+    second: Kakariko Village Tiles_203
+  - first:
+      213: -2306472687692418274
+    second: Kakariko Village Tiles_204
+  - first:
+      213: 6283116575763711896
+    second: Kakariko Village Tiles_205
+  - first:
+      213: -5099553232681671425
+    second: Kakariko Village Tiles_206
+  - first:
+      213: 5793605430416386599
+    second: Kakariko Village Tiles_207
+  - first:
+      213: -2999233729515933109
+    second: Kakariko Village Tiles_208
+  - first:
+      213: 3333578573820087064
+    second: Kakariko Village Tiles_209
+  - first:
+      213: 6796075800884375912
+    second: Kakariko Village Tiles_210
+  - first:
+      213: -554544364639983976
+    second: Kakariko Village Tiles_211
+  - first:
+      213: -5298324526035553647
+    second: Kakariko Village Tiles_212
+  - first:
+      213: 1463892835025281990
+    second: Kakariko Village Tiles_213
+  - first:
+      213: 3849133050906955493
+    second: Kakariko Village Tiles_214
+  - first:
+      213: 454108884204193897
+    second: Kakariko Village Tiles_215
+  - first:
+      213: 4801166957455929320
+    second: Kakariko Village Tiles_216
+  - first:
+      213: 2400800481701494812
+    second: Kakariko Village Tiles_217
+  - first:
+      213: -6901904463263728741
+    second: Kakariko Village Tiles_218
+  - first:
+      213: 441537859066789398
+    second: Kakariko Village Tiles_219
+  - first:
+      213: -95331260137992348
+    second: Kakariko Village Tiles_220
+  - first:
+      213: 4341420362654195870
+    second: Kakariko Village Tiles_221
+  - first:
+      213: 7013189675230656058
+    second: Kakariko Village Tiles_222
+  - first:
+      213: -1101170276642349812
+    second: Kakariko Village Tiles_223
+  - first:
+      213: -8021352362648414897
+    second: Kakariko Village Tiles_224
+  - first:
+      213: 82926363005296913
+    second: Kakariko Village Tiles_225
+  - first:
+      213: 4644100248626148068
+    second: Kakariko Village Tiles_226
+  - first:
+      213: -7432664018436432621
+    second: Kakariko Village Tiles_227
+  - first:
+      213: 2069700568601369302
+    second: Kakariko Village Tiles_228
+  - first:
+      213: -935193314552821620
+    second: Kakariko Village Tiles_229
+  - first:
+      213: -5919334428975854491
+    second: Kakariko Village Tiles_230
+  - first:
+      213: -8123507374352742993
+    second: Kakariko Village Tiles_231
+  - first:
+      213: 8427068501413336782
+    second: Kakariko Village Tiles_232
+  - first:
+      213: -3501783820016421260
+    second: Kakariko Village Tiles_233
+  - first:
+      213: 4334527362027760390
+    second: Kakariko Village Tiles_234
+  - first:
+      213: 2796239769624797672
+    second: Kakariko Village Tiles_235
+  - first:
+      213: 2737679958132650979
+    second: Kakariko Village Tiles_236
+  - first:
+      213: -6183697227489259455
+    second: Kakariko Village Tiles_237
+  - first:
+      213: 4369884716158629597
+    second: Kakariko Village Tiles_238
+  - first:
+      213: 8825875423262543484
+    second: Kakariko Village Tiles_239
+  - first:
+      213: -5622538502947028256
+    second: Kakariko Village Tiles_240
+  - first:
+      213: 3585624218276315430
+    second: Kakariko Village Tiles_241
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 308
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45768180e5b15c40800000000000000
+      internalID: 5499376595846460750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 337
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4b25b54a6c7c930800000000000000
+      internalID: 4163514789736395997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 313
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69905a2bf628a37a0800000000000000
+      internalID: -6396656904476227178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_3
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 321
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7a065288eb6ad20800000000000000
+      internalID: 3289526069792647131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_4
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 309
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55bd2ccfbd3a6bb0800000000000000
+      internalID: -4942069747112102562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_5
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 333
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5988e971c3e5f5a0800000000000000
+      internalID: -6488029268043855525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_6
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 333
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fbc43d385952aa70800000000000000
+      internalID: 8836723654373198834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_7
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 310
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8db3e29a54ab460800000000000000
+      internalID: 7258190342388439253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_8
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 310
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3812904bbbbadb070800000000000000
+      internalID: 8123838125513974147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_9
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 288
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e29ee45d5899a20800000000000000
+      internalID: 3069631772228136461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_10
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 309
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac553d35464dfdc0800000000000000
+      internalID: -3603646863632933725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_11
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 299
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b7bd3eea0758f30800000000000000
+      internalID: 4577188492741409686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_12
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 316
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6e3e9d783317a10800000000000000
+      internalID: 1905360775923623666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_13
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 299
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b6f2b69dacc25a0800000000000000
+      internalID: -6544633123321189474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_14
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 316
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e69d9fe306c6cf0800000000000000
+      internalID: -257725255070945775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_15
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 299
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b215235a71fe69890800000000000000
+      internalID: -7451505648603082453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_16
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 278
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7139b25d39ed870800000000000000
+      internalID: 8709561273149495216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_17
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 288
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c34e267712247860800000000000000
+      internalID: 7526678361405277120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_18
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 299
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a664d2dbac5745470800000000000000
+      internalID: 8382454320061040234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_19
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 299
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64e9c58a8a4f7780800000000000000
+      internalID: -8683139597736483730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 195
+        width: 376
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439f5e414daa28160800000000000000
+      internalID: 7026366196511799604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_21
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 271
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de638c8744e9ee1b0800000000000000
+      internalID: -5625384867617818899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_22
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 269
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9330e8d1a339e46d0800000000000000
+      internalID: -3004302023596309703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_23
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 214
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27d18959df8476e0800000000000000
+      internalID: -1840688184015333586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_24
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 214
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0437d83873e767f0800000000000000
+      internalID: -619276318250945526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_25
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 221
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a6689c634f5e2f0800000000000000
+      internalID: -944080030717810165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_26
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 235
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afbed7ee727c63310800000000000000
+      internalID: 1384512909781887994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_27
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 231
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712e0cbfd73cc5190800000000000000
+      internalID: -7972282294490570217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_28
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 215
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f79036d30ddaf30800000000000000
+      internalID: 4588552557433552799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_29
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 138
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1954eaeede97690800000000000000
+      internalID: -7603784886456577584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_30
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 138
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429bacfe62ac8a010800000000000000
+      internalID: 1200431569274845476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_31
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 138
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2443453988aa27340800000000000000
+      internalID: 4860134451450229826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_32
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 138
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab602242b4fc528a0800000000000000
+      internalID: -6330425779563657542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_33
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 146
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c632a76a5fc6dfd70800000000000000
+      internalID: 9078532226164597612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_34
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 147
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80dc2ae759ee50e00800000000000000
+      internalID: 1010476017256680712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_35
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 146
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853c6871c2907c980800000000000000
+      internalID: -8518830085170085032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_36
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 147
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5556c6a4e205c00800000000000000
+      internalID: 887260023773025786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_37
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 139
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c905c0300a228e0800000000000000
+      internalID: -1719636172750152649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_38
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 139
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb8375403aa81520800000000000000
+      internalID: 2673073503144741854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_39
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 133
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a63e4856d5dc2340800000000000000
+      internalID: 4840478816097679016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_40
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 133
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45b96bf2d0cafbc0800000000000000
+      internalID: -3748471727438842546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_41
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 133
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e442b7ae6e5b5a30800000000000000
+      internalID: 4205058506433381605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_42
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 133
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0741860fd174220800000000000000
+      internalID: 2469975839011533041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_43
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 133
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b49e823837f08ee0800000000000000
+      internalID: -1260736074925304655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_44
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 127
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5adc42a881a38c810800000000000000
+      internalID: 1785741129323695525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_45
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 127
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16eec418e132600f0800000000000000
+      internalID: -1151194040821289375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_46
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 127
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14d9a752e42671a0800000000000000
+      internalID: -6812216831799340005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_47
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 129
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e272b28b1f870bfc0800000000000000
+      internalID: -3481149532385106130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_48
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 129
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed099590457dccb0800000000000000
+      internalID: -4842085104105222682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_49
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 129
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b02107733b51311e0800000000000000
+      internalID: -2228413531144842741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_50
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 136
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e735227a7ae2080800000000000000
+      internalID: -9210239851648811431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_51
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 127
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92141b01c1b756bc0800000000000000
+      internalID: -3790488150893051607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_52
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 136
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2487c69450e2f1a10800000000000000
+      internalID: 1882273769505716290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_53
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 127
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b6d9bc7dd6568d0800000000000000
+      internalID: -2853754015267853531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_54
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 136
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b318a223d2f08a700800000000000000
+      internalID: 551707641142477115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_55
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 127
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28949bccc6cc5e2e0800000000000000
+      internalID: -2097045283807868542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_56
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 136
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d162d3bbe438405f0800000000000000
+      internalID: -791363260338330083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_57
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 127
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b59f9c63746b7e0800000000000000
+      internalID: -1750133104544490684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_58
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 127
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b641f1e9028003e40800000000000000
+      internalID: 5634012070025303147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_59
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 136
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0be5d9cc1dc3880800000000000000
+      internalID: -8629792109204950878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_60
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 129
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a02e766f7ad7700800000000000000
+      internalID: 539772207100988012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_61
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 129
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4c96534763a2310800000000000000
+      internalID: 1380976108482708652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_62
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 128
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eec671ddc7775960800000000000000
+      internalID: 7590667422822485728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_63
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 128
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d355768f48687750800000000000000
+      internalID: 6302902369272550354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_64
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 130
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ea945bca4126b70800000000000000
+      internalID: 8890691346391215763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_65
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 130
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d844edc23738fcbf0800000000000000
+      internalID: -301878119313292147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_66
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 124
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9278a94e2dfe5f0b0800000000000000
+      internalID: -5695382464682621143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_67
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 124
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de17933ebbf3bf20800000000000000
+      internalID: 3437367734941720276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_68
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 115
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98b16b491da0db20800000000000000
+      internalID: 3157213662937200795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_69
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 115
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f431a1307211f00800000000000000
+      internalID: 1085691879448858430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_70
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 124
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f497460feb25a590800000000000000
+      internalID: -7663670885298498311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_71
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 115
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca5ea692a89feea0800000000000000
+      internalID: -5841282367596111162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_72
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 115
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8aa49d440c3089f0800000000000000
+      internalID: -468308372067407218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_73
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 124
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522c70d286d089720800000000000000
+      internalID: 2853045105022452261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_74
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 115
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a2bbd12573362c0800000000000000
+      internalID: -4439643981831525754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_75
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 124
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca96c17943b912ff0800000000000000
+      internalID: -62598269630649940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_76
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 118
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b8f8ccb67c460a0800000000000000
+      internalID: -6889162264162628716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_77
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 118
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f72d8f9316bcfbc0800000000000000
+      internalID: -3747920594481633293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_78
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 118
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3bc7e8f8a66ac030800000000000000
+      internalID: 3515735335032572730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_79
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 118
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 174cc92ef6cec3de0800000000000000
+      internalID: -1351945822830541711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_80
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 118
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa750b5241b59190800000000000000
+      internalID: -7956258268127069447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_81
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 120
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f8d306b6a1b81b0800000000000000
+      internalID: -5653395858755055807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_82
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 120
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84cf34bae1e953b70800000000000000
+      internalID: 8878176094990367816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_83
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 118
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb3e6852d0fd9140800000000000000
+      internalID: 4728199970026306531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_84
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 118
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc8cd2e8003b8fc0800000000000000
+      internalID: -3491644271371711276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_85
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 118
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e260a12b423262b0800000000000000
+      internalID: -5592852488972639515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_86
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 118
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c708752e5cd5130800000000000000
+      internalID: 3557216856613878926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_87
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 118
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07eb5e93d2eb15420800000000000000
+      internalID: 2617081959933132400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_88
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 120
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d744cf8bcd3b850800000000000000
+      internalID: 6391694983233305882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_89
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 120
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd6dee41b457ff20800000000000000
+      internalID: 3456324359540272570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_90
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 120
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11321b815d16c8e60800000000000000
+      internalID: 7965849408781755153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_91
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 119
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f00fde82e4dd6140800000000000000
+      internalID: 4714658454451454193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_92
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 119
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4896df9465f1f8130800000000000000
+      internalID: 3571107484997085572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_93
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 119
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f1a44f4582c9610800000000000000
+      internalID: 1629221510542139203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_94
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 119
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ebd542edc8561d10800000000000000
+      internalID: 2095960317875313635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_95
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 119
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47446bc14b88f9c0800000000000000
+      internalID: -3893208763160311986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_96
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 119
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ed271c4fc98c6a0800000000000000
+      internalID: -6428715893039898996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_97
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 120
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6e1bc33d09c3960800000000000000
+      internalID: 7583095109515863721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_98
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 120
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f279983fa5f0db90800000000000000
+      internalID: -7219000069757242637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_99
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 106
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc363da0ef40dbb0800000000000000
+      internalID: -4913339367063929645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_100
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 106
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d92101a4d31cbee0800000000000000
+      internalID: -1244097593105897001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_101
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 106
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b50893ccc157ae0800000000000000
+      internalID: -1552302833095648385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_102
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 109
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cfe0358fafc5b1c0800000000000000
+      internalID: -4488453100844027968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_103
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 109
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae7b6dd0d256df20800000000000000
+      internalID: 3447033621820178094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_104
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 109
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ffe2e26959309810800000000000000
+      internalID: 1769977709630517233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_105
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 109
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e8d5e6ed1518810800000000000000
+      internalID: 1765782544682159635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_106
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 109
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e033ba7b32941a0800000000000000
+      internalID: -6824884488545038767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_107
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 111
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83fa14a951dc7260800000000000000
+      internalID: 7096777295764583309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_108
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 111
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82b18c4a60a78a40800000000000000
+      internalID: 5370437459073151626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_109
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 111
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8df4e77f1c06db0800000000000000
+      internalID: -4800623934056703816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_110
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 111
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193a6ff38c1846fc0800000000000000
+      internalID: -3502531913120832623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_111
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 109
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714cac3276a33e200800000000000000
+      internalID: 208074222445708311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_112
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 109
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eeee1dff9d7f8470800000000000000
+      internalID: 8399069956169199333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_113
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 109
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23268d5e43f009c0800000000000000
+      internalID: -3962900154183965910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_114
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 109
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b232f466d52c008f0800000000000000
+      internalID: -576247045899214037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_115
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 109
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cdc4c4cee0f48430800000000000000
+      internalID: 3784414495192174018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_116
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 111
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749672492d170a120800000000000000
+      internalID: 2423061748768008519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_117
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 102
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232b0f6e5e7851d00800000000000000
+      internalID: 942809118495781426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_118
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 111
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f813adf84ddc1f4d0800000000000000
+      internalID: -3102472355451358833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_119
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 102
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61dec34206320fe0800000000000000
+      internalID: -1224356765335891603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_120
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 111
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3badf6e2969e7010800000000000000
+      internalID: 1188552909357165374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_121
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 102
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97739c2f9017decd0800000000000000
+      internalID: -2527239528343062663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_122
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 110
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d335f1a384d35bd00800000000000000
+      internalID: 987763073699763005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_123
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 101
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a00df28ffdf04a0800000000000000
+      internalID: -6624830269791663579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_124
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 110
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a2a068dbc1e6d20800000000000000
+      internalID: 3273585579468139152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_125
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 101
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643770773509069b0800000000000000
+      internalID: -5088908890774998202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_126
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 101
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26051491c9520210800000000000000
+      internalID: 1297698330584090157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_127
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 110
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a0da8a2256d56f0800000000000000
+      internalID: -694287568011982233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_128
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 101
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ba4023823082cb0800000000000000
+      internalID: -4888653924337931478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_129
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 110
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c418dbdc5309e310800000000000000
+      internalID: 1434681653654459586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_130
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 101
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0453dcfde9b5cfed0800000000000000
+      internalID: -2378925765240736448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_131
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 110
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5ebaba3c242cf70800000000000000
+      internalID: 9205993996464940469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_132
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 101
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f0f3f4e324d6c050800000000000000
+      internalID: 5820572819053080824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_133
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 111
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b598d2b6d1843bcc0800000000000000
+      internalID: -3696531577951647397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_134
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 101
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253c6b9bae45bb310800000000000000
+      internalID: 1421823474480366418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_135
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 111
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974fa0663e34eef30800000000000000
+      internalID: 4606694112795227257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_136
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 101
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9b56b89b51d2cf0800000000000000
+      internalID: -275540115547899472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_137
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 95
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965269cbf0d5be080800000000000000
+      internalID: -9157123095157922455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_138
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 95
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fcd08d9d3121b470800000000000000
+      internalID: 8408538527796616438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_139
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 95
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d660672524affce0800000000000000
+      internalID: -1369195282215967018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_140
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 95
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9315401106603c90800000000000000
+      internalID: -7192136450156719203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_141
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 95
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34edda50bde9cdb60800000000000000
+      internalID: 7772261720464940611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_142
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 95
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c40b0dacdbcde440800000000000000
+      internalID: 4966850112715949248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_143
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 100
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34aab32a3288f3e00800000000000000
+      internalID: 1026688926690814531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_144
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 91
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06be6a22d97a9c300800000000000000
+      internalID: 272933545765694304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_145
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 100
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4516946f9b3602e80800000000000000
+      internalID: -8205448870716939948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_146
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 91
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65357b1356779d660800000000000000
+      internalID: 7411085938324362070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_147
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 100
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2210b36e48dcad0800000000000000
+      internalID: -2680340078848302358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_148
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 91
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35638c1b6e02c570800000000000000
+      internalID: 8485360501122098492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_149
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 100
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7a86cdd3c52f130800000000000000
+      internalID: 3599040472983054255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_150
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 91
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432d440861ac86d90800000000000000
+      internalID: -7104206214186872268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_151
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 91
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957c8ed29a80c3ad0800000000000000
+      internalID: -2721290552125896871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_152
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 100
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6b1a77fe2b40f90800000000000000
+      internalID: -6988263980198152508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_153
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 92
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0330bdb4772137100800000000000000
+      internalID: 104447519942705968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_154
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 92
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628650c9f7fabd540800000000000000
+      internalID: 5033809971129968678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_155
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 92
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b450055d4d31310800000000000000
+      internalID: 1374676323913780010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_156
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 92
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d544b8bc580d91f80800000000000000
+      internalID: -8135241978803960739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_157
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 92
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd85a7c76f36b6cf0800000000000000
+      internalID: -258002643342173988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_158
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 92
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82964a18882bfed90800000000000000
+      internalID: -7066232990960686808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_159
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 92
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2745224f2bece3840800000000000000
+      internalID: 5205825487282263154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_160
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 92
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d25bb4c2dcb5cd80800000000000000
+      internalID: -8230965130519948588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_161
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 92
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efbdb09601baba9d0800000000000000
+      internalID: -2761925859491456002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_162
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 92
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 392b4a7b444baf3b0800000000000000
+      internalID: -5477867789510987117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_163
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 92
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9224f51cee17126a0800000000000000
+      internalID: -6475769518921661911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_164
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 86
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8138b29b7a49a0b0800000000000000
+      internalID: -5716956357367156342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_165
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 77
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737b00d5e8b7226f0800000000000000
+      internalID: -710869939795216585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_166
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 86
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0c451ed4ef54db0800000000000000
+      internalID: -4808157416701771534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_167
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 77
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f962133ba5f0580800000000000000
+      internalID: -8858762216344215669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_168
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 86
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac07c2119887d1a60800000000000000
+      internalID: 7646400272438948042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_169
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 86
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6192e6aa967cb0420800000000000000
+      internalID: 2597388866754062614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_170
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 77
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8961752d95881740800000000000000
+      internalID: 5122991486118488463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_171
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 86
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f03e939c9530090800000000000000
+      internalID: -8069507386523316397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_172
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 77
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5142504a19d2e810800000000000000
+      internalID: 1793234308418388316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_173
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 86
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c3da06871fa2ce0800000000000000
+      internalID: -1429064432416375697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_174
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 82
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c216b992a0e5bfa0800000000000000
+      internalID: -5785471157319363904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_175
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 82
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fbaa7a2b4b3df1b0800000000000000
+      internalID: -5621271565867242507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_176
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 82
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f391e894e62484570800000000000000
+      internalID: 8451077742208620863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_177
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 82
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cdbb565808392ad0800000000000000
+      internalID: -2726586490936377916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_178
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 82
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1f53b3af90de8b0800000000000000
+      internalID: -5121426230910520847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_179
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 67
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4998fb8864f8bea0800000000000000
+      internalID: -5856662585533228726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_180
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 67
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e51a670ddc7b1f0800000000000000
+      internalID: -1029127694603690459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_181
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 17
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427e41e3083b54f70800000000000000
+      internalID: 9170933579588626212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_182
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 17
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2970699cfdfc89af0800000000000000
+      internalID: -389332807700838510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_183
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 17
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f111eb31c7708ca0800000000000000
+      internalID: -6016677430349983240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_184
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 52
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f245caaeff7535490800000000000000
+      internalID: -7758760976363793361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_185
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 52
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaab659fe307c5380800000000000000
+      internalID: -8981180141110117718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_186
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 52
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed677b40ca813410800000000000000
+      internalID: 1455096713121852903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_187
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 52
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d32fcea21c2920e0800000000000000
+      internalID: -2294254076414712873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_188
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 54
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae2f90e777217050800000000000000
+      internalID: 5796457591225659050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_189
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 45
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb843b9eec878f430800000000000000
+      internalID: 3816933514275932350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_190
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 54
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49232f51f2b55eee0800000000000000
+      internalID: -1232478665226177900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_191
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 45
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 077706720f7a1fce0800000000000000
+      internalID: -1373131761476667536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_192
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 54
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffee2825f162672e0800000000000000
+      internalID: -2128471857915826433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_193
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 45
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b65f0397d4515e0800000000000000
+      internalID: -1939558881605358779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_194
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 54
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d64b7e494df9ac340800000000000000
+      internalID: 4884892481216820333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_195
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 45
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4703e96500458c240800000000000000
+      internalID: 4812188562275315828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_196
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 54
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d394a9fc63ebd00800000000000000
+      internalID: 990289233342709030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_197
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 45
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80255958ce958940800000000000000
+      internalID: 5297815120000655501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_198
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 45
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db21b2eb1e3bbea50800000000000000
+      internalID: 6551527865080025789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_199
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 45
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7cc95b403cef980800000000000000
+      internalID: -8503144621434681403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_200
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 44
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931641b9bd75fc0b0800000000000000
+      internalID: -5706245602143870663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_201
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 44
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4734073cad4dc6c50800000000000000
+      internalID: 6659931985020994420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_202
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 44
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56244a15f4868db70800000000000000
+      internalID: 8923997351516062309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_203
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 44
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a450569de967cc0800000000000000
+      internalID: -3713606186180457901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_204
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 43
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13f3fd8f43cdffd0800000000000000
+      internalID: -2306472687692418274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_205
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 34
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897c3cc7c3d123750800000000000000
+      internalID: 6283116575763711896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_206
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 43
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff460dc7a5fba39b0800000000000000
+      internalID: -5099553232681671425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_207
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 34
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a2eb07175076050800000000000000
+      internalID: 5793605430416386599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_208
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 43
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4235d940d49066d0800000000000000
+      internalID: -2999233729515933109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_209
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 34
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b46630d00434e20800000000000000
+      internalID: 3333578573820087064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_210
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 43
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861775a0fe2805e50800000000000000
+      internalID: 6796075800884375912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_211
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 34
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8966075a6dcdd48f0800000000000000
+      internalID: -554544364639983976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_212
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19239e05ae19876b0800000000000000
+      internalID: -5298324526035553647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_213
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3ebe407cac05410800000000000000
+      internalID: 1463892835025281990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_214
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee4680cd1eda6530800000000000000
+      internalID: 3849133050906955493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_215
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968075ccf915d4600800000000000000
+      internalID: 454108884204193897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_216
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8efe08ef8eb21a240800000000000000
+      internalID: 4801166957455929320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_217
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c108760715b515120800000000000000
+      internalID: 2400800481701494812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_218
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b7b7165728730a0800000000000000
+      internalID: -6901904463263728741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_219
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 35
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61eff8ce758a02600800000000000000
+      internalID: 441537859066789398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_220
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 35
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f0c7759b05daef0800000000000000
+      internalID: -95331260137992348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_221
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 35
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90a6a861d2df3c30800000000000000
+      internalID: 4341420362654195870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_222
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 35
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a367f862adad35160800000000000000
+      internalID: 7013189675230656058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_223
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 25
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d9387b77bd7b0f0800000000000000
+      internalID: -1101170276642349812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_224
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 25
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45d91e668e6ea090800000000000000
+      internalID: -8021352362648414897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_225
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 27
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1112279761d962100800000000000000
+      internalID: 82926363005296913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_226
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 27
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e23aa41298237040800000000000000
+      internalID: 4644100248626148068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_227
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 27
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31dd446847fd9d890800000000000000
+      internalID: -7432664018436432621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_228
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 27
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da98ee83bd09bc10800000000000000
+      internalID: 2069700568601369302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_229
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 27
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8842c1a2a68503f0800000000000000
+      internalID: -935193314552821620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_230
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 26
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c8726e2bc4adda0800000000000000
+      internalID: -5919334428975854491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_231
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 17
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5407d4511834f80800000000000000
+      internalID: -8123507374352742993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_232
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 26
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec610ac4726f2f470800000000000000
+      internalID: 8427068501413336782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_233
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 17
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476f5bf3b2a276fc0800000000000000
+      internalID: -3501783820016421260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_234
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 26
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b20e2aba5572c30800000000000000
+      internalID: 4334527362027760390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_235
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 17
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e16e4f514d3ec620800000000000000
+      internalID: 2796239769624797672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_236
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 26
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3f335ca613ef520800000000000000
+      internalID: 2737679958132650979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_237
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 17
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1405fec52281f2aa0800000000000000
+      internalID: -6183697227489259455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_238
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 16
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd63b082ff2f4ac30800000000000000
+      internalID: 4369884716158629597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_239
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 16
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e0a6b9feecb7a70800000000000000
+      internalID: 8825875423262543484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_240
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 16
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2c2e3650bb8f1b0800000000000000
+      internalID: -5622538502947028256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakariko Village Tiles_241
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 16
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621c564aa32b2c130800000000000000
+      internalID: 3585624218276315430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Kakariko Village Tiles_0: 5499376595846460750
+      Kakariko Village Tiles_1: 4163514789736395997
+      Kakariko Village Tiles_10: -3603646863632933725
+      Kakariko Village Tiles_100: -1244097593105897001
+      Kakariko Village Tiles_101: -1552302833095648385
+      Kakariko Village Tiles_102: -4488453100844027968
+      Kakariko Village Tiles_103: 3447033621820178094
+      Kakariko Village Tiles_104: 1769977709630517233
+      Kakariko Village Tiles_105: 1765782544682159635
+      Kakariko Village Tiles_106: -6824884488545038767
+      Kakariko Village Tiles_107: 7096777295764583309
+      Kakariko Village Tiles_108: 5370437459073151626
+      Kakariko Village Tiles_109: -4800623934056703816
+      Kakariko Village Tiles_11: 4577188492741409686
+      Kakariko Village Tiles_110: -3502531913120832623
+      Kakariko Village Tiles_111: 208074222445708311
+      Kakariko Village Tiles_112: 8399069956169199333
+      Kakariko Village Tiles_113: -3962900154183965910
+      Kakariko Village Tiles_114: -576247045899214037
+      Kakariko Village Tiles_115: 3784414495192174018
+      Kakariko Village Tiles_116: 2423061748768008519
+      Kakariko Village Tiles_117: 942809118495781426
+      Kakariko Village Tiles_118: -3102472355451358833
+      Kakariko Village Tiles_119: -1224356765335891603
+      Kakariko Village Tiles_12: 1905360775923623666
+      Kakariko Village Tiles_120: 1188552909357165374
+      Kakariko Village Tiles_121: -2527239528343062663
+      Kakariko Village Tiles_122: 987763073699763005
+      Kakariko Village Tiles_123: -6624830269791663579
+      Kakariko Village Tiles_124: 3273585579468139152
+      Kakariko Village Tiles_125: -5088908890774998202
+      Kakariko Village Tiles_126: 1297698330584090157
+      Kakariko Village Tiles_127: -694287568011982233
+      Kakariko Village Tiles_128: -4888653924337931478
+      Kakariko Village Tiles_129: 1434681653654459586
+      Kakariko Village Tiles_13: -6544633123321189474
+      Kakariko Village Tiles_130: -2378925765240736448
+      Kakariko Village Tiles_131: 9205993996464940469
+      Kakariko Village Tiles_132: 5820572819053080824
+      Kakariko Village Tiles_133: -3696531577951647397
+      Kakariko Village Tiles_134: 1421823474480366418
+      Kakariko Village Tiles_135: 4606694112795227257
+      Kakariko Village Tiles_136: -275540115547899472
+      Kakariko Village Tiles_137: -9157123095157922455
+      Kakariko Village Tiles_138: 8408538527796616438
+      Kakariko Village Tiles_139: -1369195282215967018
+      Kakariko Village Tiles_14: -257725255070945775
+      Kakariko Village Tiles_140: -7192136450156719203
+      Kakariko Village Tiles_141: 7772261720464940611
+      Kakariko Village Tiles_142: 4966850112715949248
+      Kakariko Village Tiles_143: 1026688926690814531
+      Kakariko Village Tiles_144: 272933545765694304
+      Kakariko Village Tiles_145: -8205448870716939948
+      Kakariko Village Tiles_146: 7411085938324362070
+      Kakariko Village Tiles_147: -2680340078848302358
+      Kakariko Village Tiles_148: 8485360501122098492
+      Kakariko Village Tiles_149: 3599040472983054255
+      Kakariko Village Tiles_15: -7451505648603082453
+      Kakariko Village Tiles_150: -7104206214186872268
+      Kakariko Village Tiles_151: -2721290552125896871
+      Kakariko Village Tiles_152: -6988263980198152508
+      Kakariko Village Tiles_153: 104447519942705968
+      Kakariko Village Tiles_154: 5033809971129968678
+      Kakariko Village Tiles_155: 1374676323913780010
+      Kakariko Village Tiles_156: -8135241978803960739
+      Kakariko Village Tiles_157: -258002643342173988
+      Kakariko Village Tiles_158: -7066232990960686808
+      Kakariko Village Tiles_159: 5205825487282263154
+      Kakariko Village Tiles_16: 8709561273149495216
+      Kakariko Village Tiles_160: -8230965130519948588
+      Kakariko Village Tiles_161: -2761925859491456002
+      Kakariko Village Tiles_162: -5477867789510987117
+      Kakariko Village Tiles_163: -6475769518921661911
+      Kakariko Village Tiles_164: -5716956357367156342
+      Kakariko Village Tiles_165: -710869939795216585
+      Kakariko Village Tiles_166: -4808157416701771534
+      Kakariko Village Tiles_167: -8858762216344215669
+      Kakariko Village Tiles_168: 7646400272438948042
+      Kakariko Village Tiles_169: 2597388866754062614
+      Kakariko Village Tiles_17: 7526678361405277120
+      Kakariko Village Tiles_170: 5122991486118488463
+      Kakariko Village Tiles_171: -8069507386523316397
+      Kakariko Village Tiles_172: 1793234308418388316
+      Kakariko Village Tiles_173: -1429064432416375697
+      Kakariko Village Tiles_174: -5785471157319363904
+      Kakariko Village Tiles_175: -5621271565867242507
+      Kakariko Village Tiles_176: 8451077742208620863
+      Kakariko Village Tiles_177: -2726586490936377916
+      Kakariko Village Tiles_178: -5121426230910520847
+      Kakariko Village Tiles_179: -5856662585533228726
+      Kakariko Village Tiles_18: 8382454320061040234
+      Kakariko Village Tiles_180: -1029127694603690459
+      Kakariko Village Tiles_181: 9170933579588626212
+      Kakariko Village Tiles_182: -389332807700838510
+      Kakariko Village Tiles_183: -6016677430349983240
+      Kakariko Village Tiles_184: -7758760976363793361
+      Kakariko Village Tiles_185: -8981180141110117718
+      Kakariko Village Tiles_186: 1455096713121852903
+      Kakariko Village Tiles_187: -2294254076414712873
+      Kakariko Village Tiles_188: 5796457591225659050
+      Kakariko Village Tiles_189: 3816933514275932350
+      Kakariko Village Tiles_19: -8683139597736483730
+      Kakariko Village Tiles_190: -1232478665226177900
+      Kakariko Village Tiles_191: -1373131761476667536
+      Kakariko Village Tiles_192: -2128471857915826433
+      Kakariko Village Tiles_193: -1939558881605358779
+      Kakariko Village Tiles_194: 4884892481216820333
+      Kakariko Village Tiles_195: 4812188562275315828
+      Kakariko Village Tiles_196: 990289233342709030
+      Kakariko Village Tiles_197: 5297815120000655501
+      Kakariko Village Tiles_198: 6551527865080025789
+      Kakariko Village Tiles_199: -8503144621434681403
+      Kakariko Village Tiles_2: -6396656904476227178
+      Kakariko Village Tiles_20: 7026366196511799604
+      Kakariko Village Tiles_200: -5706245602143870663
+      Kakariko Village Tiles_201: 6659931985020994420
+      Kakariko Village Tiles_202: 8923997351516062309
+      Kakariko Village Tiles_203: -3713606186180457901
+      Kakariko Village Tiles_204: -2306472687692418274
+      Kakariko Village Tiles_205: 6283116575763711896
+      Kakariko Village Tiles_206: -5099553232681671425
+      Kakariko Village Tiles_207: 5793605430416386599
+      Kakariko Village Tiles_208: -2999233729515933109
+      Kakariko Village Tiles_209: 3333578573820087064
+      Kakariko Village Tiles_21: -5625384867617818899
+      Kakariko Village Tiles_210: 6796075800884375912
+      Kakariko Village Tiles_211: -554544364639983976
+      Kakariko Village Tiles_212: -5298324526035553647
+      Kakariko Village Tiles_213: 1463892835025281990
+      Kakariko Village Tiles_214: 3849133050906955493
+      Kakariko Village Tiles_215: 454108884204193897
+      Kakariko Village Tiles_216: 4801166957455929320
+      Kakariko Village Tiles_217: 2400800481701494812
+      Kakariko Village Tiles_218: -6901904463263728741
+      Kakariko Village Tiles_219: 441537859066789398
+      Kakariko Village Tiles_22: -3004302023596309703
+      Kakariko Village Tiles_220: -95331260137992348
+      Kakariko Village Tiles_221: 4341420362654195870
+      Kakariko Village Tiles_222: 7013189675230656058
+      Kakariko Village Tiles_223: -1101170276642349812
+      Kakariko Village Tiles_224: -8021352362648414897
+      Kakariko Village Tiles_225: 82926363005296913
+      Kakariko Village Tiles_226: 4644100248626148068
+      Kakariko Village Tiles_227: -7432664018436432621
+      Kakariko Village Tiles_228: 2069700568601369302
+      Kakariko Village Tiles_229: -935193314552821620
+      Kakariko Village Tiles_23: -1840688184015333586
+      Kakariko Village Tiles_230: -5919334428975854491
+      Kakariko Village Tiles_231: -8123507374352742993
+      Kakariko Village Tiles_232: 8427068501413336782
+      Kakariko Village Tiles_233: -3501783820016421260
+      Kakariko Village Tiles_234: 4334527362027760390
+      Kakariko Village Tiles_235: 2796239769624797672
+      Kakariko Village Tiles_236: 2737679958132650979
+      Kakariko Village Tiles_237: -6183697227489259455
+      Kakariko Village Tiles_238: 4369884716158629597
+      Kakariko Village Tiles_239: 8825875423262543484
+      Kakariko Village Tiles_24: -619276318250945526
+      Kakariko Village Tiles_240: -5622538502947028256
+      Kakariko Village Tiles_241: 3585624218276315430
+      Kakariko Village Tiles_25: -944080030717810165
+      Kakariko Village Tiles_26: 1384512909781887994
+      Kakariko Village Tiles_27: -7972282294490570217
+      Kakariko Village Tiles_28: 4588552557433552799
+      Kakariko Village Tiles_29: -7603784886456577584
+      Kakariko Village Tiles_3: 3289526069792647131
+      Kakariko Village Tiles_30: 1200431569274845476
+      Kakariko Village Tiles_31: 4860134451450229826
+      Kakariko Village Tiles_32: -6330425779563657542
+      Kakariko Village Tiles_33: 9078532226164597612
+      Kakariko Village Tiles_34: 1010476017256680712
+      Kakariko Village Tiles_35: -8518830085170085032
+      Kakariko Village Tiles_36: 887260023773025786
+      Kakariko Village Tiles_37: -1719636172750152649
+      Kakariko Village Tiles_38: 2673073503144741854
+      Kakariko Village Tiles_39: 4840478816097679016
+      Kakariko Village Tiles_4: -4942069747112102562
+      Kakariko Village Tiles_40: -3748471727438842546
+      Kakariko Village Tiles_41: 4205058506433381605
+      Kakariko Village Tiles_42: 2469975839011533041
+      Kakariko Village Tiles_43: -1260736074925304655
+      Kakariko Village Tiles_44: 1785741129323695525
+      Kakariko Village Tiles_45: -1151194040821289375
+      Kakariko Village Tiles_46: -6812216831799340005
+      Kakariko Village Tiles_47: -3481149532385106130
+      Kakariko Village Tiles_48: -4842085104105222682
+      Kakariko Village Tiles_49: -2228413531144842741
+      Kakariko Village Tiles_5: -6488029268043855525
+      Kakariko Village Tiles_50: -9210239851648811431
+      Kakariko Village Tiles_51: -3790488150893051607
+      Kakariko Village Tiles_52: 1882273769505716290
+      Kakariko Village Tiles_53: -2853754015267853531
+      Kakariko Village Tiles_54: 551707641142477115
+      Kakariko Village Tiles_55: -2097045283807868542
+      Kakariko Village Tiles_56: -791363260338330083
+      Kakariko Village Tiles_57: -1750133104544490684
+      Kakariko Village Tiles_58: 5634012070025303147
+      Kakariko Village Tiles_59: -8629792109204950878
+      Kakariko Village Tiles_6: 8836723654373198834
+      Kakariko Village Tiles_60: 539772207100988012
+      Kakariko Village Tiles_61: 1380976108482708652
+      Kakariko Village Tiles_62: 7590667422822485728
+      Kakariko Village Tiles_63: 6302902369272550354
+      Kakariko Village Tiles_64: 8890691346391215763
+      Kakariko Village Tiles_65: -301878119313292147
+      Kakariko Village Tiles_66: -5695382464682621143
+      Kakariko Village Tiles_67: 3437367734941720276
+      Kakariko Village Tiles_68: 3157213662937200795
+      Kakariko Village Tiles_69: 1085691879448858430
+      Kakariko Village Tiles_7: 7258190342388439253
+      Kakariko Village Tiles_70: -7663670885298498311
+      Kakariko Village Tiles_71: -5841282367596111162
+      Kakariko Village Tiles_72: -468308372067407218
+      Kakariko Village Tiles_73: 2853045105022452261
+      Kakariko Village Tiles_74: -4439643981831525754
+      Kakariko Village Tiles_75: -62598269630649940
+      Kakariko Village Tiles_76: -6889162264162628716
+      Kakariko Village Tiles_77: -3747920594481633293
+      Kakariko Village Tiles_78: 3515735335032572730
+      Kakariko Village Tiles_79: -1351945822830541711
+      Kakariko Village Tiles_8: 8123838125513974147
+      Kakariko Village Tiles_80: -7956258268127069447
+      Kakariko Village Tiles_81: -5653395858755055807
+      Kakariko Village Tiles_82: 8878176094990367816
+      Kakariko Village Tiles_83: 4728199970026306531
+      Kakariko Village Tiles_84: -3491644271371711276
+      Kakariko Village Tiles_85: -5592852488972639515
+      Kakariko Village Tiles_86: 3557216856613878926
+      Kakariko Village Tiles_87: 2617081959933132400
+      Kakariko Village Tiles_88: 6391694983233305882
+      Kakariko Village Tiles_89: 3456324359540272570
+      Kakariko Village Tiles_9: 3069631772228136461
+      Kakariko Village Tiles_90: 7965849408781755153
+      Kakariko Village Tiles_91: 4714658454451454193
+      Kakariko Village Tiles_92: 3571107484997085572
+      Kakariko Village Tiles_93: 1629221510542139203
+      Kakariko Village Tiles_94: 2095960317875313635
+      Kakariko Village Tiles_95: -3893208763160311986
+      Kakariko Village Tiles_96: -6428715893039898996
+      Kakariko Village Tiles_97: 7583095109515863721
+      Kakariko Village Tiles_98: -7219000069757242637
+      Kakariko Village Tiles_99: -4913339367063929645
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

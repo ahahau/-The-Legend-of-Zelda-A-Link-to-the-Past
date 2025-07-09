@@ -3,8 +3,551 @@ guid: d7e5f3c9cf1af7b469d6c5bb13c95d39
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1974286119223785283
-    second: SNES - The Legend of Zelda A Link to the Past - Armos Knights_0
+      213: -167448649688992726
+    second: Armos Knights_0
+  - first:
+      213: -8354762764332842595
+    second: Armos Knights_1
+  - first:
+      213: -917718404419304759
+    second: Armos Knights_2
+  - first:
+      213: -6006976922115329869
+    second: Armos Knights_3
+  - first:
+      213: -5975447188184228114
+    second: Armos Knights_4
+  - first:
+      213: 8539096429672863412
+    second: Armos Knights_5
+  - first:
+      213: 8556345955489205187
+    second: Armos Knights_6
+  - first:
+      213: -8894262915768143748
+    second: Armos Knights_7
+  - first:
+      213: -8879278185706797355
+    second: Armos Knights_8
+  - first:
+      213: 5970466002856056554
+    second: Armos Knights_9
+  - first:
+      213: 3216996444550518862
+    second: Armos Knights_10
+  - first:
+      213: -2776018482513595701
+    second: Armos Knights_11
+  - first:
+      213: 8037386825958694407
+    second: Armos Knights_12
+  - first:
+      213: -8690198685486297726
+    second: Armos Knights_13
+  - first:
+      213: -8246200066980507261
+    second: Armos Knights_14
+  - first:
+      213: -5012904457045733843
+    second: Armos Knights_15
+  - first:
+      213: -3178284864384705241
+    second: Armos Knights_16
+  - first:
+      213: 5301599421662235325
+    second: Armos Knights_17
+  - first:
+      213: 7071193422869215702
+    second: Armos Knights_18
+  - first:
+      213: 1597235088231235172
+    second: Armos Knights_19
+  - first:
+      213: 605900613653279018
+    second: Armos Knights_20
+  - first:
+      213: 252759909586574234
+    second: Armos Knights_21
+  - first:
+      213: -4806167373726291052
+    second: Armos Knights_22
+  - first:
+      213: -2398646506780043080
+    second: Armos Knights_23
+  - first:
+      213: 5225791893429780852
+    second: Armos Knights_24
+  - first:
+      213: -1284905704524384646
+    second: Armos Knights_25
+  - first:
+      213: -5291080531556870215
+    second: Armos Knights_26
+  - first:
+      213: -8669886645953952008
+    second: Armos Knights_27
+  - first:
+      213: -6662314180645141542
+    second: Armos Knights_28
+  - first:
+      213: -8119778693354712427
+    second: Armos Knights_29
+  - first:
+      213: -6282617292107662524
+    second: Armos Knights_30
+  - first:
+      213: -5942627118751715258
+    second: Armos Knights_31
+  - first:
+      213: 4964556211524249370
+    second: Armos Knights_32
+  - first:
+      213: -6532314782081273531
+    second: Armos Knights_33
+  - first:
+      213: 3765225854939593947
+    second: Armos Knights_34
+  - first:
+      213: -1700945608693562606
+    second: Armos Knights_35
+  - first:
+      213: 3587787081576676797
+    second: Armos Knights_36
+  - first:
+      213: -3790579777411109042
+    second: Armos Knights_37
+  - first:
+      213: 6183099384323724386
+    second: Armos Knights_38
+  - first:
+      213: -6202967994909902292
+    second: Armos Knights_39
+  - first:
+      213: 8846791044011622945
+    second: Armos Knights_40
+  - first:
+      213: -1686194524380233008
+    second: Armos Knights_41
+  - first:
+      213: -3097748458164454554
+    second: Armos Knights_42
+  - first:
+      213: -7922086330857350136
+    second: Armos Knights_43
+  - first:
+      213: -591328762422792457
+    second: Armos Knights_44
+  - first:
+      213: 726836779589653787
+    second: Armos Knights_45
+  - first:
+      213: 8041561076204255814
+    second: Armos Knights_46
+  - first:
+      213: -4977252582172084081
+    second: Armos Knights_47
+  - first:
+      213: 4695784138469276135
+    second: Armos Knights_48
+  - first:
+      213: 8935339819508006515
+    second: Armos Knights_49
+  - first:
+      213: -5726397815429611598
+    second: Armos Knights_50
+  - first:
+      213: -781450997873144747
+    second: Armos Knights_51
+  - first:
+      213: 7295100148105296687
+    second: Armos Knights_52
+  - first:
+      213: 5464526963871700741
+    second: Armos Knights_53
+  - first:
+      213: -6560587034486055138
+    second: Armos Knights_54
+  - first:
+      213: 6388598945398748952
+    second: Armos Knights_55
+  - first:
+      213: 181720676592856522
+    second: Armos Knights_56
+  - first:
+      213: -3597190770642166381
+    second: Armos Knights_57
+  - first:
+      213: -3572697024378326637
+    second: Armos Knights_58
+  - first:
+      213: 5570845176192913957
+    second: Armos Knights_59
+  - first:
+      213: -5271041668428991451
+    second: Armos Knights_60
+  - first:
+      213: 5605647964752744778
+    second: Armos Knights_61
+  - first:
+      213: 5004544846574945538
+    second: Armos Knights_62
+  - first:
+      213: -7386609262240051346
+    second: Armos Knights_63
+  - first:
+      213: 8173065588460221223
+    second: Armos Knights_64
+  - first:
+      213: 5915276936025610209
+    second: Armos Knights_65
+  - first:
+      213: -5838341648110799452
+    second: Armos Knights_66
+  - first:
+      213: -3714634249290438137
+    second: Armos Knights_67
+  - first:
+      213: -544119943646451405
+    second: Armos Knights_68
+  - first:
+      213: 9017811187627419172
+    second: Armos Knights_69
+  - first:
+      213: -8341132980500245321
+    second: Armos Knights_70
+  - first:
+      213: -1851618227147844051
+    second: Armos Knights_71
+  - first:
+      213: 3194343449845834420
+    second: Armos Knights_72
+  - first:
+      213: -885554539930372907
+    second: Armos Knights_73
+  - first:
+      213: 2281680913215134903
+    second: Armos Knights_74
+  - first:
+      213: 3066558738545134745
+    second: Armos Knights_75
+  - first:
+      213: 2454903550415544505
+    second: Armos Knights_76
+  - first:
+      213: 8853617965331227855
+    second: Armos Knights_77
+  - first:
+      213: 802786414122938844
+    second: Armos Knights_78
+  - first:
+      213: -1412710641546967896
+    second: Armos Knights_79
+  - first:
+      213: 3247650063237407957
+    second: Armos Knights_80
+  - first:
+      213: -1878586958187528431
+    second: Armos Knights_81
+  - first:
+      213: 7440003144887247
+    second: Armos Knights_82
+  - first:
+      213: 6973968169897280775
+    second: Armos Knights_83
+  - first:
+      213: -1610729366546190771
+    second: Armos Knights_84
+  - first:
+      213: -3507792035112956132
+    second: Armos Knights_85
+  - first:
+      213: 9200321622509943466
+    second: Armos Knights_86
+  - first:
+      213: -7341519916080400809
+    second: Armos Knights_87
+  - first:
+      213: 2721473795724306512
+    second: Armos Knights_88
+  - first:
+      213: -4181387151354387146
+    second: Armos Knights_89
+  - first:
+      213: -4706093642923391144
+    second: Armos Knights_90
+  - first:
+      213: -8929989819677591343
+    second: Armos Knights_91
+  - first:
+      213: -461191873883519086
+    second: Armos Knights_92
+  - first:
+      213: 1200132132356543548
+    second: Armos Knights_93
+  - first:
+      213: 8052038781141493637
+    second: Armos Knights_94
+  - first:
+      213: -7842256376946196653
+    second: Armos Knights_95
+  - first:
+      213: -4188611221103314096
+    second: Armos Knights_96
+  - first:
+      213: 5893596896133999619
+    second: Armos Knights_97
+  - first:
+      213: -4863688513732790394
+    second: Armos Knights_98
+  - first:
+      213: 4810401138098665336
+    second: Armos Knights_99
+  - first:
+      213: 6084160668888424
+    second: Armos Knights_100
+  - first:
+      213: -9051110324629577213
+    second: Armos Knights_101
+  - first:
+      213: -7328170010405612752
+    second: Armos Knights_102
+  - first:
+      213: -5121880517762849744
+    second: Armos Knights_103
+  - first:
+      213: 5094255163149353593
+    second: Armos Knights_104
+  - first:
+      213: -5790704223373839014
+    second: Armos Knights_105
+  - first:
+      213: -2443517609364316048
+    second: Armos Knights_106
+  - first:
+      213: -2791317382244462590
+    second: Armos Knights_107
+  - first:
+      213: 7012741827066554569
+    second: Armos Knights_108
+  - first:
+      213: 2825583064526772538
+    second: Armos Knights_109
+  - first:
+      213: -7865976715388408642
+    second: Armos Knights_110
+  - first:
+      213: -1994267258203826617
+    second: Armos Knights_111
+  - first:
+      213: -2897363561082803676
+    second: Armos Knights_112
+  - first:
+      213: -5628857703929868841
+    second: Armos Knights_113
+  - first:
+      213: 5367169621463658441
+    second: Armos Knights_114
+  - first:
+      213: -1129943634665587547
+    second: Armos Knights_115
+  - first:
+      213: 3723391905464870380
+    second: Armos Knights_116
+  - first:
+      213: 4955655377509258205
+    second: Armos Knights_117
+  - first:
+      213: -8366774992971567457
+    second: Armos Knights_118
+  - first:
+      213: -8448462833023009728
+    second: Armos Knights_119
+  - first:
+      213: -8930195254743996124
+    second: Armos Knights_120
+  - first:
+      213: 6753094705212039953
+    second: Armos Knights_121
+  - first:
+      213: -5056225298497578099
+    second: Armos Knights_122
+  - first:
+      213: 1034379985453803592
+    second: Armos Knights_123
+  - first:
+      213: -8572509806074055344
+    second: Armos Knights_124
+  - first:
+      213: -8912778496955416325
+    second: Armos Knights_125
+  - first:
+      213: -5622691961292302235
+    second: Armos Knights_126
+  - first:
+      213: 7037973044078205638
+    second: Armos Knights_127
+  - first:
+      213: 5290896460697931481
+    second: Armos Knights_128
+  - first:
+      213: 2056772286782441422
+    second: Armos Knights_129
+  - first:
+      213: 9198179763117049995
+    second: Armos Knights_130
+  - first:
+      213: -1048902537803183271
+    second: Armos Knights_131
+  - first:
+      213: -6207877779273536660
+    second: Armos Knights_132
+  - first:
+      213: 7252369904141692106
+    second: Armos Knights_133
+  - first:
+      213: -6554330752066974223
+    second: Armos Knights_134
+  - first:
+      213: -2373393803691929765
+    second: Armos Knights_135
+  - first:
+      213: -2826402412409820111
+    second: Armos Knights_136
+  - first:
+      213: -5689768826545928022
+    second: Armos Knights_137
+  - first:
+      213: -4300525303210465262
+    second: Armos Knights_138
+  - first:
+      213: -887848945777636316
+    second: Armos Knights_139
+  - first:
+      213: 8391089103936845087
+    second: Armos Knights_140
+  - first:
+      213: 661081519899189132
+    second: Armos Knights_141
+  - first:
+      213: -5092401122135884587
+    second: Armos Knights_142
+  - first:
+      213: -4443621858889433737
+    second: Armos Knights_143
+  - first:
+      213: -7417525116217610798
+    second: Armos Knights_144
+  - first:
+      213: -6829356019779299850
+    second: Armos Knights_145
+  - first:
+      213: 4127937191228042298
+    second: Armos Knights_146
+  - first:
+      213: -3248830192749469334
+    second: Armos Knights_147
+  - first:
+      213: -4119462892667808213
+    second: Armos Knights_148
+  - first:
+      213: 7960866957753399072
+    second: Armos Knights_149
+  - first:
+      213: 7922556622601962961
+    second: Armos Knights_150
+  - first:
+      213: 4514452426649419397
+    second: Armos Knights_151
+  - first:
+      213: -5862011409504462041
+    second: Armos Knights_152
+  - first:
+      213: -4051729823297682462
+    second: Armos Knights_153
+  - first:
+      213: -8440274258019354032
+    second: Armos Knights_154
+  - first:
+      213: -5065935024029075420
+    second: Armos Knights_155
+  - first:
+      213: 6244584084018068271
+    second: Armos Knights_156
+  - first:
+      213: -3716671349557238293
+    second: Armos Knights_157
+  - first:
+      213: 1320741914944226215
+    second: Armos Knights_158
+  - first:
+      213: 2639943106086724813
+    second: Armos Knights_159
+  - first:
+      213: 6877582401101827307
+    second: Armos Knights_160
+  - first:
+      213: 3395751432557574061
+    second: Armos Knights_161
+  - first:
+      213: 1793933388465643056
+    second: Armos Knights_162
+  - first:
+      213: 1755391223731008600
+    second: Armos Knights_163
+  - first:
+      213: -232061391766458429
+    second: Armos Knights_164
+  - first:
+      213: 6120066711437931299
+    second: Armos Knights_165
+  - first:
+      213: 2905991269364189011
+    second: Armos Knights_166
+  - first:
+      213: 3846854448891664468
+    second: Armos Knights_167
+  - first:
+      213: 250436705149130157
+    second: Armos Knights_168
+  - first:
+      213: 8085888010622121507
+    second: Armos Knights_169
+  - first:
+      213: 8786562460210567778
+    second: Armos Knights_170
+  - first:
+      213: 8203802739845947780
+    second: Armos Knights_171
+  - first:
+      213: 6234345634131232060
+    second: Armos Knights_172
+  - first:
+      213: -6709590879441893232
+    second: Armos Knights_173
+  - first:
+      213: 7217957095915130315
+    second: Armos Knights_174
+  - first:
+      213: -3753363296544153546
+    second: Armos Knights_175
+  - first:
+      213: 476736260995526563
+    second: Armos Knights_176
+  - first:
+      213: -1048892725067443969
+    second: Armos Knights_177
+  - first:
+      213: 6904400466545345096
+    second: Armos Knights_178
+  - first:
+      213: -3751692370288415807
+    second: Armos Knights_179
+  - first:
+      213: -1567117486235355995
+    second: Armos Knights_180
+  - first:
+      213: 2680008336569282784
+    second: Armos Knights_181
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +580,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -48,10 +591,10 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -72,10 +615,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -100,13 +643,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: SNES - The Legend of Zelda A Link to the Past - Armos Knights_0
+      name: Armos Knights_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 456
-        height: 232
+        x: 7
+        y: 215
+        width: 51
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +658,3990 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: db88eaa1c3de994e0800000000000000
-      internalID: -1974286119223785283
+      spriteID: a243b2d175a1dadf0800000000000000
+      internalID: -167448649688992726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 215
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91c741088bed0c80800000000000000
+      internalID: -8354762764332842595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_2
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 215
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2cfb439fb9343f0800000000000000
+      internalID: -917718404419304759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_3
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 215
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0b85fc05ee2aca0800000000000000
+      internalID: -6006976922115329869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_4
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 215
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee1c2e0172f21da0800000000000000
+      internalID: -5975447188184228114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_5
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 215
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b61571f5f6f08670800000000000000
+      internalID: 8539096429672863412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 215
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cbc844205f3eb670800000000000000
+      internalID: 8556345955489205187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_7
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 215
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70b5be700b319480800000000000000
+      internalID: -8894262915768143748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_8
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 215
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d64217d88776c480800000000000000
+      internalID: -8879278185706797355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_9
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 213
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae618cb523b5bd250800000000000000
+      internalID: 5970466002856056554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_10
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 127
+        width: 16
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e48d021d83115ac20800000000000000
+      internalID: 3216996444550518862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_11
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 215
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2bbdbe5e99979d0800000000000000
+      internalID: -2776018482513595701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_12
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 215
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e1cabfbb88a8f60800000000000000
+      internalID: 8037386825958694407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_13
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 215
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28dc5049656366780800000000000000
+      internalID: -8690198685486297726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_14
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 215
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38113d4babc9f8d80800000000000000
+      internalID: -8246200066980507261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_15
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 215
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e01d0b4f59e6ab0800000000000000
+      internalID: -5012904457045733843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_16
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 215
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d595f41c674e3d0800000000000000
+      internalID: -3178284864384705241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_17
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 215
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba089db590139940800000000000000
+      internalID: 5301599421662235325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_18
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 213
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9b23c04fce12260800000000000000
+      internalID: 7071193422869215702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_19
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 175
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46effc8a9d48a2610800000000000000
+      internalID: 1597235088231235172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_20
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 200
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21befdd567986800800000000000000
+      internalID: 605900613653279018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_21
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 192
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b1e507ccbf18300800000000000000
+      internalID: 252759909586574234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_22
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 202
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49be8fddc301d4db0800000000000000
+      internalID: -4806167373726291052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_23
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 193
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8d4ade5bb46bed0800000000000000
+      internalID: -2398646506780043080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_24
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 194
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4718ff52a0eb58840800000000000000
+      internalID: 5225791893429780852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_25
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 175
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7673f7c1191b2ee0800000000000000
+      internalID: -1284905704524384646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_26
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 200
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b751963a4e4296b0800000000000000
+      internalID: -5291080531556870215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_27
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 192
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f60301d7006ea780800000000000000
+      internalID: -8669886645953952008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_28
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 202
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad349981d84ba83a0800000000000000
+      internalID: -6662314180645141542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_29
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 193
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5929ecf7c40c05f80800000000000000
+      internalID: -8119778693354712427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_30
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 194
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b323c0cd8afc8a0800000000000000
+      internalID: -6282617292107662524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_31
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 203
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6407332fe1c878da0800000000000000
+      internalID: -5942627118751715258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_32
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 203
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17ac5f2295a5e440800000000000000
+      internalID: 4964556211524249370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_33
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 159
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541330db05e8855a0800000000000000
+      internalID: -6532314782081273531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_34
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 193
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc7ace47f4c04430800000000000000
+      internalID: 3765225854939593947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_35
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 159
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2134f8b1bf60568e0800000000000000
+      internalID: -1700945608693562606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_36
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 193
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbdfc1f77516ac130800000000000000
+      internalID: 3587787081576676797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_37
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 183
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4fa1aa96c7256bc0800000000000000
+      internalID: -3790579777411109042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_38
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 183
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2645d8d6128cec550800000000000000
+      internalID: 6183099384323724386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_39
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 173
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a374e2971aae9a0800000000000000
+      internalID: -6202967994909902292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_40
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 173
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1228b6c059d16ca70800000000000000
+      internalID: 8846791044011622945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_41
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 159
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d28b10930f6998e0800000000000000
+      internalID: -1686194524380233008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_42
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 159
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66bf79b90369205d0800000000000000
+      internalID: -3097748458164454554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_43
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 163
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c154184781f0290800000000000000
+      internalID: -7922086330857350136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_44
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 163
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe6152af9d2bc7f0800000000000000
+      internalID: -591328762422792457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_45
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 119
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b155129333e361a00800000000000000
+      internalID: 726836779589653787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_46
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 144
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a33ca513d599f60800000000000000
+      internalID: 8041561076204255814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_47
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 146
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88bc3aa52f3deab0800000000000000
+      internalID: -4977252582172084081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_48
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 119
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9ff5b6bc6ca2140800000000000000
+      internalID: 4695784138469276135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_49
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 144
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e7d217934b00c70800000000000000
+      internalID: 8935339819508006515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_50
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 146
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bfbeb0d68fb780b0800000000000000
+      internalID: -5726397815429611598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_51
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 153
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c856e257ab725f0800000000000000
+      internalID: -781450997873144747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_52
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 153
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b37b00fe66d3560800000000000000
+      internalID: 7295100148105296687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_53
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 136
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507dd134256e5db40800000000000000
+      internalID: 5464526963871700741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_54
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 137
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1fdc630adc14f4a0800000000000000
+      internalID: -6560587034486055138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_55
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 138
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8177de084ecd8a850800000000000000
+      internalID: 6388598945398748952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_56
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 136
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd29a81ef9958200800000000000000
+      internalID: 181720676592856522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_57
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 137
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d5f868d06341ec0800000000000000
+      internalID: -3597190770642166381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_58
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 138
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391b5db3cfa3b6ec0800000000000000
+      internalID: -3572697024378326637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_59
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 143
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5225da11c2e9f4d40800000000000000
+      internalID: 5570845176192913957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_60
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 143
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524f10d978f79d6b0800000000000000
+      internalID: -5271041668428991451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_61
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 141
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a419afabf134bcd40800000000000000
+      internalID: 5605647964752744778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_62
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 143
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2058c92d507b37540800000000000000
+      internalID: 5004544846574945538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_63
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 143
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f429d030e7d7990800000000000000
+      internalID: -7386609262240051346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_64
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 143
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723f32699df8c6170800000000000000
+      internalID: 8173065588460221223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_65
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 143
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e71ed76809471250800000000000000
+      internalID: 5915276936025610209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_66
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 141
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5bcf2343b0afea0800000000000000
+      internalID: -5838341648110799452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_67
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 143
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a2b8cc4d7f27cc0800000000000000
+      internalID: -3714634249290438137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_68
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 143
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3396fbb4bc5e278f0800000000000000
+      internalID: -544119943646451405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_69
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 143
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426631a2f73b52d70800000000000000
+      internalID: 9017811187627419172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_70
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 103
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4dcf85fb75e3c80800000000000000
+      internalID: -8341132980500245321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_71
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 103
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26d63f580bbd46e0800000000000000
+      internalID: -1851618227147844051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_72
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 111
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b228aa7176945c20800000000000000
+      internalID: 3194343449845834420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_73
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 84
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4373a76d0e5b3f0800000000000000
+      internalID: -885554539930372907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_74
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 111
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc1af2a3b82aaf10800000000000000
+      internalID: 2281680913215134903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_75
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 111
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c4ad5ecea9e8a20800000000000000
+      internalID: 3066558738545134745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_76
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 111
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b02d50c5c1911220800000000000000
+      internalID: 2454903550415544505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_77
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 84
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4a59881ae5eda70800000000000000
+      internalID: 8853617965331227855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_78
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 84
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1be448df1142b00800000000000000
+      internalID: 802786414122938844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_79
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 133
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4cd28082b056ce0800000000000000
+      internalID: -1412710641546967896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_80
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 84
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d46a069688f11d20800000000000000
+      internalID: 3247650063237407957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_81
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 59
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ffc8d5d1bede5e0800000000000000
+      internalID: -1878586958187528431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_82
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 87
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb2498b4ae6a1000800000000000000
+      internalID: 7440003144887247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_83
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 95
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705cb91d91388c060800000000000000
+      internalID: 6973968169897280775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_84
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 95
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e69b5dc2a85a9e0800000000000000
+      internalID: -1610729366546190771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_85
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 59
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1fc529aab1d15fc0800000000000000
+      internalID: -3507792035112956132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_86
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 87
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaafc0135cb1eaf70800000000000000
+      internalID: 9200321622509943466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_87
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 91
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756729a888ead1a90800000000000000
+      internalID: -7341519916080400809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_88
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 99
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0586eab8ffd94c520800000000000000
+      internalID: 2721473795724306512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_89
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 90
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635a32f2a8ab8f5c0800000000000000
+      internalID: -4181387151354387146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_90
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 100
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857c3d504c890beb0800000000000000
+      internalID: -4706093642923391144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_91
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 90
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d83346729d421480800000000000000
+      internalID: -8929989819677591343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_92
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 58
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29740e72f648999f0800000000000000
+      internalID: -461191873883519086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_93
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 91
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34d4a8d0d9b7a010800000000000000
+      internalID: 1200132132356543548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_94
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 99
+        width: 69
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587ab932c969ebf60800000000000000
+      internalID: 8052038781141493637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_95
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 63
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f749e0065ba2390800000000000000
+      internalID: -7842256376946196653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_96
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 88
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05bfbef59401fd5c0800000000000000
+      internalID: -4188611221103314096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_97
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 80
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c6963c6234ac150800000000000000
+      internalID: 5893596896133999619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_98
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 90
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6873fc0d015b08cb0800000000000000
+      internalID: -4863688513732790394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_99
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 81
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8777187395af1c240800000000000000
+      internalID: 4810401138098665336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_100
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 82
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86dec6b038d951000800000000000000
+      internalID: 6084160668888424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_101
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 63
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30265955d1ff36280800000000000000
+      internalID: -9051110324629577213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_102
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 88
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0335a1ca33c1d4a90800000000000000
+      internalID: -7328170010405612752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_103
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 80
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03460c45ecc6be8b0800000000000000
+      internalID: -5121880517762849744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_104
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 90
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97287b2941e62b640800000000000000
+      internalID: 5094255163149353593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_105
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 81
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55b276703943afa0800000000000000
+      internalID: -5790704223373839014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_106
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 82
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070ad6b3ea1e61ed0800000000000000
+      internalID: -2443517609364316048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_107
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 64
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20012ff31af3349d0800000000000000
+      internalID: -2791317382244462590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_108
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 64
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c863df5983425160800000000000000
+      internalID: 7012741827066554569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_109
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 65
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a395a7c93dc763720800000000000000
+      internalID: 2825583064526772538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_110
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 65
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebca7c36adf66d290800000000000000
+      internalID: -7865976715388408642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_111
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 62
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7469197ae70f254e0800000000000000
+      internalID: -1994267258203826617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_112
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 62
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42aaf7c213f7ac7d0800000000000000
+      internalID: -2897363561082803676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_113
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 66
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd0a02cdb742e1b0800000000000000
+      internalID: -5628857703929868841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_114
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 60
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cfeb9095540c7a40800000000000000
+      internalID: 5367169621463658441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_115
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 65
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac3b8f3042a150f0800000000000000
+      internalID: -1129943634665587547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_116
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 65
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce56ccce5352ca330800000000000000
+      internalID: 3723391905464870380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_117
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 60
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd391b54f4606c440800000000000000
+      internalID: 4955655377509258205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_118
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 47
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9eee44197e33eb80800000000000000
+      internalID: -8366774992971567457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_119
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 47
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04cb293b0d701ca80800000000000000
+      internalID: -8448462833023009728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_120
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 27
+        width: 8
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429ea12eab2911480800000000000000
+      internalID: -8930195254743996124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_121
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 7
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1132cbedadfc7bd50800000000000000
+      internalID: 6753094705212039953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_122
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 32
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b55ba41eda4d9b0800000000000000
+      internalID: -5056225298497578099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_123
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 24
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8486fbbcd1bda5e00800000000000000
+      internalID: 1034379985453803592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_124
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 34
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055376f10c3580980800000000000000
+      internalID: -8572509806074055344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_125
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 25
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf08b3fcd237f4480800000000000000
+      internalID: -8912778496955416325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_126
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 26
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5685ab5937f28f1b0800000000000000
+      internalID: -5622691961292302235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_127
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 7
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca5e0fd137eba160800000000000000
+      internalID: 7037973044078205638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_128
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 32
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de85437c4a0d6940800000000000000
+      internalID: 5290896460697931481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_129
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 24
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec709816f7f1b8c10800000000000000
+      internalID: 2056772286782441422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_130
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 34
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8847c0b2cf76af70800000000000000
+      internalID: 9198179763117049995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_131
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 25
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b4c3ef2bc8171f0800000000000000
+      internalID: -1048902537803183271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_132
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 26
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b2c5dec0039d9a0800000000000000
+      internalID: -6207877779273536660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_133
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 31
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc691cc00895a460800000000000000
+      internalID: 7252369904141692106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_134
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 31
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd01a648e65a05a0800000000000000
+      internalID: -6554330752066974223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_135
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 31
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f44da09e2001fd0800000000000000
+      internalID: -2373393803691929765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_136
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 31
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c61081bf996c8d0800000000000000
+      internalID: -2826402412409820111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_137
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 31
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa883afd561e901b0800000000000000
+      internalID: -5689768826545928022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_138
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 31
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218af8a95077154c0800000000000000
+      internalID: -4300525303210465262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_139
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 31
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c08bc761abda3f0800000000000000
+      internalID: -887848945777636316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_140
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 31
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f157ec60513237470800000000000000
+      internalID: 8391089103936845087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_141
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 31
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f9a29c322ac2900800000000000000
+      internalID: 661081519899189132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_142
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 31
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc3a4df8282459b0800000000000000
+      internalID: -5092401122135884587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_143
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 27
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77dfbb076751552c0800000000000000
+      internalID: -4443621858889433737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_144
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 25
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ddaf4fd438af0990800000000000000
+      internalID: -7417525116217610798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_145
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 25
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5116c22e04931a0800000000000000
+      internalID: -6829356019779299850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_146
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 27
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c65423101694930800000000000000
+      internalID: 4127937191228042298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_147
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 27
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61aa991726d9e2d0800000000000000
+      internalID: -3248830192749469334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_148
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 27
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26d121335ab4d6c0800000000000000
+      internalID: -4119462892667808213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_149
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 27
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0273901d15eaa7e60800000000000000
+      internalID: 7960866957753399072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_150
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 9
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5cb13d54392fd60800000000000000
+      internalID: 7922556622601962961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_151
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 9
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58eb6dd309e86ae30800000000000000
+      internalID: 4514452426649419397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_152
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 8
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b133b6ea3f5aea0800000000000000
+      internalID: -5862011409504462041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_153
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 18
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e34c74513d55c7c0800000000000000
+      internalID: -4051729823297682462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_154
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 18
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05af1e3e74f1eda80800000000000000
+      internalID: -8440274258019354032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_155
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 18
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4287985afee22b9b0800000000000000
+      internalID: -5065935024029075420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_156
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 18
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b74f1a32839a650800000000000000
+      internalID: 6244584084018068271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_157
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 18
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5e4ce691bbb6cc0800000000000000
+      internalID: -3716671349557238293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_158
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 18
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3483826c7345210800000000000000
+      internalID: 1320741914944226215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_159
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 18
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc46a899446f2a420800000000000000
+      internalID: 2639943106086724813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_160
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 16
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec072b31c4127f50800000000000000
+      internalID: 6877582401101827307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_161
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 16
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da73e1bbfe1202f20800000000000000
+      internalID: 3395751432557574061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_162
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 16
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e153289e455e810800000000000000
+      internalID: 1793933388465643056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_163
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 16
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854335c74076c5810800000000000000
+      internalID: 1755391223731008600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_164
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 16
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf6da9c46d87ccf0800000000000000
+      internalID: -232061391766458429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_165
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 16
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32373f0af38dee450800000000000000
+      internalID: 6120066711437931299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_166
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 16
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357c6d2b9a7245820800000000000000
+      internalID: 2905991269364189011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_167
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 5
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45891d06db5c26530800000000000000
+      internalID: 3846854448891664468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_168
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 7
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da512214bdab97300800000000000000
+      internalID: 250436705149130157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_169
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 7
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326b8b60e48d63070800000000000000
+      internalID: 8085888010622121507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_170
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 7
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a12ad110420f970800000000000000
+      internalID: 8786562460210567778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_171
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 7
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481e4e35023c9d170800000000000000
+      internalID: 8203802739845947780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_172
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 5
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c354661c258d48650800000000000000
+      internalID: 6234345634131232060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_173
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 5
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0984aa2e4aeb2e2a0800000000000000
+      internalID: -6709590879441893232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_174
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 5
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd08028cb55b2460800000000000000
+      internalID: 7217957095915130315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_175
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 5
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6302f7cc7ff59ebc0800000000000000
+      internalID: -3753363296544153546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_176
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 4
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3afaf208a15bd9600800000000000000
+      internalID: 476736260995526563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_177
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 5
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff01dd2bf959171f0800000000000000
+      internalID: -1048892725067443969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_178
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 5
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8420a7ba4ab51df50800000000000000
+      internalID: 6904400466545345096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_179
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 5
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb6a62aaaf4febc0800000000000000
+      internalID: -3751692370288415807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_180
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 5
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a473aff2fa704ae0800000000000000
+      internalID: -1567117486235355995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armos Knights_181
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 5
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e03c40026d413520800000000000000
+      internalID: 2680008336569282784
       vertices: []
       indices: 
       edges: []
@@ -135,7 +4660,188 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      SNES - The Legend of Zelda A Link to the Past - Armos Knights_0: -1974286119223785283
+      Armos Knights_0: -167448649688992726
+      Armos Knights_1: -8354762764332842595
+      Armos Knights_10: 3216996444550518862
+      Armos Knights_100: 6084160668888424
+      Armos Knights_101: -9051110324629577213
+      Armos Knights_102: -7328170010405612752
+      Armos Knights_103: -5121880517762849744
+      Armos Knights_104: 5094255163149353593
+      Armos Knights_105: -5790704223373839014
+      Armos Knights_106: -2443517609364316048
+      Armos Knights_107: -2791317382244462590
+      Armos Knights_108: 7012741827066554569
+      Armos Knights_109: 2825583064526772538
+      Armos Knights_11: -2776018482513595701
+      Armos Knights_110: -7865976715388408642
+      Armos Knights_111: -1994267258203826617
+      Armos Knights_112: -2897363561082803676
+      Armos Knights_113: -5628857703929868841
+      Armos Knights_114: 5367169621463658441
+      Armos Knights_115: -1129943634665587547
+      Armos Knights_116: 3723391905464870380
+      Armos Knights_117: 4955655377509258205
+      Armos Knights_118: -8366774992971567457
+      Armos Knights_119: -8448462833023009728
+      Armos Knights_12: 8037386825958694407
+      Armos Knights_120: -8930195254743996124
+      Armos Knights_121: 6753094705212039953
+      Armos Knights_122: -5056225298497578099
+      Armos Knights_123: 1034379985453803592
+      Armos Knights_124: -8572509806074055344
+      Armos Knights_125: -8912778496955416325
+      Armos Knights_126: -5622691961292302235
+      Armos Knights_127: 7037973044078205638
+      Armos Knights_128: 5290896460697931481
+      Armos Knights_129: 2056772286782441422
+      Armos Knights_13: -8690198685486297726
+      Armos Knights_130: 9198179763117049995
+      Armos Knights_131: -1048902537803183271
+      Armos Knights_132: -6207877779273536660
+      Armos Knights_133: 7252369904141692106
+      Armos Knights_134: -6554330752066974223
+      Armos Knights_135: -2373393803691929765
+      Armos Knights_136: -2826402412409820111
+      Armos Knights_137: -5689768826545928022
+      Armos Knights_138: -4300525303210465262
+      Armos Knights_139: -887848945777636316
+      Armos Knights_14: -8246200066980507261
+      Armos Knights_140: 8391089103936845087
+      Armos Knights_141: 661081519899189132
+      Armos Knights_142: -5092401122135884587
+      Armos Knights_143: -4443621858889433737
+      Armos Knights_144: -7417525116217610798
+      Armos Knights_145: -6829356019779299850
+      Armos Knights_146: 4127937191228042298
+      Armos Knights_147: -3248830192749469334
+      Armos Knights_148: -4119462892667808213
+      Armos Knights_149: 7960866957753399072
+      Armos Knights_15: -5012904457045733843
+      Armos Knights_150: 7922556622601962961
+      Armos Knights_151: 4514452426649419397
+      Armos Knights_152: -5862011409504462041
+      Armos Knights_153: -4051729823297682462
+      Armos Knights_154: -8440274258019354032
+      Armos Knights_155: -5065935024029075420
+      Armos Knights_156: 6244584084018068271
+      Armos Knights_157: -3716671349557238293
+      Armos Knights_158: 1320741914944226215
+      Armos Knights_159: 2639943106086724813
+      Armos Knights_16: -3178284864384705241
+      Armos Knights_160: 6877582401101827307
+      Armos Knights_161: 3395751432557574061
+      Armos Knights_162: 1793933388465643056
+      Armos Knights_163: 1755391223731008600
+      Armos Knights_164: -232061391766458429
+      Armos Knights_165: 6120066711437931299
+      Armos Knights_166: 2905991269364189011
+      Armos Knights_167: 3846854448891664468
+      Armos Knights_168: 250436705149130157
+      Armos Knights_169: 8085888010622121507
+      Armos Knights_17: 5301599421662235325
+      Armos Knights_170: 8786562460210567778
+      Armos Knights_171: 8203802739845947780
+      Armos Knights_172: 6234345634131232060
+      Armos Knights_173: -6709590879441893232
+      Armos Knights_174: 7217957095915130315
+      Armos Knights_175: -3753363296544153546
+      Armos Knights_176: 476736260995526563
+      Armos Knights_177: -1048892725067443969
+      Armos Knights_178: 6904400466545345096
+      Armos Knights_179: -3751692370288415807
+      Armos Knights_18: 7071193422869215702
+      Armos Knights_180: -1567117486235355995
+      Armos Knights_181: 2680008336569282784
+      Armos Knights_19: 1597235088231235172
+      Armos Knights_2: -917718404419304759
+      Armos Knights_20: 605900613653279018
+      Armos Knights_21: 252759909586574234
+      Armos Knights_22: -4806167373726291052
+      Armos Knights_23: -2398646506780043080
+      Armos Knights_24: 5225791893429780852
+      Armos Knights_25: -1284905704524384646
+      Armos Knights_26: -5291080531556870215
+      Armos Knights_27: -8669886645953952008
+      Armos Knights_28: -6662314180645141542
+      Armos Knights_29: -8119778693354712427
+      Armos Knights_3: -6006976922115329869
+      Armos Knights_30: -6282617292107662524
+      Armos Knights_31: -5942627118751715258
+      Armos Knights_32: 4964556211524249370
+      Armos Knights_33: -6532314782081273531
+      Armos Knights_34: 3765225854939593947
+      Armos Knights_35: -1700945608693562606
+      Armos Knights_36: 3587787081576676797
+      Armos Knights_37: -3790579777411109042
+      Armos Knights_38: 6183099384323724386
+      Armos Knights_39: -6202967994909902292
+      Armos Knights_4: -5975447188184228114
+      Armos Knights_40: 8846791044011622945
+      Armos Knights_41: -1686194524380233008
+      Armos Knights_42: -3097748458164454554
+      Armos Knights_43: -7922086330857350136
+      Armos Knights_44: -591328762422792457
+      Armos Knights_45: 726836779589653787
+      Armos Knights_46: 8041561076204255814
+      Armos Knights_47: -4977252582172084081
+      Armos Knights_48: 4695784138469276135
+      Armos Knights_49: 8935339819508006515
+      Armos Knights_5: 8539096429672863412
+      Armos Knights_50: -5726397815429611598
+      Armos Knights_51: -781450997873144747
+      Armos Knights_52: 7295100148105296687
+      Armos Knights_53: 5464526963871700741
+      Armos Knights_54: -6560587034486055138
+      Armos Knights_55: 6388598945398748952
+      Armos Knights_56: 181720676592856522
+      Armos Knights_57: -3597190770642166381
+      Armos Knights_58: -3572697024378326637
+      Armos Knights_59: 5570845176192913957
+      Armos Knights_6: 8556345955489205187
+      Armos Knights_60: -5271041668428991451
+      Armos Knights_61: 5605647964752744778
+      Armos Knights_62: 5004544846574945538
+      Armos Knights_63: -7386609262240051346
+      Armos Knights_64: 8173065588460221223
+      Armos Knights_65: 5915276936025610209
+      Armos Knights_66: -5838341648110799452
+      Armos Knights_67: -3714634249290438137
+      Armos Knights_68: -544119943646451405
+      Armos Knights_69: 9017811187627419172
+      Armos Knights_7: -8894262915768143748
+      Armos Knights_70: -8341132980500245321
+      Armos Knights_71: -1851618227147844051
+      Armos Knights_72: 3194343449845834420
+      Armos Knights_73: -885554539930372907
+      Armos Knights_74: 2281680913215134903
+      Armos Knights_75: 3066558738545134745
+      Armos Knights_76: 2454903550415544505
+      Armos Knights_77: 8853617965331227855
+      Armos Knights_78: 802786414122938844
+      Armos Knights_79: -1412710641546967896
+      Armos Knights_8: -8879278185706797355
+      Armos Knights_80: 3247650063237407957
+      Armos Knights_81: -1878586958187528431
+      Armos Knights_82: 7440003144887247
+      Armos Knights_83: 6973968169897280775
+      Armos Knights_84: -1610729366546190771
+      Armos Knights_85: -3507792035112956132
+      Armos Knights_86: 9200321622509943466
+      Armos Knights_87: -7341519916080400809
+      Armos Knights_88: 2721473795724306512
+      Armos Knights_89: -4181387151354387146
+      Armos Knights_9: 5970466002856056554
+      Armos Knights_90: -4706093642923391144
+      Armos Knights_91: -8929989819677591343
+      Armos Knights_92: -461191873883519086
+      Armos Knights_93: 1200132132356543548
+      Armos Knights_94: 8052038781141493637
+      Armos Knights_95: -7842256376946196653
+      Armos Knights_96: -4188611221103314096
+      Armos Knights_97: 5893596896133999619
+      Armos Knights_98: -4863688513732790394
+      Armos Knights_99: 4810401138098665336
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

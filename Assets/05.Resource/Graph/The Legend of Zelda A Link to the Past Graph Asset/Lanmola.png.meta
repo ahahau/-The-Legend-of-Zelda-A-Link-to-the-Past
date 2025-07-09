@@ -1,0 +1,6045 @@
+fileFormatVersion: 2
+guid: 40e28c8d274254c4db31ebe1d6c3e30e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3989188607931485697
+    second: Lanmola_0
+  - first:
+      213: 6624316591507464314
+    second: Lanmola_1
+  - first:
+      213: 8110271933959578524
+    second: Lanmola_2
+  - first:
+      213: 5958728717129061327
+    second: Lanmola_3
+  - first:
+      213: -9185862466230809616
+    second: Lanmola_4
+  - first:
+      213: -1066334554460681690
+    second: Lanmola_5
+  - first:
+      213: -2230264601597413502
+    second: Lanmola_6
+  - first:
+      213: -5370756198858171859
+    second: Lanmola_7
+  - first:
+      213: -4981178277795008586
+    second: Lanmola_8
+  - first:
+      213: 6620981938625553408
+    second: Lanmola_9
+  - first:
+      213: 6407185223382103785
+    second: Lanmola_10
+  - first:
+      213: -8037859185043910547
+    second: Lanmola_11
+  - first:
+      213: -7143161369096175620
+    second: Lanmola_12
+  - first:
+      213: 4357193370572490142
+    second: Lanmola_13
+  - first:
+      213: -3389676214749983910
+    second: Lanmola_14
+  - first:
+      213: 1696974866546906042
+    second: Lanmola_15
+  - first:
+      213: -3836802496622959850
+    second: Lanmola_16
+  - first:
+      213: 3915866854094872964
+    second: Lanmola_17
+  - first:
+      213: -6247854214821302353
+    second: Lanmola_18
+  - first:
+      213: 6662564669976039658
+    second: Lanmola_19
+  - first:
+      213: 7160268239687437878
+    second: Lanmola_20
+  - first:
+      213: -5751878488973568787
+    second: Lanmola_21
+  - first:
+      213: -225227152906340244
+    second: Lanmola_22
+  - first:
+      213: -6684822781664629909
+    second: Lanmola_23
+  - first:
+      213: -9006777347862179782
+    second: Lanmola_24
+  - first:
+      213: 2394765120645139596
+    second: Lanmola_25
+  - first:
+      213: -688793496946388538
+    second: Lanmola_26
+  - first:
+      213: -8014191188570757128
+    second: Lanmola_27
+  - first:
+      213: 2610520180849899816
+    second: Lanmola_28
+  - first:
+      213: -683420196128375471
+    second: Lanmola_29
+  - first:
+      213: -8558339713745585313
+    second: Lanmola_30
+  - first:
+      213: -5801330395713161190
+    second: Lanmola_31
+  - first:
+      213: -3182226812757125725
+    second: Lanmola_32
+  - first:
+      213: -5960958425496883740
+    second: Lanmola_33
+  - first:
+      213: 6678767661575581888
+    second: Lanmola_34
+  - first:
+      213: -3417907135495775683
+    second: Lanmola_35
+  - first:
+      213: 4849443611914670437
+    second: Lanmola_36
+  - first:
+      213: -2909493909863632732
+    second: Lanmola_37
+  - first:
+      213: -4857765387582675429
+    second: Lanmola_38
+  - first:
+      213: -1862762039651493807
+    second: Lanmola_39
+  - first:
+      213: 1874345709254661894
+    second: Lanmola_40
+  - first:
+      213: 1515208691536961755
+    second: Lanmola_41
+  - first:
+      213: -2961877744594526821
+    second: Lanmola_42
+  - first:
+      213: -2699065190081905559
+    second: Lanmola_43
+  - first:
+      213: 6428507458503564725
+    second: Lanmola_44
+  - first:
+      213: -1080504437179638447
+    second: Lanmola_45
+  - first:
+      213: 1204682749540089270
+    second: Lanmola_46
+  - first:
+      213: -1808948135404413991
+    second: Lanmola_47
+  - first:
+      213: 1453821273180947876
+    second: Lanmola_48
+  - first:
+      213: 1901511969491865576
+    second: Lanmola_49
+  - first:
+      213: -3330949558268075162
+    second: Lanmola_50
+  - first:
+      213: 7859522847062471065
+    second: Lanmola_51
+  - first:
+      213: 1931788946501781224
+    second: Lanmola_52
+  - first:
+      213: -1955549885585607642
+    second: Lanmola_53
+  - first:
+      213: -1889497287332033879
+    second: Lanmola_54
+  - first:
+      213: 5534282761387946579
+    second: Lanmola_55
+  - first:
+      213: -3714138393811024520
+    second: Lanmola_56
+  - first:
+      213: -2231432795122940280
+    second: Lanmola_57
+  - first:
+      213: -6232024645759160715
+    second: Lanmola_58
+  - first:
+      213: -2169152083523812539
+    second: Lanmola_59
+  - first:
+      213: -4358631860248262327
+    second: Lanmola_60
+  - first:
+      213: -1483246954051888913
+    second: Lanmola_61
+  - first:
+      213: -185790786896406357
+    second: Lanmola_62
+  - first:
+      213: -7385554015158932236
+    second: Lanmola_63
+  - first:
+      213: 6845334469559377234
+    second: Lanmola_64
+  - first:
+      213: -3469215438082196651
+    second: Lanmola_65
+  - first:
+      213: -4154352840168627696
+    second: Lanmola_66
+  - first:
+      213: 2680625585150168376
+    second: Lanmola_67
+  - first:
+      213: -6188919185101573427
+    second: Lanmola_68
+  - first:
+      213: 5963468437997726871
+    second: Lanmola_69
+  - first:
+      213: 6503134999052381725
+    second: Lanmola_70
+  - first:
+      213: 1239574114385565580
+    second: Lanmola_71
+  - first:
+      213: -4557205643224956020
+    second: Lanmola_72
+  - first:
+      213: -2498178459705821009
+    second: Lanmola_73
+  - first:
+      213: -1747969459318901539
+    second: Lanmola_74
+  - first:
+      213: 1362930505643242332
+    second: Lanmola_75
+  - first:
+      213: -3713744301860691781
+    second: Lanmola_76
+  - first:
+      213: 9054920399285696096
+    second: Lanmola_77
+  - first:
+      213: 2212966268283339278
+    second: Lanmola_78
+  - first:
+      213: 4810737068554323456
+    second: Lanmola_79
+  - first:
+      213: 7106897443220142542
+    second: Lanmola_80
+  - first:
+      213: -7173137006449508828
+    second: Lanmola_81
+  - first:
+      213: -2695816011874014373
+    second: Lanmola_82
+  - first:
+      213: -5943502083224410502
+    second: Lanmola_83
+  - first:
+      213: -2958297210269432541
+    second: Lanmola_84
+  - first:
+      213: 2066509939846713949
+    second: Lanmola_85
+  - first:
+      213: -1431437123065541786
+    second: Lanmola_86
+  - first:
+      213: 5768212075616571813
+    second: Lanmola_87
+  - first:
+      213: -8271341767670622818
+    second: Lanmola_88
+  - first:
+      213: 4536025990545792546
+    second: Lanmola_89
+  - first:
+      213: -302895537063411567
+    second: Lanmola_90
+  - first:
+      213: 1495566787090616542
+    second: Lanmola_91
+  - first:
+      213: 8570597310030604974
+    second: Lanmola_92
+  - first:
+      213: -3199029973343924600
+    second: Lanmola_93
+  - first:
+      213: 4662786462938285000
+    second: Lanmola_94
+  - first:
+      213: -8914786689145023863
+    second: Lanmola_95
+  - first:
+      213: -4385323425674178881
+    second: Lanmola_96
+  - first:
+      213: -7973948260208208175
+    second: Lanmola_97
+  - first:
+      213: 1785054659357065995
+    second: Lanmola_98
+  - first:
+      213: -2489585391761809319
+    second: Lanmola_99
+  - first:
+      213: -6174012550592132243
+    second: Lanmola_100
+  - first:
+      213: 8239562218501496447
+    second: Lanmola_101
+  - first:
+      213: -3637646237293210295
+    second: Lanmola_102
+  - first:
+      213: 7535725731831435130
+    second: Lanmola_103
+  - first:
+      213: -8907224242687942099
+    second: Lanmola_104
+  - first:
+      213: 2815331882226582814
+    second: Lanmola_105
+  - first:
+      213: -1377167330518158078
+    second: Lanmola_106
+  - first:
+      213: 2944622249403518526
+    second: Lanmola_107
+  - first:
+      213: 6185637347105115982
+    second: Lanmola_108
+  - first:
+      213: 5078105047726285130
+    second: Lanmola_109
+  - first:
+      213: 1845429028112079279
+    second: Lanmola_110
+  - first:
+      213: -2356770146701271439
+    second: Lanmola_111
+  - first:
+      213: -358510566974068113
+    second: Lanmola_112
+  - first:
+      213: 6091871617597118762
+    second: Lanmola_113
+  - first:
+      213: -5444217492905639421
+    second: Lanmola_114
+  - first:
+      213: -2985131112322308946
+    second: Lanmola_115
+  - first:
+      213: -7482530511065826342
+    second: Lanmola_116
+  - first:
+      213: 46975045885603195
+    second: Lanmola_117
+  - first:
+      213: -1016093812081439824
+    second: Lanmola_118
+  - first:
+      213: -6660351095864460879
+    second: Lanmola_119
+  - first:
+      213: 8351978400745372535
+    second: Lanmola_120
+  - first:
+      213: -8240555029386158638
+    second: Lanmola_121
+  - first:
+      213: 6789170991912313726
+    second: Lanmola_122
+  - first:
+      213: 3659403180436482332
+    second: Lanmola_123
+  - first:
+      213: 7738381874212857294
+    second: Lanmola_124
+  - first:
+      213: -8476655339647248518
+    second: Lanmola_125
+  - first:
+      213: -4460980283608158640
+    second: Lanmola_126
+  - first:
+      213: -5906164158064082212
+    second: Lanmola_127
+  - first:
+      213: -3572056570140054645
+    second: Lanmola_128
+  - first:
+      213: 4783928053341603722
+    second: Lanmola_129
+  - first:
+      213: -5646489449622445747
+    second: Lanmola_130
+  - first:
+      213: -6595780824722852055
+    second: Lanmola_131
+  - first:
+      213: 2576103783789692656
+    second: Lanmola_132
+  - first:
+      213: 2539343186399775721
+    second: Lanmola_133
+  - first:
+      213: 2423756390266581023
+    second: Lanmola_134
+  - first:
+      213: 8510769809047594413
+    second: Lanmola_135
+  - first:
+      213: 5591185230792540103
+    second: Lanmola_136
+  - first:
+      213: 5926714865051648862
+    second: Lanmola_137
+  - first:
+      213: -5441917548225964448
+    second: Lanmola_138
+  - first:
+      213: -7663858809484104236
+    second: Lanmola_139
+  - first:
+      213: -2416278411156147405
+    second: Lanmola_140
+  - first:
+      213: -3956181912000976360
+    second: Lanmola_141
+  - first:
+      213: 2480930374276703176
+    second: Lanmola_142
+  - first:
+      213: -3619182076037916712
+    second: Lanmola_143
+  - first:
+      213: -5628017995531944881
+    second: Lanmola_144
+  - first:
+      213: -2577860536508356436
+    second: Lanmola_145
+  - first:
+      213: 3148326490375466682
+    second: Lanmola_146
+  - first:
+      213: 934815614002111709
+    second: Lanmola_147
+  - first:
+      213: 8647776825194037962
+    second: Lanmola_148
+  - first:
+      213: -6212231673385149149
+    second: Lanmola_149
+  - first:
+      213: -8397523065293431265
+    second: Lanmola_150
+  - first:
+      213: -4310582476178408761
+    second: Lanmola_151
+  - first:
+      213: 8053627309653916164
+    second: Lanmola_152
+  - first:
+      213: 44932842402246497
+    second: Lanmola_153
+  - first:
+      213: -4535163230029745807
+    second: Lanmola_154
+  - first:
+      213: -953560088034275705
+    second: Lanmola_155
+  - first:
+      213: 6084215589861152737
+    second: Lanmola_156
+  - first:
+      213: -5009964493932522179
+    second: Lanmola_157
+  - first:
+      213: -5550195593110491938
+    second: Lanmola_158
+  - first:
+      213: -6956826863545157598
+    second: Lanmola_159
+  - first:
+      213: 1689140613736574242
+    second: Lanmola_160
+  - first:
+      213: 4660421507544415865
+    second: Lanmola_161
+  - first:
+      213: 7443628842232107180
+    second: Lanmola_162
+  - first:
+      213: 3408784238900149453
+    second: Lanmola_163
+  - first:
+      213: 6081406739917780896
+    second: Lanmola_164
+  - first:
+      213: -3723693116480806213
+    second: Lanmola_165
+  - first:
+      213: -8060810714772918587
+    second: Lanmola_166
+  - first:
+      213: -3714131080338724332
+    second: Lanmola_167
+  - first:
+      213: 7300407862935635334
+    second: Lanmola_168
+  - first:
+      213: -7830317155742539838
+    second: Lanmola_169
+  - first:
+      213: 9138879127766428882
+    second: Lanmola_170
+  - first:
+      213: -3462126044424055804
+    second: Lanmola_171
+  - first:
+      213: 5906979269922533
+    second: Lanmola_172
+  - first:
+      213: -2593333758785318207
+    second: Lanmola_173
+  - first:
+      213: 7850993687009687220
+    second: Lanmola_174
+  - first:
+      213: -7843896205267195043
+    second: Lanmola_175
+  - first:
+      213: -7572040366263545560
+    second: Lanmola_176
+  - first:
+      213: -158294398106615901
+    second: Lanmola_177
+  - first:
+      213: 3748794997166272291
+    second: Lanmola_178
+  - first:
+      213: 1224647599736822904
+    second: Lanmola_179
+  - first:
+      213: 2317103175160211392
+    second: Lanmola_180
+  - first:
+      213: -5236349254174455534
+    second: Lanmola_181
+  - first:
+      213: -187413538142798275
+    second: Lanmola_182
+  - first:
+      213: 5958046249759922299
+    second: Lanmola_183
+  - first:
+      213: -5611514867543994874
+    second: Lanmola_184
+  - first:
+      213: -8093586641025516200
+    second: Lanmola_185
+  - first:
+      213: 1214547644019654933
+    second: Lanmola_186
+  - first:
+      213: 6537856276753837569
+    second: Lanmola_187
+  - first:
+      213: 4062278785135719550
+    second: Lanmola_188
+  - first:
+      213: -1509524081903458022
+    second: Lanmola_189
+  - first:
+      213: 7218954556503174770
+    second: Lanmola_190
+  - first:
+      213: 747844443405322911
+    second: Lanmola_191
+  - first:
+      213: -1238871001922834233
+    second: Lanmola_192
+  - first:
+      213: 7053893126294506257
+    second: Lanmola_193
+  - first:
+      213: -713438400104071095
+    second: Lanmola_194
+  - first:
+      213: -5760397554254797675
+    second: Lanmola_195
+  - first:
+      213: -3504935151385395089
+    second: Lanmola_196
+  - first:
+      213: -886029326108477502
+    second: Lanmola_197
+  - first:
+      213: 4100601269687824096
+    second: Lanmola_198
+  - first:
+      213: -6281362900483971558
+    second: Lanmola_199
+  - first:
+      213: -3510462656539606719
+    second: Lanmola_200
+  - first:
+      213: 737564973490815396
+    second: Lanmola_201
+  - first:
+      213: -2398638581578097636
+    second: Lanmola_202
+  - first:
+      213: 2905203527435069067
+    second: Lanmola_203
+  - first:
+      213: -8911808538400430618
+    second: Lanmola_204
+  - first:
+      213: -5621048606083382381
+    second: Lanmola_205
+  - first:
+      213: 1764946398426932031
+    second: Lanmola_206
+  - first:
+      213: 3818798776776410948
+    second: Lanmola_207
+  - first:
+      213: 6043851366733897951
+    second: Lanmola_208
+  - first:
+      213: -975953001731942350
+    second: Lanmola_209
+  - first:
+      213: -9158179163284476038
+    second: Lanmola_210
+  - first:
+      213: -7323406356177530755
+    second: Lanmola_211
+  - first:
+      213: -7266247388602607402
+    second: Lanmola_212
+  - first:
+      213: 5261043813933605773
+    second: Lanmola_213
+  - first:
+      213: -2291639189004938855
+    second: Lanmola_214
+  - first:
+      213: -7505482140259042615
+    second: Lanmola_215
+  - first:
+      213: 1673746749776842991
+    second: Lanmola_216
+  - first:
+      213: 8320414042284963581
+    second: Lanmola_217
+  - first:
+      213: -1188134216424285239
+    second: Lanmola_218
+  - first:
+      213: -6044128795560409696
+    second: Lanmola_219
+  - first:
+      213: 1822302801179849966
+    second: Lanmola_220
+  - first:
+      213: 2834796258490146553
+    second: Lanmola_221
+  - first:
+      213: -7426439214570252963
+    second: Lanmola_222
+  - first:
+      213: -6555548678010913024
+    second: Lanmola_223
+  - first:
+      213: -8967132638515634218
+    second: Lanmola_224
+  - first:
+      213: -583753506206994182
+    second: Lanmola_225
+  - first:
+      213: 7007295897441582864
+    second: Lanmola_226
+  - first:
+      213: -4856667156896037388
+    second: Lanmola_227
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lanmola_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 343
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff17532c81e83a8c0800000000000000
+      internalID: -3989188607931485697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_1
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 343
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a706784c7dc4eeb50800000000000000
+      internalID: 6624316591507464314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_2
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 343
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c932b779a597d8070800000000000000
+      internalID: 8110271933959578524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_3
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 343
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc395619238a1b250800000000000000
+      internalID: 5958728717129061327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_4
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 343
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb08b871c2458080800000000000000
+      internalID: -9185862466230809616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_5
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 343
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a85a55f5e9331f0800000000000000
+      internalID: -1066334554460681690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_6
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 343
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28778aa49228c01e0800000000000000
+      internalID: -2230264601597413502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_7
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 343
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ad4df41bd3775b0800000000000000
+      internalID: -5370756198858171859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_8
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 343
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bfe22d6fbc4fdab0800000000000000
+      internalID: -4981178277795008586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_9
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 341
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004ad046ef372eb50800000000000000
+      internalID: 6620981938625553408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 303
+        width: 82
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e672d19305eae850800000000000000
+      internalID: 6407185223382103785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 319
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60d8d858a9c37090800000000000000
+      internalID: -8037859185043910547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_12
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 319
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cffbab5b4946edc90800000000000000
+      internalID: -7143161369096175620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_13
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 303
+        width: 82
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9509aef84cd77c30800000000000000
+      internalID: 4357193370572490142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_14
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 319
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b8c34217375f0d0800000000000000
+      internalID: -3389676214749983910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_15
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 319
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab35b4176addc8710800000000000000
+      internalID: 1696974866546906042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_16
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 331
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613e4732570f0cac0800000000000000
+      internalID: -3836802496622959850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_17
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 321
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4812d0a1824f75630800000000000000
+      internalID: 3915866854094872964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_18
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 311
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf2625b1b92b49a0800000000000000
+      internalID: -6247854214821302353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_19
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 306
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae05dfe744f267c50800000000000000
+      internalID: 6662564669976039658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_20
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 310
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ec41bf6026e5360800000000000000
+      internalID: 7160268239687437878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_21
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 312
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de415813df83d20b0800000000000000
+      internalID: -5751878488973568787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_22
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68be350915dfdcf0800000000000000
+      internalID: -225227152906340244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_23
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 305
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6be078091dba33a0800000000000000
+      internalID: -6684822781664629909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_24
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 311
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30d3a9d8bf710380800000000000000
+      internalID: -9006777347862179782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_25
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 306
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c8c80703aeb3120800000000000000
+      internalID: 2394765120645139596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_26
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 310
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c159e2c6f9e076f0800000000000000
+      internalID: -688793496946388538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_27
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 312
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7ac23339fd7c090800000000000000
+      internalID: -8014191188570757128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_28
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829fb8af54e6a3420800000000000000
+      internalID: 2610520180849899816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_29
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 305
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15db079d3f00486f0800000000000000
+      internalID: -683420196128375471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_30
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 305
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b7317df5baa3980800000000000000
+      internalID: -8558339713745585313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_31
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 305
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1837daedb88d7fa0800000000000000
+      internalID: -5801330395713161190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_32
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 287
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a553eee29576d3d0800000000000000
+      internalID: -3182226812757125725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_33
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 287
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ede26ff4eb664da0800000000000000
+      internalID: -5960958425496883740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_34
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 254
+        width: 83
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c034957dcfbfac50800000000000000
+      internalID: 6678767661575581888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_35
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 247
+        width: 82
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a5081b1972190d0800000000000000
+      internalID: -3417907135495775683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_36
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 263
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5611676854fac4340800000000000000
+      internalID: 4849443611914670437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_37
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 263
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a07a6244b66f97d0800000000000000
+      internalID: -2909493909863632732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_38
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 263
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1662f61e10c59cb0800000000000000
+      internalID: -4857765387582675429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_39
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 272
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1589d755bc32626e0800000000000000
+      internalID: -1862762039651493807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_40
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 255
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607d66aed73030a10800000000000000
+      internalID: 1874345709254661894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_41
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 250
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd025abe64a170510800000000000000
+      internalID: 1515208691536961755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_42
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 254
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9dde4d42eb45e6d0800000000000000
+      internalID: -2961877744594526821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_43
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 256
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96cbb87828efa8ad0800000000000000
+      internalID: -2699065190081905559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_44
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 248
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bddd0c4975a63950800000000000000
+      internalID: 6428507458503564725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_45
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 249
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d9cab60f64101f0800000000000000
+      internalID: -1080504437179638447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_46
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 249
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bdb069f394e7b010800000000000000
+      internalID: 1204682749540089270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_47
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 223
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db5d1c414355e6e0800000000000000
+      internalID: -1808948135404413991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_48
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 223
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a54bdaceb20d2410800000000000000
+      internalID: 1453821273180947876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_49
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 223
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef47b5cf07836a10800000000000000
+      internalID: 1901511969491865576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_50
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 221
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663efae560716c1d0800000000000000
+      internalID: -3330949558268075162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_51
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 223
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991b93b4362a21d60800000000000000
+      internalID: 7859522847062471065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_52
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 221
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6c341dfc71fca10800000000000000
+      internalID: 1931788946501781224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_53
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 223
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6243d117dbd7cd4e0800000000000000
+      internalID: -1955549885585607642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_54
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 223
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa82886a3827c5e0800000000000000
+      internalID: -1889497287332033879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_55
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 223
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352b81f79d8bdcc40800000000000000
+      internalID: 5534282761387946579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_56
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 223
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87501462fcab47cc0800000000000000
+      internalID: -3714138393811024520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_57
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 223
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8864a8a02bb5801e0800000000000000
+      internalID: -2231432795122940280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_58
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 221
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57eab067a966389a0800000000000000
+      internalID: -6232024645759160715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_59
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 223
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543c3c53caf95e1e0800000000000000
+      internalID: -2169152083523812539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_60
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 221
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949c3378a670383c0800000000000000
+      internalID: -4358631860248262327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_61
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 221
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe89e8df0c27a6be0800000000000000
+      internalID: -1483246954051888913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_62
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 221
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8df708340fb6df0800000000000000
+      internalID: -185790786896406357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_63
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 223
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fcedf8e0cd318990800000000000000
+      internalID: -7385554015158932236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_64
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 223
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25dd2d29e638ffe50800000000000000
+      internalID: 6845334469559377234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_65
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 223
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b3fc390fedadfc0800000000000000
+      internalID: -3469215438082196651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_66
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 223
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0122d124a16c856c0800000000000000
+      internalID: -4154352840168627696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_67
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 223
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d03b264ce733520800000000000000
+      internalID: 2680625585150168376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_68
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 223
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2bb6c9aca8c1aa0800000000000000
+      internalID: -6188919185101573427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_69
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 223
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79cab14d2fe72c250800000000000000
+      internalID: 5963468437997726871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_70
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 223
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e6de893d6cf3a50800000000000000
+      internalID: 6503134999052381725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_71
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 221
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8798b8e61ad33110800000000000000
+      internalID: 1239574114385565580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_72
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 223
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83cb23dc9d81c0c0800000000000000
+      internalID: -4557205643224956020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_73
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 223
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8b3b34defa45dd0800000000000000
+      internalID: -2498178459705821009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_74
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 221
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4b013b907fdb7e0800000000000000
+      internalID: -1747969459318901539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_75
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 223
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53b862e21a1ae210800000000000000
+      internalID: 1362930505643242332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_76
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 223
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb066f4db31267cc0800000000000000
+      internalID: -3713744301860691781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_77
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 223
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066bcdcc02a89ad70800000000000000
+      internalID: 9054920399285696096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_78
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 223
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0243f0a81906be10800000000000000
+      internalID: 2212966268283339278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_79
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 223
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0060cfe10eb23c240800000000000000
+      internalID: 4810737068554323456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_80
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 223
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9b4461295c0a260800000000000000
+      internalID: 7106897443220142542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_81
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 223
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e3e55c5e5e37c90800000000000000
+      internalID: -7173137006449508828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_82
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 223
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b6078ce99869ad0800000000000000
+      internalID: -2695816011874014373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_83
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 223
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a766d976850748da0800000000000000
+      internalID: -5943502083224410502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_84
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 221
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3258cd96c5402f6d0800000000000000
+      internalID: -2958297210269432541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_85
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 223
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d52906967d7bdac10800000000000000
+      internalID: 2066509939846713949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_86
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 223
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b0f594583822ce0800000000000000
+      internalID: -1431437123065541786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_87
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 223
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a19e3c425ecc0050800000000000000
+      internalID: 5768212075616571813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_88
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 223
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95142a5c7a463d80800000000000000
+      internalID: -8271341767670622818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_89
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 196
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22edb620b9333fe30800000000000000
+      internalID: 4536025990545792546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_90
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 196
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190c8452d16ebcbf0800000000000000
+      internalID: -302895537063411567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_91
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 196
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0986aa11251c410800000000000000
+      internalID: 1495566787090616542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_92
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 196
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaaea4138d0e0f670800000000000000
+      internalID: 8570597310030604974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_93
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 203
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e020d3033ca93d0800000000000000
+      internalID: -3199029973343924600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_94
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 203
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3cfe2659b85b040800000000000000
+      internalID: 4662786462938285000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_95
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 202
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98251212db0584480800000000000000
+      internalID: -8914786689145023863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_96
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 196
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbecd7b24933423c0800000000000000
+      internalID: -4385323425674178881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_97
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 209
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d612fc1e48d65190800000000000000
+      internalID: -7973948260208208175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_98
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 209
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0342ab41c9c5c810800000000000000
+      internalID: 1785054659357065995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_99
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 209
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950290ec647337dd0800000000000000
+      internalID: -2489585391761809319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_100
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 208
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b072beb40815aa0800000000000000
+      internalID: -6174012550592132243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_101
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 197
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ed282ce2ec85270800000000000000
+      internalID: 8239562218501496447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_102
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 201
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9451a9f250c748dc0800000000000000
+      internalID: -3637646237293210295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_103
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 196
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f459a80a6449860800000000000000
+      internalID: 7535725731831435130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_104
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 201
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2266d76ebe236480800000000000000
+      internalID: -8907224242687942099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_105
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 196
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1582fc3e61121720800000000000000
+      internalID: 2815331882226582814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_106
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 197
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20531340c9153ece0800000000000000
+      internalID: -1377167330518158078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_107
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 196
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e8865a5566dd820800000000000000
+      internalID: 2944622249403518526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_108
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 197
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f079fe46cc7d550800000000000000
+      internalID: 6185637347105115982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_109
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 197
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41e7ddc2ad097640800000000000000
+      internalID: 5078105047726285130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_110
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 197
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa990de6ce74c9910800000000000000
+      internalID: 1845429028112079279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_111
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 197
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e10acc9021b4fd0800000000000000
+      internalID: -2356770146701271439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_112
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 176
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a694fe980560bf0800000000000000
+      internalID: -358510566974068113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_113
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 176
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a291928c5fcaa8450800000000000000
+      internalID: 6091871617597118762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_114
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 176
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302446fe8014274b0800000000000000
+      internalID: -5444217492905639421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_115
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4ef0ab11fa296d0800000000000000
+      internalID: -2985131112322308946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_116
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 176
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb36e2f426b82890800000000000000
+      internalID: -7482530511065826342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_117
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 176
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7da15b2e83e6a000800000000000000
+      internalID: 46975045885603195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_118
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 176
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bbc968bf0c16e1f0800000000000000
+      internalID: -1016093812081439824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_119
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 174
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b97d9367fda193a0800000000000000
+      internalID: -6660351095864460879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_120
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 176
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77bb924da1038e370800000000000000
+      internalID: 8351978400745372535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_121
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 174
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd11617cdaa3ad80800000000000000
+      internalID: -8240555029386158638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_122
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 176
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73e15ceb0bf73e50800000000000000
+      internalID: 6789170991912313726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_123
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 176
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19e9d3edcfc8c230800000000000000
+      internalID: 3659403180436482332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_124
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 176
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec567cc9051446b60800000000000000
+      internalID: 7738381874212857294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_125
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 176
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7758ec31eedc5a80800000000000000
+      internalID: -8476655339647248518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_126
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 176
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ea38d311a6712c0800000000000000
+      internalID: -4460980283608158640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_127
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 176
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2427d8df6190ea0800000000000000
+      internalID: -5906164158064082212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_128
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 176
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ba33b99718d6ec0800000000000000
+      internalID: -3572056570140054645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_129
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 174
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87c37ad73de36240800000000000000
+      internalID: 4783928053341603722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_130
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 175
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41634f03c3a3a1b0800000000000000
+      internalID: -5646489449622445747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_131
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 176
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927bf0e29441774a0800000000000000
+      internalID: -6595780824722852055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_132
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 176
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f603591eb820c320800000000000000
+      internalID: 2576103783789692656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_133
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 176
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ebca2c8c2f8d3320800000000000000
+      internalID: 2539343186399775721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_134
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 176
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f103ce76899e2a120800000000000000
+      internalID: 2423756390266581023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_135
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 176
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5a661ac045c1670800000000000000
+      internalID: 8510769809047594413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_136
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 176
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cfbcc21851e79d40800000000000000
+      internalID: 5591185230792540103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_137
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 176
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e534e68c4cbef3250800000000000000
+      internalID: 5926714865051648862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_138
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 176
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066d60982dc6a74b0800000000000000
+      internalID: -5441917548225964448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_139
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 176
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dda3f3840184a590800000000000000
+      internalID: -7663858809484104236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_140
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 176
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333b7984697a77ed0800000000000000
+      internalID: -2416278411156147405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_141
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 176
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a2b540381d819c0800000000000000
+      internalID: -3956181912000976360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_142
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 176
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c36d37e7090e6220800000000000000
+      internalID: 2480930374276703176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_143
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 176
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d79c4cb31516cdc0800000000000000
+      internalID: -3619182076037916712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_144
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 176
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4cffca937345e1b0800000000000000
+      internalID: -5628017995531944881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_145
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 176
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8ebe80089993cd0800000000000000
+      internalID: -2577860536508356436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_146
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 176
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe28cf234a11bb20800000000000000
+      internalID: 3148326490375466682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_147
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 176
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4a51b19d129fc00800000000000000
+      internalID: 934815614002111709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_148
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 174
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2cb826433130870800000000000000
+      internalID: 8647776825194037962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_149
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 174
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d9275f438b9c9a0800000000000000
+      internalID: -6212231673385149149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_150
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 176
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e190c9341067b80800000000000000
+      internalID: -8397523065293431265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_151
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 156
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cabc5c831cbd24c0800000000000000
+      internalID: -4310582476178408761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_152
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 156
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a7e414e5b34cf60800000000000000
+      internalID: 8053627309653916164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_153
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 155
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f622e9e22af9000800000000000000
+      internalID: 44932842402246497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_154
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 155
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171f9a3121ddf01c0800000000000000
+      internalID: -4535163230029745807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_155
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 154
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e0ab0f62644c2f0800000000000000
+      internalID: -953560088034275705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_156
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 154
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7519ae7d97f6450800000000000000
+      internalID: 6084215589861152737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_157
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 163
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3515d136d7097ab0800000000000000
+      internalID: -5009964493932522179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_158
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 135
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edce5b6a38eb9f2b0800000000000000
+      internalID: -5550195593110491938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_159
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 135
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228fe7293d2647f90800000000000000
+      internalID: -6956826863545157598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_160
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 133
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d24715078017710800000000000000
+      internalID: 1689140613736574242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_161
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 135
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e76cc4ba42da040800000000000000
+      internalID: 4660421507544415865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_162
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 135
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0d8157ef41d4760800000000000000
+      internalID: 7443628842232107180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_163
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 133
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dccf79b643f6e4f20800000000000000
+      internalID: 3408784238900149453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_164
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 135
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a73773953f756450800000000000000
+      internalID: 6081406739917780896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_165
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 135
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2289be6d8c25cc0800000000000000
+      internalID: -3723693116480806213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_166
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 135
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce2c48ec5f322090800000000000000
+      internalID: -8060810714772918587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_167
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 135
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a2c23f571c47cc0800000000000000
+      internalID: -3714131080338724332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_168
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 138
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6854fb9a542405560800000000000000
+      internalID: 7300407862935635334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_169
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 136
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf915d9800255390800000000000000
+      internalID: -7830317155742539838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_170
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 138
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dcefb79522d3de70800000000000000
+      internalID: 9138879127766428882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_171
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 138
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404d97aa4be04ffc0800000000000000
+      internalID: -3462126044424055804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_172
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 138
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee4419cd5cf41000800000000000000
+      internalID: 5906979269922533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_173
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 138
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2929bbfa0a20cd0800000000000000
+      internalID: -2593333758785318207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_174
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 138
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6fb08792554fc60800000000000000
+      internalID: 7850993687009687220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_175
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 138
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ba306c5f1e42390800000000000000
+      internalID: -7843896205267195043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_176
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 136
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82151ffb765bae690800000000000000
+      internalID: -7572040366263545560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_177
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 138
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3afbbe66510adcdf0800000000000000
+      internalID: -158294398106615901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_178
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 138
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f6bdd1035660430800000000000000
+      internalID: 3748794997166272291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_179
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c1955e082def010800000000000000
+      internalID: 1224647599736822904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_180
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7aa5faf01082020800000000000000
+      internalID: 2317103175160211392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_181
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219cc01c810c457b0800000000000000
+      internalID: -5236349254174455534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_182
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e36e8416c266df0800000000000000
+      internalID: -187413538142798275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_183
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78d9404f7b3fa250800000000000000
+      internalID: 5958046249759922299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_184
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 112
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e873485f4ef12b0800000000000000
+      internalID: -5611514867543994874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_185
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 112
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85db3d6e4ddcdaf80800000000000000
+      internalID: -8093586641025516200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_186
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 112
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5114494b5a0fad010800000000000000
+      internalID: 1214547644019654933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_187
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 112
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e687805a12bba50800000000000000
+      internalID: 6537856276753837569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_188
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 112
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74be9e380d106830800000000000000
+      internalID: 4062278785135719550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_189
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 86
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a192f3668d71d0be0800000000000000
+      internalID: -1509524081903458022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_190
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 102
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e2f06ebe0ee2460800000000000000
+      internalID: 7218954556503174770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_191
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 87
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a8c6c1f80e06a00800000000000000
+      internalID: 747844443405322911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_192
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 87
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c07bd73365aecee0800000000000000
+      internalID: -1238871001922834233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_193
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 88
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b8a5cdc6674e160800000000000000
+      internalID: 7053893126294506257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_194
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 79
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9408ca81e8b5916f0800000000000000
+      internalID: -713438400104071095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_195
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 79
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5942d9db1f4fe00b0800000000000000
+      internalID: -5760397554254797675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_196
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 88
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60c4ecbc08fb5fc0800000000000000
+      internalID: -3504935151385395089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_197
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 81
+        width: 49
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7b9b4b50134b3f0800000000000000
+      internalID: -886029326108477502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_198
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 63
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee224df02348e830800000000000000
+      internalID: 4100601269687824096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_199
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 63
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16e55bd8bd14d8a0800000000000000
+      internalID: -6281362900483971558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_200
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 63
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141cea720d4584fc0800000000000000
+      internalID: -3510462656539606719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_201
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1c0b38f6b5c3a00800000000000000
+      internalID: 737564973490815396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_202
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c9d782be256bed0800000000000000
+      internalID: -2398638581578097636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_203
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 63
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86aafc373b515820800000000000000
+      internalID: 2905203527435069067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_204
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 27
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e56952e955e25480800000000000000
+      internalID: -8911808538400430618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_205
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 6
+        width: 18
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393023903160ef1b0800000000000000
+      internalID: -5621048606083382381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_206
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 39
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33a7d5f5695e7810800000000000000
+      internalID: 1764946398426932031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_207
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 39
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447447e21491ff430800000000000000
+      internalID: 3818798776776410948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_208
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 39
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0ee6ddbc210e350800000000000000
+      internalID: 6043851366733897951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_209
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 39
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2389a4e6ae7b472f0800000000000000
+      internalID: -975953001731942350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_210
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 53
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f6b07b29c97e080800000000000000
+      internalID: -9158179163284476038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_211
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 53
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70533a58b80e5a90800000000000000
+      internalID: -7323406356177530755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_212
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 8
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d85b309f7a192b90800000000000000
+      internalID: -7266247388602607402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_213
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83674d797bf20940800000000000000
+      internalID: 5261043813933605773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_214
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9911ff99c467230e0800000000000000
+      internalID: -2291639189004938855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_215
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca32d952cb27d790800000000000000
+      internalID: -7505482140259042615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_216
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0d9601dc75a3710800000000000000
+      internalID: 1673746749776842991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_217
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6319eec7c087370800000000000000
+      internalID: 8320414042284963581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_218
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 15
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb1b84a936e28fe0800000000000000
+      internalID: -1188134216424285239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_219
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 15
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a589e332e0fe1ca0800000000000000
+      internalID: -6044128795560409696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_220
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 15
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee436812ebe1a4910800000000000000
+      internalID: 1822302801179849966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_221
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 15
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe59ed7d28375720800000000000000
+      internalID: 2834796258490146553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_222
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 15
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55528d91ecffe890800000000000000
+      internalID: -7426439214570252963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_223
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 31
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00fb06bc5330605a0800000000000000
+      internalID: -6555548678010913024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_224
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 31
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dfd67b00685e8380800000000000000
+      internalID: -8967132638515634218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_225
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 10
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0b42a674716e7f0800000000000000
+      internalID: -583753506206994182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_226
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 5
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01fbe031e7aee3160800000000000000
+      internalID: 7007295897441582864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanmola_227
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 10
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5c7e8d3f6a99cb0800000000000000
+      internalID: -4856667156896037388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Lanmola_0: -3989188607931485697
+      Lanmola_1: 6624316591507464314
+      Lanmola_10: 6407185223382103785
+      Lanmola_100: -6174012550592132243
+      Lanmola_101: 8239562218501496447
+      Lanmola_102: -3637646237293210295
+      Lanmola_103: 7535725731831435130
+      Lanmola_104: -8907224242687942099
+      Lanmola_105: 2815331882226582814
+      Lanmola_106: -1377167330518158078
+      Lanmola_107: 2944622249403518526
+      Lanmola_108: 6185637347105115982
+      Lanmola_109: 5078105047726285130
+      Lanmola_11: -8037859185043910547
+      Lanmola_110: 1845429028112079279
+      Lanmola_111: -2356770146701271439
+      Lanmola_112: -358510566974068113
+      Lanmola_113: 6091871617597118762
+      Lanmola_114: -5444217492905639421
+      Lanmola_115: -2985131112322308946
+      Lanmola_116: -7482530511065826342
+      Lanmola_117: 46975045885603195
+      Lanmola_118: -1016093812081439824
+      Lanmola_119: -6660351095864460879
+      Lanmola_12: -7143161369096175620
+      Lanmola_120: 8351978400745372535
+      Lanmola_121: -8240555029386158638
+      Lanmola_122: 6789170991912313726
+      Lanmola_123: 3659403180436482332
+      Lanmola_124: 7738381874212857294
+      Lanmola_125: -8476655339647248518
+      Lanmola_126: -4460980283608158640
+      Lanmola_127: -5906164158064082212
+      Lanmola_128: -3572056570140054645
+      Lanmola_129: 4783928053341603722
+      Lanmola_13: 4357193370572490142
+      Lanmola_130: -5646489449622445747
+      Lanmola_131: -6595780824722852055
+      Lanmola_132: 2576103783789692656
+      Lanmola_133: 2539343186399775721
+      Lanmola_134: 2423756390266581023
+      Lanmola_135: 8510769809047594413
+      Lanmola_136: 5591185230792540103
+      Lanmola_137: 5926714865051648862
+      Lanmola_138: -5441917548225964448
+      Lanmola_139: -7663858809484104236
+      Lanmola_14: -3389676214749983910
+      Lanmola_140: -2416278411156147405
+      Lanmola_141: -3956181912000976360
+      Lanmola_142: 2480930374276703176
+      Lanmola_143: -3619182076037916712
+      Lanmola_144: -5628017995531944881
+      Lanmola_145: -2577860536508356436
+      Lanmola_146: 3148326490375466682
+      Lanmola_147: 934815614002111709
+      Lanmola_148: 8647776825194037962
+      Lanmola_149: -6212231673385149149
+      Lanmola_15: 1696974866546906042
+      Lanmola_150: -8397523065293431265
+      Lanmola_151: -4310582476178408761
+      Lanmola_152: 8053627309653916164
+      Lanmola_153: 44932842402246497
+      Lanmola_154: -4535163230029745807
+      Lanmola_155: -953560088034275705
+      Lanmola_156: 6084215589861152737
+      Lanmola_157: -5009964493932522179
+      Lanmola_158: -5550195593110491938
+      Lanmola_159: -6956826863545157598
+      Lanmola_16: -3836802496622959850
+      Lanmola_160: 1689140613736574242
+      Lanmola_161: 4660421507544415865
+      Lanmola_162: 7443628842232107180
+      Lanmola_163: 3408784238900149453
+      Lanmola_164: 6081406739917780896
+      Lanmola_165: -3723693116480806213
+      Lanmola_166: -8060810714772918587
+      Lanmola_167: -3714131080338724332
+      Lanmola_168: 7300407862935635334
+      Lanmola_169: -7830317155742539838
+      Lanmola_17: 3915866854094872964
+      Lanmola_170: 9138879127766428882
+      Lanmola_171: -3462126044424055804
+      Lanmola_172: 5906979269922533
+      Lanmola_173: -2593333758785318207
+      Lanmola_174: 7850993687009687220
+      Lanmola_175: -7843896205267195043
+      Lanmola_176: -7572040366263545560
+      Lanmola_177: -158294398106615901
+      Lanmola_178: 3748794997166272291
+      Lanmola_179: 1224647599736822904
+      Lanmola_18: -6247854214821302353
+      Lanmola_180: 2317103175160211392
+      Lanmola_181: -5236349254174455534
+      Lanmola_182: -187413538142798275
+      Lanmola_183: 5958046249759922299
+      Lanmola_184: -5611514867543994874
+      Lanmola_185: -8093586641025516200
+      Lanmola_186: 1214547644019654933
+      Lanmola_187: 6537856276753837569
+      Lanmola_188: 4062278785135719550
+      Lanmola_189: -1509524081903458022
+      Lanmola_19: 6662564669976039658
+      Lanmola_190: 7218954556503174770
+      Lanmola_191: 747844443405322911
+      Lanmola_192: -1238871001922834233
+      Lanmola_193: 7053893126294506257
+      Lanmola_194: -713438400104071095
+      Lanmola_195: -5760397554254797675
+      Lanmola_196: -3504935151385395089
+      Lanmola_197: -886029326108477502
+      Lanmola_198: 4100601269687824096
+      Lanmola_199: -6281362900483971558
+      Lanmola_2: 8110271933959578524
+      Lanmola_20: 7160268239687437878
+      Lanmola_200: -3510462656539606719
+      Lanmola_201: 737564973490815396
+      Lanmola_202: -2398638581578097636
+      Lanmola_203: 2905203527435069067
+      Lanmola_204: -8911808538400430618
+      Lanmola_205: -5621048606083382381
+      Lanmola_206: 1764946398426932031
+      Lanmola_207: 3818798776776410948
+      Lanmola_208: 6043851366733897951
+      Lanmola_209: -975953001731942350
+      Lanmola_21: -5751878488973568787
+      Lanmola_210: -9158179163284476038
+      Lanmola_211: -7323406356177530755
+      Lanmola_212: -7266247388602607402
+      Lanmola_213: 5261043813933605773
+      Lanmola_214: -2291639189004938855
+      Lanmola_215: -7505482140259042615
+      Lanmola_216: 1673746749776842991
+      Lanmola_217: 8320414042284963581
+      Lanmola_218: -1188134216424285239
+      Lanmola_219: -6044128795560409696
+      Lanmola_22: -225227152906340244
+      Lanmola_220: 1822302801179849966
+      Lanmola_221: 2834796258490146553
+      Lanmola_222: -7426439214570252963
+      Lanmola_223: -6555548678010913024
+      Lanmola_224: -8967132638515634218
+      Lanmola_225: -583753506206994182
+      Lanmola_226: 7007295897441582864
+      Lanmola_227: -4856667156896037388
+      Lanmola_23: -6684822781664629909
+      Lanmola_24: -9006777347862179782
+      Lanmola_25: 2394765120645139596
+      Lanmola_26: -688793496946388538
+      Lanmola_27: -8014191188570757128
+      Lanmola_28: 2610520180849899816
+      Lanmola_29: -683420196128375471
+      Lanmola_3: 5958728717129061327
+      Lanmola_30: -8558339713745585313
+      Lanmola_31: -5801330395713161190
+      Lanmola_32: -3182226812757125725
+      Lanmola_33: -5960958425496883740
+      Lanmola_34: 6678767661575581888
+      Lanmola_35: -3417907135495775683
+      Lanmola_36: 4849443611914670437
+      Lanmola_37: -2909493909863632732
+      Lanmola_38: -4857765387582675429
+      Lanmola_39: -1862762039651493807
+      Lanmola_4: -9185862466230809616
+      Lanmola_40: 1874345709254661894
+      Lanmola_41: 1515208691536961755
+      Lanmola_42: -2961877744594526821
+      Lanmola_43: -2699065190081905559
+      Lanmola_44: 6428507458503564725
+      Lanmola_45: -1080504437179638447
+      Lanmola_46: 1204682749540089270
+      Lanmola_47: -1808948135404413991
+      Lanmola_48: 1453821273180947876
+      Lanmola_49: 1901511969491865576
+      Lanmola_5: -1066334554460681690
+      Lanmola_50: -3330949558268075162
+      Lanmola_51: 7859522847062471065
+      Lanmola_52: 1931788946501781224
+      Lanmola_53: -1955549885585607642
+      Lanmola_54: -1889497287332033879
+      Lanmola_55: 5534282761387946579
+      Lanmola_56: -3714138393811024520
+      Lanmola_57: -2231432795122940280
+      Lanmola_58: -6232024645759160715
+      Lanmola_59: -2169152083523812539
+      Lanmola_6: -2230264601597413502
+      Lanmola_60: -4358631860248262327
+      Lanmola_61: -1483246954051888913
+      Lanmola_62: -185790786896406357
+      Lanmola_63: -7385554015158932236
+      Lanmola_64: 6845334469559377234
+      Lanmola_65: -3469215438082196651
+      Lanmola_66: -4154352840168627696
+      Lanmola_67: 2680625585150168376
+      Lanmola_68: -6188919185101573427
+      Lanmola_69: 5963468437997726871
+      Lanmola_7: -5370756198858171859
+      Lanmola_70: 6503134999052381725
+      Lanmola_71: 1239574114385565580
+      Lanmola_72: -4557205643224956020
+      Lanmola_73: -2498178459705821009
+      Lanmola_74: -1747969459318901539
+      Lanmola_75: 1362930505643242332
+      Lanmola_76: -3713744301860691781
+      Lanmola_77: 9054920399285696096
+      Lanmola_78: 2212966268283339278
+      Lanmola_79: 4810737068554323456
+      Lanmola_8: -4981178277795008586
+      Lanmola_80: 7106897443220142542
+      Lanmola_81: -7173137006449508828
+      Lanmola_82: -2695816011874014373
+      Lanmola_83: -5943502083224410502
+      Lanmola_84: -2958297210269432541
+      Lanmola_85: 2066509939846713949
+      Lanmola_86: -1431437123065541786
+      Lanmola_87: 5768212075616571813
+      Lanmola_88: -8271341767670622818
+      Lanmola_89: 4536025990545792546
+      Lanmola_9: 6620981938625553408
+      Lanmola_90: -302895537063411567
+      Lanmola_91: 1495566787090616542
+      Lanmola_92: 8570597310030604974
+      Lanmola_93: -3199029973343924600
+      Lanmola_94: 4662786462938285000
+      Lanmola_95: -8914786689145023863
+      Lanmola_96: -4385323425674178881
+      Lanmola_97: -7973948260208208175
+      Lanmola_98: 1785054659357065995
+      Lanmola_99: -2489585391761809319
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

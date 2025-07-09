@@ -1,0 +1,5187 @@
+fileFormatVersion: 2
+guid: 00aeae19d04c7d0478a764599aa1db1b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5795089730009331449
+    second: Lost Woods Tiles_0
+  - first:
+      213: -1470620410343850995
+    second: Lost Woods Tiles_1
+  - first:
+      213: 8150470092001775987
+    second: Lost Woods Tiles_2
+  - first:
+      213: 5095267372532285602
+    second: Lost Woods Tiles_3
+  - first:
+      213: -5046701527490421404
+    second: Lost Woods Tiles_4
+  - first:
+      213: -3628599743637600172
+    second: Lost Woods Tiles_5
+  - first:
+      213: -6427354729001849439
+    second: Lost Woods Tiles_6
+  - first:
+      213: -2820462981482604266
+    second: Lost Woods Tiles_7
+  - first:
+      213: 8160417873903269041
+    second: Lost Woods Tiles_8
+  - first:
+      213: 2307841364508391719
+    second: Lost Woods Tiles_9
+  - first:
+      213: 640153295058167661
+    second: Lost Woods Tiles_10
+  - first:
+      213: -538832877580919401
+    second: Lost Woods Tiles_11
+  - first:
+      213: 1765106214492191468
+    second: Lost Woods Tiles_12
+  - first:
+      213: 3932436876607972519
+    second: Lost Woods Tiles_13
+  - first:
+      213: 6024464229640352810
+    second: Lost Woods Tiles_14
+  - first:
+      213: 6899853876880557402
+    second: Lost Woods Tiles_15
+  - first:
+      213: 6508737906141724681
+    second: Lost Woods Tiles_16
+  - first:
+      213: -6833553111445286032
+    second: Lost Woods Tiles_17
+  - first:
+      213: 3648302537898046914
+    second: Lost Woods Tiles_18
+  - first:
+      213: 9102323136458798277
+    second: Lost Woods Tiles_19
+  - first:
+      213: -7137342066532612959
+    second: Lost Woods Tiles_20
+  - first:
+      213: -1748659852772872417
+    second: Lost Woods Tiles_21
+  - first:
+      213: 7556124479442415670
+    second: Lost Woods Tiles_22
+  - first:
+      213: 6763440214014271340
+    second: Lost Woods Tiles_23
+  - first:
+      213: 2543802987356534600
+    second: Lost Woods Tiles_24
+  - first:
+      213: -315299465474995688
+    second: Lost Woods Tiles_25
+  - first:
+      213: 7691042010715406802
+    second: Lost Woods Tiles_26
+  - first:
+      213: 1613612353813209010
+    second: Lost Woods Tiles_27
+  - first:
+      213: 6639391414703012962
+    second: Lost Woods Tiles_28
+  - first:
+      213: -4749859300464220170
+    second: Lost Woods Tiles_29
+  - first:
+      213: -3526069408410378310
+    second: Lost Woods Tiles_30
+  - first:
+      213: -8183249746822594250
+    second: Lost Woods Tiles_31
+  - first:
+      213: 2757508390273776897
+    second: Lost Woods Tiles_32
+  - first:
+      213: 8098364067080819428
+    second: Lost Woods Tiles_33
+  - first:
+      213: -2589342452319690518
+    second: Lost Woods Tiles_34
+  - first:
+      213: 5689750990329616587
+    second: Lost Woods Tiles_35
+  - first:
+      213: -1326921886916605371
+    second: Lost Woods Tiles_36
+  - first:
+      213: 4518281186018293196
+    second: Lost Woods Tiles_37
+  - first:
+      213: -2291853629299190107
+    second: Lost Woods Tiles_38
+  - first:
+      213: -3618460656088653364
+    second: Lost Woods Tiles_39
+  - first:
+      213: -557180424205242755
+    second: Lost Woods Tiles_40
+  - first:
+      213: -2253288998670551063
+    second: Lost Woods Tiles_41
+  - first:
+      213: -3421884216486392443
+    second: Lost Woods Tiles_42
+  - first:
+      213: -7170658115194678486
+    second: Lost Woods Tiles_43
+  - first:
+      213: -3538053105894696770
+    second: Lost Woods Tiles_44
+  - first:
+      213: 1707416039967719126
+    second: Lost Woods Tiles_45
+  - first:
+      213: 4800846220260886903
+    second: Lost Woods Tiles_46
+  - first:
+      213: -1431127166825714755
+    second: Lost Woods Tiles_47
+  - first:
+      213: -2606357742848724146
+    second: Lost Woods Tiles_48
+  - first:
+      213: 3650033281411551096
+    second: Lost Woods Tiles_49
+  - first:
+      213: 4833470696946574256
+    second: Lost Woods Tiles_50
+  - first:
+      213: -6315553902471413488
+    second: Lost Woods Tiles_51
+  - first:
+      213: 7560812426878941767
+    second: Lost Woods Tiles_52
+  - first:
+      213: 3087848642768687865
+    second: Lost Woods Tiles_53
+  - first:
+      213: -8299018256461023881
+    second: Lost Woods Tiles_54
+  - first:
+      213: 6770078805927221333
+    second: Lost Woods Tiles_55
+  - first:
+      213: -7810471999533541650
+    second: Lost Woods Tiles_56
+  - first:
+      213: 1534251777420535249
+    second: Lost Woods Tiles_57
+  - first:
+      213: -6277251542749071259
+    second: Lost Woods Tiles_58
+  - first:
+      213: 7424456003520567404
+    second: Lost Woods Tiles_59
+  - first:
+      213: 8374327488195686438
+    second: Lost Woods Tiles_60
+  - first:
+      213: 4269651670341074198
+    second: Lost Woods Tiles_61
+  - first:
+      213: -2571153812366985926
+    second: Lost Woods Tiles_62
+  - first:
+      213: -5221943151102182938
+    second: Lost Woods Tiles_63
+  - first:
+      213: 2772273231663253098
+    second: Lost Woods Tiles_64
+  - first:
+      213: 4543295647675628828
+    second: Lost Woods Tiles_65
+  - first:
+      213: 8886011634352663869
+    second: Lost Woods Tiles_66
+  - first:
+      213: -8651079522564739397
+    second: Lost Woods Tiles_67
+  - first:
+      213: -728484232827197930
+    second: Lost Woods Tiles_68
+  - first:
+      213: -939732579915975288
+    second: Lost Woods Tiles_69
+  - first:
+      213: 5862558816531521045
+    second: Lost Woods Tiles_70
+  - first:
+      213: 5323585657249030486
+    second: Lost Woods Tiles_71
+  - first:
+      213: 7998461278917025707
+    second: Lost Woods Tiles_72
+  - first:
+      213: 9035005904158026712
+    second: Lost Woods Tiles_73
+  - first:
+      213: -8836552793296768333
+    second: Lost Woods Tiles_74
+  - first:
+      213: -2886589373456085888
+    second: Lost Woods Tiles_75
+  - first:
+      213: 1905849103341575518
+    second: Lost Woods Tiles_76
+  - first:
+      213: -4696487709398766165
+    second: Lost Woods Tiles_77
+  - first:
+      213: 3575927818282257700
+    second: Lost Woods Tiles_78
+  - first:
+      213: 3439070390403038054
+    second: Lost Woods Tiles_79
+  - first:
+      213: -1402255608427524379
+    second: Lost Woods Tiles_80
+  - first:
+      213: 5028641773414129054
+    second: Lost Woods Tiles_81
+  - first:
+      213: 226830471959220040
+    second: Lost Woods Tiles_82
+  - first:
+      213: 7717429448020565621
+    second: Lost Woods Tiles_83
+  - first:
+      213: -7017636212533569078
+    second: Lost Woods Tiles_84
+  - first:
+      213: 4523931706654194394
+    second: Lost Woods Tiles_85
+  - first:
+      213: -6501079005362356757
+    second: Lost Woods Tiles_86
+  - first:
+      213: -9136395987989362742
+    second: Lost Woods Tiles_87
+  - first:
+      213: -5363774067380341734
+    second: Lost Woods Tiles_88
+  - first:
+      213: 453640868662633742
+    second: Lost Woods Tiles_89
+  - first:
+      213: 6427659314273045013
+    second: Lost Woods Tiles_90
+  - first:
+      213: 5311398782363433673
+    second: Lost Woods Tiles_91
+  - first:
+      213: 1983714955442582938
+    second: Lost Woods Tiles_92
+  - first:
+      213: 4935457068277900371
+    second: Lost Woods Tiles_93
+  - first:
+      213: -6658520857807249121
+    second: Lost Woods Tiles_94
+  - first:
+      213: -4183049183140518289
+    second: Lost Woods Tiles_95
+  - first:
+      213: -5587700903577265148
+    second: Lost Woods Tiles_96
+  - first:
+      213: -984066365069736927
+    second: Lost Woods Tiles_97
+  - first:
+      213: -1885377784980878976
+    second: Lost Woods Tiles_98
+  - first:
+      213: 7917338174781739573
+    second: Lost Woods Tiles_99
+  - first:
+      213: -8749160081982449663
+    second: Lost Woods Tiles_100
+  - first:
+      213: -5408271780075104429
+    second: Lost Woods Tiles_101
+  - first:
+      213: -9218209878961266703
+    second: Lost Woods Tiles_102
+  - first:
+      213: 8845332144456713925
+    second: Lost Woods Tiles_103
+  - first:
+      213: -3502979678995097813
+    second: Lost Woods Tiles_104
+  - first:
+      213: -8220073938307249961
+    second: Lost Woods Tiles_105
+  - first:
+      213: -7326505183899736495
+    second: Lost Woods Tiles_106
+  - first:
+      213: -238326947419049710
+    second: Lost Woods Tiles_107
+  - first:
+      213: -2825651330531308383
+    second: Lost Woods Tiles_108
+  - first:
+      213: 8228706987551173785
+    second: Lost Woods Tiles_109
+  - first:
+      213: 8915186537979874655
+    second: Lost Woods Tiles_110
+  - first:
+      213: 2655099107780593847
+    second: Lost Woods Tiles_111
+  - first:
+      213: -6654292240901853481
+    second: Lost Woods Tiles_112
+  - first:
+      213: -4944427636904399920
+    second: Lost Woods Tiles_113
+  - first:
+      213: 3309889081571177300
+    second: Lost Woods Tiles_114
+  - first:
+      213: -1645607663071854723
+    second: Lost Woods Tiles_115
+  - first:
+      213: 973259489548664658
+    second: Lost Woods Tiles_116
+  - first:
+      213: 912558135226421042
+    second: Lost Woods Tiles_117
+  - first:
+      213: 4804202266156949031
+    second: Lost Woods Tiles_118
+  - first:
+      213: -1543368437131162238
+    second: Lost Woods Tiles_119
+  - first:
+      213: 3529110085288064106
+    second: Lost Woods Tiles_120
+  - first:
+      213: -3788441998197395972
+    second: Lost Woods Tiles_121
+  - first:
+      213: -7911290473472941043
+    second: Lost Woods Tiles_122
+  - first:
+      213: -506520165308878741
+    second: Lost Woods Tiles_123
+  - first:
+      213: 175054202702942358
+    second: Lost Woods Tiles_124
+  - first:
+      213: 3261974464360817473
+    second: Lost Woods Tiles_125
+  - first:
+      213: 4809565478892928584
+    second: Lost Woods Tiles_126
+  - first:
+      213: -5599410058000305613
+    second: Lost Woods Tiles_127
+  - first:
+      213: 1453778842336122014
+    second: Lost Woods Tiles_128
+  - first:
+      213: -8692822601237016191
+    second: Lost Woods Tiles_129
+  - first:
+      213: -7026380202485982806
+    second: Lost Woods Tiles_130
+  - first:
+      213: 1070468874417699428
+    second: Lost Woods Tiles_131
+  - first:
+      213: -8872855471123956271
+    second: Lost Woods Tiles_132
+  - first:
+      213: 4436543625213480730
+    second: Lost Woods Tiles_133
+  - first:
+      213: 3021755406155223721
+    second: Lost Woods Tiles_134
+  - first:
+      213: 8687710472891031674
+    second: Lost Woods Tiles_135
+  - first:
+      213: 4222339604159481989
+    second: Lost Woods Tiles_136
+  - first:
+      213: 1964584571716267015
+    second: Lost Woods Tiles_137
+  - first:
+      213: 7203883555869667691
+    second: Lost Woods Tiles_138
+  - first:
+      213: 8082403252595938664
+    second: Lost Woods Tiles_139
+  - first:
+      213: -5107706936066366145
+    second: Lost Woods Tiles_140
+  - first:
+      213: 7166198530556266931
+    second: Lost Woods Tiles_141
+  - first:
+      213: 6902942343341640405
+    second: Lost Woods Tiles_142
+  - first:
+      213: 9011486613725890984
+    second: Lost Woods Tiles_143
+  - first:
+      213: 600402940921785216
+    second: Lost Woods Tiles_144
+  - first:
+      213: 1806206324242867848
+    second: Lost Woods Tiles_145
+  - first:
+      213: 6320181451163330771
+    second: Lost Woods Tiles_146
+  - first:
+      213: -2567561464368508758
+    second: Lost Woods Tiles_147
+  - first:
+      213: 7908402300464618583
+    second: Lost Woods Tiles_148
+  - first:
+      213: -5409725397802812736
+    second: Lost Woods Tiles_149
+  - first:
+      213: -56859562130518366
+    second: Lost Woods Tiles_150
+  - first:
+      213: -4610925302568860658
+    second: Lost Woods Tiles_151
+  - first:
+      213: 1882788267765896965
+    second: Lost Woods Tiles_152
+  - first:
+      213: -795953850794677567
+    second: Lost Woods Tiles_153
+  - first:
+      213: -8724380609648341097
+    second: Lost Woods Tiles_154
+  - first:
+      213: 1877313472862158262
+    second: Lost Woods Tiles_155
+  - first:
+      213: 5322797314461085167
+    second: Lost Woods Tiles_156
+  - first:
+      213: 7328935138434765096
+    second: Lost Woods Tiles_157
+  - first:
+      213: 8733303235866016550
+    second: Lost Woods Tiles_158
+  - first:
+      213: 2178727521825016606
+    second: Lost Woods Tiles_159
+  - first:
+      213: -2499842456116565978
+    second: Lost Woods Tiles_160
+  - first:
+      213: -181089556578080592
+    second: Lost Woods Tiles_161
+  - first:
+      213: 6214568833758754869
+    second: Lost Woods Tiles_162
+  - first:
+      213: -5910656263435982572
+    second: Lost Woods Tiles_163
+  - first:
+      213: -3943444918724693310
+    second: Lost Woods Tiles_164
+  - first:
+      213: 519555090378323510
+    second: Lost Woods Tiles_165
+  - first:
+      213: 8141762130034765990
+    second: Lost Woods Tiles_166
+  - first:
+      213: -3246904058671542052
+    second: Lost Woods Tiles_167
+  - first:
+      213: -1489335401860398068
+    second: Lost Woods Tiles_168
+  - first:
+      213: -430992046181613579
+    second: Lost Woods Tiles_169
+  - first:
+      213: -5833313805633749649
+    second: Lost Woods Tiles_170
+  - first:
+      213: -1959643284128555860
+    second: Lost Woods Tiles_171
+  - first:
+      213: -569164385606433429
+    second: Lost Woods Tiles_172
+  - first:
+      213: -8125538369668867985
+    second: Lost Woods Tiles_173
+  - first:
+      213: 8254467347065669656
+    second: Lost Woods Tiles_174
+  - first:
+      213: -5565775030668554320
+    second: Lost Woods Tiles_175
+  - first:
+      213: -3758469477410545807
+    second: Lost Woods Tiles_176
+  - first:
+      213: 8967614805538507961
+    second: Lost Woods Tiles_177
+  - first:
+      213: -7810694068783546883
+    second: Lost Woods Tiles_178
+  - first:
+      213: 2828570768756687876
+    second: Lost Woods Tiles_179
+  - first:
+      213: 7452402182753280443
+    second: Lost Woods Tiles_180
+  - first:
+      213: -5292317425818842508
+    second: Lost Woods Tiles_181
+  - first:
+      213: -4009290238263629294
+    second: Lost Woods Tiles_182
+  - first:
+      213: 295019620066012320
+    second: Lost Woods Tiles_183
+  - first:
+      213: -2152594803858255455
+    second: Lost Woods Tiles_184
+  - first:
+      213: -1571515521338828932
+    second: Lost Woods Tiles_185
+  - first:
+      213: -6530628578245196979
+    second: Lost Woods Tiles_186
+  - first:
+      213: 4110006935643460554
+    second: Lost Woods Tiles_187
+  - first:
+      213: -6724444818603458678
+    second: Lost Woods Tiles_188
+  - first:
+      213: -5301468400800910163
+    second: Lost Woods Tiles_189
+  - first:
+      213: -4394616079956075637
+    second: Lost Woods Tiles_190
+  - first:
+      213: -5637705151685182760
+    second: Lost Woods Tiles_191
+  - first:
+      213: -7210538368252732108
+    second: Lost Woods Tiles_192
+  - first:
+      213: 6039779131625754338
+    second: Lost Woods Tiles_193
+  - first:
+      213: -8928514180451891181
+    second: Lost Woods Tiles_194
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lost Woods Tiles_0
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 399
+        width: 58
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70987412894b39fa0800000000000000
+      internalID: -5795089730009331449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_1
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 416
+        width: 50
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0cf30a478e479be0800000000000000
+      internalID: -1470620410343850995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_2
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 399
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371163a9d594c1170800000000000000
+      internalID: 8150470092001775987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_3
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 390
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0cc6feda606b640800000000000000
+      internalID: 5095267372532285602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_4
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 382
+        width: 58
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d138603b386f9b0800000000000000
+      internalID: -5046701527490421404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_5
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 383
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458486022cf94adc0800000000000000
+      internalID: -3628599743637600172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_6
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 383
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1adea647de27dc6a0800000000000000
+      internalID: -6427354729001849439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_7
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 383
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619179e9cd3bbd8d0800000000000000
+      internalID: -2820462981482604266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_8
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 392
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4b0c012d0af3170800000000000000
+      internalID: 8160417873903269041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_9
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 392
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729b9795e79170020800000000000000
+      internalID: 2307841364508391719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_10
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 392
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67ecb9b70842e800800000000000000
+      internalID: 640153295058167661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_11
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 339
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ddc7a4a5ea588f0800000000000000
+      internalID: -538832877580919401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_12
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 375
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea34a900caee7810800000000000000
+      internalID: 1765106214492191468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_13
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 375
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a46ddb1182d29630800000000000000
+      internalID: 3932436876607972519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_14
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 375
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24b2c14c423b9350800000000000000
+      internalID: 6024464229640352810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_15
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 385
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5541954b8431cf50800000000000000
+      internalID: 6899853876880557402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_16
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 375
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90082bf04aea35a50800000000000000
+      internalID: 6508737906141724681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_17
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 385
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073d98e96a75a21a0800000000000000
+      internalID: -6833553111445286032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_18
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 375
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5b19424df51a230800000000000000
+      internalID: 3648302537898046914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_19
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 354
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4327b9aa2f15e70800000000000000
+      internalID: 9102323136458798277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_20
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 354
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a40fdba43113fc90800000000000000
+      internalID: -7137342066532612959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_21
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 365
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f6c72f0238bb7e0800000000000000
+      internalID: -1748659852772872417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_22
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 348
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6307cc31e2fbcd860800000000000000
+      internalID: 7556124479442415670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_23
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 348
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f99e75a019cdd50800000000000000
+      internalID: 6763440214014271340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_24
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 366
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847b6ffd6576d4320800000000000000
+      internalID: 2543802987356534600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_25
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 366
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a0e728ec4df9bf0800000000000000
+      internalID: -315299465474995688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_26
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 366
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d14c49b5f11cba60800000000000000
+      internalID: 7691042010715406802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_27
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 358
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bfd732f2e3b46610800000000000000
+      internalID: 1613612353813209010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_28
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 358
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26cb62e805bd32c50800000000000000
+      internalID: 6639391414703012962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_29
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 358
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7aebec12c151eb0800000000000000
+      internalID: -4749859300464220170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_30
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 358
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abfd3521e82e01fc0800000000000000
+      internalID: -3526069408410378310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_31
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 358
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 631855446b14f6e80800000000000000
+      internalID: -8183249746822594250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_32
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 339
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d7d636543a44620800000000000000
+      internalID: 2757508390273776897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_33
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 339
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2d328463b236070800000000000000
+      internalID: 8098364067080819428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_34
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 349
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae065af22cec01cd0800000000000000
+      internalID: -2589342452319690518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_35
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 349
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8160f416e06fe40800000000000000
+      internalID: 5689750990329616587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_36
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 349
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a05adf293d59de0800000000000000
+      internalID: -1326921886916605371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_37
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 349
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc573ffbcc824be30800000000000000
+      internalID: 4518281186018293196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_38
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 349
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a69e645443b130e0800000000000000
+      internalID: -2291853629299190107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_39
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 291
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1eb186435a8cdc0800000000000000
+      internalID: -3618460656088653364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_40
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 298
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ee1733b5f7448f0800000000000000
+      internalID: -557180424205242755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_41
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 298
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e732f91895bab0e0800000000000000
+      internalID: -2253288998670551063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_42
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 297
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d00dd5f660380d0800000000000000
+      internalID: -3421884216486392443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_43
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 297
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a239c0e9f64bc7c90800000000000000
+      internalID: -7170658115194678486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_44
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 297
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8dda2127f46eec0800000000000000
+      internalID: -3538053105894696770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_45
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 315
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de741297d5f1b710800000000000000
+      internalID: 1707416039967719126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_46
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 298
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7794deb833800a240800000000000000
+      internalID: 4800846220260886903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_47
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 315
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb21f89c6d932ce0800000000000000
+      internalID: -1431127166825714755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_48
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 298
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43b9e3217b54dbd0800000000000000
+      internalID: -2606357742848724146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_49
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 315
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f83e44ee587a230800000000000000
+      internalID: 3650033281411551096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_50
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 298
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3a2c37dffe31340800000000000000
+      internalID: 4833470696946574256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_51
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 315
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0110c5bdf25aa58a0800000000000000
+      internalID: -6315553902471413488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_52
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 306
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a7a75e7d66de860800000000000000
+      internalID: 7560812426878941767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_53
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 315
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f256600bfd3ada20800000000000000
+      internalID: 3087848642768687865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_54
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 306
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775b827add6f3dc80800000000000000
+      internalID: -8299018256461023881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_55
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 315
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55851b8fdc624fd50800000000000000
+      internalID: 6770078805927221333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_56
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 306
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee61bab1911ab9390800000000000000
+      internalID: -7810471999533541650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_57
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 298
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5a92ddcd1ca4510800000000000000
+      internalID: 1534251777420535249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_58
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 298
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5683baceaf8b2e8a0800000000000000
+      internalID: -6277251542749071259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_59
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 315
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c681c541667f80760800000000000000
+      internalID: 7424456003520567404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_60
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 306
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62071be3b76973470800000000000000
+      internalID: 8374327488195686438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_61
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 298
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d35559299d04b30800000000000000
+      internalID: 4269651670341074198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_62
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 283
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3579feea3d615cd0800000000000000
+      internalID: -2571153812366985926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_63
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 300
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e935410f5ee787b0800000000000000
+      internalID: -5221943151102182938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_64
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 300
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66cc99e0d7197620800000000000000
+      internalID: 2772273231663253098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_65
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 283
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1db845f1570d0f30800000000000000
+      internalID: 4543295647675628828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_66
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 266
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d24975084715b70800000000000000
+      internalID: 8886011634352663869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_67
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 289
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe6fd5720131f780800000000000000
+      internalID: -8651079522564739397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_68
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 281
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616acdd2377e3e5f0800000000000000
+      internalID: -728484232827197930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_69
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 281
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8853f3e823665f2f0800000000000000
+      internalID: -939732579915975288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_70
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 289
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e1236be2efb5150800000000000000
+      internalID: 5862558816531521045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_71
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 280
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65161bf13fc21e940800000000000000
+      internalID: 5323585657249030486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_72
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 280
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bafd09fc72e300f60800000000000000
+      internalID: 7998461278917025707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_73
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 280
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db65e4100ac26d70800000000000000
+      internalID: 9035005904158026712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_74
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 289
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b27f847d024e5580800000000000000
+      internalID: -8836552793296768333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_75
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 289
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c8bb63246c0f7d0800000000000000
+      internalID: -2886589373456085888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_76
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 289
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ddb2079afe27a10800000000000000
+      internalID: 1905849103341575518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_77
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 281
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad6c45bf49b2deb0800000000000000
+      internalID: -4696487709398766165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_78
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 281
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42dc627976f30a130800000000000000
+      internalID: 3575927818282257700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_79
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 281
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b79819c480abf20800000000000000
+      internalID: 3439070390403038054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_80
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 281
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eec06f14ff2a8ce0800000000000000
+      internalID: -1402255608427524379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_81
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 274
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d1a0fcc0359c540800000000000000
+      internalID: 5028641773414129054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_82
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 274
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f0d59cc1dd52300800000000000000
+      internalID: 226830471959220040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_83
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 272
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e976cb131d91b60800000000000000
+      internalID: 7717429448020565621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_84
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 264
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9d405bb095c9e90800000000000000
+      internalID: -7017636212533569078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_85
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 272
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adaff3b1beb38ce30800000000000000
+      internalID: 4523931706654194394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_86
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 272
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed70acb61787c5a0800000000000000
+      internalID: -6501079005362356757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_87
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 264
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac707907140053180800000000000000
+      internalID: -9136395987989362742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_88
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 264
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14b75a77eb0095b0800000000000000
+      internalID: -5363774067380341734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_89
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 264
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e056c3077f7ab4600800000000000000
+      internalID: 453640868662633742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_90
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 255
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ac9745712a33950800000000000000
+      internalID: 6427659314273045013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_91
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 255
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9caf6333d01e5b940800000000000000
+      internalID: 5311398782363433673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_92
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 212
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95f8c6ed32978b10800000000000000
+      internalID: 1983714955442582938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_93
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 179
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35425eeed044e7440800000000000000
+      internalID: 4935457068277900371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_94
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 212
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11aed4ee8e2893a0800000000000000
+      internalID: -6658520857807249121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_95
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 179
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66ebe04ee2d2f5c0800000000000000
+      internalID: -4183049183140518289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_96
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 192
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40cd52312af7472b0800000000000000
+      internalID: -5587700903577265148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_97
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 194
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124cb92dad4e752f0800000000000000
+      internalID: -984066365069736927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_98
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 161
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0894dcac4eac5d5e0800000000000000
+      internalID: -1885377784980878976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_99
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 161
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53251824f1900ed60800000000000000
+      internalID: 7917338174781739573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_100
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 192
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108986ea24db49680800000000000000
+      internalID: -8749160081982449663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_101
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 128
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3579ad36875f1f4b0800000000000000
+      internalID: -5408271780075104429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_102
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 128
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff548b84f6521080800000000000000
+      internalID: -9218209878961266703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_103
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 162
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6cfa688bee0ca70800000000000000
+      internalID: 8845332144456713925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_104
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 129
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27d512aa8ae26fc0800000000000000
+      internalID: -3502979678995097813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_105
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 129
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d800cf0e4e6ced80800000000000000
+      internalID: -8220073938307249961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_106
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 129
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156299c4a56035a90800000000000000
+      internalID: -7326505183899736495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_107
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 162
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2113fae67ea41bcf0800000000000000
+      internalID: -238326947419049710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_108
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 129
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac4298f51549c8d0800000000000000
+      internalID: -2825651330531308383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_109
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 79
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c23c9586d323270800000000000000
+      internalID: 8228706987551173785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_110
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 79
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d82aeebea19bb70800000000000000
+      internalID: 8915186537979874655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_111
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 91
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b808ba329ec8d420800000000000000
+      internalID: 2655099107780593847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_112
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 91
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de286d767437a3a0800000000000000
+      internalID: -6654292240901853481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_113
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 91
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db60bcc24dd16bb0800000000000000
+      internalID: -4944427636904399920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_114
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 75
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4537ef845961fed20800000000000000
+      internalID: 3309889081571177300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_115
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 58
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ff0fa9c80a929e0800000000000000
+      internalID: -1645607663071854723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_116
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 75
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f73d46956b18d00800000000000000
+      internalID: 973259489548664658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_117
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 58
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f401ff9ce0aac00800000000000000
+      internalID: 912558135226421042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_118
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 75
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e596fd184fba240800000000000000
+      internalID: 4804202266156949031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_119
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 58
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d4f33659ad49ae0800000000000000
+      internalID: -1543368437131162238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_120
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 75
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64f7deaceae9f030800000000000000
+      internalID: 3529110085288064106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_121
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 58
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfde54d1310cc6bc0800000000000000
+      internalID: -3788441998197395972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_122
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 75
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04a6bdea33753290800000000000000
+      internalID: -7911290473472941043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_123
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 58
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b603133e79a78f8f0800000000000000
+      internalID: -506520165308878741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_124
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 75
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6905c80bedaed6200800000000000000
+      internalID: 175054202702942358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_125
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 58
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1432f9e1e7cd44d20800000000000000
+      internalID: 3261974464360817473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_126
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 75
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ef46522520fb240800000000000000
+      internalID: 4809565478892928584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_127
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 58
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332742d1836ea42b0800000000000000
+      internalID: -5599410058000305613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_128
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 75
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e945c67972cdc2410800000000000000
+      internalID: 1453778842336122014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_129
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 58
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 181d7c596e3ec5780800000000000000
+      internalID: -8692822601237016191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_130
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 75
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa95cf5ee684d7e90800000000000000
+      internalID: -7026380202485982806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_131
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 58
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a77ca05c11bde00800000000000000
+      internalID: 1070468874417699428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_132
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 75
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd764c95f84dd480800000000000000
+      internalID: -8872855471123956271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_133
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 58
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f8f5bdbe4c19d30800000000000000
+      internalID: 4436543625213480730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_134
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 45
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a29ffd288e6fe920800000000000000
+      internalID: 3021755406155223721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_135
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 45
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a706c1845a2f09870800000000000000
+      internalID: 8687710472891031674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_136
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 45
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5884df2cf73c89a30800000000000000
+      internalID: 4222339604159481989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_137
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 28
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c6c58524b934b10800000000000000
+      internalID: 1964584571716267015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_138
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 28
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61b3ee1de559f360800000000000000
+      internalID: 7203883555869667691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_139
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 58
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86551729fe67a2070800000000000000
+      internalID: 8082403252595938664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_140
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 41
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3527fa7a97cd19b0800000000000000
+      internalID: -5107706936066366145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_141
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 58
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b98bbb6893737360800000000000000
+      internalID: 7166198530556266931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_142
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 41
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da81e7ec7d2ccf50800000000000000
+      internalID: 6902942343341640405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_143
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 58
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9c15d845b3f0d70800000000000000
+      internalID: 9011486613725890984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_144
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 41
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b2ebf2b4f055800800000000000000
+      internalID: 600402940921785216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_145
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 58
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8866f8b051fe01910800000000000000
+      internalID: 1806206324242867848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_146
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 41
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d86a984b8bc5b750800000000000000
+      internalID: 6320181451163330771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_147
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 58
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa05551a3703e5cd0800000000000000
+      internalID: -2567561464368508758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_148
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 41
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c5314edf940cd60800000000000000
+      internalID: 7908402300464618583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_149
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 41
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cafd83a96bcce4b0800000000000000
+      internalID: -5409725397802812736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_150
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 41
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae402d878ef53ff0800000000000000
+      internalID: -56859562130518366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_151
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 58
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04c586fdd3b200c0800000000000000
+      internalID: -4610925302568860658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_152
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 58
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507957f34f1012a10800000000000000
+      internalID: 1882788267765896965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_153
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 41
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca67c9903434f4f0800000000000000
+      internalID: -795953850794677567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_154
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 41
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79fca9c2f06cce680800000000000000
+      internalID: -8724380609648341097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_155
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 41
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bdf00a38ae8d0a10800000000000000
+      internalID: 1877313472862158262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_156
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 41
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed2bd3c4ff5ed940800000000000000
+      internalID: 5322797314461085167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_157
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 41
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82158449dab95b560800000000000000
+      internalID: 7328935138434765096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_158
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 41
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b3091a50de23970800000000000000
+      internalID: 8733303235866016550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_159
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 41
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b4fb043256c3e10800000000000000
+      internalID: 2178727521825016606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_160
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 41
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6286bb8e786ce4dd0800000000000000
+      internalID: -2499842456116565978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_161
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 41
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b861abf104ac7df0800000000000000
+      internalID: -181089556578080592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_162
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 41
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53877689d659e3650800000000000000
+      internalID: 6214568833758754869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_163
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 41
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419e574c17129fda0800000000000000
+      internalID: -5910656263435982572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_164
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 58
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2781c5db11649c0800000000000000
+      internalID: -3943444918724693310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_165
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 41
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636fe3b1a94d53700800000000000000
+      internalID: 519555090378323510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_166
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 58
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0337635895df070800000000000000
+      internalID: 8141762130034765990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_167
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 41
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0db1326fda0f2d0800000000000000
+      internalID: -3246904058671542052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_168
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 58
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0482b4c751d45be0800000000000000
+      internalID: -1489335401860398068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_169
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 41
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff735a740fc40af0800000000000000
+      internalID: -430992046181613579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_170
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 28
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d71dffff7eb0fa0800000000000000
+      internalID: -5833313805633749649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_171
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 28
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac9903d0d2fdc4e0800000000000000
+      internalID: -1959643284128555860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_172
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 28
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b650021c10ce918f0800000000000000
+      internalID: -569164385606433429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_173
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 32
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68941b57e94c3f80800000000000000
+      internalID: -8125538369668867985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_174
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 32
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81809ef6152cd8270800000000000000
+      internalID: 8254467347065669656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_175
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 32
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf034d291562c2b0800000000000000
+      internalID: -5565775030668554320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_176
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 32
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17fdbcb6ceb37dbc0800000000000000
+      internalID: -3758469477410545807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_177
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 32
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc08a6372e537c70800000000000000
+      internalID: 8967614805538507961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_178
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 32
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfdf7e49027da9390800000000000000
+      internalID: -7810694068783546883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_179
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 32
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404cbc5b02a114720800000000000000
+      internalID: 2828570768756687876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_180
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 24
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1ea5afc404c6760800000000000000
+      internalID: 7452402182753280443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_181
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 24
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a45735759ed86b0800000000000000
+      internalID: -5292317425818842508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_182
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 32
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21aeada35c32c58c0800000000000000
+      internalID: -4009290238263629294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_183
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 32
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac2ec708ce181400800000000000000
+      internalID: 295019620066012320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_184
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 32
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a15daa4e627022e0800000000000000
+      internalID: -2152594803858255455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_185
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 32
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c771697a5fad03ae0800000000000000
+      internalID: -1571515521338828932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_186
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 32
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d434ea9a8eb8e55a0800000000000000
+      internalID: -6530628578245196979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_187
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 32
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac39b6f388da90930800000000000000
+      internalID: 4110006935643460554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_188
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 32
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8fbc6ba019fda2a0800000000000000
+      internalID: -6724444818603458678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_189
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 32
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4bd4ee3966d66b0800000000000000
+      internalID: -5301468400800910163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_190
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 32
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b9ffd75ff2303c0800000000000000
+      internalID: -4394616079956075637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_191
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 32
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da3a6dc809d2c1b0800000000000000
+      internalID: -5637705151685182760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_192
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 32
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d98f0ae850feb90800000000000000
+      internalID: -7210538368252732108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_193
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 15
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eece5ebe1b91d350800000000000000
+      internalID: 6039779131625754338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Woods Tiles_194
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 15
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318802e78ab871480800000000000000
+      internalID: -8928514180451891181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Lost Woods Tiles_0: -5795089730009331449
+      Lost Woods Tiles_1: -1470620410343850995
+      Lost Woods Tiles_10: 640153295058167661
+      Lost Woods Tiles_100: -8749160081982449663
+      Lost Woods Tiles_101: -5408271780075104429
+      Lost Woods Tiles_102: -9218209878961266703
+      Lost Woods Tiles_103: 8845332144456713925
+      Lost Woods Tiles_104: -3502979678995097813
+      Lost Woods Tiles_105: -8220073938307249961
+      Lost Woods Tiles_106: -7326505183899736495
+      Lost Woods Tiles_107: -238326947419049710
+      Lost Woods Tiles_108: -2825651330531308383
+      Lost Woods Tiles_109: 8228706987551173785
+      Lost Woods Tiles_11: -538832877580919401
+      Lost Woods Tiles_110: 8915186537979874655
+      Lost Woods Tiles_111: 2655099107780593847
+      Lost Woods Tiles_112: -6654292240901853481
+      Lost Woods Tiles_113: -4944427636904399920
+      Lost Woods Tiles_114: 3309889081571177300
+      Lost Woods Tiles_115: -1645607663071854723
+      Lost Woods Tiles_116: 973259489548664658
+      Lost Woods Tiles_117: 912558135226421042
+      Lost Woods Tiles_118: 4804202266156949031
+      Lost Woods Tiles_119: -1543368437131162238
+      Lost Woods Tiles_12: 1765106214492191468
+      Lost Woods Tiles_120: 3529110085288064106
+      Lost Woods Tiles_121: -3788441998197395972
+      Lost Woods Tiles_122: -7911290473472941043
+      Lost Woods Tiles_123: -506520165308878741
+      Lost Woods Tiles_124: 175054202702942358
+      Lost Woods Tiles_125: 3261974464360817473
+      Lost Woods Tiles_126: 4809565478892928584
+      Lost Woods Tiles_127: -5599410058000305613
+      Lost Woods Tiles_128: 1453778842336122014
+      Lost Woods Tiles_129: -8692822601237016191
+      Lost Woods Tiles_13: 3932436876607972519
+      Lost Woods Tiles_130: -7026380202485982806
+      Lost Woods Tiles_131: 1070468874417699428
+      Lost Woods Tiles_132: -8872855471123956271
+      Lost Woods Tiles_133: 4436543625213480730
+      Lost Woods Tiles_134: 3021755406155223721
+      Lost Woods Tiles_135: 8687710472891031674
+      Lost Woods Tiles_136: 4222339604159481989
+      Lost Woods Tiles_137: 1964584571716267015
+      Lost Woods Tiles_138: 7203883555869667691
+      Lost Woods Tiles_139: 8082403252595938664
+      Lost Woods Tiles_14: 6024464229640352810
+      Lost Woods Tiles_140: -5107706936066366145
+      Lost Woods Tiles_141: 7166198530556266931
+      Lost Woods Tiles_142: 6902942343341640405
+      Lost Woods Tiles_143: 9011486613725890984
+      Lost Woods Tiles_144: 600402940921785216
+      Lost Woods Tiles_145: 1806206324242867848
+      Lost Woods Tiles_146: 6320181451163330771
+      Lost Woods Tiles_147: -2567561464368508758
+      Lost Woods Tiles_148: 7908402300464618583
+      Lost Woods Tiles_149: -5409725397802812736
+      Lost Woods Tiles_15: 6899853876880557402
+      Lost Woods Tiles_150: -56859562130518366
+      Lost Woods Tiles_151: -4610925302568860658
+      Lost Woods Tiles_152: 1882788267765896965
+      Lost Woods Tiles_153: -795953850794677567
+      Lost Woods Tiles_154: -8724380609648341097
+      Lost Woods Tiles_155: 1877313472862158262
+      Lost Woods Tiles_156: 5322797314461085167
+      Lost Woods Tiles_157: 7328935138434765096
+      Lost Woods Tiles_158: 8733303235866016550
+      Lost Woods Tiles_159: 2178727521825016606
+      Lost Woods Tiles_16: 6508737906141724681
+      Lost Woods Tiles_160: -2499842456116565978
+      Lost Woods Tiles_161: -181089556578080592
+      Lost Woods Tiles_162: 6214568833758754869
+      Lost Woods Tiles_163: -5910656263435982572
+      Lost Woods Tiles_164: -3943444918724693310
+      Lost Woods Tiles_165: 519555090378323510
+      Lost Woods Tiles_166: 8141762130034765990
+      Lost Woods Tiles_167: -3246904058671542052
+      Lost Woods Tiles_168: -1489335401860398068
+      Lost Woods Tiles_169: -430992046181613579
+      Lost Woods Tiles_17: -6833553111445286032
+      Lost Woods Tiles_170: -5833313805633749649
+      Lost Woods Tiles_171: -1959643284128555860
+      Lost Woods Tiles_172: -569164385606433429
+      Lost Woods Tiles_173: -8125538369668867985
+      Lost Woods Tiles_174: 8254467347065669656
+      Lost Woods Tiles_175: -5565775030668554320
+      Lost Woods Tiles_176: -3758469477410545807
+      Lost Woods Tiles_177: 8967614805538507961
+      Lost Woods Tiles_178: -7810694068783546883
+      Lost Woods Tiles_179: 2828570768756687876
+      Lost Woods Tiles_18: 3648302537898046914
+      Lost Woods Tiles_180: 7452402182753280443
+      Lost Woods Tiles_181: -5292317425818842508
+      Lost Woods Tiles_182: -4009290238263629294
+      Lost Woods Tiles_183: 295019620066012320
+      Lost Woods Tiles_184: -2152594803858255455
+      Lost Woods Tiles_185: -1571515521338828932
+      Lost Woods Tiles_186: -6530628578245196979
+      Lost Woods Tiles_187: 4110006935643460554
+      Lost Woods Tiles_188: -6724444818603458678
+      Lost Woods Tiles_189: -5301468400800910163
+      Lost Woods Tiles_19: 9102323136458798277
+      Lost Woods Tiles_190: -4394616079956075637
+      Lost Woods Tiles_191: -5637705151685182760
+      Lost Woods Tiles_192: -7210538368252732108
+      Lost Woods Tiles_193: 6039779131625754338
+      Lost Woods Tiles_194: -8928514180451891181
+      Lost Woods Tiles_2: 8150470092001775987
+      Lost Woods Tiles_20: -7137342066532612959
+      Lost Woods Tiles_21: -1748659852772872417
+      Lost Woods Tiles_22: 7556124479442415670
+      Lost Woods Tiles_23: 6763440214014271340
+      Lost Woods Tiles_24: 2543802987356534600
+      Lost Woods Tiles_25: -315299465474995688
+      Lost Woods Tiles_26: 7691042010715406802
+      Lost Woods Tiles_27: 1613612353813209010
+      Lost Woods Tiles_28: 6639391414703012962
+      Lost Woods Tiles_29: -4749859300464220170
+      Lost Woods Tiles_3: 5095267372532285602
+      Lost Woods Tiles_30: -3526069408410378310
+      Lost Woods Tiles_31: -8183249746822594250
+      Lost Woods Tiles_32: 2757508390273776897
+      Lost Woods Tiles_33: 8098364067080819428
+      Lost Woods Tiles_34: -2589342452319690518
+      Lost Woods Tiles_35: 5689750990329616587
+      Lost Woods Tiles_36: -1326921886916605371
+      Lost Woods Tiles_37: 4518281186018293196
+      Lost Woods Tiles_38: -2291853629299190107
+      Lost Woods Tiles_39: -3618460656088653364
+      Lost Woods Tiles_4: -5046701527490421404
+      Lost Woods Tiles_40: -557180424205242755
+      Lost Woods Tiles_41: -2253288998670551063
+      Lost Woods Tiles_42: -3421884216486392443
+      Lost Woods Tiles_43: -7170658115194678486
+      Lost Woods Tiles_44: -3538053105894696770
+      Lost Woods Tiles_45: 1707416039967719126
+      Lost Woods Tiles_46: 4800846220260886903
+      Lost Woods Tiles_47: -1431127166825714755
+      Lost Woods Tiles_48: -2606357742848724146
+      Lost Woods Tiles_49: 3650033281411551096
+      Lost Woods Tiles_5: -3628599743637600172
+      Lost Woods Tiles_50: 4833470696946574256
+      Lost Woods Tiles_51: -6315553902471413488
+      Lost Woods Tiles_52: 7560812426878941767
+      Lost Woods Tiles_53: 3087848642768687865
+      Lost Woods Tiles_54: -8299018256461023881
+      Lost Woods Tiles_55: 6770078805927221333
+      Lost Woods Tiles_56: -7810471999533541650
+      Lost Woods Tiles_57: 1534251777420535249
+      Lost Woods Tiles_58: -6277251542749071259
+      Lost Woods Tiles_59: 7424456003520567404
+      Lost Woods Tiles_6: -6427354729001849439
+      Lost Woods Tiles_60: 8374327488195686438
+      Lost Woods Tiles_61: 4269651670341074198
+      Lost Woods Tiles_62: -2571153812366985926
+      Lost Woods Tiles_63: -5221943151102182938
+      Lost Woods Tiles_64: 2772273231663253098
+      Lost Woods Tiles_65: 4543295647675628828
+      Lost Woods Tiles_66: 8886011634352663869
+      Lost Woods Tiles_67: -8651079522564739397
+      Lost Woods Tiles_68: -728484232827197930
+      Lost Woods Tiles_69: -939732579915975288
+      Lost Woods Tiles_7: -2820462981482604266
+      Lost Woods Tiles_70: 5862558816531521045
+      Lost Woods Tiles_71: 5323585657249030486
+      Lost Woods Tiles_72: 7998461278917025707
+      Lost Woods Tiles_73: 9035005904158026712
+      Lost Woods Tiles_74: -8836552793296768333
+      Lost Woods Tiles_75: -2886589373456085888
+      Lost Woods Tiles_76: 1905849103341575518
+      Lost Woods Tiles_77: -4696487709398766165
+      Lost Woods Tiles_78: 3575927818282257700
+      Lost Woods Tiles_79: 3439070390403038054
+      Lost Woods Tiles_8: 8160417873903269041
+      Lost Woods Tiles_80: -1402255608427524379
+      Lost Woods Tiles_81: 5028641773414129054
+      Lost Woods Tiles_82: 226830471959220040
+      Lost Woods Tiles_83: 7717429448020565621
+      Lost Woods Tiles_84: -7017636212533569078
+      Lost Woods Tiles_85: 4523931706654194394
+      Lost Woods Tiles_86: -6501079005362356757
+      Lost Woods Tiles_87: -9136395987989362742
+      Lost Woods Tiles_88: -5363774067380341734
+      Lost Woods Tiles_89: 453640868662633742
+      Lost Woods Tiles_9: 2307841364508391719
+      Lost Woods Tiles_90: 6427659314273045013
+      Lost Woods Tiles_91: 5311398782363433673
+      Lost Woods Tiles_92: 1983714955442582938
+      Lost Woods Tiles_93: 4935457068277900371
+      Lost Woods Tiles_94: -6658520857807249121
+      Lost Woods Tiles_95: -4183049183140518289
+      Lost Woods Tiles_96: -5587700903577265148
+      Lost Woods Tiles_97: -984066365069736927
+      Lost Woods Tiles_98: -1885377784980878976
+      Lost Woods Tiles_99: 7917338174781739573
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

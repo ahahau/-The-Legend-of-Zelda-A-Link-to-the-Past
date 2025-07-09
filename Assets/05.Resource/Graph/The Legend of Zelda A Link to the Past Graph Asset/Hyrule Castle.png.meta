@@ -1,0 +1,1885 @@
+fileFormatVersion: 2
+guid: d3c4eaa9c369c96489ca37c76285b159
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6060932347315124469
+    second: Hyrule Castle_0
+  - first:
+      213: -919555557400752229
+    second: Hyrule Castle_1
+  - first:
+      213: -124849956480189810
+    second: Hyrule Castle_2
+  - first:
+      213: -3507626745898130479
+    second: Hyrule Castle_3
+  - first:
+      213: 5155212047783583829
+    second: Hyrule Castle_4
+  - first:
+      213: 2219329564404883890
+    second: Hyrule Castle_5
+  - first:
+      213: 5758429758730555942
+    second: Hyrule Castle_6
+  - first:
+      213: 852755618377721103
+    second: Hyrule Castle_7
+  - first:
+      213: 4347311759044528796
+    second: Hyrule Castle_8
+  - first:
+      213: 164808121094486607
+    second: Hyrule Castle_9
+  - first:
+      213: 1180794078993994326
+    second: Hyrule Castle_10
+  - first:
+      213: 2994129616266544687
+    second: Hyrule Castle_11
+  - first:
+      213: 7208452714943793492
+    second: Hyrule Castle_12
+  - first:
+      213: 5488984255393054974
+    second: Hyrule Castle_13
+  - first:
+      213: 742611127850172770
+    second: Hyrule Castle_14
+  - first:
+      213: -2709913338617748109
+    second: Hyrule Castle_15
+  - first:
+      213: 3348286957364897503
+    second: Hyrule Castle_16
+  - first:
+      213: 6602246529073226755
+    second: Hyrule Castle_17
+  - first:
+      213: -8930161493905702519
+    second: Hyrule Castle_18
+  - first:
+      213: -1236171773642857054
+    second: Hyrule Castle_19
+  - first:
+      213: 3969699412858581428
+    second: Hyrule Castle_20
+  - first:
+      213: -298241233630162370
+    second: Hyrule Castle_21
+  - first:
+      213: -1022985034263212046
+    second: Hyrule Castle_22
+  - first:
+      213: 4728623186631591581
+    second: Hyrule Castle_23
+  - first:
+      213: 381096279666814056
+    second: Hyrule Castle_24
+  - first:
+      213: 491958263892698544
+    second: Hyrule Castle_25
+  - first:
+      213: -2520919144749969614
+    second: Hyrule Castle_26
+  - first:
+      213: 1461569588336507786
+    second: Hyrule Castle_27
+  - first:
+      213: 6692507077094832949
+    second: Hyrule Castle_28
+  - first:
+      213: 3702326082572217169
+    second: Hyrule Castle_29
+  - first:
+      213: 3328137130963379011
+    second: Hyrule Castle_30
+  - first:
+      213: -5292739334523404538
+    second: Hyrule Castle_31
+  - first:
+      213: -8335659656462539962
+    second: Hyrule Castle_32
+  - first:
+      213: 7512885340145761156
+    second: Hyrule Castle_33
+  - first:
+      213: -8535471904333786558
+    second: Hyrule Castle_34
+  - first:
+      213: 5388769026803654775
+    second: Hyrule Castle_35
+  - first:
+      213: 2919549711651036842
+    second: Hyrule Castle_36
+  - first:
+      213: -4290570455121220108
+    second: Hyrule Castle_37
+  - first:
+      213: -7024885918706067401
+    second: Hyrule Castle_38
+  - first:
+      213: -715916249910055472
+    second: Hyrule Castle_39
+  - first:
+      213: -1624670248812301424
+    second: Hyrule Castle_40
+  - first:
+      213: -3132512284640538954
+    second: Hyrule Castle_41
+  - first:
+      213: -8998808239719900798
+    second: Hyrule Castle_42
+  - first:
+      213: -1120231078977054008
+    second: Hyrule Castle_43
+  - first:
+      213: 2857155070933575324
+    second: Hyrule Castle_44
+  - first:
+      213: -5026878810671398515
+    second: Hyrule Castle_45
+  - first:
+      213: -396866488770152308
+    second: Hyrule Castle_46
+  - first:
+      213: -2318240625605834169
+    second: Hyrule Castle_47
+  - first:
+      213: -8673303744473231337
+    second: Hyrule Castle_48
+  - first:
+      213: 3987426694152801638
+    second: Hyrule Castle_49
+  - first:
+      213: 5204689726938906564
+    second: Hyrule Castle_50
+  - first:
+      213: -7541604789476885937
+    second: Hyrule Castle_51
+  - first:
+      213: -1453452060552765877
+    second: Hyrule Castle_52
+  - first:
+      213: 3761781043875081114
+    second: Hyrule Castle_53
+  - first:
+      213: -5504774706429000677
+    second: Hyrule Castle_54
+  - first:
+      213: -2882670266251413332
+    second: Hyrule Castle_55
+  - first:
+      213: 1372897903295051245
+    second: Hyrule Castle_56
+  - first:
+      213: -2400639486796077031
+    second: Hyrule Castle_57
+  - first:
+      213: 5456863373154685011
+    second: Hyrule Castle_58
+  - first:
+      213: -7016210849349455373
+    second: Hyrule Castle_59
+  - first:
+      213: -1587570837894421533
+    second: Hyrule Castle_60
+  - first:
+      213: 8560736310187508936
+    second: Hyrule Castle_61
+  - first:
+      213: -4724734076522155013
+    second: Hyrule Castle_62
+  - first:
+      213: 4297929492104454886
+    second: Hyrule Castle_63
+  - first:
+      213: 2560576553484084926
+    second: Hyrule Castle_64
+  - first:
+      213: 6791316193684146465
+    second: Hyrule Castle_65
+  - first:
+      213: -7837126953630230823
+    second: Hyrule Castle_66
+  - first:
+      213: -6593557218354070827
+    second: Hyrule Castle_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hyrule Castle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 993
+        width: 1520
+        height: 1007
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f874619bd1cc1450800000000000000
+      internalID: 6060932347315124469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_1
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 936
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f44e1b7151d33f0800000000000000
+      internalID: -919555557400752229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 945
+        width: 257
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a76c540a1744ef0800000000000000
+      internalID: -124849956480189810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 985
+        height: 946
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3251e0f08625fc0800000000000000
+      internalID: -3507626745898130479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_4
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 815
+        width: 211
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55064f14b0efa8740800000000000000
+      internalID: 5155212047783583829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_5
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 908
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b120e5fa74acce10800000000000000
+      internalID: 2219329564404883890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_6
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 905
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6225c292b5d0aef40800000000000000
+      internalID: 5758429758730555942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_7
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 908
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f056f9187b895db00800000000000000
+      internalID: 852755618377721103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_8
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 908
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a4ab50301c45c30800000000000000
+      internalID: 4347311759044528796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_9
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 908
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4abfe9ec14894200800000000000000
+      internalID: 164808121094486607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_10
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 908
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652525f65f5036010800000000000000
+      internalID: 1180794078993994326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_11
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 908
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f264b0db5094d8920800000000000000
+      internalID: 2994129616266544687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_12
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 905
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459cc6e5d81990460800000000000000
+      internalID: 7208452714943793492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_13
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 905
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef04a60391acc2c40800000000000000
+      internalID: 5488984255393054974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_14
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 908
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26103c1e2e84e4a00800000000000000
+      internalID: 742611127850172770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_15
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 908
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375a89f1d24746ad0800000000000000
+      internalID: -2709913338617748109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_16
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 908
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6eecb6f31877e20800000000000000
+      internalID: 3348286957364897503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_17
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 905
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30427fcec34ef9b50800000000000000
+      internalID: 6602246529073226755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_18
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 908
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98101e07f61b11480800000000000000
+      internalID: -8930161493905702519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_19
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 908
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a527a6425c38dee0800000000000000
+      internalID: -1236171773642857054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_20
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 908
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b133886594371730800000000000000
+      internalID: 3969699412858581428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_21
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 908
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32991c9d2f6cdbf0800000000000000
+      internalID: -298241233630162370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_22
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 908
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff43360880adc1f0800000000000000
+      internalID: -1022985034263212046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_23
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 908
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d960ad32cb17f9140800000000000000
+      internalID: 4728623186631591581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_24
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 908
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c63c61c0de94500800000000000000
+      internalID: 381096279666814056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_25
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 908
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b564ab3f69c3d600800000000000000
+      internalID: 491958263892698544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_26
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 870
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f42bde465e30dd0800000000000000
+      internalID: -2520919144749969614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_27
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 867
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8bbf4ffbc9884410800000000000000
+      internalID: 1461569588336507786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_28
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 870
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b760b6abf80ec50800000000000000
+      internalID: 6692507077094832949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_29
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 870
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b6162d4fd416330800000000000000
+      internalID: 3702326082572217169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_30
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 867
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3432cde561bef2e20800000000000000
+      internalID: 3328137130963379011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_31
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 870
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60fbefc0e996c86b0800000000000000
+      internalID: -5292739334523404538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_32
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 870
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643eef7e4b9c15c80800000000000000
+      internalID: -8335659656462539962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_33
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 870
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48bb0a17961234860800000000000000
+      internalID: 7512885340145761156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_34
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 870
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2429bdf9689eb8980800000000000000
+      internalID: -8535471904333786558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_35
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 870
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 770624301e0c8ca40800000000000000
+      internalID: 5388769026803654775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_36
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 866
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaedd0b8ef2548820800000000000000
+      internalID: 2919549711651036842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_37
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 870
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fda6ba47e4d474c0800000000000000
+      internalID: -4290570455121220108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_38
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 870
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73891e3f977928e90800000000000000
+      internalID: -7024885918706067401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_39
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 870
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd6e2bb6fd8016f0800000000000000
+      internalID: -715916249910055472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_40
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 870
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093b56e34030479e0800000000000000
+      internalID: -1624670248812301424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_41
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 870
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be04738ca41784d0800000000000000
+      internalID: -3132512284640538954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_42
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 870
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28913ad659fcd1380800000000000000
+      internalID: -8998808239719900798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_43
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 832
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca5837d4c32470f0800000000000000
+      internalID: -1120231078977054008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_44
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 832
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96a33f2667a6a720800000000000000
+      internalID: 2857155070933575324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_45
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 832
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d814ef0fa50fc3ab0800000000000000
+      internalID: -5026878810671398515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_46
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 832
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c883999f70c0e7af0800000000000000
+      internalID: -396866488770152308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_47
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 832
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a82eefe64f3dfd0800000000000000
+      internalID: -2318240625605834169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_48
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 829
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7109b91923c32a780800000000000000
+      internalID: -8673303744473231337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_49
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 832
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d43e8b37f265730800000000000000
+      internalID: 3987426694152801638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_50
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 832
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf71542bb5ca3840800000000000000
+      internalID: 5204689726938906564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_51
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 832
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a78dea666d65790800000000000000
+      internalID: -7541604789476885937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_52
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 832
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e51b83d0d44dbe0800000000000000
+      internalID: -1453452060552765877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_53
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 832
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9be8fabde7843430800000000000000
+      internalID: 3761781043875081114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_54
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 832
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b148ebee19c1b93b0800000000000000
+      internalID: -5504774706429000677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_55
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 832
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8f0877aa2bef7d0800000000000000
+      internalID: -2882670266251413332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_56
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 832
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5b7ce7e538d0310800000000000000
+      internalID: 1372897903295051245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_57
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 832
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9186ebb1b173faed0800000000000000
+      internalID: -2400639486796077031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_58
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 832
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35099b0835caabb40800000000000000
+      internalID: 5456863373154685011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_59
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 832
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1b84fe76961ae90800000000000000
+      internalID: -7016210849349455373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_60
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 832
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3a887fbb0d7f9e0800000000000000
+      internalID: -1587570837894421533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_61
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 832
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4c3804158ddc670800000000000000
+      internalID: 8560736310187508936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_62
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 832
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3b6bed36f5e6eb0800000000000000
+      internalID: -4724734076522155013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_63
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 832
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2af860a1055ab30800000000000000
+      internalID: 4297929492104454886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_64
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 832
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6ec921fcef88320800000000000000
+      internalID: 2560576553484084926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_65
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 832
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129c6e1a81a9f3e50800000000000000
+      internalID: 6791316193684146465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_66
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 592
+        width: 434
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d61b3dfe8eec3390800000000000000
+      internalID: -7837126953630230823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyrule Castle_67
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 144
+        width: 480
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dafac1e4aafe74a0800000000000000
+      internalID: -6593557218354070827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hyrule Castle_0: 6060932347315124469
+      Hyrule Castle_1: -919555557400752229
+      Hyrule Castle_10: 1180794078993994326
+      Hyrule Castle_11: 2994129616266544687
+      Hyrule Castle_12: 7208452714943793492
+      Hyrule Castle_13: 5488984255393054974
+      Hyrule Castle_14: 742611127850172770
+      Hyrule Castle_15: -2709913338617748109
+      Hyrule Castle_16: 3348286957364897503
+      Hyrule Castle_17: 6602246529073226755
+      Hyrule Castle_18: -8930161493905702519
+      Hyrule Castle_19: -1236171773642857054
+      Hyrule Castle_2: -124849956480189810
+      Hyrule Castle_20: 3969699412858581428
+      Hyrule Castle_21: -298241233630162370
+      Hyrule Castle_22: -1022985034263212046
+      Hyrule Castle_23: 4728623186631591581
+      Hyrule Castle_24: 381096279666814056
+      Hyrule Castle_25: 491958263892698544
+      Hyrule Castle_26: -2520919144749969614
+      Hyrule Castle_27: 1461569588336507786
+      Hyrule Castle_28: 6692507077094832949
+      Hyrule Castle_29: 3702326082572217169
+      Hyrule Castle_3: -3507626745898130479
+      Hyrule Castle_30: 3328137130963379011
+      Hyrule Castle_31: -5292739334523404538
+      Hyrule Castle_32: -8335659656462539962
+      Hyrule Castle_33: 7512885340145761156
+      Hyrule Castle_34: -8535471904333786558
+      Hyrule Castle_35: 5388769026803654775
+      Hyrule Castle_36: 2919549711651036842
+      Hyrule Castle_37: -4290570455121220108
+      Hyrule Castle_38: -7024885918706067401
+      Hyrule Castle_39: -715916249910055472
+      Hyrule Castle_4: 5155212047783583829
+      Hyrule Castle_40: -1624670248812301424
+      Hyrule Castle_41: -3132512284640538954
+      Hyrule Castle_42: -8998808239719900798
+      Hyrule Castle_43: -1120231078977054008
+      Hyrule Castle_44: 2857155070933575324
+      Hyrule Castle_45: -5026878810671398515
+      Hyrule Castle_46: -396866488770152308
+      Hyrule Castle_47: -2318240625605834169
+      Hyrule Castle_48: -8673303744473231337
+      Hyrule Castle_49: 3987426694152801638
+      Hyrule Castle_5: 2219329564404883890
+      Hyrule Castle_50: 5204689726938906564
+      Hyrule Castle_51: -7541604789476885937
+      Hyrule Castle_52: -1453452060552765877
+      Hyrule Castle_53: 3761781043875081114
+      Hyrule Castle_54: -5504774706429000677
+      Hyrule Castle_55: -2882670266251413332
+      Hyrule Castle_56: 1372897903295051245
+      Hyrule Castle_57: -2400639486796077031
+      Hyrule Castle_58: 5456863373154685011
+      Hyrule Castle_59: -7016210849349455373
+      Hyrule Castle_6: 5758429758730555942
+      Hyrule Castle_60: -1587570837894421533
+      Hyrule Castle_61: 8560736310187508936
+      Hyrule Castle_62: -4724734076522155013
+      Hyrule Castle_63: 4297929492104454886
+      Hyrule Castle_64: 2560576553484084926
+      Hyrule Castle_65: 6791316193684146465
+      Hyrule Castle_66: -7837126953630230823
+      Hyrule Castle_67: -6593557218354070827
+      Hyrule Castle_7: 852755618377721103
+      Hyrule Castle_8: 4347311759044528796
+      Hyrule Castle_9: 164808121094486607
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
