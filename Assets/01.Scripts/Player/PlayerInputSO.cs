@@ -35,9 +35,5 @@ namespace _01.Scripts.Player
         {
             MovementKey = context.ReadValue<Vector2>();
         }
-
-        public void OnLook(InputAction.CallbackContext context)
-        {
-        }
     }
 }
