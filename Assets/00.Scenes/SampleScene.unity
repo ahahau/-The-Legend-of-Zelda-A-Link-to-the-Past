@@ -472,6 +472,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 568c9f7ec01882a48a662a2ca84dafd8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  OnHitEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  OnDeathEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  <PlayerInput>k__BackingField: {fileID: 11400000, guid: 1ce3990e442c1b049896ad6a8b2af534, type: 2}
+  stateDataList:
+  - {fileID: 11400000, guid: fb125690879ea2d4faa6360e2f434f58, type: 2}
+  - {fileID: 11400000, guid: 9226d15d2a33ebc46b8ced346e1b2fef, type: 2}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
